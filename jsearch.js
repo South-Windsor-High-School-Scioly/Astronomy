@@ -1,3 +1,10 @@
+/*
+Some quick tricks:
+# - clears the search box (the program automatically removes # from beginning of queries if present)
+@ - redirects you to the other page
+Enter - searches for the given query
+*/
+
 var query = "";
 
 function search(ele) {
@@ -20,3 +27,4 @@ function search(ele) {
       }
     }
 }
+
