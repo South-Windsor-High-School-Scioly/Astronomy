@@ -1,4 +1,3 @@
-// Search box on webpage
 var query = "";
 
 function search(ele) {
@@ -11,5 +10,13 @@ function search(ele) {
     }
     else if(event.key=='#'){
       document.getElementById("w").value="";
+    }
+    else if (event.key=='@'){
+      if(document.title=="Power Search"){
+        window.location.replace("pages.html");
+      }
+      else if (document.title=="Sources Drive"){
+        window.location.replace("index.html");
+      }
     }
 }
