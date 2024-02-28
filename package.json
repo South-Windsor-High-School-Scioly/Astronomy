@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "pdf.js": "^0.1.0"
+    "pdf.js": "^0.1.0",
+    "pdfreader": "^3.0.2"
   }
 }
