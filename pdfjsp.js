@@ -1,8 +1,8 @@
 // PDF.js code below
 // See https://www.npmjs.com/package/pdfjs-dist documentation.
+import pdfjsDist from '../Astronomy/Pdfjs/build/pdf.js';
 
-document.getElementsByClassName("canvas")[0].innerHTML = "<embed src='Sources/Astro Notes-Overview.pdf' width='80%' height='720px' style='margin-right: 10vw; margin-top:20px; float:right'/>";
+pdfjsDist.getDocument("https://icseindia.org/document/sample.pdf");
 
-const pdfList = []; // File directory of every PDF object we have. 
-
+console.log("luh");
 
