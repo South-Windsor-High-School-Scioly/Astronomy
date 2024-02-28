@@ -18,7 +18,58 @@
       <label for="w" style="color:black;font-weight: bolder; font-size: 60px;" >Search:</label>
       <input autofocus="autofocus" type="search" id="w" onkeydown="search(this)"  name="w" style="border-width: 6px; border-color: black; width:900px; height:60px; font-size: 60px; font-weight: bolder; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:blue; height:90px; border-radius:15px" >
      <!-- <embed src="Sources/Astro Notes-Overview.pdf" width="80%" height="720px" style="margin-right: 10vw; float:right"/> -->
-     <div class="canvas">
-      <script src="pdfjs-dist/build/pdf.js"></script>
-      <script src="pdfjsp.js"></script></div>
+     <div class="canvas"><script type="module">
+
+
+        //
+  // If absolute URL from the remote server is provided, configure the CORS
+  // header on that server.
+  //
+  const url = './helloworld.pdf';
+
+//
+// The workerSrc property shall be specified.
+//
+pdfjsLib.GlobalWorkerOptions.workerSrc =
+  '/pdfjs-dist/build/pdf.js';
+
+//
+// Asynchronous download PDF
+//
+const loadingTask = pdfjsLib.getDocument(url);
+const pdf = await loadingTask.promise;
+//
+// Fetch the first page
+//
+const page = await pdf.getPage(1);
+const scale = 1.5;
+const viewport = page.getViewport({ scale });
+// Support HiDPI-screens.
+const outputScale = window.devicePixelRatio || 1;
+
+//
+// Prepare canvas using PDF page dimensions
+//
+const canvas = document.getElementByClassName("canvas")[0];
+const context = canvas.getContext("2d");
+
+canvas.width = Math.floor(viewport.width * outputScale);
+canvas.height = Math.floor(viewport.height * outputScale);
+canvas.style.width = Math.floor(viewport.width) + "px";
+canvas.style.height = Math.floor(viewport.height) + "px";
+
+const transform = outputScale !== 1
+  ? [outputScale, 0, 0, outputScale, 0, 0]
+  : null;
+
+//
+// Render PDF page into canvas context
+//
+const renderContext = {
+  canvasContext: context,
+  transform,
+  viewport,
+};
+page.render(renderContext);
+     </script></div>
 </body>
