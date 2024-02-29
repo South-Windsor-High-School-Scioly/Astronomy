@@ -133,7 +133,7 @@ function dropbox(){
   for(let i=0;i<list.length;i++){
     const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
    // console.log(path);
-   document.getElementsByClassName("jawn")[0].innerHTML+="<embed style='padding-top:40px; width: 33%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div>";
+   document.getElementsByClassName("jawn")[0].innerHTML+="<embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div>";
   }
 }
 
