@@ -13,13 +13,20 @@ function draw(list){
     if(list.length==0){
         document.getElementsByClassName("jawn")[0].innerHTML="<img src='Images/flick.jpg'>"
     }
-    for(let i=0;i<list.length;i++){
-        const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
-       // console.log(path);
-        document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 33%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
 
-      // document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <div class='luh'>"+path+"</div> </a>";
-      }
+    for(let i=0;i<list.length;i++){
+      const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
+     // console.log(path);
+     //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
+     if(i%3==1)
+        document.getElementsByClassName("red")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 33%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
+     else if (i%3==2)
+        document.getElementsByClassName("blue")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 33%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
+     else
+        document.getElementsByClassName("green")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 33%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
+      
+    }
+  
 }
 
 var query = "";
@@ -142,7 +149,7 @@ function dropbox(){
       document.getElementsByClassName("blue")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
    else
       document.getElementsByClassName("green")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
-
+    
   }
 
 }
