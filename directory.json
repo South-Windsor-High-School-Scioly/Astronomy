@@ -1,3 +1,7 @@
 {
-    "Sources/Astro Notes-Overview.pdf":"Sources/Astro Notes-Overview.pdf"
+"Astro Notes-Overview":{
+    "PDFPath":"PDF Sources/Astro Notes-Overview.pdf",
+    "TextPath":"Text Sources/Astro Notes-Overview.pdf"
+    }
+
 }

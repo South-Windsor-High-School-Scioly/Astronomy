@@ -29,27 +29,14 @@ function search(ele) {
 }
 
 // We chose to use the FileReader API for this - file parsing algorithm below
-
-const fileArray = [[
-    [0, 1],
-    [4, 5],
-    [8, 9]
-    ]];
-
-
-function readFile(file){
-    const reader = new FileReader();
-    const data = reader.readAsText(file);
-    return data;
-}
-
 function strToArr(str){
     return str.trim().split(" ");
 }
 
+
 function findMatch(phrase,data){
     for(let i=0;i<strToArr(phrase).length;i++){
-        if(data.indexOf(strToArr(phrase)[i]));
+        if(data.indexOf(strToArr(phrase)[i])>=0)
         {
             return true;
             break;
@@ -57,4 +44,3 @@ function findMatch(phrase,data){
     }
     return false;
 }
-
