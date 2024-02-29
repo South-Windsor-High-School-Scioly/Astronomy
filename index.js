@@ -197,7 +197,7 @@ function dropbox(list){
 }
 
 
-function enlarge(cl){
+function enlarge(){
   console.log("element clicked");
   if(document.getElementsByClassName(cl)[0].style.width="33%"){
     document.getElementsByClassName(cl)[0].style.width="80%";
@@ -208,3 +208,4 @@ function enlarge(cl){
     document.getElementsByClassName(cl)[0].style.minHeight = "400px";
   }
 }
+
