@@ -48,5 +48,13 @@ function strToArr(str){
 }
 
 function findMatch(phrase,data){
-
+    for(let i=0;i<strToArr(phrase).length;i++){
+        if(data.indexOf(strToArr(phrase)[i]));
+        {
+            return true;
+            break;
+        }
+    }
+    return false;
 }
+
