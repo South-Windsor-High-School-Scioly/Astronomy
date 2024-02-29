@@ -150,14 +150,16 @@ function dropbox(){
     const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
    // console.log(path);
    //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
-   if(i%4==3)
+   if(i%5==4)
       document.getElementsByClassName("red")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 250px; height:220px' src=\'" + path+"\'>" + "" +"<div>"+path.substring(12,path.length-4)+"</div> </a>";
-   else if (i%4==2)
+   else if (i%5==3)
       document.getElementsByClassName("blue")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 250px; height:220px' src=\'" + path+"\'>" + "" +"<div>"+path.substring(12,path.length-4)+"</div> </a>";
-   else if (i%4==1)
+   else if (i%5==2)
       document.getElementsByClassName("green")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 250px; height:220px' src=\'" + path+"\'>" + "" +"<div>"+path.substring(12,path.length-4)+"</div> </a>";
-    else
+    else if (i%5==1)
       document.getElementsByClassName("yellow")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 250px; height:220px' src=\'" + path+"\'>" + "" +"<div>"+path.substring(12,path.length-4)+"</div> </a>";
+    else
+      document.getElementsByClassName("purple")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 250px; height:220px' src=\'" + path+"\'>" + "" +"<div>"+path.substring(12,path.length-4)+"</div> </a>";
 
   }
 
