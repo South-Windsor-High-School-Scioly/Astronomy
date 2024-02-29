@@ -11,7 +11,7 @@ function draw(list){
     document.getElementsByClassName("jawn")[0].innerHTML=""
 
     if(list.length==0){
-        document.getElementsByClassName("jawn")[0].innerHTML="<img src='Images/flick.jpg'>"
+        document.getElementsByClassName("jawn")[0].innerHTML="<img src='Images/flick.jpg' style='margin-right:auto; margin-left:auto'>"
     }
 
     for(let i=0;i<list.length;i++){
@@ -24,7 +24,6 @@ function draw(list){
         document.getElementsByClassName("blue")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 33%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
      else
         document.getElementsByClassName("green")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 33%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
-      
     }
   
 }
