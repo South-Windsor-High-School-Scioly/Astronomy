@@ -6,6 +6,11 @@ Some quick tricks:
 Enter - searches for the given query
 */
 
+function onSubmit(){
+    alert("Success");
+    window.location.replace(index.html);
+}
+
 var query = "";
 
 function search(ele) {
