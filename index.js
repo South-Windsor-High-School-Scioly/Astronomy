@@ -7,12 +7,17 @@ Enter - searches for the given query
 */
 
 var query = "";
+var acceptedList=[];
 
 function search(ele) {
     if(event.key === 'Enter') {
         query = ele.value;
         if(query.substr(0,1)=="3"){
           query = query.substr(1);
+
+
+
+
         }
         //alert(query);
     }
@@ -59,24 +64,34 @@ Challenges: Get it to parse Json
 Get it to make File objects from given paths. 
 */
 
+var fileTexts = [];
 var fileNames=[];
 
 function readFile(file){
-    const [file] = document.querySelector("input[type=file]").files;
-    const reader = new FileReader();
-    const data = reader.readAsText(file);
-    console.log(reader.result);
-    return data;
-}
+    var reader = new FileReader();
+    reader.addEventListener(
+        "load",
+        () => {
+          // this will then display a text file
+          return reader.result;
+        },
+        false,
+      );
+        
+    if(file){
+    reader.readAsText(file);
+    }
+    }
+
 
 function inputsToFileArr(){
-    FilesObjectArray=[];
+    fileTexts=[];
     fileNames=[];
     for(let i=0;i<document.getElementById("x").files.length;i++){
     fileNames[i] = document.getElementById("x").files[i].name;
+    fileTexts[i]=readFile(document.getElementById("x").files[i]);
     //console.log(fileNames[i]);
 }
-readFile(FilesObjectArray[0]);
 }
 
 
