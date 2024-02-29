@@ -11,9 +11,11 @@ function draw(list){
     document.getElementsByClassName("jha")[0].innerHTML="";
     document.getElementsByClassName("bala")[0].innerHTML="";
     document.getElementsByClassName("uppara")[0].innerHTML="";
+    document.getElementsByClassName("sujan")[0].innerHTML="";
+
 
     if(list.length==0){
-        document.getElementsByClassName("jawn")[0].innerHTML="<img src='Images/flick.jpg' style='margin-right:auto; margin-left:auto'>"
+      document.getElementsByClassName("uppara")[0].innerHTML="<img src='Images/flick.jpg' style='margin-right:auto; margin-left:auto'>"
     }
 
     else {
@@ -21,13 +23,16 @@ function draw(list){
       const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
      // console.log(path);
      //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
-     if(i%3==1)
-        document.getElementsByClassName("jha")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
-     else if (i%3==2)
-        document.getElementsByClassName("bala")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
+     if(i%4==3)
+        document.getElementsByClassName("jha")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 250px; min-height:220px' src=\'" + path+"\'>" + "" +"<div>"+path.substring(12,path.length-4)+"</div> </a>";
+     else if (i%4==2)
+        document.getElementsByClassName("bala")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 250px; min-height:220px' src=\'" + path+"\'>" + "" +"<div>"+path.substring(12,path.length-4)+"</div> </a>";
+     else if (i%4==1)
+        document.getElementsByClassName("uppara")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 250px; min-height:220px' src=\'" + path+"\'>" + "" +"<div>"+path.substring(12,path.length-4)+"</div> </a>";
      else
-        document.getElementsByClassName("uppara")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
-    }
+        document.getElementsByClassName("sujan")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 250px; min-height:220px' src=\'" + path+"\'>" + "" +"<div>"+path.substring(12,path.length-4)+"</div> </a>";
+
+      }
     }
 }
 
