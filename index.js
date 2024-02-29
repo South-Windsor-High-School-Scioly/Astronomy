@@ -8,9 +8,13 @@ Enter - searches for the given query
 
 
 function draw(list){
+    if(list.length==0){
+        alert("Not found");
+    }
     for(let i=0;i<list.length;i++){
-        const path = "/PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
-        console.log(path);
+        const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
+       // console.log(path);
+       document.getElementsByClassName("jawn")[0].innerHTML="<embed src=\'" + path+"\'>"
     }
 }
 
