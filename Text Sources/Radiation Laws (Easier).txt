@@ -1,0 +1,1045 @@
+TOPIC # 7
+The RADIATION LAWS
+More KEYS
+
+to unlocking the topics of:
+The GREENHOUSE EFFECT,
+GLOBAL WARMING &
+OZONE DEPLETION!
+
+Topic #7
+pp 35-38
+
+OBJECTIVES:
+To understand more essentials
+about the key differences
+between
+Solar radiation
+&
+Terrestrial radiation
+based on the principles of
+the “Radiation Laws.”
+
+
+One “cartoon” view
+of Solar vs Terrestrial radiation:
+
+Both Sun & Earth
+are radiating
+energy . . . .
+
+NOT TO
+SCALE!!!
+Fire up your clickers . . . . Channel 40
+
+
+Q1- Which one is the most accurate
+depiction of the Greenhouse Effect??
+SUN
+
+SUN
+
+EARTH
+
+A
+
+SUN
+
+EARTH
+
+B
+
+EARTH
+
+C
+
+In these & upcoming figures, for convenience:
+= solar (shortwave) radiation (High Energy)
+= terrestrial (longwave) radiation (Lower Energy)
+
+
+
+SUN
+
+SUN
+
+EARTH
+
+SUN
+
+EARTH
+
+A
+
+B
+
+EARTH
+
+C
+
+IMPORTANT: None of these is exactly correct,
+and we will learn why soon. . . .
+but
+
+B is preferred for now.
+
+
+
+Longwaves
+(LW)
+
+The
+Electromagnetic
+Spectrum
+Shortwaves
+(SW)
+p 33
+
+KEY BANDS IN THE SPECTRUM
+FOR GLOBAL CHANGE:
+
+UV, Visible, IR, NIR,
+
+Solar
+SW
+Terrestrial
+LW
+
+Review p 34
+
+“The equations we seek
+are the poetry of nature . . . .
+Why is nature that way?
+Why is it possible for these powerful
+manifestations of forces to be trapped
+in a very simple, beautiful formula?”
+“This has been a question
+which many people
+have discussed,
+but there is no answer.”
+
+~ Chen Ning Yang (b. 1922) US physicist
+
+p 35
+
+Presenting . . . .
+
+THE
+RADIATION
+LAWS !!!
+Keys to Understanding
+the Greenhouse Effect
+
+
+TYING IT ALL TOGETHER:
+THE RADIATION “LAWS”
+The Sun’s
+energy is
+emitted in the
+form of
+electromagnetic
+radiation.
+
+mostly SW (but
+also some LW)
+
+
+
+The Earth’s
+energy
+(terrestrial) is
+also emitted in
+the form of
+electromagnetic
+wavelengths.
+mostly LW
+
+
+LAW #1
+Emission of radiation
+All substances emit radiation as
+long as their temperature is
+above absolute zero
+
+(-273.15oC or 0 Kelvin).
+
+p 35
+
+LAW #2 BLACKBODY &
+PLANCK FUNCTION CONCEPT
+The Sun is very similar to an
+“ideal emitter” (or “Black body”)
+(NOTE: the Earth isn’t as ideal as a “black body”
+
+Black body (def): a hypothetical object
+that absorbs all of the radiation that
+strikes it. It also emits radiation
+(“Energy flux”) at a maximum rate for its
+given temperature.
+
+p 35
+
+Blackbodies (“ideal emitters”) exhibit a
+defined relationship between:
+the intensity of radiation energy (E)
+(i.e. amount of radiation flux) they give off
+&
+the wavelength of that radiation.
+This relationship is called the Planck function:
+
+E = h * speed of light / wavelength
+
+or
+E=hc/λ
+(where h is Planck’s constant.)
+
+p 35
+
+Planck Function:
+
+The Sun emits
+energy at ALL
+wavelengths . . .
+
+but the amount of
+Energy emitted
+is
+inversely related
+to the wavelength of
+emission
+
+“I radiate at the
+speed of light like
+a blackbody; but
+my energy flux is
+GREATEST at
+SHORTER
+wavelengths”
+
+
+
+This can be depicted in a graph:
+
+intensity (radiation flux)
+“peaks” here
+ shorter
+
+longer 
+
+An emitting blackbody’s SHORTER wavelengths
+have HIGHER intensity radiation (and greater
+energy flux) than the LONGER wavelengths
+p 35
+
+Easy way to remember the
+PLANCK FUNCTION /
+BLACKBODY concept:
+“The shorter the wavelength,
+the GREATER the intensity
+of the energy flux”
+
+
+
+Q1 - Gamma radiation involves a
+greater energy flux than microwave
+radiation.
+1. True
+
+2. False
+3. Both wavelength bands
+have the same energy
+flux
+
+4. We haven’t learned
+enough yet to answer
+this!
+
+
+
+Record your Q1
+answer now
+
+Q1 - Gamma radiation involves a
+greater energy flux than microwave
+radiation.
+1. True
+
+2. False
+3. Both wavelength bands
+have the same energy
+flux
+
+4. We haven’t learned
+enough yet to answer
+this!
+
+LAW #3: THE STEFAN-BOLTZMANN
+LAW:
+If the substance is an ideal
+emitter (black body),
+The total AMOUNT of radiation
+given off
+is proportional
+to the fourth power of
+its absolute TEMPERATURE.
+p 35
+
+E=
+where
+
+T4
+is a constant
+
+(the Stefan-Boltzmann constant) which
+
+has a value of
+5.67 x 10 -8 W/m-2
+(or 5.67 x 10 – 8 J / m2 )
+
+and T is the absolute temperature
+(in Kelvin)
+
+Energy =
+
+T4
+p 35
+
+Stefan-Boltzmann Law (easy way)
+This law links:
+the total amount of energy flux
+that is emitted by a blackbody
+TO: the body’s temperature
+(actually, the 4th power of the body’s
+absolute temperature)
+
+“the hotter the body, the
+(much) greater the amount of
+energy flux or radiation”
+
+p 35
+
+The total amount of energy flux described by
+the Stefan-Boltzmann Law
+is proportional to the area under the
+Planck function curve
+
+See p 40
+in SGC-I
+
+Stefan-Boltzmann Law:
+“I’m HOT, so I emit
+LARGE amounts
+of high intensity
+energy”
+
+“I’m COOL, so I
+emit LESSER
+amounts of energy.
+plus my ENERGY is
+at a lower intensity
+than Mr. Hotshot
+over there!”
+
+
+
+Why is this concept important?
+Because it means that:
+the amount of radiation
+given off by a body
+is a very sensitive function
+of its temperature
+Therefore . . . small changes in temperature can lead
+to BIG changes in the amount of radiation given off.
+
+E=
+
+T4
+p 35
+
+Q2 – Which would you use:
+the Planck Function or the Stefan-Boltzmann Law
+to accurately compute
+the total amount of ENERGY
+emitted to space by planet Earth?
+
+1. The Planck Function
+2. The Stefan Boltzmann
+Law
+3. Both of them together
+
+4. Neither one is appropriate
+because the Earth is NOT
+a blackbody
+
+
+
+Record your Q2
+answer now
+
+Q2 – Which would you use:
+the Planck Function or the Stefan-Boltzmann Law
+to accurately compute
+the total amount of ENERGY
+emitted to space by planet Earth?
+
+1. The Planck Function
+2. The Stefan Boltzmann
+Law
+3. Both of them together
+
+4. Neither one is appropriate
+because the Earth is NOT
+a blackbody
+
+Q3 – Which would you use:
+the Planck Function or the Stefan-Boltzmann Law
+to compute the total amount of energy
+emitted to space by planet Earth,
+IF you assume the Earth emits like a blackbody
+& you know the Earth’s temperature?
+
+1. The Planck Function
+2. The Stefan Boltzmann Law
+
+3. Neither one is appropriate
+because you would need to
+know the wavelengths of
+radiation the Earth emits
+4. Don’t know
+
+
+
+Record your Q3
+answer now
+
+Q3 – Which would you use:
+the Planck Function or the Stefan-Boltzmann Law
+to compute the total amount of energy
+emitted to space by planet Earth,
+IF you assume the Earth emits like a blackbody
+& you know the Earth’s temperature?
+
+1. The Planck Function
+2. The Stefan Boltzmann Law
+
+3. Neither one is appropriate
+because you would need to
+know the wavelengths of
+radiation the Earth emits
+4. Don’t know
+
+How to do it:
+
+E=
+
+T4
+
+E = Energy per unit area, so
+all we need to know is the
+AREA of the emitting
+Earth’s surface + what T is.
+From geometry: Do
+you remember the
+formula for
+computing the area
+of a sphere?
+The area of a sphere
+of radius R is
+
+E = 4  R2
+
+x
+
+T4
+
+See box on p 42 in SGC
+for more details
+
+LAW # 4: Temperature and
+wavelength
+As substances get HOTTER, the
+wavelength at which radiation is
+emitted will become SHORTER.
+
+This is called Wien's law.
+
+p 36
+
+Wien’s Law can be represented as:
+m
+
+= a/T
+
+where λ m is the WAVELENGTH in the
+spectrum at which the energy peak occurs,
+(m indicates “max”)
+
+T is the absolute TEMPERATURE
+of the body, and
+
+a is a constant (with a value of 2898)
+(if λ m is expressed in micrometers.)
+p 36
+
+Note the
+INVERSE
+relationship
+between
+wavelength
+and
+temperature
+
+See p 40 in SGC-I
+
+Wien’s Law (easy way)
+
+max = constant / T
+(Inverse relationship between
+wavelength and temperature)
+
+“The hotter the body, the
+shorter the wavelength”
+“The cooler the body, the
+longer the wavelength”
+p 36
+
+Wien’s Law -- Why is this concept
+important?
+Because it means that very HOT
+objects (like the sun) that radiate like
+blackbodies will radiate the maximum
+amount of energy at SHORT
+wavelengths,
+
+while COOLER bodies will radiate most
+of their energy at LONGER
+wavelengths.
+p 36
+
+Wein’s Law:
+“I’m HOT, so I emit
+my maximum
+amount of
+radiation at
+SHORTER
+wavelengths”
+
+SW = visible & ultraviolet (UV)
+
+“I’m COOL, so I
+emit my
+maximum amount
+of radiation at
+LONGER
+wavelengths”
+
+LW = infrared (IR)
+
+
+
+Sun’s peak at 0.5 m
+
+Wein’s is
+the law
+behind this
+cartoon
+(on p 33)
+
+Earth’s peak at 10 m
+
+NOTE: this is a logarithmic scale -- values
+increase exponentially to the right
+p 36
+
+p 36
+
+THE RADIATION LAWS
+
+Re-cap of Laws # 2 - 4
+
+
+
+Planck Function:
+E=hc/λ
+
+The Sun can emit
+energy at ALL
+wavelengths, but the
+amount of energy
+emitted is inversely
+related to its
+wavelength.
+
+“I radiate at the
+speed of light like
+a blackbody; most
+of my energy is
+emitted at shorter
+wavelengths “
+
+
+
+Stefan-Boltzmann Law:
+“I’m HOT, so I emit
+LARGE amounts
+of high intensity
+energy”
+
+E=
+
+T4
+
+“I’m COOL, so I emit
+LESSER amounts of
+energy;
+plus my ENERGY is
+at a lower intensity
+than Mr. Hotshot
+over there!”
+
+
+
+Wein’s Law:
+
+m
+
+=a/T
+
+“I’m HOT, so I emit
+my maximum
+amount of
+radiation at
+SHORTER
+wavelengths”
+
+SW = visible & ultraviolet (UV)
+
+“I’m COOL, so I
+emit my
+maximum amount
+of radiation at
+LONGER
+wavelengths”
+
+LW = infrared (IR)
+
+
+
+Q4 – Which choice correctly
+matches the Stefan-Boltzmann
+LAW with its “mantra” (A, B, C):
+
+
+
+Record your Q4
+answer now
+
+(A ) Wein’s Law:
+
+m
+
+=a/T
+
+“The hotter the body, the shorter the wavelength”
+The cooler the body, the longer the wavelength”
+
+(B ) Planck Function:
+
+E=hc/λ
+
+“SHORTER wavelengths have HIGHER intensity
+radiation than LONGER wavelengths”
+
+(C ) Stefan-Boltzmann Law:
+
+E=
+
+T4
+
+“The hotter the body, the (much) greater the
+amount of energy flux or radiation”
+
+
+
+ZOMBIE
+BREAK !
+
+SUSTAINABILITY
+SEGMENT
+more of:
+
+http://www.pbs.org/wgbh/nova/solar/
+
+LAW #5: Radiation & distance
+-- the inverse-square law
+The inverse square law
+describes:
+how solar FLUX of ENERGY
+decreases
+with increasing DISTANCE
+from the source of
+the flux (i.e., the radiation),
+the Sun.
+
+p 36
+
+INVERSE SQUARE LAW =
+The amount of radiation passing
+through a particular unit area is:
+
+INVERSELY PROPORTIONAL
+to the
+SQUARE of the distance
+of that unit area from the source
+
+(1/d2)
+p 36
+
+The area intercepting the flux from the
+source at DISTANCE d is just one-fourth . . .
+. . . of the area
+intercepting the same
+flux at DISTANCE 2d
+
+The ENERGY FLUX passing
+through AREA B
+is spread over an area four
+times (22) as large as AREA A
+
+p 36
+
+Inverse-Square Law (easy way):
+If we double the distance from the source
+to the interception point, the intensity of
+the radiation decreases by a factor of
+(1/2)2 = 1/4
+If we triple the distance from the source
+to the interception point, the intensity
+decreases by a factor of
+(1/3) 2 = 1/9
+
+
+OR if we reduce the distance
+from the source to the
+interception point by a factor
+of 2 or 3, the intensity of the
+radiation increases by a
+factor of
+22 = 4
+or
+32 = 9
+
+
+
+Why is this concept important?
+Because it means that relatively
+SMALL changes in distance from
+the source of energy
+(e.g., the Sun)
+can result in LARGE changes in the
+amount of energy received
+by a planet’s surface.
+p 36
+
+GOLDILOCKS & THE 3 PLANETS
+
+ to
+Sun
+
+VENUS
+
+EARTH
+
+MARS
+
+
+GOLDILOCKS & THE 3 PLANETS
+
+Yikes! Venus is too HOT!
+
+
+GOLDILOCKS & THE 3 PLANETS
+
+Brrrrrrrrr, Mars is too COLD!!
+
+
+GOLDILOCKS & THE 3 PLANETS
+
+Ahhhh! Earth is JUST RIGHT!
+
+
+
+Q5 The inverse-square law applied to the distance
+between a planet and the Sun is what determines
+that planet’s temperature.
+YES or NO?
+
+1. Yes, this is what the
+Goldilock’s Effect is
+illustrating.
+2. No, how much solar
+energy the planet reflects
+back must also be taken
+into account
+3. No, whether or not the
+planet has a greenhouse
+effect must also be taken
+into account.
+
+
+
+Record your Q5
+answer now
+
+Q5 The inverse-square law applied to the distance
+between a planet and the Sun is what determines
+that planet’s temperature.
+YES or NO?
+
+1. Yes, this is what the
+Goldilock’s Effect is
+illustrating.
+2. No, how much solar
+energy the planet reflects
+back must also be taken
+into account
+3. No, whether or not the
+planet has a greenhouse
+effect must also be taken
+into account.
+
+Both 2 & 3
+are correct!
+TRICK
+QUESTION!
+
+LAW #6: Selective emission
+and absorption
+Some substances emit and
+absorb radiation at certain
+wavelengths only.
+This is mainly true of gases.
+
+Why?
+
+p 37
+
+Recall concept of electron energy
+states (shells) allowing absorption
+of photons/wavelengths of only a
+specified frequency,
+. . . and concept of certain gas molecules
+allowing absorption of photons/wavelengths
+of only specified frequencies because of
+how the gas molecules vibrate, bend, and
+rotate
+
+review
+
+NOT a
+GREENHOUSE
+GAS
+N2
+
+GREENHOUSE
+GASES
+H20 & CO2
+
+When the H2O molecule emits a
+photon, its rotation rate decreases;
+When it absorbs a photon, the
+rotation rate increases.
+
+Molecules can also absorb and
+emit IR radiation by changing the
+
+
+amplitude with which they
+vibrate.
+
+If the frequency at which a molecule
+vibrates matches the frequency of
+electromagnetic wave, the molecule
+can absorb a photon and begin to
+vibrate more vigorously.
+
+As a triatomic
+molecule, one way
+that CO2 vibrates is in
+a “bending mode”
+that has a frequency
+that allows CO2 to
+absorb IR radiation at
+a wavelength of
+about 15 micrometers
+What about another triatomic
+molecule: N2O (Nitrous oxide)?
+
+MiniZOMBIE
+BREAK !
+
+DANCE YOUR PhD !!
+
+N
+
+O
+
+N
+
+N2O acts as a greenhouse
+gas through the absorption
+of radiation in 3 vibrational
+modes.
+
+With one hand as a nitrogen
+atom, torso as central
+nitrogen, and the other hand
+as an oxygen atom, the
+dancers exhibit the three
+specific movements of
+N2O's vibrational modes.
+
+http://www.youtube.com/watch?v=L5j6BS3XoLc
+
+
+
+The N2O starts in the soil where it is
+produced by microbial activity and
+“moves on up” into the atmosphere.
+
+
+
+Stepping onto the chairs represents the
+progression of N2O to higher levels in
+the atmosphere (the stratosphere)
+where it is subject to intense Ultraviolet
+(UV) radiation from the sun.
+This high energy from the bombarding
+UV radiation is shown in the dancers'
+high energy, more spastic dancing.
+The high intensity UV radiation leads
+to the destruction of N2O -- seen as
+jumping from the chair at the end 
+
+We will learn later that interaction of N2O in the
+stratosphere with UV wavelengths is related to
+OZONE DEPLETION
+. . . but N2O also vibrates & bends when
+absorbing Infrared (IR) wavelengths
+
+. . . It is the ability to absorb
+and emit IR radiation that
+makes N2O a GREENHOUSE
+GAS!
+
+Recap: LAW # 6 states that
+Substances absorb only
+radiation of wavelengths they
+can emit.
+The frequency & wavelength of
+a photon absorbed by a given
+electron, atom, molecule will be
+the same as the frequency /
+wavelength with which it is
+emitted.
+
+p 37
+
+DEFINITION OF GREENHOUSE GASES
+
+(def): Greenhouse gases are gases
+which both absorb and emit
+electromagnetic radiation in the
+infrared (IR) part of the spectrum.
+Once IR is absorbed by the greenhouse
+gases in the atmosphere, it can be emitted
+back to the Earth’s surface to heat it all
+over again!
+Or it can be emitted upward to outer space
+and be lost from the system altogether.
+p 37
+
+Modified cartoon
+representation, showing
+possible IR pathways:
+IR radiation
+is absorbed
+by GH gases
+in the
+atmosphere
+and emitted
+out to space
+
+Earth absorbs SW
+
+IR radiation is
+emitted from
+the Earth’s
+surface right
+out to space
+through
+“IR window”
+
+IR radiation
+is absorbed
+by GH gases
+in the
+atmosphere
+and emitted
+back to Earth
+
+The absorbtion of LW (IR) radiation
+and the re-radiation of LW (IR)
+energy to the Earth’s surface by GH
+gases is what keeps the Earth in the
+"just right" temperature range for
+water to be present in all 3 phases
+and just right for US too!
+Without the "Greenhouse Effect,"
+the Earth would be too COLD for life
+as we know it!
+
+
+Thanks,
+Greenhouse
+Effect!
+
+
+
+Law # 6 to be wrapped up
+next time . . . . .
+Come with questions about
+Assignment I-2 after you
+read through it!
+DON’T FORGET SELF TEST
+3 3 & RQ-3 !!
+
+Tuesday Sep 21st
+TODAY: SIT ANYWHERE YOU WANT TODAY !
+ANNOUNCEMENTS:
+•
+
+REMINDER: SELF TEST & RQ-3 are DUE THIS WEEK!
+RQ-3 will be cut off Thursday (Sep 23rd) 30 minutes before class!
+
+•
+
+ASSIGNMENT I-2 is now posted. It is due one week from today:
+Sep 28th before 11:59 pm in the D2L Dropbox
+Key details in class today – your questions answered on Thursday
+
+•
+
+Various grades are being entered in your D2L GRADEBOOK as
+the grading gets completed, so please check your gradebooks.
+(Assignments I-1 and G-2 are still being graded so do not appear;
+Test # 1 grades will appear soon.)
+
+•
+
+Need specific help? Want to discuss Global Change issues?
+Come to our OFFICE HOURS – we are LONELY! They are held
+every day of the week (except Friday for this class – see the
+TEACHING TEAM section of the webpage for when and where.
+
+

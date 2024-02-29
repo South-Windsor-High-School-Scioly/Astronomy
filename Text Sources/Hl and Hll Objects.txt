@@ -1,0 +1,180 @@
+Herbig-Haro objects and low-mass star formation
+Spring 2021
+Hergib-Haro (HH) objects are compact emission-line nebulae associated with associations of young
+stars but are not (usually) coincident with individual stars. Examples were first seen in a low
+spectral resolution, objective-prism survey for emission-line stars, by Guillermo Haro (Haro 1950).
+Haro noticed emission-line objects in his plates that, because they have only faint continuum emission
+and include bright forbidden lines, are clearly not stars. He passed his observations onto George
+Herbig for higher-resolution spectroscopic follow-up. Herbig, in turn, found (Herbig 1951) that the
+emission lines represent a large range of ion excitation: neutral O up to O++ , for example. Also,
+emission by low ionization-potential species — like N+ , O, O+ , and S+ — is quite a bit brighter
+than that by higher ionization species such as O++ , Ne++ , and S++ . This is radically different from
+spatially-resolved photoionized nebulae such as Hii regions, and from the young supernova remnants
+for which spectra were known at the time. Initially, Herbig favored an explanation for the emission
+based on the interaction of a wind from a K or M dwarf star with its interstellar surroundings,
+an explanation that Don Osterbrock pursued in more detail several years later (Osterbrock 1958).
+Several of the first HH objects have bow-wake structures that would favor the suspicion of outflows.
+But no HH object was seen close enough to a star that would plausibly serve as the source of the
+wind. Thus, more attention, including Herbig’s and Haro’s, was paid to the possibility that these
+objects represent a pre-stellar stage of evolution: star formation caught in the act. This suggestion
+was consistent with the apparent rarity of the objects — only 42 known by 1978 — and the short
+time scale for gravitational collapse.
+All this changed in a span of just a few years. Inspired by the similarity of recent spectra of HH 1
+in Orion, and nebulosity1 closely adjacent to the young emission-line star T Tauri, to the spectrum
+of a “mature” supernova remnant2 , Dick Schwartz demonstrated (Schwartz 1975) that the former
+two are well explained by radiation from stellar-wind-driven shocks with speed V ≈ 100 km/s
+and preshock, hydrogen-atom number density nH ≈ 102 cm−3 . Soon thereafter, Herbig and his
+students (Cudworth & Herbig 1979, Herbig & Jones 1981) followed up an earlier observation by
+Luytens to show, with high astrometric precision and accuracy, that several HH objects have large
+proper motions, corresponding to velocities of hundreds of km/s in the plane of the sky; and that,
+furthermore, the proper motions trace back to individual, heavily extinguished stars revealed in
+infrared surveys (e.g., Strom et al. 1974). At much the same time, bipolar molecular outflows, also
+apparently driven by winds from these stars, were discovered to envelope distributions of HH objects
+(e.g. Snell et al. 1980).
+Today, there are thousands of HH objects known. Each is clearly associated with a young star deeply
+embedded within its parent molecular cloud and with a bipolar molecular outflow. Their study is
+a key part of the physics of star formation: bearing on the development of young stars with their
+birth environment. In this project, you will observe spectral line emission from HH objects and
+investigate the excitation of the emission, mostly following reasoning similar to Schwartz’s.
+1 Called
+
+Burnham’s Nebula, and not to be confused with Hind’s Variable Nebula (NGC 1555) nearby.
+in the Large Magellanic Cloud. By 1975, supernova remnants of this stage of development were well explained
+as emission from shocks driven in the interstellar medium by the supernova’s blast wave.
+2 N49,
+
+c 2021 University of Rochester
+
+1
+
+In this project, you will:
+• Observe a selection of bright, nearby HH objects. These should be selected from the wintertime3 low-serial-number HH objects listed, for example, in this catalog. HH 1 and 2 in Orion
+near NGC 1999, HH 5 through 12 in Perseus near NGC 1333, and HH 28 and 29 in Taurus
+within L1551, are highly recommended but must be observed early in the semester. If you
+must wait until late in the semester, consider the HH objects in Monoceros: HH 39 north of
+R Mon and NGC 2261, and HH 125, 125, 126, and 226 between the center of NGC 2264 and
+the Cone Nebula. Be warned that they are fainter than the others, though. Observe at your
+first opportunity.
+• Take high signal-to-noise images in the spectral lines Hβ, [Oiii], Hα, and [Sii]; and in L, for
+help in assembling a nice composite false-color image.
+• Average the data in each filter, omitting frames with tracking errors or unusually bad seeing.
+• Measure and account for the line-intensity limit in each filter.
+• Carefully edit the data for bad stellar images; prepare flux-calibrated images in the four
+spectral-line filters. Recall that the [Sii] filter includes two similarly-bright [Sii] lines, at
+wavelengths 6717Åand 6731Å. By [Sii], we mean the total flux in the filter, which is the sum
+of these two line fluxes.
+• Make an image of foreground extinction, AV , from the Hα/Hβ image ratio. Assume Case B
+recombination, for which the Balmer decrement is (Hα/Hβ)AV =0 = 2.86.4
+• Use this image, suitably masked, to correct your images for extinction. As you do, arrange
+to not display pixels for which the S/N of either line in the pair is less than about 5. Use
+the interstellar extinction curve by Weingartner & Draine (2001), with the ratio of total to
+selective extinction RV = AV /E(B − V ) = 5.
+• Identify the HH objects in your images, and, in SAOImage DS9, define apertures encompassing
+each distinct part, also measuring fluxes of the four spectral lines in each aperture, both
+extinction corrected and not.
+• Deconvolve the L images and prepare composite L-[Oiii]-Hα-[Sii] images, both extinction corrected and not, in your favorite tricolor scheme.
+• Prepare line flux ratio images, [Oiii]/Hβ and [Sii]/Hα, both extinction corrected and not. As
+you do, arrange to not display pixels for which the S/N of either line in the pair is less than
+about 5.
+Be sure to answer the following questions in your analysis:
+• Do your images reach the line-flux sensitivity limit that you expect? If not, why not? What
+are the random and systematic uncertainties of the fluxes and flux ratios that you derive?
+• What systematic trends do you see in the extinction toward the HH objects? In particular, is
+there a correlation between extinction and projected distance from a nearby star that could
+plausibly be an outflow source?
+• Raga, Böhm, & Cantó (1996) introduced an excitation scale for HH objects, which corresponds
+to these flux ratio ranges:
+3 Star formation regions, being close to the Milky Way, spend the night close to the horizon around the equinoctes
+and are, by the same token, highest in the sky around the solstices.
+4 See the long-form Hii region lesson for equations involving intensities of recombination and forbidden lines, and
+for the relevant atomic-physical parameters of Hi, [Oiii], and [Sii].
+
+c 2021 University of Rochester
+
+2
+
+Excitation level
+High
+Intermediate
+Low
+
+[Oiii]/Hβ
+≥ 0.1
+< 0.1
+< 0.1
+
+[Sii]/Hα
+< 1.5
+< 1.5
+≥ 1.5
+
+What is the excitation classification for each of your HH object components?
+• How much difference does it make to the excitation classifications to have made the extinction
+correction? Compare the extinction classification with, and without, correction for extinction.
+Use the extinction-corrected images in the following:
+• Is it possible for the HH objects to be photoionized? Make this assumption, and answer each
+of these questions to see:4
+– From your Hα fluxes, what is the Zanstra effective temperature of the radiation field that
+ionizes each nebula?
+– The ionization potentials of S and O+ are 10.4 eV and 35.1 eV, respectively. If the nebulae
+absorb all the light at these energies and higher, and if we may approximate the stellar
+spectrum with a blackbody, what is the effective temperature of the star that ionizes
+each nebula? Take the element abundance ratios to have standard interstellar values,
+O/H = 3.3 × 10−4 and S/H = 1.0 × 10−5 .
+– What would be the luminosity and magnitude of such a star, were it within the HH
+object?
+– Is it possible that such a star is there?
+– So, is it possible that the HH objects can be photoionized?
+• Is it possible for the HH objects to be stellar-outflow-driven shocks? Make this assumption,
+and answer these questions to see:4
+– Suppose that the temperature of the emission region is T = 104 K, which would make
+the H recombination lines maximally bright (recall A stars). Suppose further that cold
+outflowing hydrogen, with density nH and speed V , is brought to rest supersonically —
+i.e. in a shock — ionizing the flow and turning its kinetic energy to heat. What is the
+value of V ?
+– Ejection speeds in celestial mechanics tend to be similar to escape speeds. Is your value
+of V reasonable as an ejection speed from the vicinity of a low-mass (K or M) star, and
+reasonable for an outflow the star drives in some way? Would larger proper motion of
+your HH objects change this judgment?
+– In Case B recombination, Hβ and Hα comprise about 60% of the total flux of all of the
+hydrogen recombination lines. Take the sum of the Hβ and Hα fluxes, divided by 0.6, to
+provide a lower limit to the total rate at which the emitting gas cools itself. Suppose that
+this gas is heated at the same rate, and that this is determined by the rate that atoms,
+moving past the shock front, deposit their kinetic energy. Make reasonable assumptions
+about the 3D shapes of the HH objects. What is the mass flow rate, in M /yr, that
+would keep the HH objects at steady temperatures?
+– Suppose that this is mass lost by a nearby young stellar system. Is this a plausible
+mass-loss rate?
+– Is there a star nearby which could plausibly be the source of such an outflow?
+– So, is it possible that HH objects are outflow-driven shocks?
+Presuming that your answers to the last two questions about photoionization and shock excitation are No and Yes. . .
+
+c 2021 University of Rochester
+
+3
+
+• Consider the shapes and distributions of the HH objects in your images. Does it seem likely
+that the outflow is mostly heating small dense clumps of interstellar gas, or that it is interacting
+with a more uniform medium? Does it seem likely that each HH object might be an “interstellar
+bullet” ejected from the young stellar system: that is, that the outflow is quite unsteady?
+• How would an HH object move around in the Raga et al. excitation scale, if the shock speed
+V and the (preshock) outflow density nH varies?
+• What is the cooling timescale, in years, for your HH objects? Would you expect their emission
+to be significantly variable over the span of years?
+• Extra credit. If you know how to use a shock code, such as MAPPINGS V: what does this
+code give for the preshock density and shock speed that best fits the line fluxes for your HH
+objects? What caveats are there for this, regarding unknowns like element abundance, or the
+detailed geometry of the shock front?
+Include with your report your best images and plots. Archive these images, and all of your raw and
+reduced data, on the Mees analysis workstation.
+Additional reading
+Astronomy 142: lectures 12–14
+Astronomy 244/444: lecture 5 and the Hii region long form
+Osterbrock, D.E. & Ferland, G.J. 2006, Astrophysics of gaseous nebulae and active galactic nuclei,
+second edition (Sausalito: University Science Books), chapters 3–5.
+
+c 2021 University of Rochester
+
+4
+
+

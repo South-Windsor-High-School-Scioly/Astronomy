@@ -1,0 +1,225 @@
+National Science Olympiad
+Astronomy C Event 2022
+Variability in Low to Mid-Mass Stars
+
+DRAFT
+Supported by NASA’s Universe of Learning STEM Program
+
+NASA Astrophysics
+Division/CXC/NSO
+https://www.universe-of-learning.org/
+
+ASTRONOMY 2022
+1. DESCRIPTION: Teams will demonstrate an understanding of the Variability of Low &
+Mid-Mass Stars.
+2. EVENT PARAMETERS:
+a. Each team may bring one of the following options containing information in any form and
+from any source:
+i. a computer/tablet and a three-ring binder; or,
+ii. two computers/tablets, of any kind; or,
+iii. two three-ring binders.
+b. If three ring binders are used they may be of any size and the information contained should be
+attached using the available rings. The information or pages may be removed during the event.
+Sheet protectors and laminated sheets are allowed.
+c. Each team may bring two calculators of any type (stand alone or computer app). If the
+participants are using a computer/tablet they may use the calculator app or other program on
+their device in place of a stand-alone calculator.
+d. Participants using computers/tablets as a resource should have all information stored so that it
+is available to them offline. However, teams may be asked to access a dedicated NASA image
+analysis website to answer some JS9 questions. If so, supervisors will provide an alternative
+(e.g., proctor-supplied computer or screen shots) for teams that did not bring a laptop/tablet.
+
+ASTRONOMY 2022
+1. DESCRIPTION: Teams will demonstrate an understanding of the Variability of Low &
+Mid-Mass Stars.
+3. THE COMPETITION: Using information which may include Hertzsprung-Russell diagrams,
+spectra, light curves, motions, cosmological distance equations and relationships, stellar
+magnitudes and classification, multi-wavelength images (gamma-ray, X-ray, UV, optical, IR,
+radio), charts, graphs and JS9 imaging analysis software, teams will complete activities and
+answer questions related to:
+a. Stellar evolution including stellar classification, spectral features and chemical composition,
+luminosity, blackbody radiation, color index and H-R diagram transitions, proto-stars, T Tauri
+variables, Herbig-Haro (HH) objects, red giants, Mira variables, RR Lyrae variables,
+carbon stars, white dwarfs, planetary nebulas, neutron stars, dwarf & recurrent novas,
+Type Ia supernovas, magnetic cataclysmic variables (MCVs).
+b. Use orbital mechanics, Kepler’s laws, rotation and circular motion to answer questions
+relating to the orbital motions of binary and multiple star systems; use parallax, spectroscopic
+parallax, period-luminosity relations, and the distance modulus to calculate distances to RR
+Lyraes, and Type Ia supernovas; use hydrostatic equilibrium and the Stefan-Boltzmann law to
+answer questions relating to stellar structure and interiors.
+
+ASTRONOMY 2022
+1. DESCRIPTION: Teams will demonstrate an understanding of the Variability of Low &
+Mid-Mass Stars.
+c. Identify and answer questions relating to the content areas outlined above for the following
+objects:
+HOPS 383, HH 24-26, V1331 Cyg, HBC 672, Orion Nebula, Alpha Tauri, RR Lyrae, Mira
+(Omicron Ceti), ESO 577-24, IC 4593, U Antliae, LP 40-365, ASASSN 16-oh, V Sagittae, AR
+Scorpii, SDSS 1035+0551, Tycho’s SNR
+Deep Sky Objects listed above sorted by Type:
+Protostars & Star Formation Regions: V1331 Cyg, Orion Nebula, HH 24-26, HOPS 383,
+HBC 672
+Stars: Mira (Omicron Ceti), RR Lyrae, U Antliae, Alpha Tauri
+Binary Systems: AR Scorpii, ASASSN 16-oh, V Sagittae, SDSS 1035+0551
+Supernova Remnants & Stellar Cores: ESO 577-24, Tycho’s SNR, LP 40-365, IC 4593
+
+Stellar Evolution is a PROCESS that is explained using
+Specific examples (DSOs), H-R diagrams and light curves
+
+RR Lyrae Instability
+Strip
+Mira Instability Strip
+T Tauris
+
+Protostars & Star Formation Regions: V 1331 Cyg - T Tauri
+A young T Tauri star surrounded by a reflection nebula
+
+Protostars & Star Formation Regions: Orion Nebula
+
+https://apod.nasa.gov/apod/ap191030.html
+
+Protostars & Star Formation Regions: HH 24-26 - Herbig-Haro
+
+https://apod.nasa.gov/apod/ap191030.html
+
+Protostars & Star Formation Regions: HOPS 383 - protostar
+
+https://chandra.harvard.edu/photo/2020/ho
+https://apod.nasa.gov/apod/ap191030.html
+ps383/
+
+Protostars & Star Formation Regions: HBC 672 – Serpens nebula
+
+https://chandra.harvard.edu/photo/2020/ho
+https://apod.nasa.gov/apod/ap191030.html
+ps383/
+
+Stars: Mira – Omicron Ceti
+
+https://apod.nasa.gov/apod/ap191030.html
+
+Stars: RR Lyrae
+
+Stars: U Antliae – Carbon Star
+
+https://apod.nasa.gov/apod/ap191030.html
+
+Stars: Alpha Tauri (Aldebaran) – Red Giant
+
+https://apod.nasa.gov/apod/ap191030.html
+
+Binary Systems & Novas: AR Scorpii – White Dwarf/Red Dwarf
+
+https://apod.nasa.gov/apod/ap191030.html
+
+Binary Systems & Novas: ASASSN 16-oh – accreting White Dwarf
+
+https://apod.nasa.gov/apod/ap191030.html
+
+Binary Systems & Novas: V Sagittae – Star/White Dwarf
+
+https://apod.nasa.gov/apod/ap191030.html
+
+Binary Systems & Novas: SDSS 1035+0551 – Brown Dwarf/White
+Dwarf
+
+https://apod.nasa.gov/apod/ap191030.html
+
+SNR Remnants & Stellar Cores: DEM L71 – Type Ia SNR
+
+SNR Remnants & Stellar Cores: ESO 577-24 – Planetary Nebula
+
+SNR Remnants & Stellar Cores: Tycho’s SNR – Type Ia SNR
+
+https://apod.nasa.gov/apod/ap191030.html
+
+SNR Remnants & Stellar Cores: LP 40-365 – White Dwarf
+
+https://apod.nasa.gov/apod/ap191030.html
+
+SNR Remnants & Stellar Cores: IC 4593 – Planetary Nebula
+
+https://apod.nasa.gov/apod/ap191030.html
+
+Chandra X-Ray Resources
+https://chandra.si.edu/edu/olympiad.html
+
+Content webinars and presentations from SO Alumni & NASA
+astrophysicists will be posted during the next several months
+as they are developed.
+
+https://chandra.si.edu/js9/
+
+Other Resources
+http://soinc.org
+
+https://chandra.si.edu
+
+https://www.universe-of-learning.org/
+
+http://www.stsci.edu http://www.spitzer.caltech.edu/
+
+https://public.nrao.edu/telescopes/ https://apod.nasa.gov/apod/astropix.html
+
+Resources across the EM spectrum
+National Science Olympiad
+
+http://www.soinc.org
+
+Chandra (x-ray)
+
+http://chandra.harvard.edu/
+
+Hubble (visible)
+
+http://stsci.edu/hst/
+
+Spitzer (infrared)
+
+http://www.spitzer.caltech.edu/
+
+Fermi (gamma-ray)
+
+https://fermi.gsfc.nasa.gov/
+
+Swift (x-ray/UV)
+
+https://swift.gsfc.nasa.gov/
+
+Nat’l Radio Astronomy Observatory
+
+https://public.nrao.edu/
+
+Astronomy Picture of the Day
+
+http://apod.nasa.gov/astropix.html
+
+Event Information
+National Event Supervisors:
+Donna L. Young (dlyoung.nso@gmail.com)
+Tad Komacek (tkomacek@gmail.com)
+Rules Clarifications available at soinc.org under Event Information
+1.Read the Event Description for content and allowable resources.
+2.Use the webinar (Chandra) and/or powerpoint (NSO) for an overview of
+the content topics and deep sky objects.
+3.Use the Astronomy Coaches Manual (NSO) as a guide for background
+information.
+
+Event Information
+4.
+5.
+6.
+7.
+
+Use the resources listed in the event description for images and content.
+Youtube has many related videos.
+Invitationals.
+Tests from invitationals and sample state tests will be posted on the NSO
+website for teams to use for practice.
+8. The scioly.org test exchange
+(https://scioly.org/wiki/index.php/2019_Test_Exchange).
+9. ASTRO 101 introductory college courses.
+10. Scientific papers. Most useful parts: abstract, introduction, figures. Don’t
+worry if you don’t understand everything!
+
+

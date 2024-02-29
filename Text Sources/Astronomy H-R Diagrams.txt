@@ -1,0 +1,1063 @@
+ASTRONOMY
+GENERAL INFORMATION
+
+HERTZSPRUNG-RUSSELL (H-R) DIAGRAMS
+-A scatter graph of stars showing the relationship between the stars’ absolute magnitude
+or luminosities versus their spectral types or classifications and effective temperatures.
+-Can be used to measure distance to a star cluster by comparing apparent magnitude of
+stars with abs. magnitudes of stars with known distances (AKA model stars). Observed
+group plotted and then overlapped via shift in vertical direction. Difference in magnitude
+bridge equals distance modulus.  Known as Spectroscopic Parallax.
+
+SPECTRA
+HARVARD SPECTRAL CLASSIFICATION (1-D)
+
+-Groups stars by surface atmospheric temp. Used in H-R diag. vs. Luminosity/Abs. Mag.
+
+Mass (M☉)
+
+Radius(R☉)
+
+Lumin.(L☉)
+
+Deep B-W
+
+2.1-16
+
+1.8-6.6
+
+25-30,000
+
+White
+
+Blue-white
+
+1.4-2.1
+
+1.4-1.8
+
+5-25
+
+Yellow-white
+
+White
+
+1.04-1.4
+
+1.15-1.4
+
+1.5-5
+
+Yellow
+
+Yellowish-W
+
+0.8-1.04
+
+0.96-1.15
+
+0.6-1.5
+
+Orange
+
+Pale Y-O
+
+0.45-0.8
+
+0.7-0.96
+
+0.08-0.6
+
+Red
+
+Lt. Orange-Red
+
+0.08-0.45
+
+Class*
+
+Color Descr.
+
+Actual Color
+
+O
+B
+A
+F
+G
+K
+M
+
+Blue
+
+Blue
+
+Blue-white
+
+*Very weak stars of classes L, T, and Y are not included.
+-Classes are further divided by Arabic numerals (0-9), and then even further by half
+subtypes. The lower the number, the hotter (e.g. A0 is hotter than an A7 star)
+YERKES/MK SPECTRAL CLASSIFICATION (2-D!)
+
+-Groups stars based on both temperature and luminosity based on spectral lines.
+LUMINOSITY CLASSES (Also uses “OBAFGKM”)
+O – hypergiants
+I – supergiants
+
+II – bright giants
+III – normal giants
+
+IV – subgiants
+V – M.S. (dwarfs)
+
+VI – subdwarfs
+VII –white dwarfs
+
+^ Each classification is further divided into a, ab, and b types, representing luminous, intermediate luminous,
+and less luminous, respectively. Supergiants also have Ia-O, which stands for either “extremely luminous
+supergiant” or “hypergiant.” “M.S.” = main sequence. Subdwarves classified further by sd and esd (subdwarf
+or extreme subdwarf), while VII class are uncommon and have prescripts of either wD or WD.
+
+2013-2014
+
+ASTRONOMY
+YERKES/MK SPECTRAL CLASSIFICATION (CONTINUED)
+
+-Marginal symbols are used to further distinguish stars:
+
+Symbol Example
+
++
+/
+
+G2 I-II
+
+Explanation
+Between supergiant and bright giant
+
+O9.5 Ia+
+
+Hypergiant (one step up)
+
+F2 IV/V
+
+Either subgiant or dwarf
+
+SPECTRA IN-DEPTH (MAIN SEQUENCE)
+
+O
+B
+A
+F
+G
+K
+M
+2013-2014
+
+- Main-sequence (hydrogen-burning core) star, spectral type O and luminosity class V
+- Very rare, very massive, with extremely short lifespans (first to leave main seq.)
+- 0.00003% of local stars are of spectral type O.
+- Most output is in the ultraviolet range
+- Main-sequence star, spectral class B, luminosity class V
+- Extremely luminous, short lifespans, rarely found far from area of formation
+- ~0.125% of stars in solar neighborhood (M-S) are of spectral class B.
+- Natural helium spectra with moderate hydrogen lines
+- Main-sequence star, spectral type A, luminosity class V
+- More common naked-eye stars with higher tendency to have massive planets
+- 0.625% of stars in solar neighborhood belong to class A.
+- Strong hydrogen lines with strengthening Ca II lines
+- Main-sequence star, spectral type F, luminosity class V
+- Technically a “dwarf star,” so may be referred to as a yellow-white dwarf.
+- ~3.03% of stars in the solar neighborhood are class F stars.
+- Weaker hydrogen lines and strengthening lines of Ca II
+- Main-sequence star of spectral type G, luminosity class V
+- Lifetime of ~10bn years until Hydrogen fusion ceases and transitions to a red giant
+- ~7.5% of local stars are of class G, the most well-known being the Sun, of class G2V
+- Yellow supergiants are extremely rare; most supergiants are between O-B or K-M
+- Main-sequence star of spectral type K, luminosity class V
+- Due to low mass and intermediate size, have longer lifespans (15-30bn years)
+- ~12% of main-sequence stars in the solar neighborhood belong to class K
+- AKA “orange dwarves” with mostly neutral metals lines and weak hydrogen lines
+- Very low-mass, main-sequence stars of spectral type M, luminosity class V
+- Due to low mass and low surface temperature, red dwarves are very dim stars
+- ~76% of local main-sequence stars are class M stars, making them very common
+- Have incredibly long lifespans due to lack of buildup at core, lifespans of 10tn+ years
+
+ASTRONOMY
+STELLAR “CHEMISTRY”
+-Stars are composed, by mass, mainly of hydrogen and helium. Our sun is roughly 71%
+hydrogen (H) and 27% helium (He), with the remainder being various heavier elements.
+Iron (Fe) is typically used as a measure for the heavier elements as it is relatively
+common and its absorption lines are easy to measure.
+-The presence of certain elements in stars can be determined via interpretation of the
+star’s absorption lines in its emission spectrum. In general, “metals” are non H and He.
+-The amount of metal present in a star gives hint to its age. Stars can go into three groups:
+
+Population Characteristics
+Population I stars have high percentages of metals. The youngest stars
+belong to this group, and are more likely to have planets, as the accretion
+of heavier elements is thought to be key in the formation of planets. They
+are more common in the arms of the galaxy.
+Population II stars have relatively little metal. They are older and are
+believed to have created the other elements in the Periodic Table, with
+exception to the more unstable ones. Usually found in globular clusters
+and the galactic bulge and galactic halo.
+A theoretical class of stars with practically no metal content with the
+exception of elements created in the Big Bang.
+
+I
+II
+III
+
+-Each stellar class also differs in its absorption and emission lines:
+
+Class Characteristics
+
+O
+B
+A
+F
+G
+K
+
+Dominant He II absorption (and sometimes emission) lines and prominent
+ionized (Si IV, O III, N III, C III) and neutral helium lines which strengthen from
+O5-O9 with prominent hydrogen Balmer lines
+Neutral helium lines, most prominent at the B2 subclass, with moderate
+hydrogen lines. Balmer series hydrogen lines grow stronger through the B
+class. Ionized metals include Si II and Mg II
+Balmer series lines peak, with strong hydrogen lines. Also present are lines of
+ionized metals, including Fe II, Mg II, and Si II, which are at a maximum at A5.
+Ca II lines strengthen at this point.
+Strengthening H and K lines of Ca II. Neutral metals Fe I and Cr I make gains on
+ionized metals by late F. Weaker hydrogen lines and ionized metals
+characterize the class.
+Very prominent H and K lines of Ca II, peaking at G2. Have weaker hydrogen
+lines than F. Along with ionized metals, neutral metals lines are present in the
+spectra.
+Extremely weak, sometimes nonexistent, hydrogen lines. Mostly neutral metals
+(Mn I, Fe I, Si II).
+
+2013-2014
+
+ASTRONOMY
+M
+
+TiO lines show in addition to lines for other oxide molecules, in hthe visible
+and all neutral metals. Hydrogen lines are usually absent. Vanadium Oxide
+appears by late M.
+
+MAGNITUDES AND LUMINOSITY
+-Magnitude is the logarithmic measure of the brightness of an object. The two specific
+types distinguished by astronomers are apparent magnitude and absolute magnitude.
+-Apparent magnitude (m) is the measure of the brightness of a celestial object, as seen
+from Earth. The lower the value, the brighter the object. The visual spectrum is usually
+used as the basis for apparent magnitude, although the near-infrared may also be used. A
+light curve may be used to plot an object’s apparent magnitude versus time.
+-Absolute magnitude (M) is the measure of the brightness of a celestial object at a
+distance of 10 parsecs away from the viewer. Absolute magnitude uses the same
+conventions as visual magnitude, so a change in 5 magnitudes corresponds to a factor of
+100 times (e.g. object with mag. -16 is 100x brighter than object with mag. -11). Absolute
+magnitude can be related to apparent mag. and distance using the distance modulus,
+where m is apparent mag. and d is distance in parsecs:
+
+-Luminosity can be interpreted as a measure of a brightness. In astronomy, it is used to
+measure the total amount of energy emitted by a star or other celestial object per unit
+time. This can be expressed in SI units of joules per second or watts. The symbol L☉ is
+used to represent the luminosity of the Sun, equal to 3.846 x 1026 W.
+
+LIGHT CURVES
+-Light curves are the results of timing experiments that track the change in an object’s
+intensity over time. Information shown in a plot of relative brightness versus time.
+-Can be periodic, like those of Cepheid variables and other periodic variables, or aperiodic
+like those of novae, supernovae, and cataclysmic variable stars like dwarf novae.
+-Light used to produce curve usually belongs to a certain frequency interval or band.
+-Can be used to measure mass of a star by observing binary systems, requiring
+knowledge of both orbital pd. and avg. orbital distance using Newton’s version of Kepler’s
+Third Law.
+-Can also be used to distinguish supernovae types (due to various differences)
+
+2013-2014
+
+ASTRONOMY
+-By using the Period-Luminosity relationship, one can determine the average absolute
+magnitude of certain variable stars and use it to find distance via the Distance Modulus.
+(Light curve gives information to solve for average apparent magnitude).
+
+VARIABLE STARS
+-Stars that vary significantly in brightness with time, usually due to the buildup of energy
+via pressure generated from stellar processes.
+-Changes in luminosity can be tracked via light curves, and periods may span from
+several hours to several years. Most lie on a strip (the instability strip) on the HR diagram
+between the main-sequence and red giants.
+-Pulsating Variable Stars are stars whose atmospheres expand and contract periodically.
+-Cepheid variables have high luminosities and short periods, with their pulsation periods
+closely related to their luminosities. Cepheids are used as standard candles to establish
+distances. They inhabit the upper portion of the instability strip on HR diagram. They are
+based off of the star Delta Cephei. There are two classes of Cepheids: Classical and Type II.
+-Mira variables are red giant stars in the very late stages of stellar evolution. This class of
+variable stars have pulsation periods of longer than 100 days with amplitudes greater
+than 1 magnitude in the infrared and 2.5 in the visible. Based off of the star Mira.
+-RR Lyrae variables are older, relatively low-mass, metal poor stars with typical pulsation
+periods of less than one day, possibly as short as seven hours. They belong to a pulsating
+horizontal branch on the H-R diagram, and are usually class A or F stars with masses
+about half of that of the Sun. They are more common than Cepheids, yet are less
+luminous and are used as std. candles for relatively near objects and studies of globular
+clusters.
+-T Tauri variables are pre-main sequence stars and belong to F, G, K, and M classes. They
+are contracting along the Hayashi track to the main sequence, and display strong optical
+variability. Because of their large radii, they are more luminous than main-sequence
+stars of similar mass. Because of their youth, they are typically found near molecular
+clouds.
+-S Doradus variables are extremely rare, extremely massive, and extremely luminous
+stars. They are also known as Luminous Blue Variables and often show unpredictable
+and dramatic variations in both spectra and brightness. Are unstable supergiant or
+hypergiant stars with <1M years in the LBV phase. Temperatures can range from
+~10,000K to 25,000K and luminosities range from 250,000-1M times that of the Sun.
+Example is Eta Carinae.
+
+2013-2014
+
+ASTRONOMY
+-Dwarf novae are a class of cataclysmic variable stars consisting of a close binary system,
+one of which is a white dwarf accreting material from its partner. Collapse of accreted
+material causes a cataclysmic explosion. Have lower luminosities than classical novae
+and recur on scales from days to decades. Luminosity of outburst increases with interval
+and orbital period. Possibly useful as standard candles.
+
+STELLAR EVOLUTION
+
+THE BIRTH OF A STAR
+THE STELLAR NURSERY
+
+-Starbirth is relatively common, and occurs in certain patches of interstellar medium, the
+patches of gas and dust between stars in a galaxy. The composition of such medium is
+about the same as that of stars: 71% hydrogen, 27% helium, and 2% heavier elements.
+-Temperature and density varies despite chemical composition consistency.
+-Star-forming clouds tend to be especially cold and dense, at around 10-30 Kelvin with a
+density of about 300 molecules per cubic centimeter (dense for clouds of gas and dust).
+These types of clouds are referred to as molecular clouds, and also include 120+ other
+kinds of molecules including CO, H2O, NH3 (ammonia), and C2H5OH (ethyl alcohol).
+-Majority of atoms heavier than H and He found in interstellar dust. These bits absorb
+almost all visible light and causes fringe stars to appear redder (by blocking photons).
+They do not shift spectral lines.
+-Clouds glow due to radiation from the infrared and microwave spectrums.
+BEGINNING THE PROCESS
+
+-Process starts when gravity causes a cloud to contract (breaking hydrostatic equilibrium)
+-Gravity overcomes gas pressure, the balance of which normally keeps a cloud stable.
+Gravity has an advantage at high densities and low temperatures (for temperatures, it is
+due to lower temperatures resulting in lower gas/thermal pressures).
+-Degeneracy pressure also exists in addition to temperature-dependent gas pressure as
+resistive forces against collapse along with magnetic forces..
+-Some sort of external force (e.g. shockwave) can also disrupt equilibrium and trigger a
+gravitational collapse.
+-Gravity obeys the inverse-square law – as the cloud continues to condense and break up,
+gravity grows stronger in each individual clump.
+
+2013-2014
+
+ASTRONOMY
+-Clouds clump up and break apart due to less mass needed for gravity to maintain an
+advantage over gas pressures and other resistive forces.
+-Smaller, denser clouds may continue to collapse, heating up within due to the inability
+to effectively disperse thermal energy. Thermal energy comes from the release of
+gravitational potential energy.
+
+THE PROTOSTAR
+
+-Thermal energy will continue to grow as the cloud collapses. Inner gas eventually loses
+the ability to radiate heat gained by the release of gravitational potential energy (GPE).
+-As the cloud collapses, density increases, causing less and less gas to break off
+(densities high enough that the cloud becomes thermally opaque). Now a Class O
+Protostar.
+-At a density of around 10-13 grams per cubic centimeter, the center of the cloud becomes
+optically opaque. When collapse is essentially halted, a core region called the First
+Hydrostatic Core forms. Meanwhile, gas falling inwards collides with this region, creating
+more heat to heat the core via shock waves.
+-At core temp. 2000K, dissociation of H2 molecules begins along with ionization of H and
+He atoms. Energy of contraction is absorbed, allowing further contraction.
+-Density of infalling material declines to ~10-8g per cubic centimeter, becoming
+transparent enough to allow for heat to escape. Combined with convection in the interior,
+radiation of heat allows protostar to continue to contract.
+-Due to rising temperatures, gas in the interior will be able to exert enough pressure to
+counteract forces of gravity, preventing further collapse. Reaches hydrostatic equilibrium.
+-Accretion of material into the star is almost complete, object is a protostar.
+-Accretion of material continues, albeit more slowly, from the circumstellar disk.
+-At high enough densities and temperatures, deuterium fusion begins with outward
+pressure slowing down collapse.
+-When accretion stops and surrounding material disperses, object has become a premain sequence star.
+T TAURI AND PRE-MAIN SEQUENCE STARS
+
+-PMS stars’ energy comes from gravitational contraction rather than hydrogen fusion
+
+2013-2014
+
+ASTRONOMY
+-< 3M☉ stars follow the Hayashi track, becoming T Tauri stars and gradually become less
+and less luminous. Track begins at a temperature of around 4000K.
+-T Tauri stars fall almost vertically on the HR diagram, becoming less luminous without
+decreasing much in surface temperature. The star will continue to contract. Contraction
+continues until stars with <0.5M☉ develop a radiative zone. Stars of larger mass follow the
+Henyey track, involving increasing temperatures and luminosities until H fusion can
+begin. They have high lithium abundances, strong stellar winds, and strong spectral
+lines..
+
+THE MAIN SEQUENCE
+PHYSICS
+
+-In the main sequence, stars are in equilibrium due to the outward pressure generated by
+hydrogen fusion counteracting the force of gravity. They are in hydrostatic equilibrium.
+-When star leaves the main sequence depends on its spectral type and mass.
+- >2 solar mass stars undergo convection in core regions to stir up recently-produced
+hydrogen. Below this mass, stars have entirely radiative cores with convective areas near
+the surface. Stars of smaller mass (< 0.4 solar masses) are fully convective. Convection
+zones grow with decreasing stellar mass.
+-Upper limit for a main-sequence star is 120-200 solar masses. The outward radiation of
+energy overcomes the gravitational attraction and the star cannot hold itself together.
+-Lower limit is ~0.08 solar masses. P-P chain cannot occur below this, and “stars” below
+the limit cannot sustain hydrogen fusion and are referred to as “brown dwarfs.”
+“CHEMISTRY”
+
+-At 10m kelvin, stars will begin hydrogen fusion via the proton-proton chain reaction.
+Hydrogen is fused first into deuterium and then to helium. P-P chain is primarily found
+in the lower main sequence.
+-Stars with masses slightly over 1 solar mass (~>1.5) will generate a large portion of their
+energy via the Carbon-Nitrogen-Oxygen cycle, or the CNO cycle, for short. This is due to
+their ability to sustain higher temperatures.
+-At 18 million kelvin (T of a star with 1.5+ solar masses) the CNO cycle and PP chains are
+equally efficient and therefore produce half of a star’s net luminosity each. At 1 solar
+mass (e.g. the Sun), 1.5% of all energy produced is from the CNO cycle. At 1.8+ solar
+masses, almost all energy is produced via the CNO cycle.
+2013-2014
+
+ASTRONOMY
+MATURITY – LEAVING THE MAIN SEQUENCE
+-In general, the lower the mass, the longer the lifespan of the star. The mass of a star also
+determines what happens when it exhausts its supply of hydrogen. When the hydrogen
+supply is depleted, the outward pressure generated by hydrogen fusion is no longer
+sufficient to counteract the force of gravity, causing the star to contract.
+
+LOW-MASS STARS
+
+-Stars of <0.23 solar masses become white dwarfs directly after exhausting their fuel
+sources. This is due to them being fully convective and never developing a degenerate
+helium core with hydrogen burning shells.
+-Slightly more massive stars can become red giants, but never fully develop the ability to
+properly fuse helium due to low temperatures. They move directly off of the red giant
+branch and become asymptotic giants with lower luminosities.
+-Stars above 0.5 solar mass will reach temperatures necessary for helium fusion and will
+proceed along as if they were medium-mass stars.
+-EOL behaviors of low-mass stars are not properly known due to their longevity.
+MEDIUM-MASS STARS
+
+-Stars of roughly 0.5-10 solar masses become red giants, which are large, non-mainsequence stars of class K or M. They have high luminosities and are notably, red.
+-Red Giants have inert cores with hydrogen-burning shells fusing hydrogen into helium.
+Accelerated fusion in H burning shell directly above core causes star to expand, causing
+outer layers of the star to cool and adopt the red color.
+-The red-giant-branch follows the main-sequence. Here, the core is comprised of helium.
+The initial contraction of the star is halted by electron degeneracy pressure. The
+gravitational energy released during contraction maintains the fusion of hydrogen
+outside of the core. Core’s gravity accelerates burning of hydrogen and causes the star’s
+luminosity to rise significantly.
+-Helium from accelerated H fusion is absorbed by the core, causing it to contract further,
+further accelerating H fusion. Temperature rises to the point where helium fusion begins
+via the triple-alpha process (@ ~ 1.0x108 K core T). He fusion causes the core to expand,
+causing the star to expand. The end results depend on the star’s mass and other features.
+
+2013-2014
+
+ASTRONOMY
+-The asymptotic giant-branch phase begins when the He in the core has been exhausted,
+leaving a hot core of carbon and oxygen. He fusion continues in the outer layers. Mira
+variables belong to this branch.
+MASSIVE STARS
+
+-Helium ignition may occur before electron degeneracy pressure can become prevalent.
+This results in the unlikelihood that they survive as red supergiants. Their lives will end
+in a Type II supernova.
+
+-Extremely massive stars will rapidly expel their own envelopes, allowing them to retain
+very high surface temperatures and, along with them, their blue-white color.
+-Stars with heavier cores will continue to heat up until neon decays into oxygen and
+helium. Temperatures rise, triggering the fusion and formation of other elements.
+Eventually, temperatures will rise until most nuclei can be partially broken down.
+-Red supergiants are formed following the fusion of all hydrogen in the core of a
+supermassive star (usually around 10 solar masses). Their helium-burning phase is spent
+as red supergiants. They display variability and are extraordinarily bright and large.
+
+DEATH OF A STAR
+COLLAPSE!
+
+-A massive, evolved star will finally collapse when nucleosynthesis reaches Iron-56. The
+fusion process expends more energy than it produces. If the mass of the core exceeds
+1.44 solar masses (the Chandrasekhar limit), the core will undergo a sudden, catastrophic
+collapse into either a neutron star or a black hole, depending on mass lost and whether or
+not certain limits are reached.
+SUPERNOVAE
+
+-The catastrophic and very violent death of a high-mass star (with a core mass exceeding
+1.44 solar masses). Energy transferred from core collapse to rebounding material is
+enough to accelerate material to beyond escape velocity. Alternatively, the reignition of
+nuclear fusion in a degenerate star may cause a supernova. In any case, star goes boom!
+TYPE I SUPERNOVAE
+
+-Type I supernovae are distinguished from Type II supernovae by the lack of hydrogen
+lines, or Balmer lines, in the emission spectra. The presence of other lines in the spectra
+further divides the type.
+
+2013-2014
+
+ASTRONOMY
+-Type Ia supernovae occur in binary systems where one star is a white dwarf and the
+other is a star that can be of giant mass to an even smaller white dwarf. Normally
+restricted to less than 1.38 solar masses (the Chandrasekhar mass), should a white dwarf
+of oxygen-carbon variety exceed it, nuclear fusion may start up again. The mass is
+obtained by the accretion of material from its binary companion. If accretion continues
+for a long enough period of time (and a nova or dwarf nova does not occur), the star will
+approach the Chandrasekhar limit. However, ~1% from the limit, rising temperatures
+
+powered by carbon fusion heats the core up. Degeneracy pressure’s independence from
+temperature means that it is unable to scale to the rise in pressure to keep the star stable.
+The uncontrolled nuclear reaction that follows releases enough energy to unbind the star
+from the forces that hold it together. Alternatively, two white dwarfs can merge.
+-Because white dwarfs are relatively consistent in terms of composition, size, and mass,
+Type Ia supernovae are used as alternatives to Cepheids and other standard candles to
+measure cosmological distances.
+-Type Ib and c supernovae are similar in mechanics to Type II supernovae, although, like
+Type Ia supernovae, they lack hydrogen lines. They occur due to the core collapse of a
+supermassive star. The collapse of the star’s core expels the outer layers. Type Ib and Ic
+supernovae are thought to have already lost their outer hydrogen shells and much of
+their helium shells. Type Ic supernovae happen to lack the 587.6nm helium lines as
+compared to Type Ib. Both show Ca, O, and Mg lines as they age, while Type Ia supernovae
+are eventually dominated by Fe lines.
+TYPE II SUPERNOVAE
+
+-A Type II supernova occurs when the inert core of a supermassive star reaches a mass
+beyond 1.44 solar masses. Electron degeneracy pressure can no longer counter gravity,
+resulting in a cataclysmic implosion that expels the outer layers of the star. Reversed
+beta-decay from the overcoming of electron degeneracy results in the formation of
+neutrons and neutrinos. It also creates a devastating shockwave that can disrupt
+molecular clouds and other systems.
+-Core collapse in a large star occurs in steps, where collapse leads to increased pressures
+and temperatures required to fuse a heavier element. This continues until Fe-56. Collapse
+is eventually halted by strong forces and neutron degeneracy pressure.
+-The light curves of Type II supernovae normally display Balmer hydrogen absorption
+lines. Type IIP supernovae have a distinctive “flat” section in their light curves, while
+Type IIL supernovae show a steady decline in brightness following its peak. The result
+may be either a black hole or neutron star, depending on certain conditions.
+
+2013-2014
+
+ASTRONOMY
+-The light curves of Type II supernovae are generally “longer” than those of Type I
+supernovae – that is, the duration of the supernova is longer and the decline in
+brightness is flatter. Type I supernovae are also usually brighter, but the dropoff is
+quicker.
+
+REAMNANTS
+WHITE DWARFS
+
+-The remnant of a star of less than 8 solar masses. Formed when the outer layers of a redgiant class star are expelled due to instability as a result of the helium fusion process.
+Pulsations build up to the point where the outer layers of the star are expelled. The result
+at the center is a degenerate carbon-oxygen core, supported only by electron degen. press.
+-White dwarfs are extremely hot (~100000K surface temp. at formation), yet do not release
+energy as a result of nuclear fusion reactions. Because the star no longer undergoes
+fusion, it gradually cools off over the years, becoming a black dwarf at the end. They are
+incredibly dense and compact, with a maximum mass being around 1.38 solar masses.
+-It is possible for a white dwarf to undergo nuclear fusion again via the accretion of
+material from a binary partner. The result may be either dwarf novae, novae, or a Type Ia
+supernova, depending on how much mass is accumulated and how the extra mass works.
+NEUTRON STARS
+
+-The result of the core collapse of a supermassive star with a mass above 8 solar masses.
+-Formed via reverse beta-decay when electron degeneracy pressure is overcome when
+the mass of the core exceeds 1.44 solar masses. They resist further compression with
+neutron/quantum degeneracy pressure and the Pauli Exclusion Principle, similar to, yet
+stronger than, electron degen.
+-Are the smallest and densest stars known, with incredibly powerful magnetic fields.
+-Conservation of momentum following collapse of a supergiant star ensures that the
+neutron star will rotate extremely rapidly, slowly slowing down over time.
+PULSARS
+
+2013-2014
+
+ASTRONOMY
+-Highly magnetized, rotating neutron stars emitting beams of electromagnetic radiation.
+Name comes from the way of detecting the beams: when the beam periodically hits Earth
+due to the star’s rotation.
+-Short, regular rotational periods make pulsars useful for timekeeping and scientific
+studies. Due to the massive shrinkage in radius, the speed of rotation is extremely quick.
+Because of its (comparatively) low moment of inertia, it slows down very slowly over time.
+-Radiation if projected from pulsars’ magnetic poles. The power of a pulsar may come
+from its rotation, accretion of material (accounting for most X-ray pulsars), or magnets.
+
+MAGNETARS
+
+-Neutron stars with extremely powerful magnetic fields. Decay of the field powers the
+emission of strong beams of high-energy electromagnetic radiation, including X-rays and
+gamma rays.
+-Comparatively slow in rotation compared to other kinds of neutron stars.
+BLACK HOLES
+
+-Stellar mass black holes are remnants of the gravitational collapse of a supermassive
+star. AKA collapsars. They have masses ranging from 3-10s of solar masses, and are
+formed when the Tolman-Oppenheimer-Volkoff limit is reached (>3-4 solar masses).
+-At the point where a black hole forms, not even neutron degeneracy pressure can
+withstand the force of gravity. The formation of a black hole is nearly guaranteed.
+-An important part of X-ray binaries. Light cannot escape the gravity of a black hole.
+NEBULAE
+
+-Planetary nebulae are the ionized discharged gas layers of a star. At the centers are
+often white dwarfs as a result of the death of mid-sized stars whose cores failed to
+exceed the Chandrasekhar limit. They are usually about 1 light-year across and get their
+color from ionized particles.
+-Other nebulae like the Crab Nebula, M1, are remnants of supernovae explosions where
+stellar material is violently expelled due to the collapse of a star.
+
+X-RAY BINARIES
+
+2013-2014
+
+ASTRONOMY
+-X-ray binaries are a class of binary stars luminous in X-rays. One member is the donor
+(usually a star) while the other is an accretor, usually a compact object like a white dwarf,
+neutron star, or black hole.
+-The infall of matter releases gravitational potential energy in the form of X-rays.
+
+WHAT ABOUT VARIABLE STARS?
+CEPHEID VARIABLES
+
+-Classical Cepheids belong to a class of unstable yellow supergiants of spectral classes
+F6-K2. They are 4-20 times more massive than the Sun and may be up to 100,000 times
+more luminous.
+-Type II Cepheids belong to spectral classes F6-K2. They are typically older, metal-poor
+stars. They belong to the Population II subclass of stars in terms of metal content.
+
+RR LYRAE VARIABLES
+
+-A class of periodic variable stars commonly found in globular clusters. They are
+pulsating horizontal branch stars of spectral class A and sometimes F. They are
+relatively old, metal-poor Population II stars.
+-RRab variables are the majority type which display steep rises in brightness of about 91%,
+RRc have shorter periods and var. of about 9%, and RRd are rare, double-mode pulsators.
+S DORADUS VARIABLES
+
+-AKA Luminous Blue Variables, S Doradus variables are unstable supergiant or
+hypergiant stars. They have very high masses and are B-type stars with lifetimes as short
+as a few million years. Because of this, they are very rare. Several supernovae have been
+associated with LBVs.
+MIRA VARIABLES
+
+-Characterized by very red colors and long pulsation periods, Mira variables are latestage red giants in the asymptotic giant branch. They are old and will become white
+dwarfs and planetary nebulae in a few million years.
+-Have masses of less than 2M☉ and have already undergone helium fusion in their cores.
+SEMIREGULAR VARIABLES
+
+-Giants or supergiants of intermediate and late spectral type with periods ranging from
+20-2000 days. Light curve shapes may be variable each time.
+
+2013-2014
+
+ASTRONOMY
+-SRA Spectral-type (M, C, S / Me, Ce, Se) giants with persistent periodicity and usually
+small amplitude. Amplitudes and light curves generally vary. Essentially Mira variables
+pulsating in an overtone.
+-SRB Spectral type (M, C, S / Me, Ce, Se) giants with poorly defined periodicity (irregular).
+May sometimes cease to vary at all for some time. 2+ simultaneous periods of variation.
+-SRC Spectral type (M, C, S / Me, Ce, Se) supergiants with amplitudes of about 1 mag and
+periods of light variation from 30 to several thousand days.
+-SRD Giants and supergiants of F, G, or K spectral types, sometimes with emission lines
+in spectra. 0.1-4 mag var. in light, per. 30-1100 days.
+DWARF/RECURRENT NOVAE
+
+-Dwarf nova: periodic outbursts when a white dwarf accretes matter which collapses
+onto the dwarf, releasing much energy without destroying the star.
+-Recurrent novae: novae occurring over and over again. Bimodal mag. Light curves.
+Ejected matter can be detected spectroscopically which is the difference between dwarf
+nova.
+ORBITAL MOTIONS, DISTANCES, AND MATHEMATICS
+
+KEPLER’S LAWS
+KEPLER’S FIRST LAW – LAW OF ELLIPTIC ORBITS
+
+-Each star (or planet) moves in an elliptical orbit with the center of mass at one focus.
+KEPLER’S SECOND LAW – LAW OF EQUAL AREAS
+
+-A line between one star and the other (radius vect.) sweeps out equal areas in equal
+times.
+KEPLER’S THIRD LAW – LAW OF HARMONICS
+
+-The square of a star’s orbital period is proportional to its mean distance from the center
+of mass cubed. The formula, where A is mean separation in A.U. and M is solar masses
+and P is the period in years:
+
+FINDING DISTANCES
+THE DISTANCE MODULUS
+
+2013-2014
+
+ASTRONOMY
+-The distance modulus  (mu) gives the relationship between a celestial object’s apparent
+magnitude, absolute magnitude, and distance in parsecs:
+
+-If one has access to two of the three variables, one can find the value of the other. The
+equation can be rearranged in order to accommodate the problem at hand. The apparent
+magnitude m of an object like a Cepheid can be obtained by examining its light curve, if
+given. Its absolute magnitude M can be found via the Period-Luminosity relationship.
+PARALLAX (STELLAR MAX DIST. ~650ly)
+
+-Observing an object to determine its object via the displacement in its apparent
+displacement from two lines of sight.
+-Formula for distance, d in parsecs with an angle p in arcseconds:
+
+SPECTROSCOPIC PARALLAX (MAX DIST. ~10,000pc)
+
+-One must measure the apparent magnitude of a star and know its spectral type. If on the
+main sequence, abs. magnitude can be approximated and then distance can be solved for
+using the distance modulus. Difference may be off due to interstellar extinction.
+
+THE PERIOD-LUMINOSITY RELATIONSHIP
+-The period of a Cepheid variable is directly related to its luminosity. The longer the
+period, the higher its luminosity. The relationship between its mean absolute magnitude
+and period can be given by the following equation, where P is measured in days:
+
+-If the mean visual (V) and near-infrared (I) magnitudes are known, the distance d in
+parsecs to classical Cepheids is given with the following formulae:
+
+Or
+
+-The relationship may also be used for objects that behave similarly to Cepheids, such as
+Mira and RR Lyrae variables, although adjustments will be needed. Longest range
+~25MPC
+
+2013-2014
+
+ASTRONOMY
+THE MASS-LUMINOSITY RELATIONSHIP
+-An equation giving the relationship between a star’s mass and its luminosity.
+
+☉
+
+(M < 0.43M☉)
+
+☉
+☉
+
+☉
+
+(0.43M☉ < M < 2M☉)
+
+☉
+
+(2M☉ < M < 20M☉)
+
+☉
+
+(M > 20M☉)
+
+☉
+☉
+^For the value of a (the exponent), main-sequence stars are commonly 3.5
+
+FORMULAE AND NUMBERS WORTH KNOWING
+Bolometric
+Magnitude
+
+OBJECTS
+
+MIRA
+AKA: Omicron Ceti, SAO 129825, HIP 10826
+Cetus
+Spec. Type: M7 IIIe
+
+B-V: +1.53
+Dist: ~350 ly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+A white dwarf-red giant binary system consisting of Mira A, the red giant, and Mira B, the
+white dwarf. Mira A is undergoing mass loss to Mira B and are separated by a distance of
+about 70AU. Up to 3.5Mag and as low as 8.6-10.1Mag.
+
+W49B
+AKA: SNR G043.3-00.2
+Aquila
+
+2013-2014
+
+B-V: +1.53
+
+RA: 19h 11m 09s
+
+ASTRONOMY
+Supernova Remnant
+
+Dist: ~26,000 ly
+
+Dec: +09° 06′ 24″
+
+Highly distorted SNR, created via a special type of supernova. About 1,000 years old and
+shot more matter out of its poles rather than its equator. Remnant may be a black hole,
+possibly the youngest in the galaxy. More barrel-shaped in terms of intense X-ray
+emissions from nickel and iron.
+
+TYCHO’S SNR
+AKA: SN 1572
+Cassiopeia1
+Supernova Remnant
+
+Disc: Nov. 1572
+Dist: ~8000-13000 ly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+Produced as a result of a type 1a (white dwarf) supernova. Possesses a companion G2 star
+that is likely to have contributed the mass necessary for the supernova.
+
+VELA SNR
+AKA: SNR G263.9-03.3
+Vela
+Supernova Remnant
+
+Discovered:
+Dist: ~81598 ly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+Possesses a pulsar at its center, and exploded roughly 11000-12300 years ago. Includes
+NGC 2736 and is one of the closest supernovae to Earth. Helped prove that supernovae
+form neutron stars and its pulsar is one of the brightest in the X-ray spectrum. Rotation
+initially at 86ms.
+
+G1.9+0.3
+AKA:
+Sagittarius
+Supernova Remnant
+
+Discovered: 1985
+Dist: ~28,000 ly
+
+RA: 17h 48m 45s
+Dec: –27° 10′ 00″
+
+The youngest-known supernova remnant in the galaxy, with its signals reaching Earth
+roughly 140 years ago. Exploded about 25,000 years ago as a result form a likely Type 1a
+supernova. Possesses synchrotron radiation for X-ray emission. Supernova remnant is
+
+2013-2014
+
+ASTRONOMY
+extremely asymmetrical, with most X-ray radiation coming from the northern part of the
+remnant. Iron is also found farther out than normal.
+
+ETA CARINAE
+AKA: SAO 238429, HD 93308
+Carina
+Spec. Type: Blae-0
+App. Mag:
+
+B-V: +0.61
+Dist: ~7,750 ly
+
+RA: 10h 45m 03.951s
+Dec: –59° 41′ 04.26″
+
+A star system possessing an LBV with an initial mass of 150 solar masses, having lost 30
+since then along with a 30 solar mass supergiant. Surrounded by the Homunculus Nebula.
+Possesses one of the most massive stars available for study, yet may go supernova
+sometime in the near future. May become a Wolf-Rayet star.
+
+SS CYGNI
+AKA: HD 206697
+Cygnus
+Spec. Type: M7 IIIe
+
+B-V: +1.53
+Dist: ~350 ly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+A cataclysmic variable star, of the dwarf nova variety. Consists of a close binary system
+with an extremely short distance (only 100,000 mi or less) and orbital period (6.5h).
+Outburst may change from cycle to cycle.
+
+T TAURI
+AKA: T Tau, HIP 20390
+Taurus
+Spec. Type: G5V:e
+
+B-V: +1.22
+Dist: ~460 ly
+
+RA: 04h 21m 59.43445s
+Dec: +19° 32′ 06.4182″
+
+A very young star (~1,000,000 years old) with highly unpredictable variations in
+brightness. The star itself is a protostar and possesses a very strong stellar wind, called a
+T Tauri wind. Higher lithium abundances than the sun, and is highly noticeable.
+Possesses comparatively strong spectra.
+
+GRS 1915+105
+AKA:
+
+2013-2014
+
+ASTRONOMY
+Aquila
+X-ray Binary
+
+B-V: +1.53
+Dist: ~40,000 ly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+Microquasar. System containing black hole of about 14 solar masses with a normal star
+companion. First known galactic source with expulsion of material at apparently FTL
+velocities. Strong and variable radio emission (radio jets) and accretion disk. Heaviest of
+stellar mass black holes known in the galaxy.
+
+47 TUCANAE
+AKA:
+Tucana
+Globular cluster
+
+B-V: +1.53
+Dist: ~16.7 kly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+Globular cluster – second brightest outside of Omega Centauri with a very bright and
+dense core. Contains many blue stragglers near its core and multiple X-ray sources,
+including X-ray binaries, millisecond pulsars. No evidence of black holes in the cluster.
+
+THE TRAPEZIUM
+AKA:
+Orion
+Open Cluster
+
+Dist: ~1,600 ly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+A tight grouping of half a dozen O and B type stars with masses around 15-30 solar
+masses, with very close distances. 4 stars, A, B, C, D, with C being the brightest and A and
+B being eclipsing binaries.
+
+T PYXIDIS
+AKA:
+Pyxis
+Spec. Type: M7 IIIe
+
+2013-2014
+
+B-V: +1.53
+Dist: ~15,600 ly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+ASTRONOMY
+A recurrent nova and nova remnant. Binary star system consisting of a sun-like star and
+a white dwarf. Despite blowing up much of its accreted material, white dwarf mass is
+increasing and may go supernova sometime soon.
+
+ABELL 30
+AKA:
+Cancer
+Planetary Nebula
+
+B-V: +1.53
+Dist: ~5,500 ly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+A planetary nebula, special due to the fact that its evolution stalled then started up again.
+Ejected initially into a planetary nebula. Nuclear fusion began again at its core, forming a
+“born-again” red giant, which then promptly exploded again. Large outer nebula about
+12,500 years old, yet inner “knots” bay only be 850 years old or so.
+
+RX J0806.3+1527
+AKA: HM Cancri
+Cancer
+Spec. Type: M7 IIIe
+
+B-V: +1.53
+Dist: ~1600 ly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+X-ray binary system comprised of two white dwarves orbiting each other with extremely
+short distances from each other (80,000km). Will likely merge in the future as they get
+closer and closer. Each dwarf is about half as massive as the Sun.
+
+V1647 ORI
+AKA:
+Orion
+FU Ori Protostar
+
+B-V: +1.53
+Dist: ~1300 ly
+
+RA: 02h 19m 20.79120s
+Dec: –02° 58′ 39.4956″
+
+Protostar with intense X-ray emission spikes with extremely fast rotation.
+
+V1
+AKA: V1 in Messier 31
+Andromeda
+Cepheid Variable
+
+2013-2014
+
+B-V: +1.53
+Dist: ~2.5mly
+
+RA: 00h 41m 27s
+Dec: –02° 58′ 39.4956″
+
+ASTRONOMY
+A Cepheid variable star located in the Andromeda galaxy, first observed as a way to
+establish distances. Helped establish Andromeda galaxy as a separate object and
+revealed its nature as a spiral object. Ridiculously important.
+
+NGC 1864
+AKA:
+Doradus
+Globular Cluster
+
+B-V: +1.53
+Dist: ~160,000 ly
+
+RA: 05h 07m 35.25s
+Dec: –67° 27′ 38.9″
+
+Globular cluster with a unique planetary nebula.
+
+NGC 3132
+AKA:
+Vela
+Planetary Nebula
+
+B-V: +1.53
+Dist: ~2,000 ly
+
+RA: 10h 07m 01.7640s
+Dec: –40° 26′ 11.060″
+
+Eight Burst Nebula or Southern Ring Nebula, with an asymmetrical shape. Possesses a
+white dwarf central star. Intense UV radiation.
+
+2013-2014
+
+

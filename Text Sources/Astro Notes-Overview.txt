@@ -1,0 +1,260 @@
+WELCOME CITIZENS OF SCIOLY, to my Astro notes.​ I apologize for their
+handwritten­ness. I find that writing notes out makes them a lot easier to remember than simply
+copying­and­pasting them from Wikipedia. But hey, maybe the illegibility of my handwriting will
+encourage you to re­write them!
+Also… I really hate reading through pages of tiny text looking for a specific sentence,
+especially when the question deals with a process(star formation, for example). I much prefer looking
+at a visual, so my binder­making process consists mainly of condensing several articles into one
+(mostly) easy­to­read illustratration. I get the feeling that it isn’t a common technique for astronomy
+notetaking, so I included a lot my notes(especially ones on stellar evolution) that are in drawing form.
+I also included a few comments on DSO’s and my formula collection for the math section. The
+last thing in these notes is a list of definitions. The ones where the question asks “what is the name of
+the empirical function that relates the velocity dispersion and luminosity of a galaxy?” And then it
+gives you five options, none of which you’ve heard of… I started making this list last year and thought
+I’d share it.
+Anyways, enough of my rambling, here’s my notes:
+
+Contents:
+Stellar Evolution
+Overview
+Star/Planet Formation
+Late evolution­­Low Mass
+Late evolution­­Intermediate Mass
+Late evolution­­High Mass
+Stellar Structure
+Degeneracy
+Masses and limits
+Supernovae
+SN classification(by spectra and light curves)
+Type Ia Scenarios
+Type Ia Application
+DSO’s
+Organization strategy
+Math
+Constants/Formulas/Derivations
+Why can’t we go the speed of light?
+Notes
+Definition
+Star types
+
+Stellar Evolution
+Overview
+
+Star/planet formation
+This diagram shows the formation of a relatively low mass star(<2 solar masses). 2­8 solar
+masses stars become Ae/Be Herbig star instead of T­Tauris, and the process is largely unknown for
+even more massive stars. The process of star formation is likely to be very similar regardless of
+mass, though the timing would vary greatly.
+
+Late evolution­­Low Mass
+Because very low mass stars(usually red dwarfs) are fully convective, fused helium is
+distributed throughout the entire star, instead of piling up in the core. A degenerate helium core is
+never created, so the star never becomes a red giant. Instead the star directly becomes a helium
+white dwarf once all the hydrogen fuel has been exhausted. Because of the trillion­year lifespan of
+these stars, this process has not been observed.
+
+Late evolution­­ Intermediate Mass
+
+Late evolution­­High Mass
+
+Stellar Structure
+
+Nuclear Processes
+
+Degeneracy
+
+Masses and limits
+
+Supernovae
+SN Classification
+
+Type Ia Scenarios
+
+Supernova Application
+Because all Type Ia supernova explode when the white dwarf reaches 1.44 solar masses, they
+all have the same energy output, therefore the same absolute magnitude. This makes them great
+standard candles; astronomers use them to measure intergalactic distances, when parallax and
+Cepheid variables no longer work. Distance calculations for supernovae provided the first direct
+evidence of dark energy. Below are some example of finding distance with Ia supernovae.
+
+DSO’s
+Organization strategy
+I haven’t started working on DSO notes yet, and I doubt I will until this year’s are announced. However,
+I just wanted to share my organization strategy as I found it to be very effective. I organized all the DSO’s on a
+chart, along with their discoverer, discovery method, distance to Earth, age, composition… pretty much every
+detail I could find. Also, I had a column for both pictures and graphs (although really I should have had one for
+artist’s impressions and actual data).
+I found this chart to be extremely effective because I ​hate leafing through pages of text looking for the
+right line. This way, when I was asked “what exoplanet was discovered in 1995, and what was its
+significance?” I just had to go down the discovery date column until I found 1995. Oh that’s 51 Pegasi b, and
+looking at the significance column, it was the first planet discovered around a sunlike star.
+Below I have half the chart so you can see what kind of stuff I put on it and decide whether you like it. It
+is sideways though, but I figured you won’t actually want to use the info from last year on it.
+
+Math
+Formulas/Derivations
+I had a very hard time finding a good list of formulas last year(I did, however, find one full of typos so
+look out for that one). Here’s all the formulas I could find, along with derivations(for Kepler’s Laws and
+other orbital mechanics). They’re handwritten though(adding symbols is a nightmare) so no
+copying­and­pasting. Unfortunately, you will either have to rewrite or type them.
+
+Planet­related questions​ will likely not be on this year’s test. However, many of these
+formulas describe binary systems in general; because Type Ia supernovae result from binary
+systems, they might be applicable anyway.
+
+Why can’t we go the speed of light?
+This is not directly related to astro, but I thought I’d mention it anyway. I hear this
+misconception all the time: “It’s not that we can’t go faster than the speed of light, it’s just that we
+haven’t figured out how yet.” Grrr. So I’ve included this visual(ha! Who would’ve guessed that!) proof.
+I saw it on the minutephysics YouTube channel if you want to go watch that.
+
+Notes
+Here’s some alphabetical lists with brief descriptions/definitions that you might encounter.
+
+Definitions
+Ambipolar DIffusion​­­the diffusion of positively and negatively charged particles via their interactions with a
+magnetic field.
+Baade Wesselink Method​­­for calculating properties of Cepheids.
+Chandrasekhar Limit​­­the amount of mass a white dwarf can have before a 1a SN(the upper limit to an
+electron degenerate object). Accepted to be 1.44 solar masses.
+Coulomb Barrier​­­the energy barrier that 2 atomic nuclei must overcome to fuse. Governs the volume of
+planets.
+Degenerate Matter​­­Matter at such a high density its pressure is independent of temperature.
+Eddington Limit​­­the maximum luminosity an object can have while maintaining a balance between outward
+radiation and inward gravitational force (hydrostatic equilibrium).
+Electron Degeneracy Pressure​­­results because electrons resist being too close to each other.
+Faber­Jackson Relation​­­an empirical function that relates the velocity dispersion and the luminosity of a
+galaxy, used to determine distance.
+Gamow Peak​­­the product of Maxwellian distribution and tunneling rate under which fusion is most likely to
+occur.
+Hawking Radiation​­­theoretical electromagnetic radiation emitted by black holes.
+Hill Sphere​­­​also called “Roche Sphere” The region where an object dominates the attraction of satellites.
+Humphreys­Davidson Limit​­­upper stellar luminosity limit.
+Hydrodynamic Escape​­­when the atmosphere of a gas giant is stripped away by its star.
+Ideal Gas Law​­­Function that relates a gas’s volume, pressure, temperature, and quantity.
+Initial Mass Function​­­an empirical function that describes the distribution of initial mass for a population of
+stars (a histogram for star populations).
+Jeans Mass​­­the amount of mass needed for a dust cloud to collapse into a star.
+Kappa Mechanism­­​the driving mechanism behind the changes in luminosity in pulsating variables. Greek
+letter Kappa is used to indicate radiative opacity.
+Kelvin Helmholtz Mechanism​­­the process that occurs when the surface of a star or planet drops. THe
+cooling causes the pressure to drop, resulting in the object shrinking. THis raises the pressure in the core,
+heating up the object.
+Kirchhoff’s Law​­­A hot dense gas produces a continuous spectrum without dark lines; a hot diffuse gas
+produces emission lines; a cool diffuse gas produces dark absorption lines when placed in front of a
+continuous spectrum.
+Kozai Mechanism​­­the periodic exchange of an object’s orbit’s inclination and eccentricity.
+Nebular Hypothesis​­­the theory that our solar system formed from a nebula.
+Neutron Degeneracy Pressure​­­results because neutrons resist being too close to each other.
+(O­C) Method​­­”Observed minus Calculated” method, used to determine changes in the period of a variable
+star.
+Olber’s Paradox​­­If the universe is truly infinite, the entire sky should be filled with light.
+Pauli Exclusion Principle​­­no two electrons in an atom can be in the same configurations at the same time.
+Applies to all fermions, but not to bosons.
+Poynting­Robertson Drag​­­solar radiation causes dust to lose angular momentum, causing it to spiral
+towards the star.
+Rayleigh Scattering​­­scattering of light in a medium. Causes the sky to be blue and sunsets to be red.
+Roche Limit​­­the distance within which an object will disintegrate due to another object’s tidal forces
+overcoming its own gravity.
+
+Roche Lobe​­­the tear­drop shaped area around a binary star where the material is gravitationally bound to it.
+Roche Limit​­­​See “Hill Sphere”
+Rossiter­McLaughlin Effect​­­When an exoplanet transits, the star rotates on its axis, created a small red and
+blue shift of its atmosphere that can be detected.
+Rydberg Formula​­­gives energy differences between levels in Bohr Model.
+Schonberg­Chandrasekhar Limit​­­the maximum mass of a non­fusing, isothermic core that can support an
+enclosing envelope.
+Schwartzschild Radius​­­the radius something must be compressed to to form a black hole (for the escape
+velocity to become the speed of light)
+Stefan­Boltzmann Law​­­describes the power radiated from a black body in terms of its temp.
+Stromgen Radius​­­the size of an HII region.
+Sudarsky Classes​­­a system of classifying gas giant planets.
+Tolman­Oppenheimer­Volkoff Limit​­­upper mass limit for neutron stars (or any neutron degenerate object).
+Tulley­Fischer Relation​­­a technique that uses the rotational velocity of a galaxy to determine distance.
+Virial Theorem​­­for a stable, self­gravitating, spherically distributed object (stars, galaxies, etc.) the kinetic
+energy must equal the potential energy within a factor of 2.
+Vogt­Russell Theorem​­­the structure of a star depends only on its mass and the distribution of chemical
+elements in its interior.
+Wien’s Law​­­energy emitted by objects of different temperature will peak at different wavelengths. The hotter
+the object, the shorter and bluer the wavelength.
+
+Star types
+Ae/Be Herbig—​More massive analog of T Tauri. A young star 2­8 M.
+Alpha Cygni—​Variable B or A supergiant w/ non­radial pulsations. Prototype is Deneb.
+AM Canum Venaticorum—​Rare type of cataclysmic variable, where WD accretes hydrogen­poor matter from
+donor star (helium WD, low­mass helium star, or evolved MS star).
+AM Herculis—​see “polars”
+Beta Cephei(Beta Canis Majoris)—​Class B stars with small rapid variations in brightness due to pulsations of
+star’s surface. Pulsations driven by kappa mechanism and p­mode pulsations.
+BY Draconis—​K or M MS variables. Quasiperiodic variations due to rotation of star and star spots.
+Cataclysmic variable(CV)​­­Stars with occasional violent outbursts due to thermonuclear processes. Many are
+close binary systems.
+Cepheid (anomalous)­­​Pulsating variable on the instability strip, similar to RR Lyrae but with higher
+luminosities.
+Cepheid (classical)­­​A pulsating Population I giants and supergiants whose luminosity and pulsation period
+are related.
+Cepheid (double­mode)­­​Cepheid that pulsates in two modes at the same time, usually the fundamental and
+first overtone.
+Cepheid (type II)­­​Population II Cepheids.
+Delta Celphei­­​see “classical cepheids.”
+Delta Scuti­­​Also known as “Dwarf Cepheids.” Class A stars on or near the main sequence at the lower end of
+the instability strip.
+DQ Herculis­­​see “intermediate polars.”
+Dwarf Nova​­­Close binary system with a WD, red dwarf, and accretion disk. Variations are caused by
+instabilities in the disk.
+Eruption Variable​­­Varies due to violent processes and flares in its chromosphere and coronae.
+FK Comae Berenices
+FS Canis Majoris—​Eruptive variable star. Likely in binary system w/ mass exchange. Consists of B MS star in
+dust envelope.
+
+FU Orionis­­​A pre main sequence star that experiences dramatic change in magnitude and spectral type due
+to abrupt mass transfer from accretion disk onto star.
+Gamma Cassiopeiae­­​also known as “shell star.” An eruptive variable with a spectrum that suggests a
+circumstellar disk of gas. Irregular variations are due to outflow of matter.
+Gamma Doradus­­​Stars that vary due to non­radial pulsations of their surface. Typically young F or late A
+main sequence stars.
+Irregular Variables­­​Pulsating variables with little or no periodicity. Includes most red giants.
+Lambda Eridani­­​Be stars with very regular variations due to either non­radial pulsations, inhomogeneous
+rotating discs, or the rotation of the star itself.
+Luminous Blue Variable­­​also known as “S Doradus.” Massive evolved stars that show unpredictable and
+sometimes dramatic variations in both their spectra and their brightness.
+Microquasar­­​A smaller cousin of the quasar, sharing the same characteristics, strong and variable radio
+emission, often resolvable as a pair of radio jets, and an accretion disk surrounding a compact object which is
+either a black hole or a neutron star.
+Mira­­​Pulsating red giants on AGB.
+Novae­­​Close binary systems with an accreting WD and low­mass MS star.
+Polars—​Highly magnetic type of CV binary system, that produces polarized light. System contains accreting
+WD and low­mass donor star(usually red dwarf), with synchronous rotation (tidal locking).
+Polar (intermediate)­­​Type of CV binary system where the accretion disk is disrupted by the WD’s magnetic
+field. Infalling matter follow the magnetic field in accretion streams.
+PV Telescopii­­​Hydrogen­deficient, helium supergiants.
+R Coronae Borealis­­​Rare luminous, hydrogen­poor, carbon­rich supergiant that spend of the time at max
+brightness, fading at irregular intervals.
+Recurrent Novae­­​Similar to novae, but with two or more smaller outbursts in recorded history.
+RR Lyrae­­​Short period pulsating giants, usually class A. Older and less massive than Cepheids.
+RS Canum Venaticorum​­­Close binary system with active chromospheres that cause large stellar spots.
+RV Tauri​­­Yellow supergiants whose light variation alternates between deep and shallow.
+S Doradus­­​see “Luminous Blue Supergiant.”
+Semiregular variable​­­Giants and supergiants with periodicity and intervals of irregular variation.
+SS Cygni­­​prototype for “dwarf nova.”
+SU Ursae Majoris​­­Two distinct kinds of outbursts: one faint, frequent, and short; the other is bright, less
+frequent, and longer. Physically similar to U Gem stars.
+SW Sextantis­­​A CV where the emission lines of hydrogen and helium are not doubled.
+SX Arietis­­​B type main sequence variables that exhibits strong magnetic fields and intense He I and Si III
+spectral lines.
+SX Phoenicis­­​Cousin to Delta Scuti, pulsating A­F type with low metallicity.
+Symbiotic Binary System​­­Close binary with a red giant and a hot blue star, both embedded in nebulosity,
+that shows semi­periodic, nova­like outbursts.
+T Tauri­­​young star <2 M.
+U Geminorum​­­Suddenly brightens after intervals of quiescence at minimum light.
+Wolf­Rayet­­​Evolved, massive stars that have completely lost their outer hydrogen and are fusing helium or
+heavier elements in the core. Spectrum indicates high surface temperature, surface enhancement of heavy
+elements, and strong stellar winds.
+W Ursae Majoris­­​also known as “low­mass contact binary.” Type of eclipsing binary variable star. These stars
+are close binaries of spectral types F, G, or K that share a common envelope of material and are thus in contact with
+one another.
+Z Andromedae­­​prototype for “symbiotic variable.”
+Z Camelopardalis​­­Shows cyclic variations interrupted by intervals of constant brightness called “standstills.”
+Physically similar to U Gem stars.
+
+

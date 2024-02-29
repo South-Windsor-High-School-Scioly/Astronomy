@@ -1,0 +1,679 @@
+ATM60, Shu-Hua Chen
+
+Radiation laws
+Blackbody radiation
+Any substance (solid, liquid or gas) emits radiation
+according to its absolute temperature, measured in
+units of Kelvin (K = oC + 273.15). The efficiency at
+which radiation is emitted varies with the substance.
+However, at any temperature, there is an upper limit to
+how much radiation can be emitted.
+A blackbody is a hypothetical body that:
+1) Emits radiation at the maximum intensity possible
+for every wavelength.
+2) Completely absorbs all incident radiation (hence
+the term “black”).
+Planck’s Law
+Describes the amount of radiation emitted by a
+blackbody at each wavelength as a function of
+temperature:
+Monochromatic irradiance E *
+5
+
+C1
+C
+exp 2
+
+,
+
+T
+
+1
+
+where we use the asterisk * to refer to blackbody
+radiation.
+is the wavelength in meters
+T is the absolute temperature in Kelvin (K)
+C1 = 3.74 10-16 W m2
+C2 = 1.44 10-2 m k
+
+1
+
+ATM60, Shu-Hua Chen
+Planck’s law shows the spectral dependence of energy
+emitted by a blackbody at different absolute
+temperatures.
+
+7000 K
+200
+
+Irradiance
+
+E* (M W m -2 m -1 )
+
+6000 K
+
+100
+5000 K
+4000 K
+0
+0
+
+1.0
+Wavelength
+
+2.0
+
+( m)
+
+Note: The sun has an effective radiative temperature of about
+6000 K but terrestrial objects have temperatures only
+of the order of 300 K.
+At different radiative temperatures, the area under the
+Planck curve changes and the spectral quality of the
+radiation shifts along the wavelength axis.
+These two effects are described by two well-known laws:
+one based on integration of the Planck equation to
+yield the total radiant energy emitted, and the other
+based on differentiation of the equation to obtain the
+peak wavelength of the spectrum.
+(How does one obtain the total radiation emitted and
+how does one obtain the peak of the wavelength of the
+spectrum?)
+Stefan-Boltzmann Law
+The total amount of radiant energy emitted by a
+blackbody is proportional to the fourth power of the
+absolute temperature such that,
+E*
+
+T4
+
+W m-2
+2
+
+ATM60, Shu-Hua Chen
+where
+
+=5.67 x 10-8 W m-2 K-4 is the Stefan-Boltzmann
+
+constant. E* is the area under the E * curve, i.e.,
+
+E*
+
+E* d
+0
+
+Wien’s displacement Law
+The wavelength of the peak in the spectral curve is
+given by
+max
+
+2897
+T
+
+m,
+
+where T is the temperature in Kelvin.
+The Wien displacement law shows that there is a wide
+separation between solar radiation (shortwave) and
+terrestrial radiation (longwave):
+Solar (T 6000 K)
+
+max
+
+Terrestrial (T 300 K)
+
+max
+
+2897
+6000
+2897
+300
+
+0 .5 m
+10 m
+
+It is instructive to plot the spectra of solar and
+terrestrial radiation on the same diagram to show their
+relative contributions at different wavelengths. Before
+doing so, however, it is necessary to make the
+following changes:
+1) Solar radiation is reduced according to the inverse
+square law to the mean orbital distance of earth.
+2) Solar radiation is further reduced (by a factor of
+4) to express it in terms of unit surface area of
+the globe (surface area of a sphere is 4 times that
+of a circular disc).
+3) Wavelength is plotted on a log scale because of the
+large range of wavelengths involved in the two
+radiation streams.
+4) Irradiance is multiplied by the wavelength ( E * ) so
+that equal areas on the graph respect equal amounts
+of radiant energy.
+Show the spectra of longwave and shortwave radiation
+(Fig. 6)
+
+3
+
+ATM60, Shu-Hua Chen
+The solar “constant” S
+The solar constant is the solar irradiance incident on
+a surface perpendicular to the sun’s ray at the mean
+orbital distance of the earth and outside the
+atmosphere. This represents the amount of solar
+radiation available for warming the earth and for
+driving its atmospheric and oceanic motions.
+We can calculate the solar constant knowing its radiant
+output, its radius and the orbital distance of the
+earth, using the inverse square law.
+
+E2
+E1
+A2
+
+A1
+
+point source
+
+r1
+
+A2
+A1
+
+r2
+
+r2
+r1
+
+2
+
+If the same amount of radiant energy passes through
+areas A1 and A2, the irradiance (flux of energy per
+unit area) is inversely proportional to the area, and
+thus to the squares of the radial distance from the
+origin.
+E2
+E1
+
+A1
+A2
+
+r1
+r2
+
+2
+
+Now consider that r1 is the radius of the sun and A1 is
+an area on the surface of the sun which radiates with
+an effective temperature of 5784 K
+
+4
+
+ATM60, Shu-Hua Chen
+
+r1
+
+r3
+
+r2
+
+E1
+
+E3
+
+E2
+
+sun
+earth
+
+planet
+
+Where r1 = 6.95 x 105 km, r2 = 149.6 x 106 km
+From the Stefan-Boltzmann law,
+T4
+
+E1
+
+(5.67 x 10 -8 ) (5784) 4
+
+W m -2
+
+Then, using the inverse square law,
+
+E2
+
+E1
+
+S = E2
+
+r1
+r2
+=
+
+2
+
+(5.67 x 10-8 ) (5784) 4
+
+6.95 x 105
+
+2
+
+149.6 x 106
+
+1370 W m-2
+
+This is the solar constant, the irradiance of the sun
+at the earth’s orbital distance.
+Likewise, we could find the solar constant for planet x
+knowing its orbital distance, or we could calculate it
+based on knowledge of earth’s solar constant.
+E3
+E2
+
+r2
+r3
+
+2
+
+5
+
+ATM60, Shu-Hua Chen
+Emissivity
+Real objects emit radiation at a rate lower than that
+of a blackbody (a perfect emitter). The efficiency of
+emission by an object at a given temperature is
+wavelength dependent. For example,
+
+blackbody
+
+E
+
+real object
+
+Wavelength
+
+Emissivity is defined as
+
+E
+E*
+
+( 1)
+
+But it is often convenient to express emissivity in
+integrated form, such as
+
+E
+
+E d
+0
+
+E*
+
+E d
+0
+
+E* d
+
+T4
+
+0
+
+See the attached table of emissivities for various
+natural and artificial surfaces. (No table)
+Show an emissivity table?
+
+6
+
+ATM60, Shu-Hua Chen
+Kirchhoff’s law
+Materials that are strong emitters at a particular
+wavelength are also strong absorbers at that wavelength
+such that
+a ,
+
+where a is the absorptivity which is the fraction of
+incident radiation, at a given wavelength, that is
+absorbed by the surface. Note the wavelength
+dependence. We can only write the above expression in
+integration form
+a
+
+when the radiation emitted and the radiation absorbed
+have the same spectral distribution. One cannot equate
+the efficiency with which a surface absorbs solar
+radiation to the efficiency with which it emits
+terrestrial radiation.
+For example, fresh snow has a high albedo (reflectivity
+to solar radiation) meaning a low absorptivity to solar
+radiation. Yet, snow is a very good emitter of longwave
+radiation (high emissivity). Under the right
+circumstances, snow can melt more quickly on a cloudy
+night than on a sunny day.
+
+*
+*
+High reflection
+
+snow
+
+*
+
+Warm, low cloud
+
+snow
+
+low absorption
+
+7
+
+high absorption
+
+ATM60, Shu-Hua Chen
+Energy balance of the earth/atmosphere system
+Since radiant energy is the only mechanism by which the
+earth/atmosphere system can exchange energy with space,
+there must be a state of radiation balance (the earth
+loses as much radiant energy as it gains from the sun),
+assuming that the earth’s temperature is approximately
+steady-state, and is not increasing or decreasing
+forever. This enables us to calculate an effective
+radiating temperature for the earth, as it would be
+observed from outer space.
+
+IR
+
+IR
+
+IR
+IR
+
+solar
+radiation
+
+IR
+
+terrestrial
+radiation
+
+IR
+
+The earth intercepts as a disc of radius r. The amount
+of solar radiation absorbed
+= (1 - ) S r 2 ,
+where
+
+= 0.3 (albedo of earth/atmosphere)
+S = 1370 W m-2 (solar constant)
+
+The earth emits as a sphere at a rate given by the
+Stefan-Boltzmann law:
+=
+where T
+
+T 4 (4 r 2 ) ,
+
+= equivalent blackbody temperature of the
+earth/atmosphere
+= Stefan-Boltzmann constant
+8
+
+ATM60, Shu-Hua Chen
+= 5.67 x 10-8 W m-2 K
+
+–4
+
+Equating the amount of solar radiation absorbed and the
+amount emitted, we obtain
+(1
+
+) S r2
+
+T 4 (4 r 2 )
+
+Giving
+
+T
+
+(1
+
+) S
+
+1
+
+4
+
+4
+(1 0.3) 1370
+4 5.67 10
+
+1
+
+4
+
+-8
+
+255 K (-18 o C)
+
+This is a globally averaged effective radiating
+temperature and is probably equivalent to some upper
+atmospheric temperature. The earth’s surface has an
+observed globally averaged temperature much warmer than
+this, close to 15 oC. The explanation for this is the
+well-know “greenhouse” effect.
+Note: If we have chosen an emissivity for the earth such as
+0.9 to adjust the Stefan-Boltzmann radiation, we
+would have calculated an effective temperature of 262 K
+(-11 oC) still much colder than observed temperatures
+at the earth’s surface.
+
+9
+
+ATM60, Shu-Hua Chen
+
+Solar radiation
+The attached diagram shows the spectral composition of
+solar radiation. Based on the position of the peak of
+the spectrum, the sun appears as a blackbody with
+temperature near 6000 K but absorption by gasses in the
+solar “atmosphere” reduces the overall emission, and
+the sun appears as an object with an effective or
+radiative temperature of 5784 K.
+Solar irradiance changes with time, season, and
+location for the following reasons:
+1) The solar “constant” changes due to changes in the
+output of the sun ( 0.1% )
+2) At different times of the year the distance between
+the sun and the earth is different because the
+earth’s orbit is slightly elliptical. The sun and
+earth are closest in January (S-hemisphere summer)
+and furthest apart in July (N-hemisphere summer).
+The 1.7% difference in the distance translates to a
+3.4% difference in irradiance because of the
+inverse square relationship.
+3) Different parts of the earth are exposed to
+different amounts of solar radiation, depending on
+the time of the day and time of year, change of the
+zenith angle of the sun (angular distance from the
+overhead position).
+4) The path length of solar radiation through the
+atmosphere varies as a function of zenith angle,
+causing depletion by scattering and absorption.
+
+10
+
+ATM60, Shu-Hua Chen
+
+Radiation and the atmosphere
+Of great importance is the difference between how the
+atmosphere transmits, absorbs, and scatters solar and
+terrestrial radiation streams. The most important
+statement that one could make is that the atmosphere is
+relatively transparent to solar radiation but is
+relatively opaque to terrestrial radiation.
+In the absence of dense clouds, a large fraction of the
+incident solar radiation penetrates the atmosphere and
+reaches the surface. Most of the radiation (longwave)
+emitted by the earth surface is absorbed by the
+atmosphere but, because the atmosphere is a good
+absorber, it is also a good emitter (Kirchhoff’s law)
+and reemits a large portion of the absorbed energy back
+to the surface. This is the “greenhouse effect”.
+Scattering of solar radiation
+The scattering of sunlight in atmosphere is responsible
+for the blue color of the sky in clear conditions and
+also for the lack of color when the air is laden with
+pollutants (unless pollutants are also selective
+absorbers in which case the sky, especially the lowest
+layers when viewed from the side, can appear a murky
+brown).
+The blue or colorless appearances of the sky result
+from two distinct types of scattering:
+1) Rayleigh scattering is by particles (molecules and
+groups of molecules, in this case) much smaller
+than the wavelength of the radiation. Rayleigh
+scattering is very wavelength dependent such that
+the scattering coefficient (a measure of the
+efficiency of the scattering)
+k
+
+1
+4
+
+For example, taking the wavelength of blue light to
+be 0.47µm, and that of red light to be 0.64 m ,
+
+k (blue)
+k (red)
+
+0.64
+0.47
+
+4
+
+3 .5
+
+Thus, blue light is much more strongly scattered
+than red light, accounting for the blueness of the
+sky and for the red color of sunsets. The blue sky
+11
+
+ATM60, Shu-Hua Chen
+color humans perceive
+spectrum of radiation
+energy in the shorter
+the blue wavelengths,
+retina to colors.
+
+is also related to the
+from the sun, which has less
+violet wavelengths than in
+and the sensitivity of the
+
+2) Mie scattering is by particles of the same order of
+size as the wavelength (such as solid particles or
+small liquid droplets in polluted or hazy air), and
+is relatively independent of wavelength. As a
+result, the sky appears white or colorless when
+heavy with pollutants.
+See also the following diagram presenting a general
+picture of scattering in the atmosphere.
+Show a scattering diagram
+Transfer and absorption of solar radiation
+Generally, a cloud-free atmosphere absorbs most solar
+radiation (short-wave) weakly. However, the shorter
+wavelengths (
+0.3 m ) are eliminated at high
+altitudes by N2, O2 and O3. Strong absorption by ozone
+at about 50 km produces the temperature maximum at this
+height (the stratopause). In the near infrared, water
+vapor has several rather weak absorption bands. See the
+following two diagrams for details.
+Show a diagram for absorptivity
+Clouds absorb some solar radiation but are mostly
+responsible for scattering and for reflection of solar
+energy back to space. The earth’s albedo of 0.3 is
+largely a consequence of the amount of cloudiness.
+
+12
+
+ATM60, Shu-Hua Chen
+Atmospheric absorption of terrestrial radiation
+The spectral absorptivities shown in the following
+diagram clearly show the large differences between
+absorption and transmission of solar and terrestrial
+radiation. Again, the atmosphere is relatively
+transparent to solar radiation but nearly opaque to
+terrestrial radiation. Recalling that the spectrum of
+terrestrial radiation spans a range from about 4 m to
+100 m with a peak at about 10 m , we see that most
+radiation emanating from the earth surface would be
+absorbed by the atmosphere, with water vapor and CO2
+being the principle absorbers.
+An atmosphere “window” appears in the absorption
+spectrum near the peak in the spectrum of terrestrial
+radiation (~10 m ) allowing some longwave radiation to
+escape to space under cloud-free conditions. This
+“window” in this part of the spectrum is utilized by
+satellite IR imagery to observe cloud cover and other
+features both day and night.
+Clouds are very strong absorbers of longwave radiation.
+The earth/atmosphere energy budget
+Being a good absorber of longwave radiation, and
+according to Kirchhoff’s law, the atmosphere is also an
+excellent emitter of radiation of the same spectral
+composition. Clouds are also good emitters of
+terrestrial radiation according to their temperature,
+so warm (usually low) clouds emit more strongly than
+cold (usually high) clouds, as dictated by the StefanBoltzmann law.
+This absorption and emission of terrestrial radiation
+plays a large role in governing the energy balance of
+the earth/atmosphere system and is the reason that
+changes in the concentration of “greenhouse” gasses are
+likely to have an impact on global climate.
+The following diagram summarizes, in a globally
+averaged manner, the exchanges of energy that take
+place between the earth’s surface, the atmosphere, and
+space. All the numbers are normalized to 100 units of
+incoming solar radiation. Note the large magnitudes
+associated with longwave radiation, some of the numbers
+even larger than that of the ultimate energy source,
+the sun.
+
+13
+
+ATM60, Shu-Hua Chen
+Radiative Energy Budget
+Earth/atmospheric system
+Net solar absorbed
+Net longwave emitted
+
+70
+-70
+0
+
+Earth surface
+Net solar absorbed
+Net longwave emitted
+
+45
+-16
+29
+
+net gain
+
+Atmosphere
+Net solar absorbed
+Net longwave emitted
+
+25
+-54
+-29
+
+14
+
+net loss
+
+This document was created with Win2PDF available at http://www.daneprairie.com.
+The unregistered version of Win2PDF is for evaluation or non-commercial use only.
+
+

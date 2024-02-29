@@ -1,0 +1,762 @@
+Herbig Haro Objects in the Orion Nebula
+
+1
+
+C. R. O'Dell, Patrick Hartigan, W. M. Lane, and S. K. Wong
+Department of Space Physics and Astronomy, MS-108, Rice University, 6100 S. Main St.,
+Houston, TX 77005-1892
+Michael G. Burton
+School of Physics, University of New South Wales, Sydney, NSW 2052, Australia
+John Raymond
+Center for Astrophysics, Mail Stop 16, Cambridge, MA 02138
+David J. Axon
+Aliated to the Astrophysics Division of ESA, Space Telescope Science Institute, 3700 San
+Martin Drive, Baltimore, MD 21218
+Received
+
+1 Based
+
+;
+
+accepted
+
+on observations with the NASA/ESA Hubble Space Telescope, obtained at the
+Space Telescope Science Institute, which is operated by the Association of Universities for
+Research in Astronomy, Inc., under NASA Contract No. NAS 5-26555.
+
+{2{
+
+ABSTRACT
+We have used the Hubble Space Telescope to image two regions of the Orion
+Nebula in low and high ionization emission lines. There appear to be two
+main systems of Herbig Haro objects in the Orion nebula { a `North' System
+is centered slightly north of the BN and IRc2 sources, and a `South' System
+centered south of the Trapezium stars. The North System appears to be the
+result of shocks on the near side of OMC-1, the host molecular cloud for M42.
+The sources of these HH objects is most likely to be instabilities in shocks driven
+by massive star winds penetrating into a region of decreasing ambient density.
+HH 201 displays many of the characteristics of the North System members but
+lacks a trailing H2 nger. HH 208 and 209 share this latter property and also
+display a very di erent morphological form, which puts their association with
+the North System in doubt. The South System contains large shocks with a
+variety of morphologies. This system is most likely a combination of shocks in
+the ionized nebular gas and lower ionization shocks formed when jets from low
+mass young stars strike the neutral lid lying on the near side of M42.
+Both shocks and photoionization a ect the line excitation of HH objects
+in M 42, especially among the South System, where ultraviolet light from
+1C Ori penetrates into the back side of a bow shock that moves toward the
+observer. Among the bow-shaped objects along the ngers in the North system,
+the highest excitation lines occur near the apices of the bows, as predicted by
+theory. Objects that lie closer to the Trapezium are more dicult to analyze
+because of stronger nebular emission, rendering the HH objects best visible in
+[O I] and [S II] emission.
+
+Subject headings: ISM:jets and out ows{nebulae:individual (Orion)
+
+{3{
+
+1. Background and Introduction
+Studies of stellar jets have focussed primarily on the simplest systems, those ows
+which emanate from single, relatively isolated low mass stars. However, multiple ows are
+common even among the brightest and best studied regions (e.g HH 1, Reipurth et al. 1993;
+HL Tau, Mundt et al. 1990; HH 111, Gredel & Reipurth 1993), and we can expect even
+greater source confusion within the clusters of giant molecular clouds if every accretion
+disk around a young star drives a jet. The mixture of photoionized and shocked gas also
+makes it more dicult to interpret emission lines from jets within H II regions; for example,
+emission lines formed as a shock moves through ionized gas closely resemble those from a
+higher velocity shock in neutral gas (Cox & Raymond 1985).
+In spite of the above complications, enough is now understood about the line excitation
+in stellar jets to enable us to study these ows in more complex environments. Extending
+the study of stellar jets to dense clusters and H II regions is the the only way to understand
+how a typical young star interacts with its environment, because most of the stars in our
+Galaxy, including all massive stars, begin their lives in clusters deep within giant molecular
+clouds. Understanding line ratios in H II regions also requires that we distinguish shocked
+gas from photoionized gas before we measure canonical abundances, temperatures and
+densities of the H II region.
+At a distance of 430 pc (Warren & Hesser 1977), the OMC-1 cloud and the Orion
+Nebula (M 42; NGC 1976) are the the nearest giant molecular cloud and H II region to
+the Sun, respectively. On the near side of OMC-1 lies a grouping of >
+ 700 stars known
+as the Trapezium Cluster (Herbig & Terndrup 1988, Prosser et al. 1994, Zinnecker et al.
+1993), while  10 to the NW of the Trapezium a cluster of young stars embedded deeply
+within the cloud appear as infrared sources. The hottest star in the Trapezium cluster, 1 C
+Ori, dominates the photoionization of the surrounding gas and produces a thin blister of
+
+{4{
+photoionized material that is the famous Orion Nebula. The Trapezium lies in a zone of low
+gas density and is bounded on the near side by an irregular "lid" of neutral (H I) gas. This
+lid was originally detected by study of the 21 cm line in absorption against the nebula's
+radio continuum (van der Werf & Goss 1989, 1990) and we now know that the irregularities
+in the lid produce the patchy extinction seen across the face of the nebula (O'Dell et al.
+1992) and the multiple low ionization interstellar absorption lines seen in the brightest stars
+(O'Dell et al. 1993).
+Because the Trapezium cluster contains so many young stars, it is not surprising that
+many HH objects exist within the Orion nebula. The basic geometry in the Orion nebula is
+understood quite well (O'Dell & Wen 1992, Wen & O'Dell 1995). Shocks in out ows from
+Trapezium Cluster stars should occur either (1) within the low density highly ionized gas
+near the hottest stars, (2) within the main ionization front, or (3) in the neutral lid. HH
+objects driven by infrared sources within the OMC-1 cloud to the NW of the Trapezium
+will be heavily reddened, so optically visible shocks in this region will form preferentially in
+or near the photodissociation region (PDR) that lies beyond the ionized surface material.
+As observational techniques have improved, astronomers have continued to discover
+more HH objects in the Orion Nebula. The rst HH objects discovered in this region,
+HH 203 and HH 204 near 2 A Ori were seen in projection against a low surface brightness
+part of the nebula (Munch & Wilson 1962, Taylor & Munch 1978). Munch & Taylor (1974)
+found HH 201 in an [O I] study while Canto et al. (1980) found HH 202 in a similar
+search in [N II] and [S II]. A subsequent [O I] search by Axon & Taylor (1984), Taylor
+et al. (1986) added six more objects in the northern part of M42 (HH 205 ? 210). A
+recent spectroscopic and imaging study has led to the addition of another object, HH 269
+(Walter et al. 1995), to the southwest of the Trapezium. Infrared observations by Allen &
+Burton (1993; hereafter A&B) rst showed clearly a uni ed outer structure of \ ngers" of
+
+{5{
+H2 emission, most of which had known optical HH objects at their tips. A similar structure
+was actually seen in the early images of Taylor et al. 1984 and this work has been further
+extended in later studies in H2 (Schild et al. 1996; McCaughrean & MacLow 1996).
+The paradigm that we will use for discussion of individual HH objects is that they
+are all shocked gas whose energy and velocity arises from material owing from a young
+star. The shocked gas is compressed to higher density and raised to a high electron
+temperature and increased ionization while material behind this advancing shock front
+cools and recombines toward lower ionization, producing an ionization strati cation that
+allows us to estimate the shock velocity and preshock density (e.g. Morse et al. 1993a).
+This paper analyzes HST images of two regions of the Orion Nebula already known
+to contain HH objects. We rst present the new observational results and show how they
+reveal that the known HH objects are but the brightest and best de ned of a large number
+of related objects. We then discuss the physics of the brightest HH objects, and conclude
+with a discussion of the sources that drive and create M42's HH objects. There are many
+high ionization shock structures in the highly ionized central region near the Trapezium
+which manifest themselves best in [O III] (Casta~neda 1988, O'Dell et al. 1993b, O'Dell &
+Wen 1994) but we will treat these in a future paper that discusses HST observations and
+correlated groundbased spectroscopy. Whenever possible, we will refer to the objects by
+their numbers in the uni ed designation system of Reipurth (1995).
+
+2. Observations and Data Reduction
+We observed two elds with the WFPC2 of the HST, a northern portion on 3 October
+1995 and a southern on 14 November 1995 as part of General Observer program GO 5976.
+The lters employed were f673n to isolate the [S II] doublet at 6717+6731 
+A and the f631n
+
+{6{
+to isolate the [O I] line at 6300 
+A. The northern eld was determined by the need to t
+all of the known northern HH objects into one pointing and the southern was made as
+a duplicate of an earlier set of images. The central intersection of the irregular WFPC2
+northern eld was at 5:35:13.0 ?5:22:48 (J2000) with a position angle of the SE boundary
+of 43 and the center of the high resolution PC portion of the southern eld was at 5:35:22.0
+?5:25:09 with a PA = 0 orientation. The full northern eld is shown in Figure 1.
+Both elds had been previously covered with WFPC2 images in [O III] at 5007 
+A, H I
+H at 6563 
+A, [N II] at 6583 
+A, and the continuum at 5470 
+A (O'Dell & Wong 1996). In
+addition, we made use of the A&B images in H2 at 2.122 m, [FeII] at 1.644 m, and the
+J bandpass. The infrared images were made in two parts, a higher resolution (0.2600/pixel)
+coverage of the northern eld and a lower (0.6100/pixel) coverage of the entire region. The
+infrared line lters used were about 1% of the wavelength, which means that that they also
+pass a signi cant amount of scattered light continuum in selected regions. The two infrared
+images were merged into a single image before comparison with the HST observations.
+Each new WFPC2 image was actually a triple exposure, to allow adequate cosmic
+ray correction. The rst steps of data reduction were straightforward, using IRAF2 and
+STSDAS tasks to do cosmic ray cleaning, at eld correction, and integrating the four
+individual WFPC2 CCD images into a single mosaic. Irregularities at the seams of the
+CCDs were cleaned using IRAF tasks. We also made use of WFPC2 images in the same
+lters which were obtained as parallel observations during program GO 5469 of John Bally,
+who kindly made them availble prior to their entering the public domain.
+2 IRAF is distributed by the National Optical Astronomy Observatories, which is operated
+
+by the Association of Universities for Research in Astronomy, Inc. under cooperative
+agreement with the National Science foundation.
+
+{7{
+Because of the need to compare data from a variety of sources and pointings, we
+cast all of the observations into a format with an orientation of north up and carefully
+determined the necessary shifts for producing coaligned images. The northern eld is highly
+irregular in outline since it combines two sets of data (ours and Bally's). Jumps in the
+background are seen at some of the junctures of data sets (both HST and infrared) due to
+inaccuracies of the at eld corrections. We have allowed these to remain since they are
+cosmetic rather than substantial and actually help to delineate the boundaries between the
+data sets. Position references were always obtained using the stars from the list of Jones
+& Walker (1988) after applying a +0:059s correction in Right Ascension to all their values
+(O'Dell & Wong 1996 and references therein).
+We concluded our data reduction by preparing color coded images of each eld. In
+our detailed analysis we used various color combinations and examined the high quality
+monochromatic images in considerable detail. The [O I] and [S II] images were very similar
+in the HH objects and could often be used in combination to improve the signal to noise
+ratio. In addition, much of the background nebula's contribution could be removed from
+them by subtracting the combined H and [N II] images, rendering the [O I] and [S II]
+much more visible.
+
+3. HH Systems in Orion and the Engines that Power Them
+HH objects typically consist of a series of bow shocks that mark the location of
+radiative shocks along a jet. Stellar jets emanate from young stars surrounded by accretion
+disks, so it is usually possible to identify the star responsible for the out ow in those cases
+where HH objects are aligned. A cursory examination of the images reveals at least two
+di erent systems of HH objects in the Orion nebula region. We show below that the rst
+system is itself composed of at least two distinct subsystems.
+
+{8{
+
+3.1. The North HH Object System
+We will call the rst system the North System and discuss it in this section. As we'll
+see, it actual breaks down into an Inner and Outer pair of systems. The possibility of its
+existence was rst articulated in the proper motion study of Jones & Walker (1985) who
+pointed out that HH 201, 205, 206, and 210 seemed to be moving rapidly away from a
+common center near the location of IRc2, thus extending the argument of Axon & Taylor
+(1984) that there could be such a system associated with the compact infrared sources
+embedded in OMC-1. These arguments were strengthened by the publication of the infrared
+images of A&B which not only showed intense H2 regions clustered about IRc2 and BN,
+but also faint H2 ngers which extended to projected distances of 0.08 pc from there. The
+most recent study of H2 (McCaughrean & Mac Low 1996) isolates the H2 emission better
+by accurate subtraction of the nebular and scattered continuum. The new H2 images reveal
+an additional nger in approximately the 8 o'clock position from the center, but the images
+do not cover the richest region of ngers to the north. In our discussion of these ngers we
+will refer to them by clock based analogies.
+The North System is illustrated well in Figure 1. In this image we have shown A&B's
+H2 image being shown in red, [S II] plus [O I] emission in green and H emission in blue.
+The strong di erence in surface brightness in H2 between the ngers and the central region
+was suppressed by dividing the H2 image by a low order t to itself. We see that there are
+seven H2 ngers. HH 210 falls at the tip of the 11 o'clock nger and HH 206 and HH 207
+fall along the edge of the 1 o'clock nger at whose tip lies HH 205. We have outlined the
+ngers as they appear on the best video screen displays and have marked in the proper
+motions of the HH objects determined in the studies of Jones & Walker (1985) and Hu
+(1996b), projected at the present rate back for 400 yrs.
+A detailed examination of the images show that ngers 10:30 through 1:30 all have
+
+{9{
+[O I] and [S II] emission at or near their tips on the new HST images. The high extinction
+expected in the PDR beyond the main ionization front of the Orion Nebula (Tielens &
+Hollenbach 1985) together with the appearance of both the H2 and the easily obscured
+optical emission indicates that the tips of these ngers must lie close to the ionization front
+which forms the near boundary of OMC-1. This conclusion is strengthened by the fact
+that there is an excellent correlation of appearance of the combined low ionization optical
+[O I]+[S II] lines (Figure 2) and the infrared [Fe II] lines, which should arise from very
+similar regions. This means that the northernmost ngers form a rather homogenous set of
+objects, probably having common conditions. The fact that the radial velocities of HH 205,
+206, 207, and 210 are highly blueshifted (180, 200, 200, 425 km s?1 Axon & Taylor 1984,
+Taylor et al. 1986, Allen & Burton 1994, Hu 1996b); all radial velocities in this paper will
+be heliocentric unless otherwise noted) is consistent with the ngers being a near surface
+phenomenon driven by an inner source.
+Examination of the material going into Figure 1 indicates that the ngers falling
+between 10:30 and 1:30 determine only an imprecise common center, but one that is about
+at the star 138-207 (using the Orion position dependent designation system of O'Dell &
+Wen (1994)) which is Jones & Walker (1988) 423 Fig. 2). This center lies about midway
+between HH 208 and 209, rather than at IRc2, the usual source that is identi ed. This
+is not to argue that 138-207 is indeed the source, rather, that it falls closer to the ill
+de ned common center than does IRc2+BN. However, the uncertainty in this center due to
+the errors in the proper motions (about 15) is large enough that we cannot exclude the
+possibility that the ngers originate from IRc2+BN.
+Figure 2 shows the central region of Figure 1 and can be used for discussing whether
+or not the inner northern HH objects (201, 208, 209) are related to the system de ned
+by the northernmost ngers discussed above. The inner northern HH objects share the
+
+{ 10 {
+common property of being quite blueshifted, with radial velocities of 310, 225, and 250 km
+s?1 respectively (Axon & Taylor 1984, Burton & Allen 1994, Hu 1996b) and HH 201 has a
+similar high proper motion (Jones & Walker 1985, Hu 1996b). HH 201 resembles HH 205
+and 210, while HH 208 and 209 are very di erent in form, not at all resembling a shock
+seen edge on but could be shocks viewed almost along the line of the driving jet.
+Examination of the symmetry of these inner northern HH objects indicates no common
+origin for them. HH 201 seems to be the superposition of two quite symmetric and parallel
+sources or clumps in a single bow shock. The symmetry axis runs close to both the IRc2
+and BN infrared sources and to HH 208, although the uncertainties preclude a detailed x
+on a driving source. If the same source that drives the outer northern HH objects also
+drives HH 201, the source must lie somewhere south of star 138-207. As seen in Figure 3,
+HH 209 has a clumpy structure that lacks any obvious symmetry. A region of [O I] and
+[S II] emission exists just to the north of HH 209, and there is also H2 emission immediately
+north of IRc9. Together, the optical and H2 emission lie along a line towards the BN+IRc2
+region and the apparent common center of the Northern HH objects and HH 201.
+Figure 2 shows that HH 208 is accompanied by a collection of clumpy material to its
+northwest, which, like HH 208, is highly blueshifted in recent Fabry-Perot images taken by
+Hartigan, Morse, & O'Dell (in preparation, hereafter HMO). We may see evidence of a jet
+that drives HH 208 and its further associated region in our images. Although dicult to see
+in Fig. 2, there is a faint, broad (100) linear feature exactly along the line passing through
+HH 208 and its companion shock at a position angle of 305. This linear feature passes
+about 100north of 147-234 and fades away near the star 154-240, which is certainly a young
+low mass star since it is a well de ned proplyd (O'Dell & Wong 1996). This association is
+the strongest evidence for a source of a driving jet in M42 and will be considered in HMO.
+Figure 2 shows well a feature marked as 127-147 which is the optically brightest part
+
+{ 11 {
+of a low ionization nger extending out towards the WNW. The HMO spectra indicate a
+radial velocity of about ?200 km s?1 , so that it too is probably is an HH related object.
+There is an additional feature that extends ESE from just above 138-207 which was rst
+pointed out by Hester et al. (1991). Figure 2 shows that a faint linear feature extends
+beyond that star and points directly at 130-201. Such an alignment may only be fortuitous,
+as there is no evidence of high radial velocities in the brighter east part of this feature
+(O'Dell et al. 1991).
+In summary, we can say that the North HH objects fall into a similar class according
+to their velocities. Unlike HH 201, HH 210, and HH 205, which show clear bow shock
+shapes, the shocked gas in and around HH 208 and 209 is more clumpy and irregular. All
+of the North HH objects are consistent with a common center just south of 138-207, with
+the exception of HH 208, which may originate from the pre-main sequence star 154-240.
+
+3.2. The Southern HH Object System
+The division of the M42 HH objects into Northern and Southern Groups is based
+on their apparent centers. All of the objects included in the northern system are either
+near or have a symmetry center in the BN+IRc2 region. Those we group as the Southern
+HH Objects don't have such a simple delineation, but clearly stand in contrast with the
+Northern HH Objects. The brightest members of the Southern Group are HH 202, 203, and
+204, and we will also present arguments in this section for there being several additional
+members. All of these objects di er from the Northern Group objects, in that they lack H2
+emission and are about an order of magnitude larger in size.
+The brightest members of the Southern Group can be seen well in the color HST
+mosaic image of M42 presented by O'Dell & Wong (1996). HH 202 is located to the WNW
+
+{ 12 {
+from 1 C Ori and HH 203-4 are in the SW part of M42 very near the hot star 2 A Ori. The
+proximity of HH 203-4 to such a bright star led Taylor & Munch (1978) to argue that the
+HH objects represent a stellar wind interaction, a position now superceded by the view that
+these objects represent jet driven shocked material. The Orion mosaic image shows well
+how HH 202 and HH 203-4 seem to fall on opposite ends of the same line of symmetry, with
+a separation of 21000, although this property has been obvious and appreciated for some
+time from good ground observations.
+HH 202 was discovered by Canto et al. (1980), who showed that at the end of a long
+concave form there were two bright knots, as illustrated best in the [S II] image of Figure 4.
+The north knot was studied at high spectral resolution in [S II] by Canto et al. and they
+determined that the radial velocity peaked at about ?42 km s?1 , indicating a blueshifted
+ow of about 68 km s?1 with respect to OMC-1. Similar results were obtained by O'Dell et
+al. (1991) who studied the south knot in [O I], [S II], [N II], [O II], [S III], and H . The
+latter study was able to determine that there seems to be a large scale shock structure that
+is moving at about ?20 km s?1 . Superimposed on this is the south knot, which is moving
+at about ?30 km s?1 . Figure 4 shows that the north knot is quite low ionization, while the
+south knot possesses strong [O III] emission. There is extended [O III] emission throughout
+the long concave form.
+The proximity and near alignment of HH 203 and 204 argues that they are related or
+at least share a common source, but there are important di erences. The more northerly
+of the pair, HH 203 resembles a truncated bow shock. Such a form can be explained as
+due to a jet impinging on a cloud with a density gradient (Henney 1995). Although the
+agreement with such a model is quite good (Hu 1996b), it may also be possible to explain
+the asymmetry in HH 203 from di erences in the pre-shock ionization. HH 204 is a highly
+lamentary bright knot at the end of a rather symmetric cone that resembles a bow shock,
+
+{ 13 {
+even though the high excitation line of [O III] does not occur at the apex of the bow like it
+usually does in other HH objects. As we discuss in the next section, the excitation in this
+object appears to be controlled by a mixture of local shocks and external ionization from
+1 C Ori. The velocity of HH 203 is about ?50 km s?1 and ?25 km s?1 (Taylor & Munch
+1978, Walsh 1982, O'Dell et al. 1993b). The proper motion of Cudworth & Stone (1977)
+indicate a tangential velocity of HH 204 of 70 km s?1 .
+Both the HH 202 and HH 203-4 regions share the common property of having extended
+[O III] emission within an envelope that has low ionization peaks at the apices of the bows.
+There is no indication of such a property in any of the northernmost HH objects (which we
+believe arise from within OMC-1). While the North HH objects may have a higher density
+and hence have a shorter cooling length, a more signi cant di erence in the environments
+of the North and South systems is the preshock ionization, which is maintained at a high
+level in the southern system by ultraviolet radiation from 1C Ori.
+The other cataloged M42 HH object is HH 269, which di ers in many ways from the
+others. It is an east-west oriented elliptical ring marked by two bright knots on the ends of
+the long axis. A recent study of HH 269 by Walter et al. (1995), where monochromatic HST
+images are published, indicates that the object is quite low ionization and the east knot has
+V = ?13 km s?1 and the west V = ?23 km s?1 . HH 269 has strong low ionization lines,
+but also appears in the [O III] images, probably because it too is illuminated by 1 C Ori.
+We know that M42 is primarily a high density blister type H II region on the near side
+surface of OMC-1. The Trapezium Cluster of stars, which includes the dominant source
+of photoionization 1 C Ori, is located nearer to us than the main ionization front within a
+region of low density and high ionization. Overlying all of this is a highly irregular neutral
+lid of dust and gas. The low ionization and blue shifts of HH 202, 203+4, and 269 indicated
+that they all form in the foreground neutral lid, a conclusion supported by the presence of
+
+{ 14 {
+extended [O III] emission in each.
+There are numerous additional features that are best associated with the Southern
+System. Examination of the HST mosaic image of M42 shows that there is a more
+homogeneous ring of similar form and size immediately to the east of HH 269 and that
+object in turn is adjoined by a similar size ellipse whose northern edge appears in both
+extinction and emission. A line drawn along these three objects intersects the line between
+HH 202 and HH 203-4 at a region rich in blue shifted high ionization shocks (O'Dell et al.
+1993b). These latter shocks emanate radially from a point near the center of the intersection
+of the two lines. This intersection region contains many pre-main sequence low mass stars
+and is one of the subjects treated in HMO. The high ionization shocks, which are visible
+only in [O III] and H , are probably formed in the low density photoionized gas that lies in
+the low gas density region between the main ionization front and the foreground neutral lid.
+
+4. The Shock Excitation Paradigm
+The brightest portions of stellar jets typically appear as a series of bow shocks that
+form as the young star ejects material in sudden bursts (e.g. Reipurth & Heathcote 1993).
+The line excitation at the apex of a bow shock is always higher than in the wings because
+the e ective shock velocity is higher at the apex. For example, [O III] emission only exists
+near the apices of bow shocks in HH 34S (Morse et al. 1992), HH 111L (Morse et al. 1993b),
+and HH 1 (Solf et al. 1988), whereas H and [S II] also emit along the wings of the bow.
+Often the shock velocities inferred from the emission line ratios in stellar bow shocks are
+several hundred km s?1 lower than the space motions measured from proper motions and
+radial velocities, but such di erences can arise if the bow shock moves into the wakes of
+previous ejections. Sometimes a reverse shock or `Mach disk' is visible as fast material in
+the jet overtakes material behind the bow shock (e.g. Heathcote et al. 1996).
+
+{ 15 {
+It is a challenge to apply bow shock models to HH objects in the Orion Nebula
+because there are many possible exciting sources and much of the ambient gas is heated by
+photoionization. Nevertheless, it is instructive to begin with this paradigm as a starting
+point for any object, and we will do so in what follows.
+HH 203 and HH 204 resemble bow shocks in morphology, but as Figure 5 shows, the
+[O III] emission from this region does not come from the apex of the bows, but instead
+occurs primarily in a di use region along the southwestern portion of the objects. We would
+expect the apices of HH 203 and HH 204 to lack [O III] if the shock velocities were <
+ 90 km
+s?1 . Both HH 203 and HH 204 are known to be blueshifted and the velocities are relatively
+low. The [O I] in the frothy head of HH 204 is considerably more clumpy than [S II],
+perhaps because [O I] has a higher critical density than [S II], an interpretation consistent
+with the results of Walsh (1982) who found densities well over 104cm?3. The H , [O I],
+[N II], and [S II] emission concentrate in clumpy structures that de ne an asymmetrical
+bow-shaped structure (HH 203) followed by a more symmetrical bow (HH 204). The
+lack of symmetry in HH 203 probably arises from an increasing preshock density towards
+the northeast in this object. These `comma-shaped' structures have been observed in
+other objects (e.g. Hartigan et al. 1986) and are present in numerical simulations of bow
+shocks that propagate through a medium with a lateral density gradient. We attribute the
+distribution of [O III] to di erences in the way that 1 C Ori illuminates this region of the
+nebula. Hence, in these objects the line excitation tells us little about the shocks.
+As in the case of HH 203/204, the [O III] emission in HH 202 (Figure 4) does not
+originate primarily at the apex, but instead radiates over the entire cavity. The lower
+excitation lines radiate most strongly in a bright region near the apex of HH 202 and
+in a region along the north shoulder of the cavity. An additional hemispherical bubble
+appears in [O III] and H to the northwest of HH 202 (the direction away from the
+
+{ 16 {
+Trapezium). Overall, the proximity of 1 C Ori appears to cause the line excitation HH 202
+to be dominated by photoionization, though the observed radial velocities imply that some
+shocked gas is mixed in the region (Canto et al. 1980).
+Another HH object in the Orion Nebula that resembles a bow shock in both morphology
+and line excitation is HH 201. This object has a bright [O III] peak at its apex (Figure 3),
+with more extensive H following along the wings and the [S II] outlining the entire
+bowshock. As in HH 210, the bow shock seems to be breaking into multiple pieces as it
+progresses through the nebula. Given the large radial velocity of this object (?310 km
+s?1 ), it is surprising that [O III] does not emit over a larger fraction of the bow shock, since
+[O III] should become observable when the component of the velocity perpendicular to the
+shock exceeds 90 km s?1 . It is possible to explain this behavior if the preshock medium
+moves outward at a substantial fraction of the bullet velocity. This explanation is required
+to explain the extent of [O III] in other HH objects as well (see below).
+HH 210 is a remarkable object whose [S II] image appears as a delicate extended
+nger of emission that points away from 1 C Ori. Though this object has no signi cant H2
+emission, it resembles the HH knots seen at the heads of the other H2 ngers in morphology.
+The line excitation in HH 210 shows good qualitative agreement with a bow shock model.
+Here H and [O III] emit in two bright areas near the apex, with the H extending
+somewhat further into the wings than the [O III]. This gradient in line excitation from apex
+to wing is expected from a bow shock. The two peaks may arise if the bow is breaking up
+into smaller pieces owing to Rayleigh-Taylor instabilites, as has been proposed for some HH
+systems (e.g. HH 2). Alternatively, since the forward peak is relatively weaker in [O III], it
+may represent a precursor moving ahead of the main bow-shock. The relative lack of H
+emission from the [S II] emitting wake is unexpected, as H typically outlines the location
+of shock fronts in stellar jets. However, the wake disappears into a bright H background
+
+{ 17 {
+caused by the Orion nebula in the southern portion of HH 210, and this background makes
+it dicult to observe the shock structures there in H . The southern portion of HH 210
+dips into the [O III] region excited by 1C Ori.
+Like HH 210, HH 205 lies far enough from 1C Ori so that its line excitation is not
+dominated by photoionization. HH 205 clearly de nes a bow shock, both in morphology
+and in line excitation. The [O III] is con ned to a small arcuate region near the head of the
+bow, with H extending more into the wings and [S II] emitting over the entire bow shock.
+These morphologies are in agreement with a bow shock model. Proper motion of the system
+is in the direction of the head of the bow, as is also true for HH 210. Both HH 205 and
+HH 210 have high enough space velocities to account for [O III] emission at their apices.
+The wings of the bow shocks in HH 201 and HH 210, and to a lesser degree HH 205, all
+exhibit a triangular shape in the [S II] images of Figs. 3 and 6. The bow wings of HH 201
+and HH 210 de ne opening angles of 29 and 25, respectively. We can calculate the Mach
+number from these angles if we know the inclination to the objects. High resolution spectra
+of the [O I] line pro le by Hu (1996) suggest orientation angles of between 0 and 15 ( =
+90 if the bow shock moves in the plane of the sky). However, if HH 201 and HH 210 were
+really coming almost directly toward the observer, it is dicult to understand why these
+objects have such pronounced conical shapes. If we adopt the full velocity width of the
+[O I] pro les from Hu (1996) as a measure of the true velocity of these objects (cf. Hartigan
+et al. 1987) then the observed proper motions imply   33 for both HH 201 and HH 210.
+The intrinsic opening angles for HH 201 and HH 210 are then  14, which corresponds to
+a Mach number of 8. For a sound speed of 16.6 km s?1 (at T=104 K), this implies a bow
+shock velocity of 133 km s?1 . This is consistent with the observation of [O III] emission only
+at the bow shock tip, but it is not consistent with the line widths of order 300 km s?1(Hu
+1996). The large line widths can be reconciled with the bow shock opening angles if the
+
+{ 18 {
+Mach angle corresponds to an Alfven speed of about 35 km s?1 . This in turn requires a
+magnetic eld of several hundred microGauss in the compressed post-shock ow Raymond
+et al. 1988).
+To the south of HH 205 along the same H2 nger are HH 206 and HH 207, and to
+the east of these is a complex of knots we call HH 207 E (Figure 6). HH 206 resembles
+its northern neighbor both in its bow shock morphology and in its line excitation. As
+in HH 210 and HH 205, HH 206 has [O III] emission at the apex, followed in the wings
+by H and [S II]. HH 207 appears to be a low-excitation analog of HH 206, with the
+bow well-de ned in [S II], H more con ned towards the apex, but no [O III]. While this
+scenario is consistent with a low velocity (<
+ 90kms?1) bow shock, such a low excitation is
+puzzling in light of the high radial velocity and proper motion of this object. The easiest
+way to explain a high velocity low-excitation HH object is if the object moves into the
+wake of a previous ejection, so that the e ective shock velocity is the di erence between
+the velocity of the knot and that of its preshock gas. Such a scenario makes sense for
+HH 207, which follows in the wake of HH 206 and HH 205. An extremely strong magnetic
+eld can also lower the line excitation in a shock (Hartigan, Morse & Raymond 1993). The
+complex of low-excitation [S II] knots in HH 207E does not outline a well-de ned bow shock
+morphology and nothing is known about the proper motions and radial velocities of these
+objects. Hence, it is premature to draw any conclusions about these objects here.
+HH 208 and HH 209 both appear only in the [S II] and [O I] images and show a
+de cit of [O III] surface brightness in the nebular background. The strength of the low
+ionization lines relative to H indicate that they are formed in low velocity shocks, but like
+HH 207 this is incompatible with their known high radial velocities. The de cit in [O III]
+is similar to that seen in the Orion proplyds (O'Dell & Wen 1994) and indicates that the
+dust concentration in the shock is strong enough to block out the background nebular
+
+{ 19 {
+emission. The bright knot of HH 208 is surrounded by a fainter, almost spherical shell
+which is elongated to the SE. HH 209 shows three bright knots imbedded in a circular disk
+of emission and does not resemble any expected shock structures. The faint star 200 to the
+north of HH 208 has a weak extension in H along a direction away from HH 208. Whether
+or not this feature might represent a jet from the star whose opposite lobe produces
+HH 208 can be tested with proper motion observations of HH 208 or with radial velocity
+measurements of the H feature.
+
+5. Discussion
+There appear to be at least two types of HH objects in the Orion Nebula region.
+HH 205-6-7, 210, and 201 have high spatial velocities, quasi-symmetric forms and small
+sizes. These are probably shocks in the dense PDR region, where the cooling lengths would
+be correspondingly short and the objects smaller. These objects all have a common region
+of origin, although it is unlikely to be a single point of origin. It is interesting that if one
+accepts large errors in the proper motion directions and ts HH 201, 205, 206, and 210 to
+a common center, there appears to be a common epoch of origin, which is about 900 years
+ago (Hu 1996b). The second type of HH object includes HH 202 and HH 203-4, which
+are much larger, have lower spatial velocities, and have extended [O III] emission. These
+are probably shocks formed in the neutral lid overlying the Orion Nebula and have their
+high ionization sustained by ux from 1 C Ori which enters the lid behind the shock. The
+extinction of the background nebular emission in [O III] by HH 208 and HH 209 would
+require them to be ahead of the main ionization front, and therefore would be associated
+with the lid, so that they represent characteristics of both the North and South systems.
+HH 208 may be associated with a jet from 154-240 or from the star just to its north,
+while HH 209 lacks any symmetry, apparant jets, or proper motions, hence is impossible to
+
+{ 20 {
+identify with a candidate source. HH 269 is possibly the archtype of a third class of HH
+object in Orion, being a knotted oval in form, in line with at least one similar object, and
+possessing extended [O III] emission, again arguing that it arises in the lid.
+
+5.1. The H2 Finger System
+The mechanism driving the ngers that are seen best in H2 have been discussed by
+the discoverers (Allen & Burton 1993), Stone et al. (1995), Schild et al. (1996), and
+McCaughrean & Mac Low (1996). None of these papers seem to consider the elongated
+clumped ow recently seen in the same area in NH3 (Wiseman & Ho 1996) which provides
+evidence that massive clumps of material exist within OMC-1. These clumps raise the
+possibility that the ngers exist simply because they are the regions where wind driven
+material nds it easiest to penetrate, an idea recently pursued by Gvaramadze (1997).
+The operation of such a mechanism may be supported by the fact that the PhD thesis of
+Tedds (1996) argues that the extinction along the ngers is relatively constant but is higher
+between them.
+The inner part of IRc2 region shows enormous detail in the H2 images, suggesting that
+all structures, including the ngers, have their origin in this inner region rather than by
+shaping of a more general stellar wind. Recent infrared Fabry-Perot images at 14 km s?1
+FWHM resolution (Chrysostomou et al. 1997) detect a 5 km s?1 di erence in velocities
+along a NW-SE line, which indicates a tilted bipolar ow. They even see pro les showing
+line splitting in localised regions in the central 30" around BN, with features moving at both
+red- and blue-shifted velocities with respect to OMC{1. They argue that these represent
+bow-shocks seen in just the H2 lines, and are produced by the same mechanism giving rise
+to the ngers, the latter being where the ambient cloud density is less.
+
+{ 21 {
+The fact that essentially all of the infrared ngers that fall within the region searched
+with HST in [O I] and [S II] have optical counterparts argues that they all penetrate to
+at least near the observer's side of OMC-1, which would not be the case for any of the
+mechanisms having them shaped in the central region. The instability mechanism proposed
+by Stone et al. (1995) can also occur if a stellar wind driven shock reaches a zone of rapid
+density decrease. Since this would selectively produce objects near the surface, such a
+mechanism becomes attractive, but requires that the density gradient be encountered deep
+within OMC-1.
+The good correlation of the [O I] and [S II] visual images with the infrared [Fe II]
+images indicates the tips uniformly su er little extra extinction. This is contradicted by the
+results of Chrysostomou et al. 1997 who argue that the visual extinctions of HH 201, 203,
+207,and 210 range from 4.5?8.7 magnitudes, as determined by two infrared [Fe II] lines
+arising from the same upper level. These extinction values are about ve times the average
+for M42 and don't show up in the point by point mapping of M42 extinction (O'Dell et al.
+1992). Certainly HH 201, 207, and 210 must be shielded from photoionization by 1 C Ori
+but it takes relatively little corresponding visual extinction to produce this. In the case
+of HH 203, where the [Fe II] extinction is like the others, the extinction could only be
+produced in the compression immediately in front of the shock and there is little reason for
+expecting it to be similar to the values for the other three, which are formed in OMC-1.
+Reconciliation of these results could arise from small di erences in the calibration of the
+infrared system and/or the projection from a small frequency di erence into the visual.
+If one accepts that the HH objects of the North System are on the surface of OMC-1
+then the fact that they are traceable back towards the center means that whatever is
+producing the H2 ngers is also preferentially working on the observer's side of OMC-1.
+This could be explained by arguing that the most obvious energy source, IRc2, is located in
+
+{ 22 {
+a region relatively near the surface, so that there is a strong preferential density gradient,
+which allows ow of wind driven material towards the observer. The most likely mechanism
+for shaping this ow is large scale mass concentrations. Such a scenario seems much more
+likely than the existence of a host of bullets passing through OMC-1, reaching the surface
+at the same time, and all having su ered little or similar amounts of deceleration.
+As an aside we point out that if the driving mechanism involves a global transfer of
+momentum, rather than a local source such as a jet, then the ngers and tips in the North
+System should not be classi ed as HH objects. The commonality of appearance would
+indicate the shared importance of shock excitation, but would not associate the North
+System objects with lower mass pre-main sequence stars with jets, which seems to be the
+common factor in true HH objects. Uncollimated ejection would still arise from accretion
+by a pre-main sequence star, which would give the ngers a driving source similar to the
+jets producing the "classical" HH objects.
+The highest excitation optical lines occur at the tips of the H2 ngers, as expected in
+a bow shock model. However, in addition, any model of the ngers will have to reconcile
+the high radial velocities and large proper motions with the relatively low excitation line
+emission observed. In a standard bow shock model, the low excitation and high velocities
+can be explained if either the gas ahead of the ngers moves outward at several hundred
+km s?1 with respect to IRc2 or if the magnetic elds there are enormous (milligauss
+strengths). It will be important to predict how the shock velocity should vary along
+arcs formed by a fragmenting stellar wind, so that this prediction can be compared with
+observations. If previous jets and winds have indeed punched several holes through OMC-1
+and we are observing the result of a stellar wind shell as it funnels along these tubes, it
+makes sense that the shock velocity should be highest at the apex, where the velocity jump
+should be the largest. This model also predicts that the space velocities of the ngers will
+
+{ 23 {
+be much higher than their shock velocities, as is observed to be the case.
+
+5.2. Possible Jet Related Features
+If the other objects discussed are true HH objects, why (with the possible exception of
+HH 208) do we not see the driving jet? Part of the problem throughout the nebula is that
+the bright background photoionization sometimes makes it dicult to observe any faint
+line emission from weak shocks in a ow. In the case of the South System HH objects the
+lack of a visible jet may lie in the fact that the jets are passing through a medium that has
+been highly photoionized, so that the usual low ionization tracers are not available. This
+conclusion is strengthened by the observations of Hu (1996a) that show an apparent high
+velocity [O III] jet leading into HH 203, a conclusion con rmed and extended in HMO.
+In the case of the southern object HH 269, we can envision a scenario that would
+describe both its form and also its similar companion feature to the east. The 21 cm
+absorption study of HI in the lid (van der Werf & Goss 1989) not only established the
+presence of the lid, but also showed that it was highly irregular and was grouped into three
+velocity systems. The form of HH 269 and the similar object to its east could be due to a
+single jet having passed completely through two clouds within the lid, leaving behind two
+rings of shocked material.
+Finally, we must address the problem of why all of the HH objects in this region show
+only blue shifted lines with respect to OMC-1. We have explained this as one set of objects
+arising in the portion of the PDR of OMC-1 that faces the observer and the other set arising
+from the foreground lid. The second set of objects presumably have sources that exist in
+the open cavity near the Trapezium stars, which means that their bipolar jets would have
+corresponding antipodal features. Since these jets would be impacting the main ionization
+
+{ 24 {
+front behind the Trapezium, which is both of much higher density and ionization than the
+regions giving rise to the blue shifted HH objects, it is likely that they will very di erent
+ionizations, much smaller sizes, and possibly lower relative velocities than the observed
+objects. A search for such objects is being pursued in HMO.
+
+5.3. Concluding Remarks and Acknowledgements
+Since objects HH 201 and HH 203+204 both appear in the higher resolution CCD of
+WFPC2, it is hoped that very accurate proper motions of these objects can be obtained
+with a second set of similar observations. This expectation is based on the fact that the
+study of Jones & Walker (1985) and Hu (1996b) indicate that HH 201 is moving about
+0.0800/yr and Cudworth & Stone (1977) determine that HH 204 is moving about 0.0300/yr.
+The highest resolution WFPC2 pixels are 0.04600, so that good proper motions should be
+feasible in only a few years.
+Although we have used the standard catalog listing for the known HH objects in
+this paper, e.g. HH 201, this study shows that there are so many shocked features
+that it is probably wise to begin use of an Orion speci c coordinate based system of
+designation for the secondary and new systems. The details of such a system are described
+in O'Dell & Wen (1994). Digital copies of the monochromatic images shifted into the
+composite, north oriented format are available through the senior author by ftp transfer
+(spacsun.rice.edu;directory pub/cro/Cycle5HH).[Note to referee and coauthors. this
+capability will be set up after our paper has been accepted for publication.]
+The authors are happy to acknowledge the cooperation in John Bally in providing his
+HST images prior to public release and to Xihai Hu for numerous discussions on the Orion
+HH objects. This work was supported in part by NASA grant NAG 5-1626 and STScI
+
+{ 25 {
+support to Cycle 5 program 5976.
+
+{ 26 {
+
+REFERENCES
+Allen, D. A. & Burton, M. G. 1993, Nature, 363, 54
+Axon, D. J. & Taylor, K 1984, MNRAS, 207, 241
+Burton, M. G. & Allen, D. A. 1994, in Infrared Astronomy with Arrays, ed. I. Mclean
+(Dordrecht:Kluwer), p. 61
+Canto, J., Goudis, C., Johnson, P. G., & Meaburn, J. 1980, A&A, 85, 128
+Casta~neda, H. O. 1988, ApJS, 67, 93
+Chrysostomou, A., Burton, M. G., Axon, D. J., Brand, P. W. J. L., Hough, J. H.,
+Bland-Hawthorn, J., & Geballe, T. R., 1997, MNRAS, submitted
+Cox, D., & Raymond, J. 1985, ApJ 298, 657
+Cudworth, L. & Stone, R. C. 1977, PASP, 89, 627
+Gredel, R., & Reipurth, B. 1993, ApJ, 407, L29
+Gvaramadze, V. 1997, in Poster Proceedings of IAU Symposium 182, ed. F. Malbet & A.
+Castets, (Grenoble: Laboratoire d'Astrophysique)
+Hartigan, P., Raymond, J., & Hartmann, L. 1986, ApJ, 316, 323
+Herbig, G. H. & Terndrup, D. M. 1986, ApJ, 307, 609
+Heathcote, S., Morse, J. A., Hartigan, P., Reipurth, B., Schwartz, R. D., Bally, J., & Stone,
+J. M. 1996, AJ, 112, 1141
+Hester, J. J. et al. 1991, ApJ, 369, L75
+Henney, W. J. 1995, RevMexAA (Serie de Conferencias), 3, 89
+Hu, X. 1996a, PhD Thesis, Rice University, Houston, Texas
+Hu, X. 1996b, AJ, 112, 2712
+
+{ 27 {
+Jones, B. R. & Walker, M. F. 1985, AJ, 90, 1320
+Jones, B. F. & Walker, M. F. 1988, AJ, 95, 1755
+McCaughrean, M. J. & Mac Low, Mordecai-Mark 1996, AJ,in press
+Morse, J. A., Hartigan, P., Cecil, G., Raymond, J. C., & Heathcote, S. 1992, ApJ, 399, 231
+Morse, J. A., Heathcote, S., Cecil, G., Hartigan, P., & Raymond, J. C. 1993a, ApJ, 410, 764
+Morse, J. A., Heathcote, S., Hartigan, P., Cecil, G. 1993b, AJ, 106, 1139
+Munch, G. & Taylor, K. 1974, ApJ, 192, L93
+Mundt, R., Buhrke, T., Solf, J., Ray, T., & Raga, A. 1990, A&A, 232, 37
+Munch, Guido & Wilson, O. C. 1962, ZAp, 56, 127
+O'Dell, C. R. & Wen, Z. 1992, ApJ, 387, 229
+O'Dell, C. R. & Wen, Z. 1994, ApJ, 436, 194
+O'Dell, C. R. & Wong, S. K. 1996, AJ, 111, 846
+O'Dell, C. R., Wen, Z., & Hester, J. J. 1991, PASP, 103, 82
+O'Dell, C. R., Walter, D. K., & Dufour, R. J. 1992, ApJ, 399, L67
+O'Dell, C. R., Valk, J. H., Wen, Z., & Meyer, D. M. 1993a, ApJ, 403, 678
+O'Dell, C. R., Wen, Z., & Hu, X. 1993b, ApJ, 410, 696
+Prosser, C. F., Stau er, J. R., Hartmann, L., Soderblom, D. R., Jones, B. F., Werner, M.
+W., & McCaughrean, M. J. 1994, ApJ, 421, 517
+Raymond, J. C., Hester, J. J., Cox, D. P., Blair, W. P., Fesen, R. A., & Gull, T. R. 1988,
+Ap. J., 324, 869
+Reipurth, B. 1995, An Electronic Catalog of Herbig-Haro Objects, available by electronic
+transfer through ftp, hq.eso.org in the directory/pub/Catalogs/Herbig-Haro
+
+{ 28 {
+Reipurth, B., & Heathcote, S. 1993, in STScI symposium Astrophysical Jets, ed. D.
+Burgarella, M. Livio, & C. P. O'Dea (Cambridge University Press, Cambridge), p.
+35
+Reipurth, B., Heathcote, S., Roth, M., Noriega-Crespo, A., & Raga, A.C. 1993, ApJ 408,
+L29
+Schild, H., Miller, S., & Tennyson, J. 1996, A&A, in press
+Solf, J., Bohm, K.-H., & Raga, A. 1988, ApJ 334, 229
+Stone, J. M., Xu. J., & Mundy. L. G. 1995, Nature, 377, 315
+Taylor, K. & Munch, G. 1978, A&A, 70, 359
+Taylor, K. N. R., Storey, J. W. V., Sandell, G., Williams, P. M., & Zealey, W. J. 1984,
+Nature, 311, 236
+Taylor, K., Dyson, J. E., Axon, D. J., & Hughes, S. 1986, MNRAS, 221, 155
+Tedds, J. A. 1996, PhD Thesis, University of Edinburgh, Scotland
+Tielens, A. G. G. M. & Hollenbach, David 1985, ApJ, 291, 747
+van der Werf, P. P. & Goss, W. M. 1989, A&A, 224, 209
+van der Werf, P. P. & Goss, W. M. 1990, ApJ, 364,157
+Walsh, J. R. 1982, MNRAS, 201, 561
+Walter, D. K., O'Dell, C. R., Hu, X., & Dufour, R. J. 1995, PASP, 107, 686
+Warren, W. H. & Hesser, J. E. 1977, ApJS, 34, 115
+Wen, Zheng & O'Dell, C. R. 1995, ApJ, 438, 784
+J. J. Wiseman & Ho, P. T. P. 1996, Nature, 382, 139
+
+{ 29 {
+Zinnecker, H., McCaughrean, M. J., & Wilking, B. A. 1993, in Protostars and Planets III,
+edited by E. H. Levy and J. I. Lunine (Tucson: University of Arizona Press), p.429
+
+This manuscript was prepared with the AAS LATEX macros v4.0.
+
+{ 30 {
+Fig. 1.| This color coded image was formed by the use of A&B's H2 as red, the HST [S II]+
+[O I] images as green, and H as blue. The red "halo" around the stars is due to the lower
+angular resolution of the groundbased images of A&B. We have labeled the location of the
+previously known HH objects, the BN source, and the numbered IRc radio and infrared
+sources. The long straight arrows indicate the proper motion of the measured HH objects
+over the last 400 years. The curved lines outline HH 202, a few new HH objects, and the
+border of the infrared ngers determined by a detailed examination on a good video screen.
+North is at the top and East is to the left.
+Fig. 2.| The central region imaged as the north eld by HST is shown as a combination
+of the [S II] and [O I] images. The left image is without labeling and the right uses labels
+similar to Fig.1. The arrow indicates the proper motion of HH 201 over the last 200 years.
+The middle thin straight line is along a long linear feature that points towards star 130-201,
+although this feature is probably a portion of the ionization front viewed edge on. The lower
+straight line is drawn through HH 208 and the symmetric grouping of shocks NW of it. It
+falls along a long linear feature extending past 147-234 and directly towards the proplyd
+154-240. This may be the jet that is driving HH 208.
+Fig. 3.| Negative monochromatic HST images are shown in [S II], H , and [O III] for
+HH 201, 205, 207, 208, and 209. The scales and orientation are indicated.
+Fig. 4.| The same as Fig.3 except depicting only HH 202 and at a more compressed scale.
+Fig. 5.| The same as Fig.3 except depicting both HH 203 (top middle) and 204 (bottom
+left) and at a more compressed scale.
+Fig. 6.| The same as Fig.3 except depicting HH 206, 207e, and 210 at a more compressed
+scale.
+
+

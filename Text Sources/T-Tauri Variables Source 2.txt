@@ -1,0 +1,204 @@
+Variability “Profiles” for T Tauri Variables
+and Related Objects, from AAVSO Visual
+Observations
+­­­­­
+John R. Percy
+Samantha Esteves
+Jou Glasheen
+Alfred Lin
+Marina Mashintsova
+Sophia Wu
+­­­­­
+Department of Astronomy and Astrophysics
+University of Toronto
+
+Outline
+●
+
+T Tauri stars and their variability
+
+●
+
+Previous analysis of CCD and visual observations
+
+●
+
+Data and methods of analysis
+
+●
+
+Results, spurious and otherwise
+
+●
+
+Discussion and conclusions
+
+●
+
+Acknowledgements, and educational dimensions
+
+T Tauri Stars
+●
+
+●
+
+Young stellar objects
+in various stages of
+birth, with or without
+an accretion disc
+Defined
+spectroscopically:
+various emission lines;
+lithium line present
+
+Nature and Cause of their Variability
+●
+
+Strict periodicity (periods 0.5 to several days) due to
+rotation of a spotted star; the amplitude varies on time
+scales of years because of starspot cycles.
+
+●
+
+Rapid flickering due to accretion onto the star.
+
+●
+
+Slow variation due to variation in the rate of accretion.
+
+●
+
+●
+
+Possible quasi­periodic variation due to effects of a
+companion, or inhomogeneities in the accretion disc.
+Study of the variability provides information on star
+formation processes (e.g. accretion) and properties
+(e.g. rotation, companion stars, brown dwarfs, or
+planets).
+
+Herbst Variability Classes
+Reference: Herbst et al. 1994, AJ 108, 1906
+●
+
+●
+
+●
+
+●
+
+●
+
+CTTS: classical T Tauri stars: have accretion discs
+WTTS: weak­lined T Tauri stars: accretion disc is no
+longer visible
+GTTS: G­type T Tauri stars
+HAEBE: Herbig Ae/Be stars: more massive analogues to
+T Tauri stars
+FUORs: FU Orionis stars: have long­lasting photometric
+brightenings
+
+Some Previous Related Studies
+●
+
+●
+
+●
+
+●
+
+Bill Herbst (Wesleyan University) and his students and other
+collaborators have amassed long­term CCD photometry of
+hundreds of T Tauri and related stars, and have used Fourier
+analysis to study them
+Percy, Gryc, Wong, and Herbst (2006 PASP 118, 1390) showed
+that self­correlation analysis is a useful adjunct technique for time­
+series analysis; Percy, Grynko, and Seneviratne (2009, submitted)
+have extended this work
+AAVSO visual observers have measured T Tauri stars for several
+decades, but the data were only recently validated; Percy and
+Palaniappan (2006 JAAVSO 35, 290) showed that these data have
+scientific value.
+AAVSO HQ has now validated visual measurements of more stars
+
+Source of Data
+AAVSO International Database
+Visual Observations
+
+Methods of Analysis: Fourier Analysis
+Period04: S CrA, period 6.0 days
+
+Methods of Analysis: Self­Correlation
+www.astro.utoronto.ca/~percy/students.html
+S CrA, period 6.0 days
+
+Results: RY Tau
+Spurious One­Month and One­Year Periodicity?
+
+0.0
+
+Frequency (cycles/d)
+
+27 days
+
+0.05
+
+Results: T Cha
+Spurious One­Year and One­Month Periodicity?
+
+Results
+Rotational Variability: AQ Dra, period 5.1 days
+
+Results
+Longer Period than Rotation?
+RU Lupi – period 225 days
+
+Results
+Longer Period than Rotation?
+R CrA Self­Correlation, period 66 days
+
+Results
+Non­Periodic: “Profile” of Variability
+Self­correlation diagram for T Cha
+
+Discussion and Conclusions
+●
+
+●
+
+●
+
+●
+
+Some stars showed spurious one­year and possibly one­
+month periods, presumably due to the Ceraski effect
+Several stars showed periodic behaviour. The shorter
+periods (<10 days) are presumably rotation periods; the
+nature of the longer periods is not clear
+For all stars, the self­correlation diagram shows the
+“profile” of the variability – the amount of variability on
+time scales of one to hundreds of days
+AAVSO visual observations of T Tauri stars have
+scientific value!
+
+Acknowledgements and
+Educational Dimensions
+●
+
+●
+
+●
+
+We thank the AAVSO observers and HQ staff, especially
+Elizabeth Waagen, for making, validating, and archiving the
+measurements
+We thank the Natural Sciences and Engineering Research Council
+of Canada for research support
+Samantha Esteves (McMaster University), Jou Glasheen
+(Columbia University), Alfred Lin (Queen's University), Marina
+Mashintsova (University of Toronto) and Sophia Wu (Bishop
+Strachan School) were participants in the University of Toronto
+Mentorship Program, which enables outstanding senior high
+school students to work on research projects at the university
+
+
