@@ -6,6 +6,14 @@ Some quick tricks:
 Enter - searches for the given query
 */
 
+
+function draw(list){
+    for(let i=0;i<list.length;i++){
+        const path = "/PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
+        console.log(path);
+    }
+}
+
 var query = "";
 var acceptedList=[];
 
@@ -76,8 +84,10 @@ function search(ele) {
                 if(findMatch(query,fileTexts[i])==true){
                     acceptedList[ind]=fileNames[i];
                     ind++;
+                   // console.log("Matches found");
                 }
             }
+            draw(acceptedList);
 
        // alert(query);
     }
