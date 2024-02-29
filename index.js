@@ -16,7 +16,7 @@ function draw(list){
     for(let i=0;i<list.length;i++){
         const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
        // console.log(path);
-       document.getElementsByClassName("jawn")[0].innerHTML+="<embed style='padding-top:40px; width: 33%; min-height:400px' src=\'" + path+"\'>"
+       document.getElementsByClassName("jawn")[0].innerHTML+="<embed id='" +i+ "' onclick='enlarge('" + i+";) style='padding-top:40px;width: 33%; min-height:400px' src=\'" + path+"\'>"
     }
 }
 
@@ -93,7 +93,7 @@ function search(ele) {
                    // console.log("Matches found");
                 }
             }
-            console.log(acceptedList);
+            //console.log(acceptedList);
             draw(acceptedList);
 
        // alert(query);
@@ -132,6 +132,20 @@ function dropbox(){
   for(let i=0;i<list.length;i++){
     const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
    // console.log(path);
-   document.getElementsByClassName("jawn")[0].innerHTML+="<embed style='padding-top:40px; width: 33%; min-height:100px' src=\'" + path+"\'>" ;//+ "<div class='luh'>"+path.substring(12)+"</div>";
+   document.getElementsByClassName("jawn")[0].innerHTML+="<embed style='padding-top:40px; width: 33%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div>";
+  }
+}
+
+
+function enlarge(cl){
+  console.log("element clicked");
+  if(document.getElementsByClassName(cl)[0].style.width="33%"){
+    document.getElementsByClassName(cl)[0].style.width="80%";
+    document.getElementsByClassName(cl)[0].style.minHeight = "800px";
+  }
+  else if(document.getElementsByClassName(cl)[0].style.width="80%"){
+    document.getElementsByClassName(cl)[0].style.width="33%";
+    document.getElementsByClassName(cl)[0].style.minHeight = "400px";
+
   }
 }
