@@ -8,13 +8,15 @@ Enter - searches for the given query
 
 
 function draw(list){
+    document.getElementsByClassName("jawn")[0].innerHTML=""
+
     if(list.length==0){
-        document.getElementsByClassName("jawn")[0].innerHTML="<img src='Images/flick.jpg' style='padding-top:40px; height: 350px'>"
+        document.getElementsByClassName("jawn")[0].innerHTML="<img src='Images/flick.jpg'>"
     }
     for(let i=0;i<list.length;i++){
         const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
        // console.log(path);
-       document.getElementsByClassName("jawn")[0].innerHTML="<embed src=\'" + path+"\'>"
+       document.getElementsByClassName("jawn")[0].innerHTML+="<embed style='padding-top:40px; width: 33%; min-height:400px' src=\'" + path+"\'>"
     }
 }
 
