@@ -16,8 +16,8 @@ function draw(list){
     for(let i=0;i<list.length;i++){
         const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
        // console.log(path);
-       document.getElementsByClassName("jawn")[0].innerHTML+="<embed class='" +i+ "' onclick='enlarge('" + i+";) style='padding-top:40px;width: 33%; min-height:400px' src=\'" + path+"\'>"
-    }
+       document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 33%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
+      }
 }
 
 var query = "";
