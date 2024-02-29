@@ -28,7 +28,7 @@ function search(ele) {
     }
 }
 
-// We chose to use the FileReader API for this
+// We chose to use the FileReader API for this - file parsing algorithm below
 
 const fileArray = [[
     [0, 1],
