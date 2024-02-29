@@ -206,8 +206,3 @@ function dropbox(list){
   }
 
 }}
-
-
-function enlarge(){
-  alert("Working");
-}
