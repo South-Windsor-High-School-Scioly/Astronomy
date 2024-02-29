@@ -128,7 +128,8 @@ function dropbox(){
     "Planet Habitability.txt",
     "Radial Velocity Calc.txt",
     "Radiation Laws (Easier).txt",
-    "T-Tauri Variables Source 2.txt"];
+    "T-Tauri Variables Source 2.txt", 
+  "Supernovas And Binary Systems.txt"];
   for(let i=0;i<list.length;i++){
     const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
    // console.log(path);
