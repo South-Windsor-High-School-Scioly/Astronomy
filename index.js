@@ -9,7 +9,7 @@ Enter - searches for the given query
 
 function draw(list){
     if(list.length==0){
-        alert("Not found");
+        document.getElementsByClassName("jawn")[0].innerHTML="<img src='Images/flick.jpg' style='padding-top:40px; height: 350px'>"
     }
     for(let i=0;i<list.length;i++){
         const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
