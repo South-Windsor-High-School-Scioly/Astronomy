@@ -6,11 +6,6 @@ Some quick tricks:
 Enter - searches for the given query
 */
 
-function onSubmit(){
-    alert("Success");
-    window.location.replace(index.html);
-}
-
 var query = "";
 
 function search(ele) {
@@ -59,10 +54,31 @@ function findMatch(phrase,data){
     return false;
 }
 
-var paths = JSON.parse();
-console.log(paths);
-
 /*
 Challenges: Get it to parse Json 
 Get it to make File objects from given paths. 
 */
+
+var fileNames=[];
+
+function readFile(file){
+    const [file] = document.querySelector("input[type=file]").files;
+    const reader = new FileReader();
+    const data = reader.readAsText(file);
+    console.log(reader.result);
+    return data;
+}
+
+function inputsToFileArr(){
+    FilesObjectArray=[];
+    fileNames=[];
+    for(let i=0;i<document.getElementById("x").files.length;i++){
+    fileNames[i] = document.getElementById("x").files[i].name;
+    //console.log(fileNames[i]);
+}
+readFile(FilesObjectArray[0]);
+}
+
+
+
+
