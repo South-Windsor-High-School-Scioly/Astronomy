@@ -171,6 +171,17 @@ function search(ele) {
 
 function dropbox(list){
 
+  if(list.length==0){
+    document.getElementsByClassName("red")[0].innerHTML="";
+    document.getElementsByClassName("blue")[0].innerHTML="";
+    document.getElementsByClassName("green")[0].innerHTML="";
+    document.getElementsByClassName("yellow")[0].innerHTML="";
+    document.getElementsByClassName("purple")[0].innerHTML="";
+  
+    document.getElementsByClassName("yellow")[0].innerHTML="<img src='Images/flick.jpg' style='margin-right:auto; margin-left:auto; padding-top:30px'>"
+  }
+
+    else {
   document.getElementsByClassName("red")[0].innerHTML="";
   document.getElementsByClassName("blue")[0].innerHTML="";
   document.getElementsByClassName("green")[0].innerHTML="";
@@ -194,18 +205,9 @@ function dropbox(list){
 
   }
 
-}
+}}
 
 
 function enlarge(){
-  console.log("element clicked");
-  if(document.getElementsByClassName(cl)[0].style.width="33%"){
-    document.getElementsByClassName(cl)[0].style.width="80%";
-    document.getElementsByClassName(cl)[0].style.minHeight = "800px";
-  }
-  else if(document.getElementsByClassName(cl)[0].style.width="80%"){
-    document.getElementsByClassName(cl)[0].style.width="33%";
-    document.getElementsByClassName(cl)[0].style.minHeight = "400px";
-  }
+  alert("Working");
 }
-
