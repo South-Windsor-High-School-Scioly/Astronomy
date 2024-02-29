@@ -1,6 +1,6 @@
 {
+"Text File Name":"PDF File Path",
 "Astro Notes-Overview":{
-    "PDFPath":"PDF Sources/Astro Notes-Overview.pdf",
-    "TextPath":"Text Sources/Astro Notes-Overview.pdf"
+    "Astro Notes-Overview.pdf":"PDF Sources/Astro Notes-Overview.pdf"
     }
 }

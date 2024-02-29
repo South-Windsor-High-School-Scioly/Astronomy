@@ -1,5 +1,6 @@
 /*
 Some quick tricks:
+1 - go to input sources page
 2 - clears the search box (the program automatically removes # from beginning of queries if present)
 3 - redirects you to the other page
 Enter - searches for the given query
@@ -15,6 +16,7 @@ function search(ele) {
         }
         //alert(query);
     }
+    
     else if(event.key=='3'){
       document.getElementById("w").value="";
     }
@@ -22,9 +24,17 @@ function search(ele) {
       if(document.title=="Power Search"){
         window.location.replace("pages.html");
       }
-      else if (document.title=="Sources Drive"){
+      else if (document.title=="Sources Drive" || document.title=="Input Sources"){
         window.location.replace("index.html");
       }
+    }
+    else if (event.key=='1'){
+        if(document.title=="Input Sources") {
+            window.location.replace("index.html");
+        }
+        else {
+            window.location.replace("input.html");
+        }
     }
 }
 
