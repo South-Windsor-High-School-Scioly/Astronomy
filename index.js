@@ -34,7 +34,7 @@ Get it to make File objects from given paths.
 var fileTexts = [];
 var fileNames=[];
 
-function readFile(file){
+function readFile(file,i){
     var reader = new FileReader();
     reader.addEventListener(
         "load",
@@ -42,7 +42,8 @@ function readFile(file){
           // this will then display a text file
           console.log("Read: Success");
        // console.log(reader.result);
-          return reader.result;
+            fileTexts[i]=reader.result;
+        
         },
         false,
       );
@@ -58,7 +59,7 @@ function inputsToFileArr(){
     fileNames=[];
     for(let i=0;i<document.getElementById("x").files.length;i++){
     fileNames[i] = document.getElementById("x").files[i].name;
-    fileTexts[i]=readFile(document.getElementById("x").files[i]);
+    readFile(document.getElementById("x").files[i],i);
     //console.log(fileNames[i]);
     console.log("Array: Success");
 }
@@ -66,12 +67,14 @@ function inputsToFileArr(){
 
 function search(ele) {
     if(event.key == 'Enter') {
+        //console.log(fileTexts);
         query = ele.value;
         if(query.substr(0,1)=="3"){
           query = query.substr(1);
         }
             var ind=0;
             acceptedList=[];
+            
             for(let i=0;i<fileTexts.length;i++){
                 if(findMatch(query,fileTexts[i])==true){
                     acceptedList[ind]=fileNames[i];
@@ -84,7 +87,6 @@ function search(ele) {
             else 
                 console.log("Matches found");
 
-        
        // alert(query);
     }
 
