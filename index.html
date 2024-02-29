@@ -18,6 +18,11 @@
       <label for="w" style="color:black;font-weight: bolder; font-size: 60px;" >Search:</label>
       <input autofocus="autofocus" type="search" id="w" onkeydown="search(this)"  name="w" style="border-width: 6px; border-color: black; width:900px; height:60px; font-size: 60px; font-weight: bolder; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:blue; height:90px; border-radius:15px" >
      <!-- <embed src="Sources/Astro Notes-Overview.pdf" width="80%" height="720px" style="margin-right: 10vw; float:right"/> -->
+     <div id="upload" style="border:5px solid #f84812; padding:15px">
+      <label for="x" style="color:maroon;font-weight: bolder; font-size: 60px;" >Upload Sources:</label>
+      <input multiple onchange="inputsToFileArr()" type="file" id="x"  name="x" style="border-width: 6px; border-color: maroon; width:900px; height:60px; font-size: 60px; font-weight: bolder; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:gold; height:60px; border-radius:15px" >
+    </div>
+     
      <div class="canvas">
      </div>
 </body>

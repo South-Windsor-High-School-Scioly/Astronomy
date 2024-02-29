@@ -9,39 +9,6 @@ Enter - searches for the given query
 var query = "";
 var acceptedList=[];
 
-function search(ele) {
-    if(event.key === 'Enter') {
-        query = ele.value;
-        if(query.substr(0,1)=="3"){
-          query = query.substr(1);
-
-
-
-
-        }
-        //alert(query);
-    }
-    
-    else if(event.key=='3'){
-      document.getElementById("w").value="";
-    }
-    else if (event.key=='2'){
-      if(document.title=="Power Search"){
-        window.location.replace("pages.html");
-      }
-      else if (document.title=="Sources Drive" || document.title=="Input Sources"){
-        window.location.replace("index.html");
-      }
-    }
-    else if (event.key=='1'){
-        if(document.title=="Input Sources") {
-            window.location.replace("index.html");
-        }
-        else {
-            window.location.replace("input.html");
-        }
-    }
-}
 
 // We chose to use the FileReader API for this - file parsing algorithm below
 function strToArr(str){
@@ -95,5 +62,45 @@ function inputsToFileArr(){
 }
 
 
+
+function search(ele) {
+    if(event.key === 'Enter') {
+        query = ele.value;
+        if(query.substr(0,1)=="3"){
+          query = query.substr(1);
+            var ind=0;
+            acceptedList=[];
+            for(let i=0;i<fileTexts.length;i++){
+                if(findMatch(query,fileTexts[i])==true){
+                    acceptedList[ind]=fileNames[i];
+                    ind++;
+                }
+            }
+            console.log(acceptedList);
+
+        }
+        //alert(query);
+    }
+    
+    else if(event.key=='3'){
+      document.getElementById("w").value="";
+    }
+    else if (event.key=='2'){
+      if(document.title=="Power Search"){
+        window.location.replace("pages.html");
+      }
+      else if (document.title=="Sources Drive" || document.title=="Input Sources"){
+        window.location.replace("index.html");
+      }
+    }
+    else if (event.key=='1'){
+        if(document.title=="Input Sources") {
+            window.location.replace("index.html");
+        }
+        else {
+            window.location.replace("input.html");
+        }
+    }
+}
 
 
