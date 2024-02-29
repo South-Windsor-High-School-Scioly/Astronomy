@@ -149,3 +149,10 @@ function enlarge(cl){
 
   }
 }
+
+/*Tasks with Nithik
+
+1. Styling - easy - inline display on drive
+2. Enlarge style function
+
+*/
