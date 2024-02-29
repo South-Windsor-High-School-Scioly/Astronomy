@@ -95,6 +95,37 @@ function inputsToFileArr(){
 }
 }
 
+const list=[
+  "Astro Notes-Overview.txt",
+  "Astronomy H-R Diagrams.txt",
+  "Astronomy-Division-C-2022.txt",
+  "Direct And Transit Imagin Methods.txt",
+  "Formula_Sheet.txt",
+  "GalaxyAndStarFormation (2020) Division C.txt",
+  "Herbig Ae And Be And Vega-Type Stars.txt",
+  "Hl and Hll Objects.txt",
+  "Hl And Hll Regions In Orion Nebula.txt",
+  "Orbital Motions Calculations.txt",
+  "Planet Habitability.txt",
+  "Radial Velocity Calc.txt",
+  "Radiation Laws (Easier).txt",
+  "T-Tauri Variables Source 2.txt", 
+"Supernovas And Binary Systems.txt"];
+
+function regenPage(term, aList){
+    var newList=[];
+    var ind=0;
+    for(let i=0;i<aList.length;i++){
+      if(aList[i].toLowerCase().indexOf(term.toLowerCase())>=0){
+        newList[ind]=aList[i];
+        ind++
+      }
+    }
+    console.log(newList);
+    dropbox(newList);
+  }
+
+
 function search(ele) {
     if(event.key == 'Enter') {
         //console.log(fileTexts);
@@ -102,6 +133,11 @@ function search(ele) {
         if(query.substr(0,1)=="3"){
           query = query.substr(1);
         }
+
+        if(document.title=="Sources Drive"){
+          regenPage(query, list);
+        }
+        else if (document.title=="Power Search"){
             var ind=0;
             acceptedList=[];
             
@@ -117,6 +153,7 @@ function search(ele) {
 
        // alert(query);
     }
+  }
 
     
     else if(event.key=='3'){
@@ -132,23 +169,14 @@ function search(ele) {
     }
 }
 
-function dropbox(){
-  list=[
-    "Astro Notes-Overview.txt",
-    "Astronomy H-R Diagrams.txt",
-    "Astronomy-Division-C-2022.txt",
-    "Direct And Transit Imagin Methods.txt",
-    "Formula_Sheet.txt",
-    "GalaxyAndStarFormation (2020) Division C.txt",
-    "Herbig Ae And Be And Vega-Type Stars.txt",
-    "Hl and Hll Objects.txt",
-    "Hl And Hll Regions In Orion Nebula.txt",
-    "Orbital Motions Calculations.txt",
-    "Planet Habitability.txt",
-    "Radial Velocity Calc.txt",
-    "Radiation Laws (Easier).txt",
-    "T-Tauri Variables Source 2.txt", 
-  "Supernovas And Binary Systems.txt"];
+function dropbox(list){
+
+  document.getElementsByClassName("red")[0].innerHTML="";
+  document.getElementsByClassName("blue")[0].innerHTML="";
+  document.getElementsByClassName("green")[0].innerHTML="";
+  document.getElementsByClassName("yellow")[0].innerHTML="";
+  document.getElementsByClassName("purple")[0].innerHTML="";
+
   for(let i=0;i<list.length;i++){
     const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
    // console.log(path);
@@ -180,10 +208,3 @@ function enlarge(cl){
     document.getElementsByClassName(cl)[0].style.minHeight = "400px";
   }
 }
-
-/*Tasks with Nithik
-
-1. Styling - easy - inline display on drive
-2. Enlarge style function
-
-*/
