@@ -33,7 +33,6 @@ function strToArr(str){
     return str.trim().split(" ");
 }
 
-
 function findMatch(phrase,data){
     for(let i=0;i<strToArr(phrase).length;i++){
         if(data.indexOf(strToArr(phrase)[i])>=0)
@@ -44,3 +43,11 @@ function findMatch(phrase,data){
     }
     return false;
 }
+
+var paths = JSON.parse();
+console.log(paths);
+
+/*
+Challenges: Get it to parse Json 
+Get it to make File objects from given paths. 
+*/
