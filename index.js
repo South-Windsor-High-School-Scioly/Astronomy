@@ -40,6 +40,8 @@ function readFile(file){
         "load",
         () => {
           // this will then display a text file
+          console.log("Read: Success");
+
           return reader.result;
         },
         false,
@@ -58,6 +60,7 @@ function inputsToFileArr(){
     fileNames[i] = document.getElementById("x").files[i].name;
     fileTexts[i]=readFile(document.getElementById("x").files[i]);
     //console.log(fileNames[i]);
+    console.log("Array: Success");
 }
 }
 
