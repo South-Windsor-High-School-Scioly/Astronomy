@@ -16,7 +16,7 @@ function draw(list){
     for(let i=0;i<list.length;i++){
         const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
        // console.log(path);
-       document.getElementsByClassName("jawn")[0].innerHTML+="<embed id='" +i+ "' onclick='enlarge('" + i+";) style='padding-top:40px;width: 33%; min-height:400px' src=\'" + path+"\'>"
+       document.getElementsByClassName("jawn")[0].innerHTML+="<embed class='" +i+ "' onclick='enlarge('" + i+";) style='padding-top:40px;width: 33%; min-height:400px' src=\'" + path+"\'>"
     }
 }
 
