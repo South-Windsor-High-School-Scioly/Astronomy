@@ -16,14 +16,11 @@ function strToArr(str){
 }
 
 function findMatch(phrase,data){
-    for(let i=0;i<strToArr(phrase).length;i++){
-        if(data.indexOf(strToArr(phrase)[i])>=0)
-        {
+        phrase=phrase.toLowerCase();
+        if(data.indexOf(phrase)>=0)
             return true;
-            break;
-        }
-    }
-    return false;
+        else
+            return false;
 }
 
 /*
@@ -40,9 +37,9 @@ function readFile(file,i){
         "load",
         () => {
           // this will then display a text file
-          console.log("Read: Success");
+//console.log("Read: Success");
        // console.log(reader.result);
-            fileTexts[i]=reader.result;
+            fileTexts[i]=reader.result.toLowerCase();
         
         },
         false,
@@ -61,7 +58,7 @@ function inputsToFileArr(){
     fileNames[i] = document.getElementById("x").files[i].name;
     readFile(document.getElementById("x").files[i],i);
     //console.log(fileNames[i]);
-    console.log("Array: Success");
+//console.log("Array: Success");
 }
 }
 
@@ -81,11 +78,6 @@ function search(ele) {
                     ind++;
                 }
             }
-            console.log(acceptedList);
-            if(acceptedList.length==0)
-                console.log("No Matches Found");
-            else 
-                console.log("Matches found");
 
        // alert(query);
     }
