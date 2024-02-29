@@ -41,7 +41,7 @@ function readFile(file){
         () => {
           // this will then display a text file
           console.log("Read: Success");
-
+       // console.log(reader.result);
           return reader.result;
         },
         false,
@@ -64,13 +64,12 @@ function inputsToFileArr(){
 }
 }
 
-
-
 function search(ele) {
-    if(event.key === 'Enter') {
+    if(event.key == 'Enter') {
         query = ele.value;
         if(query.substr(0,1)=="3"){
           query = query.substr(1);
+        }
             var ind=0;
             acceptedList=[];
             for(let i=0;i<fileTexts.length;i++){
@@ -80,10 +79,15 @@ function search(ele) {
                 }
             }
             console.log(acceptedList);
+            if(acceptedList.length==0)
+                console.log("No Matches Found");
+            else 
+                console.log("Matches found");
 
-        }
-        //alert(query);
+        
+       // alert(query);
     }
+
     
     else if(event.key=='3'){
       document.getElementById("w").value="";
@@ -95,14 +99,6 @@ function search(ele) {
       else if (document.title=="Sources Drive" || document.title=="Input Sources"){
         window.location.replace("index.html");
       }
-    }
-    else if (event.key=='1'){
-        if(document.title=="Input Sources") {
-            window.location.replace("index.html");
-        }
-        else {
-            window.location.replace("input.html");
-        }
     }
 }
 
