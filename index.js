@@ -93,6 +93,7 @@ function search(ele) {
                    // console.log("Matches found");
                 }
             }
+            console.log(acceptedList);
             draw(acceptedList);
 
        // alert(query);
@@ -112,4 +113,25 @@ function search(ele) {
     }
 }
 
-
+function dropbox(){
+  list=[
+    "Astro Notes-Overview.txt",
+    "Astronomy H-R Diagrams.txt",
+    "Astronomy-Division-C-2022.txt",
+    "Direct And Transit Imagin Methods.txt",
+    "Formula_Sheet.txt",
+    "GalaxyAndStarFormation (2020) Division C.txt",
+    "Herbig Ae And Be And Vega-Type Stars.txt",
+    "Hl and Hll Objects.txt",
+    "Hl And Hll Regions In Orion Nebula.txt",
+    "Orbital Motions Calculations.txt",
+    "Planet Habitability.txt",
+    "Radial Velocity Calc.txt",
+    "Radiation Laws (Easier).txt",
+    "T-Tauri Variables Source 2.txt"];
+  for(let i=0;i<list.length;i++){
+    const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
+   // console.log(path);
+   document.getElementsByClassName("jawn")[0].innerHTML+="<embed style='padding-top:40px; width: 26%; min-height:100px' src=\'" + path+"\'>"
+}
+}
