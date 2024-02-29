@@ -8,7 +8,9 @@ Enter - searches for the given query
 
 
 function draw(list){
-    document.getElementsByClassName("jawn")[0].innerHTML=""
+    document.getElementsByClassName("jha")[0].innerHTML="";
+    document.getElementsByClassName("bala")[0].innerHTML="";
+    document.getElementsByClassName("uppara")[0].innerHTML="";
 
     if(list.length==0){
         document.getElementsByClassName("jawn")[0].innerHTML="<img src='Images/flick.jpg' style='margin-right:auto; margin-left:auto'>"
