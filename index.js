@@ -16,7 +16,7 @@ function draw(list){
 
 
     if(list.length==0){
-      document.getElementsByClassName("uppara")[0].innerHTML="<img src='Images/flick.jpg' style='margin-right:auto; margin-left:auto'>"
+      alert("Not Available");
     }
 
     else {
@@ -172,13 +172,8 @@ function search(ele) {
 function dropbox(list){
 
   if(list.length==0){
-    document.getElementsByClassName("red")[0].innerHTML="";
-    document.getElementsByClassName("blue")[0].innerHTML="";
-    document.getElementsByClassName("green")[0].innerHTML="";
-    document.getElementsByClassName("yellow")[0].innerHTML="";
-    document.getElementsByClassName("purple")[0].innerHTML="";
   
-    document.getElementsByClassName("yellow")[0].innerHTML="<img src='Images/flick.jpg' style='margin-right:auto; margin-left:auto; padding-top:30px'>"
+    alert("Not Available");
   }
 
     else {
@@ -206,8 +201,3 @@ function dropbox(list){
   }
 
 }}
-
-
-function enlarge(){
-  alert("Working");
-}
