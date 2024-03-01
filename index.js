@@ -1,6 +1,5 @@
 /*
 Some quick tricks:
-1 - go to input sources page
 2 - clears the search box (the program automatically removes # from beginning of queries if present)
 3 - redirects you to the other page
 Enter - searches for the given query
@@ -122,7 +121,7 @@ function regenPage(term, aList){
         ind++
       }
     }
-    console.log(newList);
+    //console.log(newList);
     dropbox(newList);
   }
 
@@ -130,7 +129,7 @@ function regenPage(term, aList){
 function search(ele) {
     if(event.key == 'Enter') {
         //console.log(fileTexts);
-        query = ele.value;
+        var query = ele.value;
         if(query.substr(0,1)=="3"){
           query = query.substr(1);
         }
@@ -188,7 +187,7 @@ function dropbox(list){
   //  javascript:switchPage('PDF Sources/Astronomy-Division-C-2022.pdf')
 
   for(let i=0;i<list.length;i++){
-    const path = 'PDF Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
+    var path = 'PDF Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
     console.log(path);
    // console.log(path);
    //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
@@ -211,7 +210,7 @@ function dropbox(list){
 var webpage;
 
 function switchPage(path){
-  const body = document.getElementsByTagName("body")[0].innerHTML;
+  var body = document.getElementsByTagName("body")[0].innerHTML;
   document.getElementsByTagName("body")[0].innerHTML="";
   document.getElementsByTagName("body")[0].innerHTML+="<a href='javascript:revert()' style='float:right'> <img src='Images/placeholder.jpg' style='border-radius:25px' width='210px' height='850px'> </a>";
   document.getElementsByTagName("body")[0].innerHTML+="<embed src='"+path+"' style='width:80%; height:850px'>";
