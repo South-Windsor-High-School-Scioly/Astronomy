@@ -4,4 +4,4 @@ This is a website made for the access of pdfs fast and effectivley for the usage
 
 # Important
 
-Use Google Chrome Browser only (most updated version) on a laptop to run the advanced technologies harnessed by this application
+Use Google Chrome Browser only (most updated version) on a laptop to run the advanced technologies harnessed by this application. Highly recommended to run Chrome in full screen mode as well to get the most out of this single page web app
