@@ -212,9 +212,9 @@ var webpage;
 
 function switchPage(path){
   const body = document.getElementsByTagName("body")[0].innerHTML;
-  document.getElementsByTagName("body")[0].innerHTML=""
-  document.getElementsByTagName("body")[0].innerHTML+="<a href='javascript:revert()' style='float:right'> <img src='Images/runback.jpg' width='180px' height='850px'> </a>"
-  document.getElementsByTagName("body")[0].innerHTML+="<embed src='"+path+"' style='width:80%; height:850px'>"
+  document.getElementsByTagName("body")[0].innerHTML="";
+  document.getElementsByTagName("body")[0].innerHTML+="<a href='javascript:revert()' style='float:right'> <img src='Images/placeholder.jpg' style='border-radius:25px' width='210px' height='850px'> </a>";
+  document.getElementsByTagName("body")[0].innerHTML+="<embed src='"+path+"' style='width:80%; height:850px'>";
   webpage=body;
 }
 
