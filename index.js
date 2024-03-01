@@ -16,6 +16,7 @@ function draw(list){
 
 
     if(list.length==0){
+      document.getElementById("w").value="";
       alert("Not Available");
     }
 
@@ -172,8 +173,9 @@ function search(ele) {
 function dropbox(list){
 
   if(list.length==0){
-  
+    document.getElementById("w").value="";
     alert("Not Available");
+
   }
 
     else {
