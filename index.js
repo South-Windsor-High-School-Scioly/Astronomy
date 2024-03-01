@@ -203,3 +203,18 @@ function dropbox(list){
   }
 
 }}
+
+
+var webpage;
+
+function switchPage(path){
+  const body = document.getElementsByTagName("body")[0].innerHTML;
+  document.getElementsByTagName("body")[0].innerHTML=""
+  document.getElementsByTagName("body")[0].innerHTML+="<a href='javascript:revert()' style='float:right'> <img src='Images/runback.jpg' width='180px' height='800px'> </a>"
+  document.getElementsByTagName("body")[0].innerHTML+="<embed src='"+path+"' style='width:80%; height:700px'>"
+  webpage=body;
+}
+
+function revert(){
+  document.getElementsByTagName("body")[0].innerHTML=webpage;
+}
