@@ -26,7 +26,7 @@ function draw(list){
      // document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
 
       if(i%5==4)
-        document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';      
+        document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
       else if (i%5==3)
         document.getElementsByClassName("bala")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
       else if (i%5==2)
@@ -57,8 +57,8 @@ function findMatch(phrase,data){
 }
 
 /*
-Challenges: Get it to parse Json 
-Get it to make File objects from given paths. 
+Challenges: Get it to parse Json
+Get it to make File objects from given paths.
 */
 
 var fileTexts = [];
@@ -109,7 +109,7 @@ const list=[
   "Planet Habitability.txt",
   "Radial Velocity Calc.txt",
   "Radiation Laws (Easier).txt",
-  "T-Tauri Variables Source 2.txt", 
+  "T-Tauri Variables Source 2.txt",
 "Supernovas And Binary Systems.txt"];
 
 function regenPage(term, aList){
@@ -127,7 +127,20 @@ function regenPage(term, aList){
 
 
 function search(ele) {
-    if(event.key == 'Enter') {
+    
+    if(event.key=='3'){
+      document.getElementById("w").value="";
+    }
+    else if (event.key=='2'){
+      if(document.title=="Power Search"){
+        window.location.replace("pages.html");
+      }
+      else if (document.title=="Sources Drive" || document.title=="Input Sources"){
+        window.location.replace("index.html");
+      }
+    }
+    
+        else {
         //console.log(fileTexts);
         var query = ele.value;
         if(query.substr(0,1)=="3"){
@@ -155,18 +168,6 @@ function search(ele) {
     }
   }
 
-    
-    else if(event.key=='3'){
-      document.getElementById("w").value="";
-    }
-    else if (event.key=='2'){
-      if(document.title=="Power Search"){
-        window.location.replace("pages.html");
-      }
-      else if (document.title=="Sources Drive" || document.title=="Input Sources"){
-        window.location.replace("index.html");
-      }
-    }
 }
 
 function dropbox(list){
