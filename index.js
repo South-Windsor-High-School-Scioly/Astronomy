@@ -1,25 +1,23 @@
 /*
 Some quick tricks:
-2 - clears the search box (the program automatically removes # from beginning of queries if present)
-3 - redirects you to the other page
+# - clears the search box (the program automatically removes # from beginning of queries if present)
+@ - redirects you to the other page
+$ - toggle between showing thumbnails or not
 Enter - searches for the given query
 */
 
+var thumbnail = true;
 
 function draw(list){
-    document.getElementsByClassName("jha")[0].innerHTML="";
-    document.getElementsByClassName("bala")[0].innerHTML="";
-    document.getElementsByClassName("uppara")[0].innerHTML="";
-    document.getElementsByClassName("sujan")[0].innerHTML="";
-    document.getElementsByClassName("mawla")[0].innerHTML="";
-
 
     if(list.length==0){
-      document.getElementById("w").value="";
-      alert("Not Available");
+      document.getElementsByClassName("jawn")[0].innerHTML = "";
+      document.getElementsByClassName("jawn")[0].innerHTML = "<img src='Images/not-available.jpg' style='width:50%; margin-right:auto; margin-left:auto; margin-top:25px; border-radius:55px'>"; 
     }
 
     else {
+      if(thumbnail){
+        document.getElementsByClassName("jawn")[0].innerHTML='<script src="index.js"></script><div class="jha" style="width:20%"></div><div class="bala" style="width:20%;"></div><div class="uppara" style="width:20%;"></div><div class="sujan" style="width:20%;"></div><div class="mawla" style="width:20%;"></div>    ';
     for(let i=0;i<list.length;i++){
       const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
      // console.log(path);
@@ -37,6 +35,11 @@ function draw(list){
         document.getElementsByClassName("mawla")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
       }
     }
+      else if (!thumbnail){
+        document.getElementsByClassName("jawn")[0].innerHTML='<script src="index.js"></script><div class="jha" style="width:20%"></div><div class="bala" style="width:20%;"></div><div class="uppara" style="width:20%;"></div><div class="sujan" style="width:20%;"></div><div class="mawla" style="width:20%;"></div>    '
+    
+      }
+}
 }
 
 var query = "";
@@ -130,6 +133,18 @@ function search(ele) {
     
     if(event.key=='3'){
       document.getElementById("w").value="";
+      document.getElementById("w").value="";
+    }
+    if(event.key=='4'){
+      document.getElementById("w").value="";
+      if(thumbnail){
+        document.getElementById("dawg").innerHTML=" Thumbnails hidden";
+        thumbnail = false;
+      }
+      else {
+        document.getElementById("dawg").innerHTML="Thumbnails visible";
+        thumbnail = true;
+      }
     }
     else if (event.key=='2'){
       if(document.title=="Power Search"){
