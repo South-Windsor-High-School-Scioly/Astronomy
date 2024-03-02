@@ -50,15 +50,15 @@ function draw(list){
       // document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
 
         if(i%5==4)
-          document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+          document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; min-height:200px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
         else if (i%5==3)
-          document.getElementsByClassName("bala")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+          document.getElementsByClassName("bala")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; min-height:200px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
         else if (i%5==2)
-          document.getElementsByClassName("uppara")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+          document.getElementsByClassName("uppara")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; min-height:200px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
         else if (i%5==1)
-          document.getElementsByClassName("sujan")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+          document.getElementsByClassName("sujan")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; min-height:200px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
         else
-          document.getElementsByClassName("mawla")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+          document.getElementsByClassName("mawla")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; min-height:200px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
         }
     }
       else{
@@ -209,15 +209,15 @@ function dropbox(list){
    // console.log(path);
    //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
       if(i%5==4)
-        document.getElementsByClassName("#ed1000")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; height:220px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        document.getElementsByClassName("#ed1000")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; height:200px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
       else if (i%5==3)
-        document.getElementsByClassName("blue")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; height:220px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        document.getElementsByClassName("blue")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; height:200px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
       else if (i%5==2)
-        document.getElementsByClassName("green")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; height:220px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        document.getElementsByClassName("green")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; height:200px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
       else if (i%5==1)
-        document.getElementsByClassName("yellow")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; height:220px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        document.getElementsByClassName("yellow")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; height:200px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
       else
-        document.getElementsByClassName("purple")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; height:220px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        document.getElementsByClassName("purple")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; height:200px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
   }
 }
       else {
