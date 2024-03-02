@@ -8,8 +8,8 @@ Enter - searches for the given query
 // constants
 
 var thumbnail = true;;
-const number2 = '@';
-const number3 = "#";
+var number2 = '@';
+var number3 = "#";
 
 var defaultlist=[
   "Astro Notes-Overview.txt",
@@ -249,4 +249,24 @@ function switchPage(path){
 
 function revert(){
   document.getElementsByTagName("body")[0].innerHTML=webpage;
+}
+
+
+
+// Caches all of the PDFs
+function webCache(){
+  caches.open('my-cache').then(function(cache) {
+    // Cache opened successfully
+  }).catch(function(error) {
+    // Failed to open cache
+  });
+
+  for(let i=0;i<list.length;i++){
+    const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
+  caches.open("my-cache").then((cache) => {
+    cache
+      .add(path)
+      .catch((error));
+  });
+}
 }
