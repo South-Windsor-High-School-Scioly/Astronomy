@@ -233,9 +233,9 @@ function dropbox(list){
          // console.log(path);
          //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
          if(i%2==1)
-              document.getElementsByClassName("red")[0].innerHTML+= '<a style="line-height:3.4rem; color:red; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+              document.getElementsByClassName("red")[0].innerHTML+= '<a style="line-height:3.4rem; color:#9536f5; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
         else if (i%2==0)
-               document.getElementsByClassName("blue")[0].innerHTML+= '<a style="line-height:3.4rem; color:red; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+               document.getElementsByClassName("blue")[0].innerHTML+= '<a style="line-height:3.4rem; color:#9536f5; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
      }  
       }
 
