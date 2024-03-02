@@ -5,9 +5,30 @@ Some quick tricks:
 Enter - searches for the given query
 */
 
+// constants
+
 var thumbnail = true;;
 const number2 = '@';
 const number3 = "#";
+
+var defaultlist=[
+  "Astro Notes-Overview.txt",
+  "Astronomy H-R Diagrams.txt",
+  "Astronomy-Division-C-2022.txt",
+  "Direct And Transit Imagin Methods.txt",
+  "Formula_Sheet.txt",
+  "GalaxyAndStarFormation (2020) Division C.txt",
+  "Herbig Ae And Be And Vega-Type Stars.txt",
+  "Hl and Hll Objects.txt",
+  "Hl And Hll Regions In Orion Nebula.txt",
+  "Orbital Motions Calculations.txt",
+  "Planet Habitability.txt",
+  "Radial Velocity Calc.txt",
+  "Radiation Laws (Easier).txt",
+  "T-Tauri Variables Source 2.txt",
+"Supernovas And Binary Systems.txt"];
+
+//___________________________________________________________________________________________________________________
 
 function checked(){
   thumbnail = document.getElementById("hood").checked;
@@ -108,23 +129,6 @@ function inputsToFileArr(){
 //console.log("Array: Success");
 }
 }
-
-var defaultlist=[
-  "Astro Notes-Overview.txt",
-  "Astronomy H-R Diagrams.txt",
-  "Astronomy-Division-C-2022.txt",
-  "Direct And Transit Imagin Methods.txt",
-  "Formula_Sheet.txt",
-  "GalaxyAndStarFormation (2020) Division C.txt",
-  "Herbig Ae And Be And Vega-Type Stars.txt",
-  "Hl and Hll Objects.txt",
-  "Hl And Hll Regions In Orion Nebula.txt",
-  "Orbital Motions Calculations.txt",
-  "Planet Habitability.txt",
-  "Radial Velocity Calc.txt",
-  "Radiation Laws (Easier).txt",
-  "T-Tauri Variables Source 2.txt",
-"Supernovas And Binary Systems.txt"];
 
 function regenPage(term, aList){
     var newList=[];
