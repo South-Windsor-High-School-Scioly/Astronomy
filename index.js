@@ -16,8 +16,7 @@ function checked(){
 
 function blackpink(){
   checked();
-  console.log(document.getElementById("w").value);
-  search(document.getElementById("w").value);
+  search("'"+document.getElementById("w").value+"'");
 }
 
 
