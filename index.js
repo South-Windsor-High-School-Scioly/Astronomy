@@ -9,8 +9,11 @@ Enter - searches for the given query
 var thumbnail = true;
 var number2 = '@';
 var number3 = '#';
-var number4 = '$';
 
+function checked(){
+  thumbnail = document.getElementById("hood").checked;
+  console.log(thumbnail);
+}
 
 function draw(list){
   document.getElementsByClassName("jawn")[0].innerHTML = "";
@@ -108,7 +111,7 @@ function inputsToFileArr(){
 }
 }
 
-const list=[
+const defaultlist=[
   "Astro Notes-Overview.txt",
   "Astronomy H-R Diagrams.txt",
   "Astronomy-Division-C-2022.txt",
@@ -140,24 +143,13 @@ function regenPage(term, aList){
 
 
 function search(ele) {
-    
+    checked();
+
     if(event.key==number3){
       document.getElementById("w").value="";
       document.getElementById("w").value="";
     }
-    if(event.key==number4){
-     // document.getElementById("w").value="";
-      if(thumbnail){
-        document.getElementById("dawg").innerHTML=" Thumbnails visible";
-        thumbnail = false;
-      }
-      else {
-        document.getElementById("dawg").innerHTML="Thumbnails hidden";
-        thumbnail = true;
-      }
-      document.getElementById("w").value="";
 
-    }
     else if (event.key==number2){
       if(document.title=="Power Search"){
         window.location.replace("pages.html");
@@ -170,12 +162,12 @@ function search(ele) {
         else {
         //console.log(fileTexts);
         var query = ele.value;
-        if(query.substr(0,1)==number3||query.substr(0,1)==number4){
+        if(query.substr(0,1)==number3){
           query = query.substr(1);
         }
 
         else if(document.title=="Sources Drive"){
-          regenPage(query, list);
+          regenPage(query, defaultlist);
         }
         else if (document.title=="Power Search"){
             var ind=0;
@@ -215,7 +207,7 @@ function dropbox(list){
 
   for(let i=0;i<list.length;i++){
     var path = 'PDF Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
-    console.log(path);
+   // console.log(path);
    // console.log(path);
    //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
       if(i%5==4)
