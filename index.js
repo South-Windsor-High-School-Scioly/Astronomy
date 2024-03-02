@@ -6,7 +6,7 @@ $ - toggle between showing thumbnails or not
 Enter - searches for the given query
 */
 
-var thumbnail = true;
+var thumbnail = true;;
 var number2 = '@';
 var number3 = '#';
 
@@ -202,15 +202,12 @@ function dropbox(list){
   }
 
     else {
-    document.getElementsByClassName("jawn")[0].innerHTML=' <div class="red" style="width:20%"></div><div class="blue" style="width:20%;"></div><div class="green" style="width:20%;"></div><div class="yellow" style="width:20%;"></div><div class="purple" style="width:20%;"></div>'
-  document.getElementsByClassName("red")[0].innerHTML="";
-  document.getElementsByClassName("blue")[0].innerHTML="";
-  document.getElementsByClassName("green")[0].innerHTML="";
-  document.getElementsByClassName("yellow")[0].innerHTML="";
-  document.getElementsByClassName("purple")[0].innerHTML="";
+  
 
   //  javascript:switchPage('PDF Sources/Astronomy-Division-C-2022.pdf')
 
+  if(thumbnail){
+    document.getElementsByClassName("jawn")[0].innerHTML=' <div class="red" style="width:20%"></div><div class="blue" style="width:20%;"></div><div class="green" style="width:20%;"></div><div class="yellow" style="width:20%;"></div><div class="purple" style="width:20%;"></div>';
   for(let i=0;i<list.length;i++){
     var path = 'PDF Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
    // console.log(path);
@@ -226,8 +223,21 @@ function dropbox(list){
         document.getElementsByClassName("yellow")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; height:220px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
       else
         document.getElementsByClassName("purple")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; height:220px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
-
   }
+}
+      else {
+        document.getElementsByClassName("jawn")[0].innerHTML=' <div class="red" style="width:50%"></div><div class="blue" style="width:50%;">';
+        for(let i=0;i<list.length;i++){
+          var path = 'PDF Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
+         // console.log(path);
+         // console.log(path);
+         //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
+         if(i%2==1)
+              document.getElementsByClassName("red")[0].innerHTML+= '<a style="line-height:3.4rem; color:red; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+        else if (i%2==0)
+               document.getElementsByClassName("blue")[0].innerHTML+= '<a style="line-height:3.4rem; color:red; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+     }  
+      }
 
 }}
 
@@ -238,7 +248,7 @@ function switchPage(path){
   var body = document.getElementsByTagName("body")[0].innerHTML;
   document.getElementsByTagName("body")[0].innerHTML="";
   document.getElementsByTagName("body")[0].innerHTML+="<a href='javascript:revert()' style='float:right'> <img src='Images/placeholder.jpg' style='border-radius:25px' width='210px' height='850px'> </a>";
-  document.getElementsByTagName("body")[0].innerHTML+="<embed src='"+path+"' style='width:80%; height:850px'>";
+  document.getElementsByTagName("body")[0].innerHTML+="<embed src='"+path+"' style='width:85%; height:850px'>";
   webpage=body;
 }
 
