@@ -200,12 +200,11 @@ function search(ele) {
 function dropbox(list){
 
   if(list.length==0){
-    document.getElementById("w").value="";
-    alert("Not Available");
-
+    document.getElementsByClassName("jawn")[0].innerHTML = "<img src='Images/not-available.jpg' style='width:50%; margin-right:auto; margin-left:auto; margin-top:25px; border-radius:55px'>"; 
   }
 
     else {
+    document.getElementsByClassName("jawn")[0].innerHTML=' <div class="red" style="width:20%"></div><div class="blue" style="width:20%;"></div><div class="green" style="width:20%;"></div><div class="yellow" style="width:20%;"></div><div class="purple" style="width:20%;"></div>'
   document.getElementsByClassName("red")[0].innerHTML="";
   document.getElementsByClassName("blue")[0].innerHTML="";
   document.getElementsByClassName("green")[0].innerHTML="";
