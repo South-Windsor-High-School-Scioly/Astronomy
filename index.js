@@ -7,38 +7,48 @@ Enter - searches for the given query
 */
 
 var thumbnail = true;
+var number2 = '@';
+var number3 = '#';
+var number4 = '$';
+
 
 function draw(list){
+  document.getElementsByClassName("jawn")[0].innerHTML = "";
 
     if(list.length==0){
-      document.getElementsByClassName("jawn")[0].innerHTML = "";
       document.getElementsByClassName("jawn")[0].innerHTML = "<img src='Images/not-available.jpg' style='width:50%; margin-right:auto; margin-left:auto; margin-top:25px; border-radius:55px'>"; 
     }
 
     else {
-      if(thumbnail){
+      if(thumbnail==true){
         document.getElementsByClassName("jawn")[0].innerHTML='<script src="index.js"></script><div class="jha" style="width:20%"></div><div class="bala" style="width:20%;"></div><div class="uppara" style="width:20%;"></div><div class="sujan" style="width:20%;"></div><div class="mawla" style="width:20%;"></div>    ';
-    for(let i=0;i<list.length;i++){
-      const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
-     // console.log(path);
-     // document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+      for(let i=0;i<list.length;i++){
+        const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
+      // console.log(path);
+      // document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
 
-      if(i%5==4)
-        document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
-      else if (i%5==3)
-        document.getElementsByClassName("bala")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
-      else if (i%5==2)
-        document.getElementsByClassName("uppara")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
-      else if (i%5==1)
-        document.getElementsByClassName("sujan")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
-      else
-        document.getElementsByClassName("mawla")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
-      }
+        if(i%5==4)
+          document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        else if (i%5==3)
+          document.getElementsByClassName("bala")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        else if (i%5==2)
+          document.getElementsByClassName("uppara")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        else if (i%5==1)
+          document.getElementsByClassName("sujan")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        else
+          document.getElementsByClassName("mawla")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        }
     }
-      else if (!thumbnail){
-        document.getElementsByClassName("jawn")[0].innerHTML='<script src="index.js"></script><div class="jha" style="width:20%"></div><div class="bala" style="width:20%;"></div><div class="uppara" style="width:20%;"></div><div class="sujan" style="width:20%;"></div><div class="mawla" style="width:20%;"></div>    '
-    
-      }
+      else{
+        document.getElementsByClassName("jawn")[0].innerHTML='<script src="index.js"></script><div class="jha" style="width:50%"></div>  <div class="bala" style="width:50%"></div>  ';
+        for(let i=0;i<list.length;i++){
+          const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";    
+          if(i%2==1)
+            document.getElementsByClassName("jha")[0].innerHTML+= '<a style="margin-bottom:15px; color:red; font-size:1.7rem; text-decoration:none" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+          else if (i%2==0)
+            document.getElementsByClassName("bala")[0].innerHTML+= '<a style="margin-bottom:15px; color:red; font-size:1.7rem; text-decoration:none" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+        }
+}
 }
 }
 
@@ -131,22 +141,24 @@ function regenPage(term, aList){
 
 function search(ele) {
     
-    if(event.key=='3'){
+    if(event.key==number3){
       document.getElementById("w").value="";
       document.getElementById("w").value="";
     }
-    if(event.key=='4'){
-      document.getElementById("w").value="";
+    if(event.key==number4){
+     // document.getElementById("w").value="";
       if(thumbnail){
-        document.getElementById("dawg").innerHTML=" Thumbnails hidden";
+        document.getElementById("dawg").innerHTML=" Thumbnails visible";
         thumbnail = false;
       }
       else {
-        document.getElementById("dawg").innerHTML="Thumbnails visible";
+        document.getElementById("dawg").innerHTML="Thumbnails hidden";
         thumbnail = true;
       }
+      document.getElementById("w").value="";
+
     }
-    else if (event.key=='2'){
+    else if (event.key==number2){
       if(document.title=="Power Search"){
         window.location.replace("pages.html");
       }
@@ -158,7 +170,7 @@ function search(ele) {
         else {
         //console.log(fileTexts);
         var query = ele.value;
-        if(query.substr(0,1)=="3"){
+        if(query.substr(0,1)==number3||query.substr(0,1)==number4){
           query = query.substr(1);
         }
 
