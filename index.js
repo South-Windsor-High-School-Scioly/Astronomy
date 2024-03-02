@@ -15,7 +15,7 @@ function checked(){
 
 function blackpink(){
   checked();
-  search("'"+document.getElementById("w").value+"'");
+  //search('"'+document.getElementById("w").value+'"');
 }
 
 
@@ -151,7 +151,6 @@ function search(ele) {
 
     if(event.key==number3){
       document.getElementById("w").value="";
-      document.getElementById("w").value="";
     }
 
     else if (event.key==number2){
@@ -170,7 +169,7 @@ function search(ele) {
           query = query.substr(1);
         }
 
-        else if(document.title=="Sources Drive"){
+         if(document.title=="Sources Drive"){
           regenPage(query, defaultlist);
         }
         else if (document.title=="Power Search"){
