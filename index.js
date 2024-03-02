@@ -12,8 +12,14 @@ var number3 = '#';
 
 function checked(){
   thumbnail = document.getElementById("hood").checked;
-  console.log(thumbnail);
 }
+
+function blackpink(){
+  checked();
+  console.log(document.getElementById("w").value);
+  search(document.getElementById("w").value);
+}
+
 
 function draw(list){
   document.getElementsByClassName("jawn")[0].innerHTML = "";
@@ -47,9 +53,9 @@ function draw(list){
         for(let i=0;i<list.length;i++){
           const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";    
           if(i%2==1)
-            document.getElementsByClassName("jha")[0].innerHTML+= '<a style="margin-bottom:15px; color:red; font-size:1.7rem; text-decoration:none" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+            document.getElementsByClassName("jha")[0].innerHTML+= '<a style="line-height:3.4rem; color:red; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
           else if (i%2==0)
-            document.getElementsByClassName("bala")[0].innerHTML+= '<a style="margin-bottom:15px; color:red; font-size:1.7rem; text-decoration:none" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+            document.getElementsByClassName("bala")[0].innerHTML+= '<a style="line-height:3.4rem; color:red; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
         }
 }
 }
@@ -111,7 +117,7 @@ function inputsToFileArr(){
 }
 }
 
-const defaultlist=[
+var defaultlist=[
   "Astro Notes-Overview.txt",
   "Astronomy H-R Diagrams.txt",
   "Astronomy-Division-C-2022.txt",
@@ -162,7 +168,7 @@ function search(ele) {
         else {
         //console.log(fileTexts);
         var query = ele.value;
-        if(query.substr(0,1)==number3){
+        if(query!=null&&query.substr(0,1)==number3){
           query = query.substr(1);
         }
 
