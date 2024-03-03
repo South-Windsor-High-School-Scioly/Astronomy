@@ -66,9 +66,9 @@ function draw(list){
         for(let i=0;i<list.length;i++){
           const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";    
           if(i%2==1)
-            document.getElementsByClassName("jha")[0].innerHTML+= '<a style="line-height:3.4rem; color:#ed1000; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+            document.getElementsByClassName("jha")[0].innerHTML+= '<a style="line-height:3.4rem;font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
           else if (i%2==0)
-            document.getElementsByClassName("bala")[0].innerHTML+= '<a style="line-height:3.4rem; color:#ed1000; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+            document.getElementsByClassName("bala")[0].innerHTML+= '<a style="line-height:3.4rem; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
         }
 }
 }
@@ -202,14 +202,14 @@ function dropbox(list){
   //  javascript:switchPage('PDF Sources/Astronomy-Division-C-2022.pdf')
 
   if(thumbnail){
-    document.getElementsByClassName("jawn")[0].innerHTML=' <div class="#ed1000" style="width:20%"></div><div class="blue" style="width:20%;"></div><div class="green" style="width:20%;"></div><div class="yellow" style="width:20%;"></div><div class="purple" style="width:20%;"></div>';
+    document.getElementsByClassName("jawn")[0].innerHTML=' <div class="red" style="width:20%"></div><div class="blue" style="width:20%;"></div><div class="green" style="width:20%;"></div><div class="yellow" style="width:20%;"></div><div class="purple" style="width:20%;"></div>';
   for(let i=0;i<list.length;i++){
     var path = 'PDF Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
    // console.log(path);
    // console.log(path);
    //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
       if(i%5==4)
-        document.getElementsByClassName("#ed1000")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; height:200px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
+        document.getElementsByClassName("red")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; height:200px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
       else if (i%5==3)
         document.getElementsByClassName("blue")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 220px; height:200px" src="' + path+'\">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
       else if (i%5==2)
@@ -221,16 +221,16 @@ function dropbox(list){
   }
 }
       else {
-        document.getElementsByClassName("jawn")[0].innerHTML=' <div class="#ed1000" style="width:50%"></div><div class="blue" style="width:50%;">';
+        document.getElementsByClassName("jawn")[0].innerHTML=' <div class="red" style="width:50%"></div><div class="blue" style="width:50%;">';
         for(let i=0;i<list.length;i++){
           var path = 'PDF Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
          // console.log(path);
          // console.log(path);
          //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
          if(i%2==1)
-              document.getElementsByClassName("#ed1000")[0].innerHTML+= '<a style="line-height:3.4rem; color:#9536f5; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+              document.getElementsByClassName("red")[0].innerHTML+= '<a style="line-height:3.4rem; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
         else if (i%2==0)
-               document.getElementsByClassName("blue")[0].innerHTML+= '<a style="line-height:3.4rem; color:#9536f5; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
+               document.getElementsByClassName("blue")[0].innerHTML+= '<a style="line-height:3.4rem; font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
      }  
       }
 
