@@ -1,0 +1,331 @@
+Astronomy Formula Sheet
+ˆ
+mB ´ mA “ 2.5log
+Intensity Ratio:
+
+Small Angle Formula:
+
+IA
+IB
+
+IA
+“ 100.4pmB ´mA q
+IB
+θ “ 206265
+
+c
+
+˙
+m “ Magnitude
+I “ Intensity
+
+θ “ Angular Diameter (arcsecs)
+D “ Diameter
+d “Distance
+
+D
+d
+
+v “ circular velocity (m/s)
+G “ Gravitational Constant
+M “ Mass (kg)
+r “ radius (meters)
+
+GM
+r
+
+Circular Velocity:
+
+v“
+
+Resolving Power:
+
+∆θ “ 251643
+
+Compare LGP:
+
+LGPA
+“
+LGPB
+
+Magnification:
+
+M“
+
+Wien’s Law:
+
+λpeak “
+
+ˆ
+
+∆θ “ Angular separation (arcsecs)
+λ “ Wavelength
+d “ Optic Diameter
+
+λ
+d
+
+DA
+DB
+
+˙2
+
+LGP “ Light Gathering Power
+D “ Optic Diameter
+M “ Magnification Power
+FO “ Objective focal length
+FE “ Eyepiece focal length
+
+FO
+FE
+2900000
+T
+
+λpeak “ Peak wavelength (nm)
+T “ Temperature (K)
+
+F “ σT 4
+L “ 4πσR2 T 4
+ˆ
+˙2 ˆ ˙ 4
+L
+R
+T
+“
+Ld
+Rd
+Td
+
+F “ Flux (luminosity/area) (W/m2 )
+σ “ Stefan-Boltzmann Constant
+T “ Temperature (K)
+L “ Luminosity (W)
+R “ Radius (m)
+
+Redshift:
+
+λO
+z`1“
+λE
+
+z “ Redshift
+λO “ Observed Wavelength
+λE “ Emitted Wavelength
+
+Doppler Formula:
+
+v “ cz
+
+v “ Velocity (m/s)
+c “ Speed of light (m/s)
+z “ Redshift
+
+Stefan-Boltzmann Law:
+
+d
+Relativistic Doppler Shift:
+
+Hubble’s Law:
+
+Fusion Explained:
+
+z`1“
+
+1 ` pv{cq
+1 ´ pv{cq
+
+v “ Velocity (m/s)
+c “ Speed of light (m/s)
+z “ Redshift
+v “ Recessional velocity (km/s)
+H0 “ Hubble’s Constant
+d “ Distance
+
+v “ H0 d
+
+E “ Energy (J)
+m “ Mass (kg)
+c “ Speed of light (m/s)
+
+2
+
+E “ mc
+
+1
+
+Parallax:
+
+d“
+
+F Ratio:
+
+Lf
+DO
+
+Distance Modulus:
+
+1
+p
+
+d “ Distance (pc)
+p “ Parallax Angle (arcseconds)
+Lf “ Focal Length
+DO “ Objective Diameter
+
+m ´ M “ ´5 ` 5logpdq
+d “ 10
+
+m´M `5
+5
+
+e “ Orbital Eccentricity
+c “ Distance from focus to center
+a “ semimajor axis
+
+c
+a
+
+Orbit Eccentricity:
+
+e“
+
+Aphelion/Perihelion:
+
+Ra “ ap1 ` eq
+Rp “ ap1 ´ eq
+
+MA ` MB “
+Kepler’s 3rd Law:
+
+Mass-Luminosity Relation:
+
+Ra “ Orbit Aphelion
+Rp “ Orbit Perihelion
+a “ Semimajor Axis
+e “ Eccentricity
+
+a3
+p2
+
+M “ Mass (solar masses)
+a “ Semimajor axis (AU)
+p “ Orbital Period (years)
+
+a3
+MA ` MB
+
+p2 “
+
+m “ Apparent magnitude
+M “ Absolute Magnitude
+d “ Distance (pc)
+
+M “ Mass (solar masses)
+L “ Luminosity (Solar luminosity)
+
+L “ M 3.5
+
+Stellar Lifetime:
+
+τ “ 1010 M ´2.5
+
+M “ Mass (solar masses)
+τ “ Stellar Lifetime (years)
+
+Schwarzschild Radius:
+
+2Gm
+rs “ 2
+c
+
+rs “ Schwartzchild Radius (meters)
+G “ Gravitational Constant
+c “ Speed of light
+r “ radius (meters)
+
+Universal Gravitation:
+
+mA mB
+F “G
+r2
+
+F “ Gravitational Force (N)
+G “ Gravitational Constant
+m “ mass (kg)
+r “ radius (meters)
+
+Inverse-Squares Law:
+
+L
+I“
+4πd2
+
+I “ Light Intensity (W/m2 )
+L “ Luminosity (W)
+d “ Distance (m)
+
+Vacuum Frequency:
+
+f“
+
+Hubble Time:
+
+TU “
+
+f “ Wave frequency (Hz)
+c “ Speed of Light (m/s)
+λ “ wavelength (m)
+
+c
+λ
+9.778 ˆ 1011
+H0
+
+TU “ Age of the Universe (years)
+H0 “ Hubble Constant (km/s/Mpc)
+
+2
+
+Astronomical Constants and Conversions
+Constants
+Speed of Light “ c “ 3 ˆ 108 m/s
+Gravitational Constant = G = 6.67 ˆ 10´11 N m2 /kg2
+Mass of Earth “ MC “ 5.97 ˆ 1024 kg
+Radius of Earth “ RC “ 6378 km
+Mass of the sun “ M@ “ = 1.99 ˆ 1030 kg
+Radius of the sun “ R@ “ 6.96 ˆ 105 km
+Effective Temperature of the sun “ T@ “ 5778 K
+Luminosity of the sun “ L@ “ 3.9 ˆ 1026 W
+Mass of the Moon “ MK “ 7.346 ˆ 1022 kg
+Radius of the Moon “ RK “ 1738.1 km
+Mass of a proton = mp = 1.6726 ˆ 10´27 kg
+Mass of an Electron “ me´ “ 9.109 ˆ 10´31 kg
+Hubble’s Constant “ H0 “ 70 km/s/Mpc
+
+(Note: There is ongoing debate about the actual value)
+
+Stefan-Boltzmann Constant “ σ “ 5.67 ˆ 10´8 W/m2 K4
+Planck’s Constant “ h “ 6.626 ˆ 10´34 J s
+Boltzmann Constant = kB = 1.380 ˆ 10´23 m2 kg s´2 K´1
+Hα Spectral Line = 656.28 nm
+Type Ia Supernova Absolute Magnitude = -19.3
+Unit Conversions
+1 Astronomical Unit = 1 AU = 1.5 ˆ 108 km
+1 Parsec = 1 pc = 3.09 ˆ 1013 km = 3.26 ly
+1 Light Year = 1 ly = 9.46 ˆ 1012 km
+1 0
+1 Arc Minute = 11 = p 60
+q = (1.667 ˆ 10´2 )0
+1 1
+1 Arcsecond = 12 = p 60
+q = (1.667 ˆ 10´2 )1
+
+1 year = 31557600 seconds
+1 Megaton (energy) = 1,000,000 tons of TNT = 4.184 ˆ 1015 J
+
+Important Note:
+If constants or unit conversions are provided on the exam, use those instead of these.
+
+3
+
+

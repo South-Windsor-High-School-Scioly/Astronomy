@@ -1,0 +1,924 @@
+SSSS 2016
+Magikarpmaster629’s Notes:
+
+Introduction to Astronomy
+
+*Note: The following guide and the event Astronomy require knowledge of basic Algebra and
+Trigonometry. These will not be addressed, so if you are not familiar with these concepts consult
+another source.
+
+Lesson 1: Astronomy C
+Astronomy is a C division event in Science Olympiad. For those coming in from
+division B (including those who did Reach for the Stars) it’s very different from what
+you’ve seen before. You will be competing against high schoolers, many of whom are
+VERY good at studying. Keep that in mind while considering how much time to put into
+studying for Astronomy and your other events.
+Somewhat relevant; Astronomy is almost never taught in high school curriculum,
+and when it is, it’s usually an elective people take to raise their GPA. Most people
+consider a lack of background in the event a disadvantage for those competing in
+Astronomy, however I see it the other way. See, in say Anatomy or Chemistry Lab, most
+of the people competing already have a basic understanding of the content, making it
+that much harder to beat all of them. In Astronomy, everyone starts from scratch, and by
+studying well one can easily get ahead.
+Lesson 2: The Rules
+As you probably already know, each Science Olympiad event has a page (or two)
+of rules released in the rules manual every year. The Astronomy rules sheet has some
+parts that stay the same every year, and other parts that vary year to year. I cannot post
+a copy of the rules on the internet because that’s illegal; however I will give a description
+of each part of the rules:
+1. Description: Very briefly describes the event and lists the two topics for that year’s
+season. One of the topics is always stellar evolution, and the other topic switches every
+one or two years.
+2. Event Parameters: Says what you can and cannot do during the event. You and your
+partner are allowed to each bring a binder or a computer (I know right, a whole
+computer! More on that later) and each of you can also bring a programmable or other
+kind of calculator. Internet access is not allowed, so everything on your computer must
+be downloaded.
+3: The Competition: This constitutes the vast majority of the rules page, as it gives the
+content of what will actually be asked of you during tests. The details are described later
+in this guide, but know that it is split into three sections: Part A lists what can be asked
+for in concept questions, Part B has math topics and Part C lists the ‘DSOs.’ DSOs, or
+Deep Sky Objects, are simply objects in space. In the Astronomy event there are 17
+specific DSOs related to the two topics for the event that year (e. g. If the topic is
+‘exoplanets’ then most of the DSOs will be or relate to exoplanets). This will all be
+discussed more later in the guide.
+
+Lesson 3: Distances in Astronomy
+Time to get right into the content of the event =D! But before that, I’ll briefly
+answer one question: What is Astronomy?
+I’d say Astronomy is the study of the objects and processes of the universe both
+in general (like all­encompassing astronomical laws) and in specific cases (like the
+study of the solar system). Astronomy as a Science Olympiad event looks mainly as the
+study of the universe in general as well as that applied to a few specific details. Knowing
+this, we can move on to distance equations.
+Objects in space are very far away. Far enough away that we had to make up a
+set of units for distances just within our own solar system, and when we discovered how
+distant other stars and galaxies were, we needed to create yet another system.
+The first system mentioned here (for distances within the solar system) uses the
+AU, or Astronomical Unit. 1 AU is equal to 1.496*1011 meters, which is also the distance
+from the Earth to the sun. These are now used not only within our own solar system, but
+also in multiple­star systems and planetary systems of other stars. The latter system is
+the system of light­years and parsecs, and are generally used for every scale where AU
+are too small to be used practically. A light year is calculated as the distance light travels
+in a year (wow!); which is a considerable 9.46*1015 meters. However, astronomers (and
+Scioly test writers) prefer to use the parsec over the light year because they are more
+useful in equations. Know that a parsec is 3.26 light years, since tests can ask for
+either unit in answers.
+Parallax
+However cool it would be, we cannot build giant space meter sticks to measure
+the distance to objects. There are several indirect methods we can use, though. One of
+these is parallax. Parallax can be understood fairly easily since humans use it all the
+time with our eyes. Notice how if you look at one thing with one eye closed, then look at
+it with the other eye closed. It should appear to shift position relative to the background.
+Try it again with objects of different distances, and these objects will appear to shift
+more or less depending on if they are closer or farther away. This is the essence of
+parallax; by looking at things from different angles, we can find the distances to these
+things.
+With objects in space, astronomers make a measurement of an object’s position
+at one part of the year and another measurement six months later. This gives them a
+wide angle to work with (across Earth’s full orbit, which makes the measurements more
+accurate. After finding the angle in between the different apparent positions of the
+object, we use the following formula to find the distance to it:
+
+1/p = D
+
+Where D is the distance to the object in parsecs and p is parallax angle in
+arcseconds, shown in this image:
+
+In astronomy we also use a different system of angles. Objects are so far away,
+so the angles between two objects can be incredibly small; too small to effectively use
+degrees. This angle system is sexagesimal­­ one degree is 60 arcminutes (denoted with
+an apostrophe ‘), and an arcminute is 60 arcseconds (denoted by quotes “ or
+milliarcseconds by mas). With parallax, the angles used are so small that the closest
+star, Proxima Centauri, at 1.306 parsecs distant, gives a parallax angle of 0.768’’ (768
+mas), or less than one arcsecond. This is for the star with the largest parallax angle, so
+instruments that calculate parallax must be extremely precise.
+Distance Modulus
+The other main way of calculating distances is with the distance modulus. But
+before I show you more equations, you must first understand a few concepts of light.
+The first is the inverse square law. This states that the apparent intensity of light is
+inversely proportional to the square of the distance to the source of the light. You can
+test this easily; place a lamp or other light source somewhere. Look at it from two
+meters away, then again from one meter away. Because the second time you were
+twice as close, it should have appeared four times as bright ((1/(1/2))2=4). Theoretically,
+if you measured how bright the lamp appeared from either distance, then you could use
+that and the distance to the lamp to find out how bright it truly is. The relationship
+between these three is called the distance modulus.
+Astronomers call the actual brightness of the object its absolute magnitude
+(denoted by (capital) M), and how bright it appears from Earth its apparent magnitude
+(denoted by (lowercase) m). These are measured with the Pogson scale. In this
+logarithmic (but not base 10) scale, lower numbers are brighter than higher numbers,
+and every five steps is 100 times brighter/dimmer (which makes each step
+
+√100
+5
+
+or
+
+around 2.512 times brighter/dimmer). For reference, the Sun has an apparent
+magnitude of ­25, Sirius (the brightest star after the sun) is ­1.46, and the dimmest stars
+in the sky are 6. The Pogson scale is based on the old Hipparchus scale, which was
+used by the ancient Greeks (and invented by Greek astronomer Hipparchus); this
+system differed in that it only ranged from 1­6, whereas the Pogson scale can go as dim
+or bright as we can observe.
+Now for some equations. To find the distance to an object once you know its
+apparent and absolute magnitudes:
+
+10((m−M )/5)+1) = D
+
+Where D is the distance to the object in parsecs. It is important to note that the
+magnitudes are unitless variables.
+Measuring apparent magnitude is very easy, however absolute magnitude is
+much harder. There are a number of ways to do this, but right now know two important
+ones: spectroscopy and standard candles. There will be more details later, but
+spectroscopy measures the spectrum of a star, and we can use this to find its absolute
+magnitude. This is called the spectroscopic parallax. A standard candle is an object that
+either always has the same absolute magnitude, or its absolute magnitude can be found
+with a certain relationship between another property that can be measured.
+Lesson 4: Angles in Space
+Once you know the distance to something, you can start to measure other things,
+including the distances between objects in space. Solving for these uses only some
+simple trigonometry. Take a look at this problem:
+The image below shows planetary system HR 8799. Using the scale bar on the
+bottom­right, find the distance to the system.
+
+The scale bar is 0.5 arcseconds, which is 20 AU wide in HR 8799. Using this we
+can draw an isosceles triangle:
+
+Now draw a line from the leftmost point to the center of the rightmost line. This
+splits the triangle into two right triangles, which lets us do trigonometry, and also gives
+the distance line, which we can now solve for:
+
+tan(θ/2) =
+
+opposite
+adjacent
+
+= tan(0.25") = tan(0.0000694°) =
+
+10
+D
+
+6
+
+Solving for D we get 8.26 * 10 AU; dividing by 206265 we get 40.0 parsecs.
+While this is the most exact answer, there is a much easier way to solve this without
+drawing triangles. This method is called the small angle approximation. The
+approximation itself states that at very small angles, such as the ones we deal with in
+Astronomy:
+
+sin(θ) ≈ tan(θ) ≈ θ
+Using this we can simplify the earlier equation to the following:
+
+θ=
+
+d
+D
+
+Where θ is the angular separation between the objects in arcseconds,
+(lowercase) d is the distance between the objects in AU and (uppercase) D is the
+distance to the objects in parsecs. With this equation, we can still plug in 0.5” for θ and
+20 AU for d, and we still get 40 for D. This method will save you time, which is very
+important for competition day. There are also different forms of the small angle
+approximation using different units; you can have the angle in radians, degrees or
+arcminutes (technically angle measures are unitless, so these are “proportions” not
+different units), the two distance units can both be in parsecs, or D can be in light years.
+Whatever works best for you.
+Lesson 5: Light and the Electromagnetic Spectrum
+We use light (or as physicists like to call it, electromagnetic radiation) to observe
+everything in astronomy. Light travels in the form of waves, and is classified by how
+much energy it has. There are several similarities no matter how much energy it has;
+first of all, they are made of particles called photons. This means that they’re both
+waves and particles; don’t dwell on this for too long. Photons are massless, and objects
+without mass travel at the speed of light (they travel slower when passing through other
+
+substances, but this is the only exception). The speed of light is measured to be exactly
+8
+299,792,458 m/s. This is usually rounded to 3 * 10 , which can be plugged into a
+calculator much faster than the exact speed.
+Light as a Wave
+Because light is a wave it has all the same properties of waves­ frequency,
+wavelength and speed. The equation f * λ = s where f is the frequency of the wave in
+hertz, λ is wavelength in meters and s is speed in meters per second. However, as
+mentioned above the speed of light is constant, so we can rewrite the equation as
+f * λ = c where c is the speed of light in meters per second. This means that frequency
+and wavelength are solely dependent on each other; each wavelength has a
+corresponding frequency and vise­versa. It is also important to know that the frequency
+of a photon is directly proportional to its energy, while the wavelength of a photon is
+inversely proportional to energy.
+Light waves are classified by wavelength/frequency in what is known as the
+electromagnetic spectrum. The main categories are, by decreasing wavelength, radio,
+infrared, visible, ultraviolet, X­ray and gamma ray as this image shows:
+
+The exact wavelengths are as follows: radio >1 mm, infrared 700 nm ­ 1 mm,
+visible 400­700 nm, ultraviolet 100­400 nm, X­ray 0.01­100 nm, gamma ray >0.01 nm.
+Stefan­Boltzmann Law
+There are several laws governing the formation and propagation of light in space.
+One of which is the inverse square law, which I described earlier with the distance
+modulus. Another is the Stefan­Boltzmann Law, which describes how much energy is
+released by stars (and to a lesser extent other objects in space).
+
+This Stefan­Boltzmann Law is based on the principle that objects with
+temperature radiate energy in the form of light. The amount of energy released per unit
+time of an object is directly proportional to the temperature (to the fourth power) and
+surface area of the object as shown below:
+
+L = SA * T 4 * σ
+
+Where L is luminosity in Watts, SA is surface area in meters squared, T is
+8
+temperature in Kelvin and σ is the Stefan­Boltzmann constant equal to 5.67 * 10−
+Joules per meter squared per Kelvin to the fourth per second (Whew!). For stars,
+planets, or whatever needs its luminosity calculated (astronomers call these objects
+blackbodies), we can generally assume they are spheres, so we substitute in the
+formula of the surface area of a sphere:
+
+L = 4πR2 σT 4
+Where R is the radius of the blackbody in meters, T is still temperature in Kelvin
+and L is its luminosity in Watts. Conveniently, this equation can also be used to solve for
+radius or temperature. While the Stefan­Boltzmann equation can be used to find the
+luminosity of just about anything, it is nearly always used for stars. When solving for the
+luminosity, radius or temperature of a star we use a system of units called solar units.
+This makes problems that use the Stefan­Boltzmann equation easier by getting rid of
+the constants and simplifying unit conversions. The units themselves are simply the
+number corresponding to that property of the sun. For example, one solar luminosity is
+26
+8
+equal to 3.828 * 10 Watts, and one solar radius is equal to 6.955 * 10 meters. To find
+the luminosity of another star in solar luminosities, divide the luminosity of that star in
+Watts by the luminosity of the sun in Watts. We can do this to the Stefan­Boltzmann
+equation and rewrite it as:
+
+L = R2 T 4
+Where L is luminosities in solar luminosities, R is radius in solar radii and T is
+temperature in solar temperatures (5778 Kelvin).
+Wien’s Law
+The next law related to light is Wien’s Law (pronounced vee­ens). It roughly
+states that as an object gets hotter, its peak wavelength becomes smaller. This is shown
+in blackbody curves, such as the one on the next page:
+
+A blackbody curve plots the intensity of an object against wavelength­ thus
+showing how bright it is at different wavelengths. As you can see, each curve on the
+diagram has a corresponding temperature as well as a ‘peak’ or ‘max’ wavelength at
+which the luminosity is highest. Through Wien’s Law there is a relationship between the
+temperature of an object and the peak wavelength, so if we are given a curve like this
+without the temperature marked, we can find it! The equation for this relationship is:
+
+λ=
+
+b
+T or
+
+T =
+
+b
+λ
+
+Where T is temperature in Kelvin and λ is wavelength in meters. Often Wien’s
+Law problems are combined with Stefan­Boltzmann Law problems by giving you the
+blackbody curve and radius of a star and ask you to calculate the luminosity. You can do
+this by using the curve to find the temperature, then using the temperature in the
+Stefan­Boltzmann equation.
+Something I forgot to mention earlier­ a blackbody is defined as an object that
+absorbs all of the light that comes into contact with it. It can still emit/radiate light (in fact
+it always does this). Blackbodies are, however, only approximations of real objects;
+perfect blackbodies don’t exist, but stars are pretty close and can be modelled as such.
+Also while all objects radiate light, not all light arises due to the Stefan­Boltzmann
+Law. Hot gases emit light through their electrons dropping in energy levels (we use this
+light to study nebulae, which are giant clouds of gases). An example of this on Earth is
+incandescent vs. fluorescent light bulbs. Incandescent light bulbs create light by heating
+up the metal filament inside them enough for it to generate light via the
+Stefan­Boltzmann Law. Fluorescent light bulbs excite the electrons of the gas inside
+them; these electrons then drop in energy levels and emit light.
+Doppler Effect
+
+I know this section with all of the math has been really fun, so I’ll switch it up now
+with...get ready...more math! (yay!) This bit is on the Doppler Effect. The Doppler Effect
+is simply the effect a moving source has on the light it emits. If a light source is moving
+towards you, the light you receive will be blueshifted­ it will appear to have a shorter
+wavelength than the light that was actually emitted. Conversely, if the light source is
+moving away from you it will be redshifted­ you will perceive it to be of longer
+wavelength than what was emitted. The doppler effect takes place not only for a moving
+source but for any relative motion­ so it is actually the sum of the motion of the source
+and the motion of the observer. There is an equation relating the relative velocity to the
+wavelength emitted; this is used by astronomers to find the velocity of a light­emitting
+object:
+
+λapp
+λtrue
+
+=1+
+
+v
+c
+
+Where λapp is the wavelength of the observed light, λtrue is the real wavelength of
+the light emitted, v is the relative velocity of the object and c is the speed of light.
+Lesson 6: Orbital Mechanics
+Determining the properties of orbits was one of the first problems in astronomy,
+but now it’s a problem you get to solve! So, get a calculator and get ready for some
+orbital laws!
+Newton’s Law of Gravitation
+Since orbits are determined solely by the force of gravity, it’s good to know how
+gravity works even though questions directly related to gravity are rare. Gravity is a
+force in the universe acting on all things with mass. The value of this force is found with
+the equation:
+
+F =
+
+Gm1 m2
+R2
+
+Where F is the force of gravity in Newtons, G is Newton’s gravitational constant
+3
+11
+G = 6.67 * 10− kgm s2 , m1 and m2 are the masses of two objects in kilograms and R is
+*
+
+the distance between the two objects (technically the distance between the centers of
+the objects) in meters. This equation only works for two objects, and since gravity is a
+mutual interaction of everything in the universe it is only a simplification.
+Kepler’s Laws
+Johannes Kepler was a 17th century astronomer who made a number of great
+discoveries; one of which was his three laws of planetary motion. These laws form the
+basis of orbital mechanics, an area of physics describing the motion of bodies in
+gravitational orbit.
+
+Kepler’s First Law: Any object in orbit takes an elliptical path. This simply
+means that the shape of the path an object makes through its orbit is an ellipse; also,
+we can use the properties of ellipses to find the properties of orbits. An ellipse is a
+geometric shape kinda like a circle but stretched out. Imagine a circle with two of its
+radii marked at right angles. If the radii are the same length, it is a circle; however if they
+are different lengths, the shape is called an ellipse. In an ellipse, the longer radius is
+called the semi­major axis, and the shorter radius is the semi­minor axis.
+Eccentricity is the measure of how stretched out the ellipse is, where e=0 is a circle to
+e=1 is so stretched it becomes a parabola. The image on the next page shows the
+elements of an ellipse:
+
+Another important element noted is the focus (plural foci). The foci are two
+points along each of the semi­major axes; its distance f from the center is equal to the
+semi­major axis multiplied by the eccentricity. In any orbit the barycenter, or center of
+gravity of the orbital system is located at one of the foci. In most planetary orbits this is
+where the central star is located. There are also two points located on the ellipse and
+one of the semi­major axes; these points are the periastron and apastron (or some
+variation of the prefixes ‘peri­’ and ‘ap­’). These are the closest and furthest points in the
+orbit from the barycenter respectively. The following table sums all of this up with a list
+of equations for each of the ellipse elements. Don’t memorise these, but they could
+show up on a test:
+
+Ellipse Element
+
+If you know
+
+Use
+
+distap
+
+a and e
+
+distap = a(1 + e)
+
+distperi
+
+a and e
+
+distperi = a(1 ­ e)
+
+a
+
+distap distperi
+
+2a = distap + distperi
+
+e
+
+distap distperi
+
+e = (distap ­ distperi) / (distap +
+distperi)
+
+f
+
+a and e
+
+f = ae
+
+f
+
+a and b
+
+f = √a2 − b2
+
+f
+
+distap distperi
+
+2f = distap − distperi
+
+e
+
+a and b
+
+e
+
+a and f
+
+e = f/a
+
+b
+
+e and a
+
+b = a√1 − e 2
+
+a
+
+e and b
+
+a = b/√1 − e 2
+
+e=
+
+√1 − b /a
+2
+
+2
+
+Kepler’s Second Law: Kepler’s second law states that an orbiting body will
+‘sweep out’ equal areas of its orbit in equal amounts of time. This essentially means a
+body will accelerate as it approaches the barycenter, and slow down as it approaches
+the opposite focus. The difference in acceleration is greater with greater eccentricities.
+Kepler’s Second Law also states that the sum of the kinetic and potential
+energies of an orbit always add up to the same number. This is known as the principle
+of conservation of energy. From here, we also find that the angular momentum of
+orbiting objects is conserved, in the law of conservation of angular momentum. This
+gives us the equation:
+
+M 1V 1 = M 2V 2
+Where M1 and V1 are the mass and velocity (respectively) of object 1 and M2 and
+V2 are the mass and velocity of object 2; in an orbit with object 1 and 2. Note this only
+applies so circular orbits; elliptical orbits are more complicated. Some questions give
+you the mass of a central body and the orbital period of another body and ask you to
+
+find the mass of the second body. As you’ll see later in this lesson you’ll be able to find it
+with this and other equations.
+Kepler’s Third Law: This is the big one, with lots of math. It relates the
+semi­major axis, orbital period and mass of the system in one equation, which is:
+
+p2 * M = a3
+
+Where p is the orbital period in years, M is the mass of the system (make sure to
+include the total mass of the system­ include all stars; you can ignore any planets given)
+in solar masses and a is the semi­major axis in AU. The units are important on this one­
+always convert into these units before calculating; other units do not work. The period of
+an orbit is the amount of time it takes for an object in orbit to return to its original
+position.
+Orbital and Radial Velocity: Now that we know how to find the period and semi­major
+axis of an orbit we can apply those to find the velocity of an object in orbit. There are
+two ways to find the velocity of an orbiting object; however these really only work for
+orbiting planets. The first one looks like:
+
+v=
+
+2πa
+p
+
+Where v is velocity of the planet in m/s, a is the semi­major axis in meters and p
+is the period of the orbit in seconds. This is simply the standard form of the velocity
+equation (velocity = distance/time) since the distance of an orbit its circumference (here
+we approximate with a circle) and the time is just the period. The other form is:
+
+v=
+
+√
+
+GM
+a
+
+Where G is the gravitational constant, M is the mass of the system in kilograms
+and a is the semi­major axis in meters. In both of these forms you need to convert the
+units into the right form, otherwise the numbers will be wrong.
+Radial velocity is a method used to determine the orbital velocity of stars in
+binary systems (star systems with two stars). It works using the doppler effect; as the
+two stars in the system orbit they move towards and away from us. We can measure the
+wavelengths of light the stars emit, and if they blueshift and redshift in a periodic fashion
+then we can use the doppler equation to find out how fast they are moving. A radial
+velocity curve looks like this:
+
+From here you can find the semi­major axis or the mass of the system depending
+on what you’re given.
+Lesson 7: Stellar Spectra and Classification
+A star is typed by its spectrum and absolute magnitude. Any star fits into one of
+seven spectral classes, with each class having 10 subclasses. The classes are
+distinguished mainly by temperature. The seven classes are: O, B, A, F, G, K, M from
+highest to lowest temperatures. There are ten subclasses in every class, these are: 0, 1,
+2, 3, ..., 9 again from highest to lowest temperature. Spectral classes are notated by
+class first then subclass (for example, G2 is the Sun’s class). This website:
+http://www.uni.edu/morgans/astro/course/Notes/section2/spectraltemps.html has a list
+of the temperatures for many of the spectral classes and subclasses.
+So you may be asking, “so these spectra seem cool and all, but what do they
+look like?” An example of a spectrum is shown below:
+
+The dark lines throughout the spectrum are called absorption lines. These are
+wavelengths of light that were first emitted by the star, then absorbed by materials in the
+
+star corresponding to the wavelengths that are no longer in the spectrum. By matching
+the lines to the materials that create those absorption lines we can find the spectral
+class of the star. This chart shows what the spectra of each main class looks like:
+
+Sometimes tests will give a spectrum and ask what spectral class it is. Use the
+chart above or a similar one and match the picture they give you to the correct spectral
+class.
+The width of the absorption lines can also help classify stars. The spectrum of a
+denser star will give wider absorption lines, and a less dense star will give thinner
+absorption lines. This effect is called spectral broadening, and we can use this to
+determine the luminosity class of the star. The luminosity classes are:
+I: Supergiants
+II: Bright Giants
+III: Giants
+IV: Subgiants
+V: Main Sequence
+VI: White Dwarfs
+Each luminosity class corresponds to a stage in stellar evolution. Speaking of
+stellar evolution...
+Lesson 8: Stellar Evolution
+Before we jump into stellar evolution, you need to know about a very useful tool
+in astronomy: the HR diagram. HR stands for Hertzsprung­Russell, the two scientists
+who came up with it. This diagram plots luminosity on the y­axis and spectral class or
+temperature on the x­axis (note that the x­axis is reverse­ as a point moves rightward on
+the diagram it becomes cooler). Because these two properties change throughout a
+star’s life, a star will move its position on the HR diagram; thus, we can make
+
+generalisations about different stages of evolution based on the position of stars in that
+stage of evolution on the HR diagram. Here is an example of an HR diagram:
+
+Also mass­ mass is the single most important property of any star because the
+initial mass a star has predicts everything in its evolution. In addition, stars with more
+mass go through their lives­ and each stage of evolution­ more quickly than less
+massive stars. Remember these two points when reading about stellar evolution.
+Nebulae
+A nebula is a cloud of gas in space. There are many different types of nebulae,
+but for now we’re focusing on one kind­ star formation regions. This is an umbrella term
+for any nebula in the process of forming stars; whether some stars have already formed
+there or no stars will form for millions of years. These regions are composed of several
+elements and usually molecules too, but are overwhelmingly composed of hydrogen.
+Hydrogen is the most common element in the universe, so naturally it’s what makes up
+stars too.
+This hydrogen (and other stuff as well) pretty much just sits in place for millions of
+years, moving around a bit, occasionally colliding with other hydrogen. At some point a
+center of mass forms in the cloud and the material in the cloud begins orbiting around it.
+The cloud smooths out into a sphere. Eventually, the material near the center of the
+cloud aggregates into a core, which begins to build up more hydrogen from gravitational
+interactions. This core will become a protostar.
+Protostars
+
+A protostar does emit light, however this light cannot be seen due to being
+surrounded by the sphere (now envelope, basically a hollowed­out sphere). The light
+comes from material falling into the core due to gravitational potential energy; the loss of
+this energy is converted into light. Along with an envelope, a disk of material around the
+star also forms, this is mainly where the material accreting onto the core comes from.
+Eventually the envelope fragments and the material in the envelope is blown
+away via radiation pressure from the protostar. At some point the protostar becomes a
+pre­main­sequence star. The difference between protostars and pre­main­sequence
+stars isn’t clear­cut, but the most agreeable difference I’ve seen is that
+pre­main­sequence stars are visible on Earth and protostars cannot be seen because of
+the envelope surrounding them.
+Pre­main­sequence stars
+Pre­main­sequence stars go into one of two (technically three) categories based
+on their mass. Pre­main­sequence stars (abbreviated as PMS star from now on) of <2
+solar masses are called T Tauri stars and PMS stars of 2­8 solar masses are called
+Herbig Ae/Be stars. They have different types of variability, but are otherwise mostly the
+same. Above 8 solar masses, stars move through the PMS stage so quickly that they
+cannot be observed as PMS stars; only as main­sequence stars.
+PMS stars follow a specific path along the HR diagram called the Hayashi track.
+Technically, their actual path is a combination of the Hayashi track and the Henyey
+track; the Hayashi track is the phase that the star transfers energy through convection
+and the Henyey track is the phase the star uses radiation to transfer energy. Low­mass
+stars spend more (relative) time on the Hayashi track and high­mass stars spend more
+time on the Henyey track. I’ll just refer to it as the Hayashi track for simplicity. Anyway,
+the Hayashi track moves downwards and to the right on the HR diagram­ meaning the
+temperature of the star is increasing but its luminosity is decreasing. From this we can
+tell that PMS stars are brighter but cooler than main­sequence stars. The Hayashi track
+takes ~3­60 million years (depending on the mass of the star) and ends when the star
+establishes hydrostatic equilibrium. Hydrostatic equilibrium is when the force of gravity
+on the star pushing inward is balanced by a force pushing outward. For main­sequence
+stars this force is nuclear fusion, the process of turning multiple atoms into a single
+atom. This converts mass into energy, which releases enormous amounts of energy.
+Main­sequence stars
+The main sequence takes up 90% of a star’s life­ by the time our sun will have
+reached the end of the main sequence it will have spent 10 billion years on the
+main­sequence. Main­sequence stars slowly move up and to the right (on the HR
+diagram) as they age, but other than this they don’t move.
+
+Main­sequence stars are comprised mainly of hydrogen­ this is also the element
+they fuse. Specifically they fuse hydrogen into helium. Over time this builds up in the
+core and leads into the next stages in stellar evolution.
+From here the paths of low and high mass stars differ, where the boundary
+between low and high mass is ~8 solar masses.
+Low Mass Post­Main­Sequence Evolution
+Subgiant Phase
+After the hydrogen fuel has run out in the core, the star will no longer be able to
+sustain hydrostatic equilibrium, as nuclear reactions have stopped. Thus, gravity will
+overtake the outward force, and the star will begin to contract. As the star contracts the
+star’s temperature increases. At some point, it will increase enough to begin hydrogen
+fusion in a shell outside the core. This pushes the photosphere outward, making the star
+appear brighter, and since the photosphere is now spread over more area its
+temperature drops. Thus, from end main­sequence the star moves up and to the left on
+the HR diagram during the subgiant phase. As this phase continues, the helium as a
+byproduct of fusion in the shell outside the core moves towards the core and builds up.
+Red Giant Branch
+There is no fine line between subgiant and red giant branches; the red giant is
+mainly a continuation of what began in the subgiant phase. The core contracts more
+and more, the outer layers continue to expand. It moves much further upward on the HR
+diagram, because of how much larger the outer layers are. The temperature is spread
+out over a much larger volume because they are much larger, so the total temperature
+decreases, and the star moves to the right on the HR diagram.
+Horizontal Branch
+At the end of the red giant branch, the core will have enough heat and pressure
+to begin fusing helium into beryllium, carbon and oxygen (but mostly just carbon). This
+reinvigorated nuclear reaction (also known as the helium flash) heats up the star, but it
+also makes the star larger; this creates a (roughly) zero net change in luminosity so it
+moves horizontally to the left on the HR diagram. Hence, the horizontal branch. As the
+core becomes increasingly made up of carbon, the star will start heating up again and
+the star moves to the right on the HR diagram.
+During this stage the star will be part of a class of stars called ‘pulsating
+variables’. These stars vary in brightness by becoming larger and smaller periodically.
+There are many types of pulsating stars; some notable ones are RR Lyrae and Cepheid
+variables. Both of these are used as standard candles; RR Lyrae stars always have the
+same range of luminosities and Cepheids have something called a period luminosity
+relationship. In both of these cases we can use the distance modulus to find the
+distance to objects.
+
+Asymptotic Giant Branch and Planetary Nebula
+For the star there is nothing left other than a dense core in the middle and some
+loosely bound layers of gas outside of it. This stage is similar to the red giant branch,
+but instead of helium buildup at the core it’s carbon buildup. The radius of the star is so
+big that the distance separating the outer layers and the core is large enough that the
+core can’t keep in the outer layers, and they are ejected away from the core. This
+spreads the gas over a huge volume, so the luminosity stays really high, and without the
+cooler outer layers, the core becomes very hot; the star moves to the upper­left corner
+of the HR diagram. The outer layers form a planetary nebula. At some point the
+planetary nebula is so far spread out that it no longer contributes to the luminosity of the
+core, so the star drops to the bottom left corner, and becomes a white dwarf.
+White Dwarfs
+White dwarfs are small and hot. Their surface gravity is extremely high. If a white
+dwarf is formed in a single­star system, then it will radiate its energy away, which slowly
+cools it off, and eventually becomes a black dwarf. This is basically a floating ball of
+carbon and other elements in space. The universe hasn’t been around long enough for
+black dwarfs to form, but current astrophysics predicts their existence.
+White dwarfs aren’t made of “normal” matter like you find on Earth; instead they
+are made of degenerate matter. In normal matter electrons fit into orbitals, something
+you’ve probably learned in chemistry class. Two important quantum mechanical laws
+apply to electrons: 1) two electrons cannot occupy the same space and 2) the smaller
+space an electron is confined to, the greater its momentum. Now, this normal matter has
+a relatively constant distance between each of the electron orbitals. However, the
+gravity of white dwarfs presses down with an immense force. This forces the electrons
+in the white dwarf to be pushed closer together. As a result of the electrons being
+confined to a smaller space, their momenta increases dramatically; considering this
+occurs over the entire white dwarf it adds up to enough pressure to stop the star from
+collapsing. This pressure is known as electron degeneracy pressure. However, this can
+only sustain white dwarfs up to a certain amount of mass. If the mass of a white dwarf
+exceeds this limit, it will violently explode in an event called a supernova.
+Type Ia Supernovae
+The limit mentioned is the Chandrasekhar limit. At 1.44 solar masses, very few
+stars end up exceeding the limit. However, if the white dwarf is in a binary system, it has
+a good chance of going supernova. Take a binary system with main­sequence stars of
+different initial masses. The higher­mass star will go through its life faster than the
+lower­mass star, and will become a white dwarf while the other star is still in
+main­sequence. Once the lower­mass star has reached the end of the main­sequence
+and begins to expand, if the two stars are close enough the white dwarf can pull in
+some of the mass of the giant via gravity. If it pulls in enough mass to exceed the
+
+Chandrasekhar limit, it will go supernova. The extra mass on the white dwarf triggers all
+of the matter in the white dwarf to fuse, releasing a huge amount of energy in a
+thermonuclear explosion.
+There are two ways for the type Ia supernova to occur; the above is one of them,
+however there is another. A binary system of two white dwarfs will slowly give of
+gravitational radiation (aka gravitational waves). This causes the distance between the
+white dwarfs to shrink, culminating in the merging of the stars. As the resulting star is
+more massive than the chandrasekhar limit, it explodes in a type Ia supernova.
+
+Note that this is a type Ia supernova. High mass stars can undergo a type II
+supernova. Speaking of high mass stars, this is the post­main­sequence evolution of
+stars with masses >8 solar masses:
+High Mass Post­Main­Sequence Evolution
+High mass stars evolve mostly the same way as low mass stars up through the
+horizontal branch (only they do each stage faster). That’s where things begin to differ.
+Horizontal Branch / Asymptotic Giant Branch
+Just like low mass stars, high mass stars burn helium in their cores into carbon
+and other elements. However, stars above eight solar masses can fuse carbon once the
+carbon core has contracted enough. Carbon fuses into neon and other elements; the
+neon builds up and begins fusing into other elements­ this continues until the core fuses
+elements into silicon. Each time a new element is fused the star makes another ‘loop’
+on the HR diagram; heating up while fusing the element in the core and cooling done
+while fusing it in outer shells. Silicon fusion creates iron. Iron is different because it
+
+cannot fuse in the core of a star; instead it undergoes fission. Fission is the reverse
+process of fusion; it breaks apart an atom. Iron fission is really inefficient, so when this
+process begins it takes all of the energy out of the core. This unbalances the hydrostatic
+equilibrium and the core collapses. This leads to a type II supernova.
+Type II supernova
+The collapse of the core from iron fusion is stopped by one of two things­ neutron
+degeneracy pressure or black hole formation. Either way, the collapse creates a
+shockwave that travels outwards with an extreme amount of energy. This meets the
+outer layers and sends them outwards with an extreme amount of energy. This energy
+heats up the material enough to fuse more heavy elements, and also makes the
+remnant very luminous.
+Neutron Stars and Black Holes
+Back to the core now. If the original star was 8­25 solar masses, then a force
+called neutron degeneracy pressure will stop the collapse of the star. Basically, a
+neutron star is the remaining core from a high mass star. When electron degeneracy
+pressure isn’t high enough to stop the collapse of the star, the electrons of all the atoms
+are forced into the atomic nuclei. Due to a weird quirk, the protons and electrons merge
+to become neutrons, and the star is made up mostly of neutrons. The collapse of the
+neutron star is held back by a force called neutron degeneracy pressure; this is
+similar­ish to electron degeneracy pressure but much stronger.
+When neutron degeneracy pressure isn’t enough to stop the collapse of the star,
+there is one last force that can stop it. Haha, just kidding. The star collapses,
+completely. To a single point of infinite density; a black hole. This occurs at an initial
+mass of >25 solar masses. Black holes are currently one of the frontiers of modern
+physics, and rarely show up on scioly tests, but can be quite interesting if you want to
+study them in your freetime.
+Lesson 9: Strategy
+However interesting astronomy is as a subject, you won’t place first by studying
+aimlessly. This section focuses on the competition and how to beat the other teams.
+Laptop or Binder?
+For the Astronomy event, your team (assuming you bring two people to
+competition) is allowed to bring two laptops, two binders or a laptop and a binder. Each
+has its pros and cons, which will be discussed here:
+Laptop:
+● Pros
+○ Can hold much more information than a binder
+○ No printing required
+
+○
+○
+○
+● Cons
+○
+○
+○
+○
+○
+
+Easy search function if you know what you’re looking for (Ctrl+f)
+Fits better on a desk than a massive binder
+Can write/download programs
+
+Has lag :/
+Can be expensive if you don’t already have a personal laptop
+Hard to switch between pages
+Navigation is difficult when trying to find a specific section
+More breakable than a binder (this happened to my partner a few days
+before nationals)
+○ Can run out of battery at inconvenient times
+Alternatively, tablets count as laptops, which has its own set of pros/cons.
+Binder:
+● Pros
+○ Viewing is much easier with two pages at a time
+○ Zero lag (you fly through the pages with sheet protectors­ also sheet
+protectors allow you to do two­sided pages)
+○ Cheap (except for printing costs), basically indestructible and battery
+never runs out
+○ You gain valuable info by writing the content in the binder
+○ No Ctrl+f, but you can use tabs if you know where to find stuff
+● Cons
+○ Printing can be a problem if you don’t have easy access to school/home
+printers
+○ Takes a long time to prepare, which is troublesome if state is a week away
+○ No programs
+○ Takes up a lot of space on a desk
+So much of this is circumstantial­ if you and your partner each have a personal
+laptop and no easy access to printing, then two laptops would be totally fine. On the
+other hand, if your families don’t let you have a computer then binders would be the
+better choice. However, if you have the option to, make at least one binder, even if
+you never bring it to competition. The knowledge you gain by writing one is
+priceless. At regionals this past year I thought using two laptops would be okay. I
+placed first, but I didn’t deserve to­ in the end, writing a binder made me better at
+Astronomy than anything else. I don’t suggest the binder for its use in competition­ I
+only used it once or twice during nationals­ but because after writing it you won’t need it.
+A second binder really won’t help you much more than the first one, so overall I
+suggest one binder and one laptop. But of course, it’s up to the preference of you and
+your partner.
+
+Write all of your resources yourself
+I cannot stress this enough. I’ve seen entire binders­ some from teammates­ that
+look really impressive with 300+ pages...printed off Wikipedia and other online
+resources they found. You’ll have no time to use those during competition. A binder you
+write yourself may have less info overall, but it will probably be worth a lot more if it’s
+information you know you’ll need. If you do all the research and write everything in your
+own words, you’ll probably remember most of it; then you won’t need to reference it
+during competition.
+Use Wikipedia responsibly
+Often test writers will pull questions directly from Wikipedia pages; usually
+because they don’t care to do the proper research. Use this to your advantage­ take
+everything listed on the Astronomy rules (including the DSOs) and print off the wikipedia
+page for it, then place it where it fits in your binder. However, don’t rely on wikipedia;
+make sure to do most of your own research and write it up yourself.
+Ratio Method (also called proportionality)
+This is a method to do math questions more quickly. Often test writers will ask a
+question like “star A is 10 times larger than star B and the same temperature; how many
+times more luminous is star A than star B?” The easiest way to do this is to take the
+ratio of the Stefan­Boltzmann Law of star A and divide it by the SB Law of star B. This
+will look something like this:
+
+LA
+LB
+
+=
+
+(4π)RA2 σT A4
+
+(4π)RB2 σT B4
+
+4
+4
+Since 4π = 4π , σ = σ , and T A = T B we can remove them from the equation. This
+leaves us with:
+
+LA
+LB
+
+=
+
+RA2
+
+RB2
+
+Now we can substitute 10 for RA and 1 for RB, which gives us an answer of 100
+times more luminous. You can do this for almost any equation in astronomy; try using it
+to figure out the best way to do math problems.
+Binder Structure
+The way you set up your binder is mainly up to you, but there are two important
+things to have: 1) a separate section for DSOs (and one page for every DSO) and 2) an
+easily accessible page with important equations and constants (Wien’s Constant, the
+solar radius in meters, the parsec in meters, etc). These two will be the pages you’ll use
+the most during the competition so know where they are.
+DSOs
+As I mentioned near the beginning of this guide, DSOs are Deep Sky Objects;
+there are 17 listed on the rules every year, and they represent the topics for that
+
+season. Questions of any kind can be asked for on tests; anything from its distance
+from Earth to whether it has methane in its atmosphere, so make sure to have plenty of
+info on each one. Test writers also ask for basic identification of the object from pictures;
+the best way to do this is to pull as many pictures as possible from google images onto
+your notes sheet for that DSO. Here (on the next page) is an example of a DSO page I
+used for last season:
+Overview: T Tauri is a variable PMS star in the constellation Taurus, and the prototype
+for T Tauri stars in general. It appears near the Hyades open cluster, and is physically
+close to Hind’s Reflection Nebula, giving it a characteristic look in photos.
+Physical Details
+Absolute Magnitude: 4.42
+Apparent Magnitude: 10.27
+Spectral Type: G5
+Mass: 2.1 Solar Masses
+Age: 0.4 Ma
+Distance and Appearance
+Distance: 481 LY, 147.6 Pc
+Constellation: Taurus
+Right Ascension: 04h 21m 59.43445s
+Declension: +19° 32′ 06.4182″
+Parallax Angle: 0.00548 arcseconds (5.48 mas)
+Color Indices: U­B: +0.8 B­V: +1.22
+Other Features
+Radial Velocity: 23.9 km/s
+Proper Motion: +15.51 mas/yr (RA), ­13.67 mas/yr (Dec)
+Other Names: T Tau, AG+19° 341, BD+19° 706, HBC 35,HD 284419, HH 355, HIP
+20390, JP11 3794,VDB 28
+­The T Tauri system has 3 stars. The visible one is called T Tau N (the one I’ve been
+talking about) and shows silicate emissions. T Tau Sa is the largest body in the system,
+shows silicate absorption and emits with huge variations in the infrared. T Tau Sb is the
+smallest one, has no observations of silicates and is observed as an 8th magnitude star
+with a spectral class of M0.
+Discovery
+It was first discovered in 1852 by John Hind. At that time, it had been dimmer,
+but started increasing in luminosity; was at the 10th magnitude. He also discovered next
+to it Hind’s reflection nebula (NGC 1555), which also varies in luminosity based on that
+of T Tauri. Papers in the 1860s noted it was no longer visible. In 1890, Shelburn
+Burnham found that T Tauri was in a small nebula, now called Burnham’s nebula (not a
+
+reflection nebula). This nebula is no longer visible. A Herbig­Haro object (HH 355) is 30
+AS west of NGC 1555, and could be related to either T Tauri or 1555.
+T Tauri South was discovered by Simon Dyck in 1982, due to strange variations in
+the infrared. This was confirmed and data had begun to be collected, it was later found
+that it has variations of 2 magnitudes in the L and K bands.
+Koresco et. al. in 2000 with the M. Keck observatory discovered another body
+next to T Tau S. This was called T Tau Sb, and T Tau S was renamed to T Tau Sa.
+Other Stuff:
+● Chosen as prototype for T Tauri stars because it was the best studied, had clear
+absorption and emission features to characterize the group and was the brightest
+● From around its discovery to the 1920s it had variability of 3­4 magnitudes, and
+the nebulae varied along with it. But in the 1920s the variability slowed down to a
+mere 0.4 magnitude.
+● Shows a property of face­on and edge­on disks where we can’t see all of the
+spectra; called disk inclination.
+● This results in a spectra including special absorption and emission lines for
+silicates. This type of spectra is called a P Cygni profile.
+● Eventually was found that the initial variability of T Tauri was due to movements
+related between the three bodies.
+● Resulted in a theory that all T Tauri stars start off as multiple star systems, but
+one ejects the other stars farther away.
+● Surrounded by Burnham’s nebula. This was formerly visible however it is not
+anymore.
+
+
