@@ -1,0 +1,5155 @@
+2M1207 - Wikipedia
+
+1 of 4
+
+https://en.wikipedia.org/wiki/2M1207
+
+2M1207
+Coordinates:
+
+12h 07m 33.47s, −39° 32′ 54.0″
+
+2M1207,
+2M1207A
+or
+2MASS
+J12073346–3932539 is a brown dwarf
+located in the constellation Centaurus; a
+companion object, 2M1207b, may be the
+first extrasolar planetary-mass companion
+to be directly imaged, and is the first
+discovered orbiting a brown dwarf.[5][6]
+2M1207 was discovered during the course
+of the 2MASS infrared sky survey: hence
+the "2M" in its name, followed by its
+celestial coordinates. With a fairly early (for
+a brown dwarf) spectral type of M8,[1] it is
+very young, and probably a member of the
+TW Hydrae association. Its estimated mass
+is around 25 Jupiter masses.[4] The
+companion, 2M1207b, is estimated to have
+a mass of 5–6 Jupiter masses.[7] Still
+glowing red hot, it will shrink to a size
+slightly smaller than Jupiter as it cools over
+the next few billion years.
+An initial photometric estimate for the
+distance to 2M1207 was 70 parsecs.[4] In
+December 2005, American astronomer Eric
+Mamajek reported a more accurate
+distance (53 ± 6 parsecs) to 2M1207 using
+the moving cluster method.[8] The new
+distance gives a fainter luminosity for
+2M1207. Recent trigonometric parallax
+results have confirmed this moving cluster
+distance, leading to a distance estimate of
+53 ± 1 parsec or 172 ± 3 light years.[4]
+
+Planetary system
+Like classical T Tauri stars, many brown
+dwarfs are surrounded by disks of gas and
+dust which accrete onto the brown dwarf.
+[9][10] 2M1207 was first suspected to have
+such a disk because of its broad Hα line.
+
+2M1207
+
+European Southern Observatory infrared image of
+2M1207 (bluish) and companion planet 2M1207b
+(reddish), taken in 2004.
+Observation data
+Epoch J2000.0
+Equinox J2000.0 (ICRS)
+Constellation
+
+Centaurus
+
+Right ascension
+
+12h 07m 33.47s[1]
+
+Declination
+
+−39° 32′ 54.0″[1]
+
+Apparent magnitude (V) 20.15[2]
+Characteristics
+Spectral type
+
+M8IVe C[1]
+
+V−R color index
+
++2.1[2]
+
+R−I color index
+
++2.1[2]
+Astrometry
+
+Proper motion (μ)
+
+RA: −64.040 ± 0.087[3] mas/yr
+Dec.: −23.678 ± 0.072[3] mas/yr
+
+Parallax (π)
+
+15.4624 ± 0.1163 mas[3]
+
+Distance
+
+211 ± 2 ly
+(64.7 ± 0.5 pc)
+Details
+
+Mass
+
+~0.025[4] M☉
+
+11/15/2023, 8:11 PM
+
+2M1207 - Wikipedia
+
+2 of 4
+
+https://en.wikipedia.org/wiki/2M1207
+
+This was later confirmed by ultraviolet Radius
+~0.25[5] R☉
+[10]
+spectroscopy.
+The existence of a dust
+Luminosity
+~0.002[5] L☉
+disk has also been confirmed by infrared
+2550 ± 150[5] K
+observations[11] and with ALMA.[12] In Temperature
+general, accretion from disks are known to Age
+5·106 to 10·106[5] years
+produce fast-moving jets, perpendicular to
+Other designations
+the disk, of ejected material.[13] This has
+also been observed for 2M1207; an April 2MASSW J1207334−393254, 2MASS
+2007 paper in the Astrophysical Journal J12073346-3932539, TWA 27[1]
+reports that this brown dwarf is spouting
+Database references
+jets of material from its poles.[14] The jets,
+SIMBAD
+data (https://simbad.cds.unistr
+which extend around 109 kilometers into
+a.fr/simbad/sim-id?Ident=NAM
+space, were discovered using the Very
+E+2M1207A)
+Large Telescope (VLT) at the European
+Southern Observatory. Material in the jets
+streams into space at a few kilometers per second.[15]
+The 2M1207A planetary system[7][12][16]
+Companion
+(in order from star)
+
+Mass
+
+Semimajor axis
+
+Orbital period
+
+(AU)
+
+(years)
+
+5–6 MJ
+
+≥49.8 ± 1.1[17]
+
+633-20046
+
+Inclination
++20
+
+9.4 ± 1.5 AU
+
+circumstellar disk
+b
+
+Eccentricity
+
+0.02-0.98
+
+Radius
+
+35 −15°
+
+—
+
+13-150°
+
+—
+
+See also
+▪ Lists of exoplanets
+▪ Direct imaging of extrasolar planets
+
+References
+1. "TWA 27" (http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=TWA+27). SIMBAD. Centre de
+données astronomiques de Strasbourg. Retrieved June 15, 2008.
+2. An accurate distance to 2M1207Ab, C. Ducourant, R. Teixeira, G. Chauvin, G. Daigne, J.-F. Le
+Campion, Inseok Song, and B. Zuckerman, Astronomy and Astrophysics 477, #1 (January
+2008), pp. L1–L4. Bibcode:2008A&A...477L...1D (https://ui.adsabs.harvard.edu/abs/2008A&A...
+477L...1D/abstract) doi:10.1051/0004-6361:20078886 (https://doi.org/10.1051%2F0004-6361%
+3A20078886).
+3. Brown, A. G. A.; et al. (Gaia collaboration) (2021). "Gaia Early Data Release 3: Summary of
+the contents and survey properties" (https://doi.org/10.1051%2F0004-6361%2F202039657).
+Astronomy & Astrophysics. 649: A1. arXiv:2012.01533 (https://arxiv.org/abs/2012.01533).
+Bibcode:2021A&A...649A...1G (https://ui.adsabs.harvard.edu/abs/2021A&A...649A...1G).
+doi:10.1051/0004-6361/202039657 (https://doi.org/10.1051%2F0004-6361%2F202039657).
+S2CID 227254300 (https://api.semanticscholar.org/CorpusID:227254300).
+(Erratum: doi:10.1051/0004-6361/202039657e (https://doi.org/10.1051%2F0004-6361%2F20203
+9657e)). Gaia EDR3 record for this source (http://vizier.u-strasbg.fr/viz-bin/VizieR-S?Gaia%20E
+DR3%203459372646830687104) at VizieR.
+
+11/15/2023, 8:11 PM
+
+AB Aurigae - Wikipedia
+
+1 of 6
+
+https://en.wikipedia.org/wiki/AB_Aurigae
+
+AB Aurigae
+AB Aurigae is a young Herbig Ae star[3] in the
+Auriga constellation. It is located at a distance of
+approximately 531 light years from the Sun based
+on stellar parallax.[1] This pre-main-sequence star
+has a stellar classification of A0Ve,[4] matching an
+A-type main-sequence star with emission lines in
+the spectrum. It has 2.4 times the mass of the Sun
+and is radiating 38[8] times the Sun's luminosity
+from its photosphere at an effective temperature of
+9,772 K.[10] The radio emission from the system
+suggests the presence of a thermal jet originating
+from the star with a velocity of 300 km s−1. This is
+causing
+an
+estimated
+mass
+loss
+of
+1.7 × 10−8 M☉ yr−1.[8]
+This star is known for hosting a dust disk that may
+harbour a condensing planet or brown dwarf. The
+star could host a possible substellar companion in
+wide orbit. The star is part of the young TaurusAuriga association,[4] which is located in the
+Taurus Molecular Cloud.[12] The star itself may
+recently have encountered a dense cloudlet, which
+disrupted its debris disk and produced an
+additional reflection nebula.[13]
+
+AB Aurigae
+
+ALMA image of the dust ring (red) and gaseous
+spirals (blue) of the circumstellar disk AB Aurigae
+reveal gaseous spiral arms inside a wide dust
+gap, providing a hint of planet formation.
+Credit: ALMA (ESO/NAOJ/NRAO)/Tang et al.
+Observation data
+Epoch J2000
+Equinox J2000
+Constellation
+
+Auriga
+
+Planetary system
+
+Right ascension
+
+04h 55m 45.84600s[1]
+
+Declination
+
++30° 33′ 04.2933″[1]
+
+In 2017 scientists used the Atacama Large
+Millimeter/submillimeter Array (ALMA) to take
+an image of the protoplanetary disk around AB
+Aurigae. The image showed a dusty disk which has
+a radius of about 120 astronomical units and a
+distinct "gap". Inside this gap gaseous spiral arms
+are detected in CO.[14][3]
+
+Apparent magnitude (V) 7.05[2]
+
+Oppenheimer et al. (2008)[15] observed an
+annulus feature in AB Aurigae's dust disk between
+43 and 302 AU from the star, a region never seen
+before. An azimuthal gap in an annulus of dust at a
+radius of 102 AU would suggest the formation of at
+least one small body at an orbital distance of
+nearly 100 AU. Such an object could turn out to be
+
+Characteristics
+Evolutionary stage
+
+Pre-main-sequence[3]
+
+Spectral type
+
+A0Ve[4]
+
+U−B color index
+
++0.04[5]
+
+B−V color index
+
++0.11[5]
+
+Variable type
+
+INA (Herbig Ae)[3][6]
+Astrometry
+
+Radial velocity (Rv)
+
++8.9 ± 0.9[7] km/s
+
+Proper motion (μ)
+
+RA: +3.926[1] mas/yr
+Dec.: –24.112[1] mas/yr
+
+11/15/2023, 8:05 PM
+
+AB Aurigae - Wikipedia
+
+2 of 6
+
+https://en.wikipedia.org/wiki/AB_Aurigae
+
+either a massive planetary companion or more
+likely a brown dwarf companion, in both cases
+located at nearly 100 AU from the bright star. So
+far the object is unconfirmed.
+Observations with ALMA found two gaseous spiral
+arms inside the disk. These are best explained by
+an unseen planet with a semimajor axis of about
+60–80 au. An additional planet with a semimajor
+axis of 30 au and with a large pitch angle
+compared to the disk (likely higher inclination)
+could explain the emptiness of the inner dusty
+disk.[3] The outer planet was still not detected as in
+2022, putting an upper limit on is mass at 3–4 MJ,
+inconsistent with the spiral structures observed in
+the disk.[16] The planet-like clump observed in
+April 2022 at projected separation 93 AU from
+star, may be either an accretion disk around newly
+formed planet or the unstable disk region
+currently transforming into the planet.[17] The
+planet observation was confirmed in July 2022.[18]
+
+Parallax (π)
+
+6.1400 ± 0.0571 mas[1]
+
+Distance
+
+531 ± 5 ly
+(163 ± 2 pc)
+Details
+
+Mass
+
+2.4 ± 0.2[8] M☉
+
+Radius
+
+2.5[9] R☉
+
+Luminosity
+
+~38[8] L☉
+
+Temperature
+
+9,772[10] K
+
+Age
+
+4 ± 1[8] Myr
+Other designations
+
+AB Aur, BD+30° 741, HD 31293,
+HIP 22910, SAO 57506[11]
+Database references
+SIMBAD
+
+data (https://simbad.cd
+s.unistra.fr/simbad/sim
+-id?Ident=HD+31293)
+
+The AB Aurigae planetary system[15]
+Companion
+(in order from star)
+
+Mass
+
+Orbital period
+
+(AU)
+
+(years)
+
+Eccentricity
+
+43–430[13] AU
+
+protoplanetary disk
+b[17]
+
+Semimajor axis
+
+9–12[17] MJ
+
+93[17]
+
+?
+
+0.19–0.60
+
+Inclination
+
+Radius
+
+—
+
+—
+
+27.1–58.2°
+
+2.75 RJ
+
+Gallery
+
+AB Aurigae and its A light curve for AB
+dust disk seen by Aurigae from MOST
+Hubble
+satellite
+data,
+adapted from Cody
+et al. (2013)[19]
+
+Hubble
+Space
+Telescope images of
+protoplanet
+AB
+Aurigae b.
+
+11/15/2023, 8:05 PM
+
+Beta Pictoris - Wikipedia
+
+1 of 16
+
+https://en.wikipedia.org/wiki/Beta_Pictoris
+
+Beta Pictoris
+Beta Pictoris (abbreviated β Pictoris or β Pic)
+is the second brightest star in the constellation
+Pictor. It is located 63.4 light-years (19.4 pc) from
+the Solar System, and is 1.75 times as massive and
+8.7 times as luminous as the Sun. The Beta
+Pictoris system is very young, only 20 to 26
+million years old,[12] although it is already in the
+main sequence stage of its evolution.[8] Beta
+Pictoris is the title member of the Beta Pictoris
+moving group, an association of young stars which
+share the same motion through space and have
+the same age.[13]
+The European Southern Observatory (ESO) has
+confirmed the presence of two planets, Beta
+Pictoris b,[14] and Beta Pictoris c,[15] through the
+use of direct imagery. Both planets are orbiting in
+the plane of the debris disk surrounding the star.
+Beta Pictoris c is currently the closest extrasolar
+planet to its star ever photographed: the observed
+separation is roughly the same as the distance
+between the asteroid belt and the Sun.[15]
+Beta Pictoris shows an excess of infrared
+emission[16] compared to normal stars of its type,
+which is caused by large quantities of dust and gas
+(including carbon monoxide)[17][18] near the star.
+Detailed observations reveal a large disk of dust
+and gas orbiting the star, which was the first
+debris disk to be imaged around another star.[19]
+In addition to the presence of several planetesimal
+belts[20] and cometary activity,[21] there are
+indications that planets have formed within this
+disk and that the processes of planet formation
+may be ongoing.[22] Material from the Beta
+Pictoris debris disk is thought to be the dominant
+source of interstellar meteoroids in the Solar
+System.[23]
+
+Location and visibility
+
+β Pictoris
+
+Location of β Pictoris (circled)
+Observation data
+Epoch J2000
+Equinox J2000
+Constellation
+
+Pictor
+
+Right ascension
+
+05h 47m 17.1s[1]
+
+Declination
+
+−51° 03′ 59″[1]
+
+Apparent magnitude (V)
+
+3.861[1]
+
+Characteristics
+Spectral type
+
+A6V[2]
+
+U−B color index
+
+0.10[3]
+
+B−V color index
+
+0.17[3]
+
+Variable type
+
+Delta Scuti variable[4]
+Astrometry
+
+Radial velocity (Rv)
+
++20.0 ± 0.7[5] km/s
+
+Proper motion (μ)
+
+RA: +4.65[6] mas/yr
+Dec.: +83.10[6] mas/yr
+
+Parallax (π)
+
+51.44 ± 0.12 mas[6]
+
+Distance
+
+63.4 ± 0.1 ly
+(19.44 ± 0.05 pc)
+
+Absolute magnitude (MV) 2.402[7]
+
+11/15/2023, 8:11 PM
+
+Beta Pictoris - Wikipedia
+
+2 of 16
+
+Beta Pictoris is a star in the southern constellation
+of Pictor, the Easel, and is located to the west of
+the bright star Canopus.[24] It traditionally
+marked the sounding line of the ship Argo Navis,
+before the constellation was split.[25] The star has
+an apparent visual magnitude of 3.861,[1] so is
+visible to the naked eye under good conditions,
+though light pollution may result in stars dimmer
+than magnitude 3 being too dim to see. It is the
+second brightest in its constellation, exceeded only
+by Alpha Pictoris, which has an apparent
+magnitude of 3.30.[26]
+The distance to Beta Pictoris and many other stars
+was measured by the Hipparcos satellite. This was
+done by measuring its trigonometric parallax: the
+slight displacement in its position observed as the
+Earth moves around the Sun. Beta Pictoris was
+found to exhibit a parallax of 51.87
+milliarcseconds,[27] a value which was later
+revised to 51.44 milliarcseconds when the data
+was reanalyzed taking systematic errors more
+carefully into account.[6] The distance to Beta
+Pictoris is therefore 63.4 light years, with an
+uncertainty of 0.1 light years.[28][note 1]
+
+https://en.wikipedia.org/wiki/Beta_Pictoris
+
+Details
+Mass
+
+1.75[8] M☉
+
+Radius
+
+1.8[9] R☉
+
+Luminosity (bolometric)
+
+8.7[8] L☉
+
+Surface gravity (log g)
+
+4.15[2] cgs
+
+Temperature
+
+8,052[2] K
+
+Metallicity
+
++0.14[10]
+
+Rotational velocity
+(v sin i)
+
+130[11] km/s
+
+Age
+
+23 ± 3[12] Myr
+Other designations
+
+GJ 219, HR 2020, CD −51°1620, HD
+39060, GCTP 1339.00, SAO 234134,
+HIP 27321
+Database references
+SIMBAD
+
+data (https://simbad.c
+ds.unistra.fr/simbad/si
+m-id?Ident=bet+Pic)
+
+ARICNS
+
+data (https://wwwadd.
+zah.uni-heidelberg.de
+/datenbanken/aricns/c
+nspages/4c00467.ht
+m)
+
+The Hipparcos satellite also measured the proper
+motion of Beta Pictoris: it is traveling eastwards at
+a rate of 4.65 milliarcseconds per year, and
+northwards at a rate of 83.10 milliarcseconds per
+year.[6] Measurements of the Doppler shift of the star's
+spectrum reveals it is moving away from Earth at a rate of
+20 km/s.[5] Several other stars share the same motion through
+space as Beta Pictoris and likely formed from the same gas
+cloud at roughly the same time: these comprise the Beta
+Pictoris moving group.[13]
+
+Physical properties
+
+This video sequence is based on an
+artist's impression of exocomets
+orbiting the star Beta Pictoris.
+
+Spectrum, luminosity and variability
+According to measurements made as part of the Nearby Stars Project, Beta Pictoris has a spectral
+type of A6V[2] and has an effective temperature of 8,052 K (7,779 °C; 14,034 °F),[2] which is hotter
+than the Sun's 5,778 K (5,505 °C; 9,941 °F).[29] Analysis of the spectrum reveals that the star
+contains a slightly higher ratio of heavy elements, which are termed metals in astronomy, to
+hydrogen than the Sun. This value is expressed as the quantity [M/H], the base-10 logarithm of the
+ratio of the star's metal fraction to that of the Sun. In the case of Beta Pictoris, the value of [M/H] is
+
+11/15/2023, 8:11 PM
+
+Beta Pictoris - Wikipedia
+
+3 of 16
+
+https://en.wikipedia.org/wiki/Beta_Pictoris
+
+0.05,[2] which means that the star's metal fraction is 12%
+greater than that of the Sun.[note 3]
+Analysis of the spectrum can also reveal the surface gravity of
+the star. This is usually expressed as log g, the base-10
+logarithm of the gravitational acceleration given in CGS units,
+in this case, cm/s². Beta Pictoris has log g=4.15,[2] implying a
+surface gravity of 140 m/s², which is about half of the
+gravitational acceleration at the surface of the Sun
+(274 m/s²).[29]
+
+Artist's impression of the planet
+Beta Pictoris b[note 2]
+
+As an A-type main sequence star, Beta Pictoris is more
+luminous than the Sun: combining the apparent magnitude of 3.861 with the distance of 19.44
+parsecs gives an absolute magnitude of 2.4,[7] as compared to the Sun, which has an absolute
+magnitude of 4.83.[29] This corresponds to a visual luminosity 9.2 times greater than that of the
+Sun.[note 4] When the entire spectrum of radiation from Beta Pictoris and the Sun is taken into
+account, Beta Pictoris is found to be 8.7 times more luminous than the Sun.[8][30]
+Many main sequence stars of spectral type A fall into a region of the Hertzsprung–Russell diagram
+called the instability strip, which is occupied by pulsating variable stars. In 2003, photometric
+monitoring of the star revealed variations in brightness of around 1–2 millimagnitudes on
+frequencies between about 30 and 40 minutes.[4] Radial velocity studies of Beta Pictoris also reveal
+variability: there are pulsations at two frequencies, one at 30.4 minutes and one at 36.9
+minutes.[31] As a result, the star is classified as a Delta Scuti variable.
+
+Mass, radius and rotation
+The mass of Beta Pictoris has been determined by using models of stellar evolution and fitting
+them to the star's observed properties. This method yields a stellar mass between 1.7 and 1.8 solar
+masses.[8] The star's angular diameter has been measured using interferometry with the Very
+Large Telescope and was found to be 0.84 milliarcseconds.[9] Combining this value with the
+distance of 63.4 light years gives a radius 1.8 times that of the Sun.[note 5]
+The rotational velocity of Beta Pictoris has been measured to be at least 130 km/s.[11] Since this
+value is derived by measuring radial velocities, this is a lower limit on the true rotational velocity:
+the quantity measured is actually v sin(i), where i represents the inclination of the star's axis of
+rotation to the line-of-sight. If it is assumed that Beta Pictoris is viewed from Earth in its equatorial
+plane, a reasonable assumption since the circumstellar disk is seen edge-on, the rotation period
+can be calculated as approximately 16 hours, which is significantly shorter than that of the Sun
+(609.12 hours[29]).[note 6]
+
+Age and formation
+The presence of significant amounts of dust around the star[32] implies a young age of the system
+and led to debate about whether it had joined the main sequence or was still a pre–main sequence
+star[33] However, when the star's distance was measured by Hipparcos it was revealed that Beta
+Pictoris was located further away than previously thought and hence was more luminous than
+originally believed. Once the Hipparcos results were taken into account, it was found that Beta
+
+11/15/2023, 8:11 PM
+
+Beta Pictoris - Wikipedia
+
+4 of 16
+
+https://en.wikipedia.org/wiki/Beta_Pictoris
+
+Pictoris was located close to the zero age main sequence and
+was not a pre–main sequence star after all.[8] Analysis of Beta
+Pictoris and other stars within the Beta Pictoris moving group
+suggested that they are around 12 million years old.[13]
+However more recent studies indicate that the age is roughly
+double this at 20 to 26 million years old.[34][12]
+Beta Pictoris may have been formed near the Scorpius–
+Artist's impression of Beta
+Centaurus association.[35] The collapse of the gas cloud which
+Pictoris[note 7]
+resulted in the formation of Beta Pictoris may have been
+triggered by the shock wave from a supernova explosion: the
+star which went supernova may have been a former companion of HD 83058, which is now a
+runaway star. Tracing the path of HIP 46950 backwards suggests that it would have been in the
+vicinity of the Scorpius–Centaurus association about 13 million years ago.[35] However, HD 83058
+has been found to be a spectroscopic binary and unlikely to have been ejected by the supernova
+explosion of a close companion, so the simple explanation for the origin of the Beta Pictoris cluster
+is in doubt.[36]
+
+Circumstellar environment
+Debris disks
+
+Erika Nesvold and Marc Kuchner
+discuss their supercomputer
+simulation of how the Beta Pictoris
+b planet sculpts the Beta Pictoris
+debris disk into a warped spiral
+shape.
+
+Hubble Space Telescope image of the main and
+secondary debris disks
+
+Excess infrared radiation from Beta Pictoris was
+detected by the IRAS[37] spacecraft in 1983.[32] Along
+with Vega, Fomalhaut and Epsilon Eridani, it was one of the first four stars from which such an
+excess was detected: these stars are called "Vega-like" after the first such star discovered. Since
+A-type stars like Beta Pictoris tend to radiate most of their energy at the blue end of the
+spectrum,[note 8] this implied the presence of cool matter in orbit around the star, which would
+radiate at infrared wavelengths and produce the excess.[32] This hypothesis was verified in 1984
+when Beta Pictoris became the first star to have its circumstellar disk imaged optically.[19] The
+IRAS data are (at the micron wavelengths): [12]=2.68, [25]=0.05, [60]=−2.74 and [100]=−3.41.
+The colour excesses are: E12=0.69, E25=3.35, E60=6.17 and E100=6.90.[16]
+The debris disk around Beta Pictoris is seen edge-on by observers on Earth, and is orientated in a
+northeast-southwest direction. The disk is asymmetric: in the northeast direction it has been
+observed out to 1835 astronomical units from the star, while the southwest direction the extent is
+1450 AU.[38] The disk is rotating: the part to the northeast of the star is moving away from Earth,
+
+11/15/2023, 8:11 PM
+
+Beta Pictoris - Wikipedia
+
+5 of 16
+
+https://en.wikipedia.org/wiki/Beta_Pictoris
+
+while the part to the southwest of the disc is moving towards Earth.[39]
+Several elliptical rings of material have been observed in the outer regions of the debris disk
+between 500 and 800 AU: these may have formed as a result of the system being disrupted by a
+passing star.[40] Astrometric data from the Hipparcos mission reveal that the red giant star Beta
+Columbae passed within 2 light years of Beta Pictoris about 110,000 years ago, but a larger
+perturbation would have been caused by Zeta Doradus, which passed at a distance of 3 light years
+about 350,000 years ago.[41] However computer simulations favor a lower encounter velocity than
+either of these two candidates, which suggest that the star responsible for the rings may have been
+a companion star of Beta Pictoris on an unstable orbit. The simulations suggest a perturbing star
+with a mass of 0.5 solar masses is likely to blame for the structures. Such a star would be a red
+dwarf of spectral type M0V.[38][42]
+In 2006, imaging of the system with
+the
+Hubble
+Space
+Telescope's
+Advanced Camera for Surveys
+revealed the presence of a secondary
+dust disk inclined at an angle of about
+5° to the main disk and extending at
+least 130 AU from the star.[43] The
+secondary disk is asymmetrical: the
+southwest extension is more curved
+and less inclined than the northeast.
+The imaging was not good enough to
+distinguish between the main and
+secondary disks within 80 AU of Beta
+Pictoris, however the northeast
+extension of the dust disk is predicted
+Various planet formation processes, including exocomets and
+to intersect with the main disk at
+other planetesimals, around Beta Pictoris, a very young type A V
+about 30 AU from the star.[43] The
+star (NASA artist's conception)
+secondary disk may be produced by a
+massive planet in an inclined orbit
+removing matter from the primary disk and causing it to move in an orbit aligned with the
+planet.[44]
+Studies made with the NASA Far Ultraviolet Spectroscopic Explorer have discovered that the disk
+around Beta Pictoris contains an extreme overabundance of carbon-rich gas.[45] This helps
+stabilize the disk against radiation pressure which would otherwise blow the material away into
+interstellar space.[45] Currently, there are two suggested explanations for the origin of the carbon
+overabundance. Beta Pictoris might be in the process of forming exotic carbon-rich planets, in
+contrast to the terrestrial planets in the Solar System, which are rich in oxygen instead of
+carbon.[46] Alternatively it may be passing through an unknown phase that might also have
+occurred early in the development of the Solar System: in the Solar System there are carbon-rich
+meteorites known as enstatite chondrites, which may have formed in a carbon-rich environment. It
+has also been proposed that Jupiter may have formed around a carbon-rich core.[46]
+In 2011 the disk around Beta Pictoris became the first other planetary system to be photographed
+by an amateur astronomer. Rolf Olsen of New Zealand captured the disk with a 10-inch Newtonian
+reflector and a modified webcam.[47]
+
+11/15/2023, 8:11 PM
+
+Beta Pictoris - Wikipedia
+
+6 of 16
+
+https://en.wikipedia.org/wiki/Beta_Pictoris
+
+Planetesimal belts
+In 2003, imaging of the inner region of the Beta Pictoris system
+with the Keck II telescope revealed the presence of several
+features which are interpreted as being belts or rings of
+material. Belts at approximately 14, 28, 52 and 82 astronomical
+units from the star were detected, which alternate in inclination
+with respect to the main disk.[20]
+Observations in 2004 revealed the presence of an inner belt
+containing silicate material at a distance of 6.4 AU from the
+star. Silicate material was also detected at 16 and 30 AU from
+The dust around Beta Pictoris may
+the star, with a lack of dust between 6.4 and 16 AU providing
+be produced by the collisions of
+evidence that a massive planet may be orbiting in this region.
+large planetesimals.
+[48][49] Magnesium-rich olivine has also been detected,
+strikingly similar to that found in the Solar System comets and
+different from the olivine found in Solar System asteroids.[50] Olivine crystals can only form closer
+than 10 AU from the star; therefore they have been transported to the belt after formation,
+probably by radial mixing.[50]
+Modeling of the dust disk at 100 AU from the star suggests the dust in this region may have been
+produced by a series of collisions initiated by the destruction of planetesimals with radii of about
+180 kilometers. After the initial collision, the debris undergoes further collisions in a process called
+a collisional cascade. Similar processes have been inferred in the debris disks around Fomalhaut
+and AU Microscopii.[51]
+
+Falling evaporating bodies
+The spectrum of Beta Pictoris shows strong short-term variability that was first noticed in the redshifted part of various absorption lines, which was interpreted as being caused by material falling
+onto the star.[52] The source of this material was suggested to be small comet-like objects on orbits
+which take them close to the star where they begin to evaporate, termed the "falling evaporating
+bodies" model.[21] Transient blue-shifted absorption events were also detected, though less
+frequently: these may represent a second group of objects on a different set of orbits.[53] Detailed
+modeling indicates the falling evaporating bodies are unlikely to be mainly icy like comets, but
+instead are probably composed of a mixed dust and ice core with a crust of refractory material.[54]
+These objects may have been perturbed onto their star-grazing orbits by the gravitational influence
+of a planet in a mildly eccentric orbit around Beta Pictoris at a distance of roughly 10 AU from the
+star.[55] Falling evaporating bodies may also be responsible for the presence of gas located high
+above the plane of the main debris disk.[56] A study from 2019 reported transiting exocomets with
+TESS. The dips are asymmetric in nature and are consistent with models of evaporating comets
+crossing the disc of the star. The comets are in a highly eccentric orbit and are non-periodic.[57]
+
+Planetary system
+On November 21, 2008, it was announced that infrared observations made in 2003 with the Very
+Large Telescope had revealed a candidate planetary companion to the star.[58] In the autumn of
+
+11/15/2023, 8:11 PM
+
+Beta Pictoris - Wikipedia
+
+7 of 16
+
+https://en.wikipedia.org/wiki/Beta_Pictoris
+
+Artistic rendering of the Beta
+Pictoris system, showing accretion
+disk and Beta Pictoris b and Beta
+Pictoris c.
+
+2009 the planet was
+successfully observed on the
+other side of the parent star,
+confirming the existence of
+the planet itself and earlier
+observations. It is believed
+that in 15 years (As of 2009)
+it will be possible to record
+the whole orbit of the
+planet.[14]
+
+The European
+Southern
+Observatory confirmed the presence of Beta Pictoris c, on 6
+October 2020, through the use of direct imagery. Beta Pictoris c
+is orbiting in the plane of the debris disk surrounding the star.
+Beta Pictoris c is currently the closest extrasolar planet to its
+star ever photographed: the observed separation is roughly the
+same as the distance between the asteroid belt and the
+Sun.[15][59]
+
+The motion of Beta Pictoris b. The
+orbital plane is viewed side-on; the
+planet is not moving towards the
+star.
+
+The Beta Pictoris planetary system[60][61]
+Companion
+(in order
+from star)
+
+Mass
+
+c
+
+10.139 −1.031 MJ
+
++1.175
+
+Inner belt
+b
+
+Semimajor
+axis
+
+Orbital
+period
+
+(AU)
+
+(years)
+
++0.016
+
+2.680 −0.015
+
++0.015
+
+3.266 −0.012
+
+Eccentricity
++0.024
+
+0.314 −0.034
+
+6.4 AU
++2.337
+
+11.729 −2.135 MJ
+
++0.082
+
+10.018 −0.076
+
++0.248
+
+23.593 −0.209
+
++0.007
+
+0.106 −0.006
+
+Inclination
++0.083
+
+Radius
+
+88.947 −0.091°
+
+—
+
+~89°
+
+—
+
+89.009 ± 0.012°
+
+1.46 ± 0.01 RJ
+
+secondary
+disk
+
+130+ AU
+
+89 ± 1°
+
+—
+
+main disk
+
+16–1450/1835 AU
+
+89 ± 1°
+
+—
+
+The radial velocity method is not well suited to study A-type stars like Beta Pictoris. The very young
+age of the star makes the noise even worse. Current limits derived from this method are enough to
+rule out hot Jupiter-type planets more massive than 2 Jupiter masses at a distance of less than
+0.05 AU from the star. For planets orbiting at 1 AU, planets with less than 9 Jupiter masses would
+have evaded detection.[22][31] Therefore, to find planets in the Beta Pictoris system, astronomers
+look for the effects that the planet has on the circumstellar environment.
+Multiple lines of evidence suggested the existence of a massive planet orbiting in the region around
+10 AU from the star: the dust-free gap between the planetesimal belts at 6.4 AU and 16 AU suggest
+this region is being cleared out;[49] a planet at this distance would explain the origin of the falling
+evaporating bodies,[55] and the warps and inclined rings in the inner disk suggest a massive planet
+on an inclined orbit is disrupting the disk.[44][62]
+The observed planet by itself cannot explain the structure of the planetesimal belts at 30 AU and 52
+AU from the star. These belts might be associated with smaller planets at 25 and 44 AU, with
+around 0.5 and 0.1 Jupiter masses respectively.[22] Such a system of planets, if it exists, would be
+
+11/15/2023, 8:11 PM
+
+Beta Pictoris - Wikipedia
+
+8 of 16
+
+https://en.wikipedia.org/wiki/Beta_Pictoris
+
+close to a 1:3:7
+orbital resonance. It
+may also be that the
+rings in the outer
+disc at 500–800
+AU are indirectly
+caused
+by
+the
+influence of these
+planets.[22]
+Beta Pictoris b in both elongations
+ESO image of a planet near Beta
+Pictoris
+
+The object was observed at an angular distance of 411
+milliarcseconds from Beta Pictoris, which corresponds to a
+distance in the plane of the sky of 8 AU. For comparison, the
+orbital radii of the planets Jupiter and Saturn are 5.2 AU[63]
+and 9.5 AU[64] respectively. The separation in the radial direction is unknown, so this is a lower
+limit on the true separation. Estimates of its mass depend on theoretical models of planetary
+evolution, and predict the object has about 8 Jupiter masses and is still cooling, with a temperature
+ranging from 1400 to 1600 K. These figures come with the caveat that the models have not yet been
+tested against real data in the likely ranges of mass and age for the planet.
+The semimajor axis is 8–9 AU and its orbital period is 17–21 years.[65] A "transit-like event" was
+observed in November 1981;[66][67] this is consistent with those estimates.[65] If this is confirmed
+as a true transit, the inferred radius of the transiting object is 2–4 Jupiter radii, which is larger
+than predicted by theoretical models. This may indicate that it is surrounded by a large ring system
+or a moon-forming disc.[67]
+Confirmation of a second planet in the Beta Pictoris system was announced on 6 October 2020.
+The planet has a temperature of T = 1250 ± 50 K, a dynamical mass of M = 8.89 ± 0.75 MJup,[68]
+and an age of 18.5 ± 2.5 Myr.[15] It has an orbital period of about 1,200 days (3.3 years) and a
+semimajor axis of 2.7 AU, about 3.5 times closer to its parent star than Beta Pictoris b.[69][59] The
+orbit of Beta Pictoris c is moderately eccentric, with an eccentricity of 0.24.[69][59]
+This planet presents data with conflict with current, as of 2020, models for planetary formation. β
+Pic c is at an age where planetary formations is predicted to occur via disk instability. However the
+planet orbits at a distance of 2.7 AU, which prediction says is too close for disk instability to occur.
+The low apparent magnitude, of MK = 14.3 ± 0.1, suggests that it formed via core accretion.[15]
+
+Dust stream
+In 2000, observations made with the Advanced Meteor Orbit Radar facility in New Zealand
+revealed the presence of a stream of particles coming from the direction of Beta Pictoris, which
+may be a dominant source of interstellar meteoroids in the Solar System.[23] The particles in the
+Beta Pictoris dust stream are relatively large, with radii exceeding 20 micrometers, and their
+velocities suggest that they must have left the Beta Pictoris system at roughly 25 km/s. These
+particles may have been ejected from the Beta Pictoris debris disk as a result of the migration of gas
+giant planets within the disk and may be an indication that the Beta Pictoris system is forming an
+
+11/15/2023, 8:11 PM
+
+Beta Pictoris - Wikipedia
+
+9 of 16
+
+https://en.wikipedia.org/wiki/Beta_Pictoris
+
+Oort cloud.[70] Numerical modeling of dust ejection indicates radiation pressure may also be
+responsible and suggests that planets further than about 1 AU from the star cannot directly cause
+the dust stream.[71]
+
+See also
+▪ 51 Ophiuchi
+
+Notes
+1. The parallax can be converted into distance using the equation:
+. See the article on propagation of uncertainty for information
+on how errors on derived values can be calculated.
+2. For artist's impression of Beta Pictoris b, see:
+▪ "Length of Exoplanet Day Measured for First Time" (http://www.eso.org/public/news/eso141
+4/). ESO Press Release. Retrieved 2 May 2014.
+3. Calculated from [M/H]: relative abundance = 10[M/H]
+4. The visual luminosity can be calculated by:
+5. The physical diameter can be found by multiplying the distance by the angular diameter in
+radians.
+6. The rotation period can be calculated using the equations of circular motion:
+7. For artist's impression of Beta Pictoris, see:
+▪ "Crashing Comets Explain Surprise Gas Clump Around Young Star" (http://www.eso.org/pu
+blic/news/eso1408/). ESO. Retrieved 12 March 2014.
+8. From Wien's displacement law and a temperature of 8052 K the peak wavelength emission
+from Beta Pictoris would be around 360 nanometers which is in the near-ultraviolet region of
+the spectrum.
+
+References
+1. "* bet Pic—Star" (http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=bet+pic).
+SIMBAD. Retrieved 2008-09-06.
+2. Gray, R. O.; et al. (2006). "Contributions to the Nearby Stars (NStars) Project: Spectroscopy of
+Stars Earlier than M0 within 40 pc—The Southern Sample". The Astronomical Journal. 132 (1):
+161–170. arXiv:astro-ph/0603770 (https://arxiv.org/abs/astro-ph/0603770).
+Bibcode:2006AJ....132..161G (https://ui.adsabs.harvard.edu/abs/2006AJ....132..161G).
+doi:10.1086/504637 (https://doi.org/10.1086%2F504637). S2CID 119476992 (https://api.seman
+ticscholar.org/CorpusID:119476992).
+3. Hoffleit D. & Warren Jr W.H. (1991). "HR 2020" (http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.
+add=.&-source=V/50/catalog&recno=2020). Bright Star Catalogue (5th Revised ed.). Retrieved
+2008-09-06.
+
+11/15/2023, 8:11 PM
+
+Carina Nebula - Wikipedia
+
+1 of 13
+
+https://en.wikipedia.org/wiki/Carina_Nebula
+
+Carina Nebula
+Coordinates:
+
+10h 45m 08.5s, −59° 52′ 04″
+
+The Carina Nebula[7] or Eta Carinae Nebula[8]
+(catalogued as NGC 3372; also known as the Great
+Carina Nebula[9]) is a large, complex area of bright
+and dark nebulosity in the constellation Carina,
+located in the Carina–Sagittarius Arm of the Milky
+Way galaxy. The nebula is approximately 8,500
+light-years (2,600 pc) from Earth.[2]
+The nebula has within its boundaries the large
+Carina OB1 association and several related open
+clusters, including numerous O-type stars and
+several Wolf–Rayet stars. Carina OB1 encompasses
+the star clusters Trumpler 14 and Trumpler 16.
+Trumpler 14 is one of the youngest known star
+clusters at half a million years old. Trumpler 16 is
+the home of WR 25, currently the most luminous
+star known in our Milky Way galaxy, together with
+the less luminous but more massive and famous Eta
+Carinae star system and the O2 supergiant
+HD 93129A. Trumpler 15, Collinder 228,
+Collinder 232, NGC 3324, and NGC 3293 are also
+considered members of the association. NGC 3293 is
+the oldest and furthest from Trumpler 14, indicating
+sequential and ongoing star formation.
+The nebula is one of the largest diffuse nebulae in
+our skies. Although it is four times as large as and
+even brighter than the famous Orion Nebula, the
+Carina Nebula is much less well known due to its
+location in the southern sky. It was discovered by
+Nicolas-Louis de Lacaille in 1752 from the Cape of
+Good Hope.
+The Carina Nebula was selected as one of five cosmic
+objects observed by the James Webb Space
+Telescope, as part of the release of its first official
+science images. A detailed image was made of an
+early star-forming region of NGC 3324 known as the
+Cosmic Cliffs.[10]
+
+Carina Nebula
+Emission nebula
+
+The Carina Nebula. Eta Carinae and the
+Keyhole Nebula are left of center, NGC 3324 is
+at upper right.
+Observation data: J2000.0 epoch
+Right
+ascension
+
+10h 45m 08.5s[1]
+
+Declination
+
+−59° 52′ 04″[1]
+
+Distance
+
+~8,500 ly (~2,600[2] pc)
+
+Apparent
+magnitude (V)
+
++1.0[3]
+
+Apparent
+dimensions
+(V)
+
+120 × 120 arcmins
+
+Constellation
+
+Carina
+
+Physical characteristics
+Radius
+
+~230[4] ly (~70 pc)
+
+Discovery and basic
+
+11/15/2023, 7:58 PM
+
+Carina Nebula - Wikipedia
+
+2 of 13
+
+information
+Nicolas-Louis de Lacaille discovered the nebula on
+25 January 1752.[3] Its dimensions are 120×120
+arcminutes centered on the coordinates of right
+ascension 10h 45m 08.5s and declination
+−59° 52′ 04″.[1] In modern times it is calculated to
+be around 8,500 light-years (2,600 pc) from
+Earth.[2]
+
+https://en.wikipedia.org/wiki/Carina_Nebula
+
+Notable
+features
+
+Eta Carinae
+Keyhole Nebula
+Many open clusters & dark
+nebulae
+
+Designations
+
+NGC 3372,[5] ESO 128EN013,[1] GC 2197,[1]
+h 3295,[1] Caldwell 92[6]
+
+Objects within the Carina Nebula
+Eta Carinae
+Eta Carinae is a highly luminous hypergiant star. Estimates of
+its mass range from 100 to 150 times the mass of the Sun, and
+its luminosity is about four million times that of the Sun.
+
+The Cosmic Cliffs at the edge of
+NGC 3324, one of the first images
+taken by the James Webb Space
+Telescope
+
+This object is currently the most massive star that can be
+studied in great detail, because of its location and size. Several
+other known stars may be more luminous and more massive, but data
+on them is far less robust. (Caveat: Since examples such as the Pistol
+Star have been demoted by improved data, one should be skeptical of
+most available lists of "most massive stars". In 2006, Eta Carinae still
+had the highest confirmed luminosity, based on data across a broad
+range of wavelengths.) Stars with more than 80 times the mass of the
+Sun produce more than a million times as much light as the Sun. They
+are quite rare—only a few dozen in a galaxy as big as ours—and they
+flirt with disaster near the Eddington limit, i.e., the outward pressure
+of their radiation is almost strong enough to counteract gravity. Stars
+that are more than 120 solar masses exceed the theoretical Eddington
+limit, and their gravity is barely strong enough to hold in its radiation
+and gas, resulting in a possible supernova or hypernova in the near
+future.
+Eta Carinae observed in
+Eta Carinae's effects on the nebula can be seen directly. Dark globules
+different wavelengths
+and some other less visible objects have tails pointing directly away
+from the massive star. The entire nebula would have looked very
+different before the Great Eruption in the 1840s surrounded Eta
+Carinae with dust, drastically reducing the amount of ultraviolet light it put into the nebula.
+
+Homunculus Nebula
+Within the large bright nebula is a much smaller feature, immediately surrounding Eta Carinae
+itself, known as the Homunculus Nebula (from Latin meaning Little Man). It is believed to have
+been ejected in an enormous outburst in 1841 which briefly made Eta Carinae the second-brightest
+star in the sky.
+
+11/15/2023, 7:58 PM
+
+Carina Nebula - Wikipedia
+
+3 of 13
+
+https://en.wikipedia.org/wiki/Carina_Nebula
+
+The Homunculus Nebula is a small H II region, with gas
+shocked into ionized and excited states.[11] It also absorbs much
+of the light from the extremely luminous central stellar system
+and re-radiates it as infrared (IR). It is the brightest object in
+the sky at mid-IR wavelengths.[12]: 145–169
+
+Eta Carinae, surrounded by the
+Homunculus Nebula
+
+The distance to the Homunculus can be derived from its
+observed angular dimensions and calculated linear size,
+assuming it is axially symmetric. The most accurate distance
+obtained using this method is 7,660 ± 160 light-years
+(2,350 ± 50 pc). The largest radius of the bipolar lobes in this
+model is about 22,000 AU, and the axis is oriented 41° from the
+line of sight, or 49° relative to the plane of the sky, which means
+it is seen from Earth slightly more "end on" than "side on".[13]
+
+Keyhole Nebula
+The Keyhole, or Keyhole Nebula, is a small dark cloud of cold
+molecules and dust within the Carina Nebula, containing bright
+filaments of hot, fluorescing gas, silhouetted against the much
+brighter background nebula. John Herschel used the term
+"lemniscate-oval vacuity" when first describing it,[14] and
+subsequently referred to it simply as the "oval vacuity".[15] The
+term lemniscate continued to be used to describe this portion of
+The Keyhole Nebula is a dark
+the nebula[16] until popular astronomy writer Emma Converse
+nebulosity superimposed on the
+described the shape of the nebula as "resembling a keyhole" in
+brightest part of the Carina Nebula.
+an 1873 Appleton's Journal article.[17] The name Keyhole
+Nebula then came into common use, sometimes for the Keyhole
+itself, sometimes to describe the whole of the Carina Nebula (signifying "the nebula that contains
+the Keyhole").[18][19]
+The diameter of the Keyhole structure is approximately seven light-years (2.1 pc). Its appearance
+has changed significantly since it was first observed, possibly due to changes in the ionizing
+radiation from Eta Carinae.[20] The Keyhole does not have its own NGC designation. It is
+sometimes erroneously called NGC 3324,[21] but that catalogue designation refers to a reflection
+and emission nebula just northwest of the Carina Nebula (or to its embedded star cluster).
+[22][23][24]
+
+Defiant Finger
+A small Bok globule in the Keyhole Nebula (at RA 10h 44m 30s, Dec −59° 40') has been
+photographed by the Hubble Space Telescope and is nicknamed the "Carina Defiant Finger" due to
+its shape.[25] In Hubble images, light can be seen radiating off the edges of the globule; this is
+especially visible in the southern tip, where the "finger" is. It is thought that the Defiant Finger is
+being ionized by the bright Wolf–Rayet star WR 25, and/or Trumpler 16-244, a bright blue
+supergiant. It has a mass of at least 6 M☉, and stars may be forming within it. Like other
+interstellar clouds under intense radiation, the Defiant Finger will eventually be completely
+
+11/15/2023, 7:58 PM
+
+Carina Nebula - Wikipedia
+
+4 of 13
+
+https://en.wikipedia.org/wiki/Carina_Nebula
+
+evaporated; for this cloud the time frame is predicted to be
+200,000 to 1,000,000 years.[26]
+
+Trumpler 14
+Trumpler 14 is an open cluster with a diameter of six light-years
+(1.8 pc), located within the inner regions of the Carina Nebula,
+approximately 8,000 light-years (2,500 pc) from Earth.[27] It is
+one of the main clusters of the Carina OB1 stellar association,
+which is the largest association in the Carina Nebula.[12] About
+2,000 stars have been identified in Trumpler 14.[28] and the total
+mass of the cluster is estimated to be 4,300 M☉.[29]
+
+Hubble image of the Defiant
+Finger. North is down.
+
+Trumpler 15
+Trumpler 15 is a star cluster on the north-east edge of the
+Carina Nebula. Early studies disagreed about the distance, but
+astrometric measurements by the Gaia mission have confirmed
+that it is the same distance as the rest of Carina OB1.[2]
+
+Trumpler 16
+Trumpler 16 is one of the main clusters of the Carina OB1 stellar
+association, which is the largest association in the Carina
+Nebula, and it is bigger and more massive than Trumpler 14.[12]
+The star Eta Carinae is part of this cluster.
+
+Hubble image of the open cluster
+Trumpler 14
+
+Mystic Mountain
+Mystic Mountain is the term for a dust–gas pillar in the Carina
+Nebula, a photo of which was taken by Hubble Space Telescope
+on its 20th anniversary. The area was observed by Hubble's
+Wide Field Camera 3 on 1–2 February 2010. The pillar
+measures three light-years (0.92 pc) in height; nascent stars
+inside the pillar fire off gas jets that stream from towering
+“peaks”.
+Mystic Mountain
+
+WR 22
+WR 22 is an eclipsing binary. The dynamical masses derived from orbital fitting vary from over
+70 M☉ to less than 60 M☉ for the primary and about 21 to 27 M☉ for the secondary.[30] The
+spectroscopic mass of the primary has been calculated at 74 M☉[31] or 78.1 M☉.[32]
+
+WR 25
+
+11/15/2023, 7:58 PM
+
+Carina Nebula - Wikipedia
+
+5 of 13
+
+https://en.wikipedia.org/wiki/Carina_Nebula
+
+WR 25 is a binary system in the central portion of the Carina
+Nebula, a member of the Trumpler 16 cluster. The primary is a
+Wolf–Rayet star, possibly the most luminous star in the galaxy.
+The secondary is hard to detect but thought to be a luminous
+OB star.
+
+HD 93129
+HD 93129 is a triple star system of O-class stars in Carina. All
+three stars of HD 93129 are among the most luminous in the
+galaxy;[33] HD 93129 consists of two clearly resolved
+components, HD 93129 A and HD 93129 B, and HD 93129 A
+itself is made up of two much closer stars.
+
+The brightest star is WR 25
+
+HD 93129 A has been resolved into two components. The spectrum is dominated by the brighter
+component, although the secondary is only 0.9 magnitudes fainter. HD 93129 Aa is an O2
+supergiant and Ab is an O3.5 main sequence star.[34] Their separation has decreased from 55
+milliarcseconds in 2004 to only 27 mas in 2013, but an accurate orbit is not available.[35]
+HD 93129 B is an O3.5 main-sequence star 3 arcseconds away from the closer pair. It is about 1.5
+magnitudes fainter than the combined HD 93129 A, and is approximately the same brightness as
+HD 93129 Ab.[36][37]
+
+HD 93250
+HD 93250 is one of the brightest stars in the region of the Carina Nebula. It is only 7.5 arcminutes
+from Eta Carinae,[38] and HD 93250 is considered to be a member of the same loose open cluster
+Trumpler 16, although it appears closer to the more compact Trumpler 14.[39]
+HD 93250 is known to be a binary star, however, individual spectra of the two components have
+never been observed but are thought to be very similar. The spectral type of HD 93250 has
+variously been given as O5,[40] O6/7,[41] O4,[42] and O3.[43] It has sometimes been classified as a
+main sequence star and sometimes as a giant star.[42][43] The Galactic O-Star Spectroscopic Survey
+has used it as the standard star for the newly created O4 subgiant spectral type.[44]
+
+HD 93205
+HD 93205 is a binary system of two large stars.
+The more massive member of the pair is an O3.5 main sequence star. The spectrum shows some
+ionized nitrogen and helium emission lines, indicating some mixing of fusion products to the
+surface and a strong stellar wind. The mass calculated from apsidal motion of the orbits is 40 to
+60 M☉. This is somewhat lower than expected from evolutionary modelling of a star with its
+observed parameters.[45]
+The less massive member is an O8 main sequence star of approximately 20 M☉.[46] It moves in its
+orbit at a speed of over 300 km/s (190 mi/s) and is considered to be a relativistic binary, which
+
+11/15/2023, 7:58 PM
+
+Carina Nebula - Wikipedia
+
+6 of 13
+
+https://en.wikipedia.org/wiki/Carina_Nebula
+
+causes the apses of the orbit to change in a predictable way.[47]
+
+Catalogued open clusters in Carina Nebula
+As of 1998, there are eight known open clusters in the Carina Nebula:[3]
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+Bochum 10 (Bo 10)
+Bochum 11 (Bo 11)
+Collinder 228 (Cr 228)[48]
+Collinder 232 (Cr 232)
+Collinder 234 (Cr 234)
+Trumpler 14 (Tr 14, Cr 230)
+Trumpler 15 (Tr 15, Cr 231)
+Trumpler 16 (Tr 16, Cr 233)
+
+Annotated map
+
+Annotated map of part of the Carina Nebula showing the location of various objects in the nebula.
+This view combines multiple ground and Hubble observatory images in a 50-light-year wide (15 pc)
+view.[49]
+
+Gallery
+
+11/15/2023, 7:58 PM
+
+Carina Nebula - Wikipedia
+
+7 of 13
+
+Overview of the Carina Nebula
+Carina Nebula. The infrared light[50]
+Keyhole
+is
+superimposed
+on
+the
+bright
+area
+above center, and
+Eta Carinae is the
+bright star just to its
+left.
+
+https://en.wikipedia.org/wiki/Carina_Nebula
+
+in
+
+A celestial map of the nebula.
+
+X-rays from stars Close-up of the Wolf–Rayet star WR Bok
+globule
+and
+diffuse Carina
+Nebula's 22
+nicknamed
+"The
+[51]
+multimillion-Kelvin
+central region
+Caterpillar"
+plasma light up the
+Carina Nebula in
+this Chandra X-ray
+Observatory image
+
+11/15/2023, 7:58 PM
+
+HD 169142 - Wikipedia
+
+1 of 5
+
+https://en.wikipedia.org/wiki/HD_169142
+
+HD 169142
+HD 169142 is a single Herbig Ae/Be star. Its
+surface temperature is 7650 ± 150 K. HD 169142 is
+depleted of heavy elements compared to the Sun,
+with a metallicity Fe/H index of −0.375 ± 0.125,
+but is much younger at an age of 7.5 ± 4.5 million
+years.[2] The star is rotating slowly and has
+relatively low stellar activity for a Herbig Ae/Be
+star.[3]
+
+HD 169142
+
+Planetary system
+The Disk
+The star is surrounded by a complex, rapidly
+evolving protoplanetary disk with two gaps. In the
+1995-2005 period the disk inner edge has moved
+inward by 0.3 AU.[5] The dust of the disk is rich in
+polycyclic aromatic hydrocarbons[6] and carbon
+monoxide.[7]
+A study using ALMA data found that the water
+(H2O) snow line is at around 20 astronomical
+units and the planet b is forming in beyond the
+water and carbon dioxide (CO2) snow lines, but
+within the carbon monoxide (CO) snow line. The
+CO snow line lies at around 150 AU.[8]
+The study also detected a range of molecules in the
+disk: diazenylium (N2H+), methanol (CH3OH),
+[CI], deuterated hydrogen cyanide (DCN), carbon
+monosulfide (CS, C34S, 13CS), thioformaldehyde
+(H2CS), formaldehyde (H2CO), cyanoacetylene
+(HC3N), cyclopropenylidene (c-C3H2), sulfur
+monoxide (SO, previously detected) and
+deuterated aldehyde (DCO, previously detected).
+The detection of methanol in this warm disk is
+interpreted as a leftover from a earlier and colder
+stage of the disk. The methanol is now sublimating
+in this warmer phase. This means that complex
+ices can survive the disk formation process.[8]
+
+VLT/SPHERE image of the circumstellar disk and
+protoplanet candidate b around HD 169142.
+Credit: ESO VLT/SPHERE - Monash University Iain Hammond et al., adapted and mixed by
+Meli_thev
+Observation data
+Epoch J2000
+Equinox J2000
+Constellation
+
+Sagittarius
+
+Right ascension
+
+18h 24m 29.7800s[1]
+
+Declination
+
+−29° 46′ 49.3286″[1]
+
+Apparent magnitude (V) 8.16
+Characteristics
+Evolutionary stage
+
+Herbig Ae/Be star
+
+Spectral type
+
+A9III/IVe[2]
+Astrometry
+
+Radial velocity (Rv)
+
+−3 ± 2[3] km/s
+
+Proper motion (μ)
+
+RA: −2.335[4] mas/yr
+Dec.: −37.879[4] mas/yr
+
+Parallax (π)
+
+8.7053 ± 0.0268 mas[4]
+
+Distance
+
+375 ± 1 ly
+(114.9 ± 0.4 pc)
+Details[2]
+
+11/15/2023, 8:06 PM
+
+HD 169142 - Wikipedia
+
+2 of 5
+
+The Planet
+The annular gap and inner cavity observed in this
+protoplanetary disk both suggested the presence of
+Several
+protoplanet
+embedded planets.[2]
+candidates have been suggested in the literature
+starting from 2014.[9][10]
+Nonetheless, a particular protoplanet candidate
+detected in 2015 and 2017 with the SPHERE
+instrument on the VLT appears to stand out,
+hereafter HD 169142 b.[11] A paper from 2023[12]
+confirmed that the motion of this protoplanet
+candidate was consistent with Keplerian motion.
+The object shifted with a change of the position
+angle of 10.2±2.8° between 2015 and 2019. The
+researchers point out three lines of evidence
+arguing in favour of this object being a
+protoplanet:
+
+https://en.wikipedia.org/wiki/HD_169142
+
+Mass
+
+1.65 M☉
+
+Radius
+
+1.6 R☉
+
+Luminosity
+
+8.6 L☉
+
+Surface gravity (log g)
+
+4.05 ± 0.05 cgs
+
+Temperature
+
+7650 ± 150 K
+
+Metallicity [Fe/H]
+
+−0.375 ± 0.125 dex
+
+Rotational velocity
+(v sin i)
+
+55 ± 5 km/s
+
+Age
+
+7.5 ± 4.5 Myr
+Other designations
+
+CD−29 14904, TYC 6856-876-1,
+GSC 06856-00876,
+2MASS J18242978-2946492[1]
+Database references
+SIMBAD
+
+data (https://simbad.cd
+s.unistra.fr/simbad/simid?Ident=HD+169142)
+
+1. The object is found in annular gap separating
+the two bright rings of the disc, as predicted in
+theory
+2. The protoplanet moved between 2015, 2017 and 2019 consistent with Keplerian motion of an
+object at a distance of about 37 astronomical units from its star.
+3. A spiral-shaped signal consistent with the expected outer spiral wake triggered by a planet in
+the gap, based on simulations of the system.
+
+The researchers also found the near-infrared colors of the object are consistent with starlight
+scattered by dust around the protoplanet. This dust could be a circumplanetary disk or a dusty
+envelope around the protoplanet.[12]
+A study from June 2023, using archived ALMA data found sulfur monoxide and silicon
+monosulfide in the disk at the position of planet b. The paper also found compact 12CO and 13CO
+emission at the position of the planet. Carbon monoxide and sulfur monoxide were detected in
+other disks in the past and they are thought to be connected to protoplanets. Silicon monosulfide
+on the other hand was never before detected in any other disk and can only be detected if silicates
+are released from nearby dust grains in massive shock waves caused by gas travelling at high
+velocities. It is thought that planet b is driving an outflow causing these high velocities.[13][14]
+Outflows from proto-jovian planets were hypothesised since 1998.[15]
+Outflows are known around isolated young proto-brown dwarfs,[16] but HD 169142 b could be the
+first confirmed protoplanet around a star showing clear evidence of an outflow. Evidence for inflow
+or outflows suspected to be caused by planets exist for other disks, such as a signature in the CI gas
+of HD 163296.[14]
+
+11/15/2023, 8:06 PM
+
+HD 169142 - Wikipedia
+
+3 of 5
+
+https://en.wikipedia.org/wiki/HD_169142
+
+The HD 169142 planetary system
+Companion
+(in order from star)
+
+b
+protoplanetary disk
+
+Mass
+3 ± 2[12] MJ
+
+Semimajor axis
+
+Orbital period
+
+(AU)
+
+(days)
+
+37.2[12]
+
+—
+
+20–250[2] AU
+
+Eccentricity
+
+Inclination
+
+Radius
+
+—
+
+13[12]°
+
+—
+
+13[17]°
+
+—
+
+References
+1. "CD-29 9873" (http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=CD-29+9873). SIMBAD.
+Centre de données astronomiques de Strasbourg. Retrieved 2021-03-22.
+2. Quanz, Sascha P.; Avenhaus, Henning; Buenzli, Esther; Garufi, Antonio; Schmid, Hans Martin;
+Wolf, Sebastian (2013), "Gaps in the Hd 169142 Protoplanetary Disk Revealed by Polarimetric
+Imaging: Signs of Ongoing Planet Formation?", The Astrophysical Journal, 766 (1): L2,
+arXiv:1302.3029 (https://arxiv.org/abs/1302.3029), Bibcode:2013ApJ...766L...2Q (https://ui.ads
+abs.harvard.edu/abs/2013ApJ...766L...2Q), doi:10.1088/2041-8205/766/1/L2 (https://doi.org/1
+0.1088%2F2041-8205%2F766%2F1%2FL2), S2CID 118643209 (https://api.semanticscholar.or
+g/CorpusID:118643209)
+3. High-resolution spectroscopy of Vega-like stars — II. Age indicators, activity and circumstellar
+gas (https://academic.oup.com/mnras/article/290/1/165/1107896)
+4. Brown, A. G. A.; et al. (Gaia collaboration) (2021). "Gaia Early Data Release 3: Summary of
+the contents and survey properties" (https://doi.org/10.1051%2F0004-6361%2F202039657).
+Astronomy & Astrophysics. 649: A1. arXiv:2012.01533 (https://arxiv.org/abs/2012.01533).
+Bibcode:2021A&A...649A...1G (https://ui.adsabs.harvard.edu/abs/2021A&A...649A...1G).
+doi:10.1051/0004-6361/202039657 (https://doi.org/10.1051%2F0004-6361%2F202039657).
+S2CID 227254300 (https://api.semanticscholar.org/CorpusID:227254300).
+(Erratum: doi:10.1051/0004-6361/202039657e (https://doi.org/10.1051%2F0004-6361%2F20203
+9657e)). Gaia EDR3 record for this source (http://vizier.u-strasbg.fr/viz-bin/VizieR-S?Gaia%20E
+DR3%204048015133392824064) at VizieR.
+5. Wagner, Kevin R.; Sitko, Michael L.; Grady, Carol A.; Swearingen, Jeremy R.; Champney,
+Elizabeth H.; Johnson, Alexa N.; Werren, Chelsea; Whitney, Barbara A.; Russell, Ray W.;
+Schneider, Glenn H.; Momose, Munetake; Muto, Takayuki; Inoue, Akio K.; Lauroesch, James
+T.; Hornbeck, Jeremy; Brown, Alexander; Fukagawa, Misato; Currie, Thayne M.; Wisniewski,
+John P.; Woodgate, Bruce E. (2014), "Variability of Disk Emission in Pre-Main Sequence and
+Related Stars. III. Exploring Structural Changes in the Pre-Transitional Disk in Hd 169142", The
+Astrophysical Journal, 798 (2): 94, arXiv:1410.8606 (https://arxiv.org/abs/1410.8606),
+doi:10.1088/0004-637X/798/2/94 (https://doi.org/10.1088%2F0004-637X%2F798%2F2%2F94)
+, S2CID 118745797 (https://api.semanticscholar.org/CorpusID:118745797)
+6. Seok, Ji Yeon; Li, Aigen (2016), "Dust and Polycyclic Aromatic Hydrocarbon in the PreTransitional Disk Around Hd 169142", The Astrophysical Journal, 818 (1): 2, arXiv:1512.04992
+(https://arxiv.org/abs/1512.04992), Bibcode:2016ApJ...818....2S (https://ui.adsabs.harvard.edu/
+abs/2016ApJ...818....2S), doi:10.3847/0004-637X/818/1/2 (https://doi.org/10.3847%2F0004-63
+7X%2F818%2F1%2F2), S2CID 118543568 (https://api.semanticscholar.org/CorpusID:1185435
+68)
+
+11/15/2023, 8:06 PM
+
+HR 8799 - Wikipedia
+
+1 of 11
+
+https://en.wikipedia.org/wiki/HR_8799
+
+HR 8799
+Coordinates:
+
+23h 07m 28.7150s, +21° 08′ 03.302″
+
+HR 8799 is a roughly 30 million-year-old
+main-sequence star located 133.3 lightyears (40.9 parsecs) away from Earth in
+the constellation of Pegasus. It has
+roughly 1.5 times the Sun's mass and
+4.9 times its luminosity. It is part of a
+system that also contains a debris disk
+and at least four massive planets. Those
+planets, along with Fomalhaut b, were the
+first exoplanets whose orbital motion was
+confirmed by direct imaging. The star is a
+Gamma Doradus variable: its luminosity
+changes because of non-radial pulsations
+of its surface. The star is also classified as
+a Lambda Boötis star, which means its
+surface layers are depleted in iron peak
+elements. It is the only known star which
+is simultaneously a Gamma Doradus
+variable, a Lambda Boötis type, and a
+Vega-like star (a star with excess infrared
+emission caused by a circumstellar disk).
+
+Location
+HR 8799 is a star that is visible to the
+naked eye. It has a magnitude 5.96 and it
+is located inside the western edge of the
+great square of Pegasus almost exactly
+halfway between Scheat and Markab. The
+star's name of HR 8799 is its line number
+in the Bright Star Catalogue.
+
+HR 8799
+
+HR 8799 (center) with HR 8799 e (right), HR 8799 d (lower
+right), HR 8799 c (upper right), HR 8799 b (upper left) from
+W. M. Keck Observatory
+Observation data
+Epoch J2000.0
+Equinox J2000.0
+Constellation
+
+Pegasus
+
+Right ascension
+
+23h 07m 28.7157s[1]
+
+Declination
+
++21° 08′ 03.311″[1]
+
+Apparent magnitude (V)
+
+5.964[2]
+
+Characteristics
+Spectral type
+
+kA5 hF0 mA5 V; λ Boo[3][4]
+
+U−B color index
+
+−0.04[5]
+
+B−V color index
+
+0.234[2]
+
+Variable type
+
+Gamma Doradus variable[2]
+Astrometry
+
+Radial velocity (Rv)
+
+−11.5 ± 2[2] km/s
+
+Proper motion (μ)
+
+RA: 108.284 ± 0.056[1] mas/yr
+Dec.: −50.040 ± 0.059[1] mas/yr
+
+Parallax (π)
+
+24.4620 ± 0.0455 mas[1]
+
+11/15/2023, 8:10 PM
+
+HR 8799 - Wikipedia
+
+2 of 11
+
+https://en.wikipedia.org/wiki/HR_8799
+
+Distance
+
+133.3 ± 0.2 ly
+(40.88 ± 0.08 pc)
+
+Absolute magnitude (MV) 2.98 ± 0.08[3]
+Details
++0.06
+
+Mass
+
+Location of HR 8799
+
+Stellar properties
+
+Radius
+
+1.43 −0.07[6] M☉
+1.34 ± 0.05[3] R☉
+
+Luminosity (bolometric)
+
+4.92 ± 0.41[3] L☉
+
+Surface gravity (log g)
+
+4.35 ± 0.05[3] cgs
+
+Temperature
+
+7430 ± 75[3] K
+
+Metallicity [Fe/H]
+
+−0.52 ± 0.08[7][a] dex
+
+Rotational velocity
+(v sin i)
+
+37.5 ± 2[3] km/s
+
+Age
+
+30 −10[8] Myr
+
++20
+
+Other designations
+
+A broadband optical light curve for
+V342 Pegasi (HR 8799), adapted
+from Sódor et al. (2014)[9]
+
+V342 Pegasi, BD+20 5278, FK5 3850,
+GC 32209, HD 218396, HIP 114189,
+PPM 115157, SAO 91022,
+TYC 1718-2350-1.[2]
+Database references
+SIMBAD
+
+data (https://simbad.cds.unistr
+a.fr/simbad/sim-id?Ident=HR+8
+799)
+
+The star HR 8799 is a member of the
+Lambda Boötis (λ Boo) class, a group of
+data (https://exoplanetarchive.i
+peculiar stars with an unusual lack of Exoplanet Archive
+pac.caltech.edu/cgi-bin/Display
+"metals" (elements heavier than hydrogen
+and helium) in their upper atmosphere.
+Overview/nph-DisplayOvervie
+Because of this special status, stars like
+w?objname=HR+8799)
+HR 8799 have a very complex spectral
+Extrasolar Planets
+data (http://exoplanet.eu/star.p
+type. The luminosity profile of the Balmer
+hp?st=HR+8799)
+lines in the star's spectrum, as well as the Encyclopaedia
+star's effective temperature, best match
+the typical properties of an F0 V star. However, the strength of the calcium II K absorption line and
+the other metallic lines are more like those of an A5 V star. The star's spectral type is therefore
+written as kA5 hF0 mA5 V; λ Boo.[3][4]
+Age determination of this star shows some variation based on the method used. Statistically, for
+stars hosting a debris disk, the luminosity of this star suggests an age of about 20–150 million
+years. Comparison with stars having similar motion through space gives an age in the range
+30–160 million years. Given the star's position on the Hertzsprung–Russell diagram of luminosity
+versus temperature, it has an estimated age in the range of 30–1,128 million years. λ Boötis stars
+like this are generally young, with a mean age of a billion years. More accurately, asteroseismology
+also suggests an age of approximately a billion years.[10] However, this is disputed because it would
+make the planets become brown dwarfs to fit into the cooling models. Brown dwarfs would not be
+
+11/15/2023, 8:10 PM
+
+HR 8799 - Wikipedia
+
+3 of 11
+
+https://en.wikipedia.org/wiki/HR_8799
+
+stable in such a configuration. The best accepted value for an age of HR 8799 is 30 million years,
+consistent with being a member of the Columba association co-moving group of stars.[11]
+Earlier analysis of the star's spectrum reveals that it has a slight overabundance of carbon and
+oxygen compared to the Sun (by approximately 30% and 10% respectively). While some Lambda
+Boötis stars have sulfur abundances similar to that of the Sun, this is not the case for HR 8799; the
+sulfur abundance is only around 35% of the solar level. The star is also poor in elements heavier
+than sodium: for example, the iron abundance is only 28% of the solar iron abundance.[12]
+Asteroseismic observations of other pulsating Lambda Boötis stars suggest that the peculiar
+abundance patterns of these stars are confined to the surface only: the bulk composition is likely
+more normal. This may indicate that the observed element abundances are the result of the
+accretion of metal-poor gas from the environment around the star.[13]
+In 2020, spectral analysis utilizing multiple data sources have detected an inconsistency in prior
+data and concluded the star carbon and oxygen abundances are the same or slightly higher than
++6
+
+solar. The iron abundance was updated to 30−5 % of solar value.[7]
+Astroseismic analysis using spectroscopic data indicates that the rotational inclination of the star is
+constrained to be greater than or approximately equal to 40°. This contrasts with the planets'
+orbital inclinations, which are in roughly the same plane at an angle of about 20° ± 10°. Hence,
+there may be an unexplained misalignment between the rotation of the star and the orbits of its
+planets.[14] Observation of this star with the Chandra X-ray Observatory indicates that it has a
+weak level of magnetic activity, but the X-ray activity is much higher than that of an A-type star like
+Altair. This suggests that the internal structure of the star more closely resembles that of an
+F0 star. The temperature of the stellar corona is about 3.0 million K.[15]
+
+Planetary system
+The HR 8799 planetary system[8][16][17][18]
+Companion
+
+Semimajor
+axis
+
+Orbital
+period
+
+(AU)
+
+(years)
+
+7.4 ± 0.6 MJ
+
+16.25 ± 0.04
+
+d
+
+9.1 ± 0.2 MJ
+
+c
+b
+
+(in order from
+star)
+
+Mass
+
+e
+
+Dust disk
+
+Eccentricity
+
+Inclination
+
+Radius
+
+~45
+
+0.1445 ± 0.0013
+
+25 ± 8°
+
+1.17 −0.11 RJ
+
+26.67 ± 0.08
+
+~100
+
+0.1134 ± 0.0011
+
+28°
+
+1.2
+
++0.1
+−0 RJ
+
+7.8 ± 0.5 MJ
+
+41.39 ± 0.11
+
+~190
+
+0.0519 ± 0.0022
+
+28°
+
+1.2
+
++0.1
+−0 RJ
+
+5.7 ± 0.4 MJ
+
+71.6 ± 0.2
+
+~460
+
+0.016 ± 0.001
+
+28°
+
+1.2 −0.1 RJ
+
+—
+
+—
+
+135–360[19] AU
+
++0.13
+
++0.1
+
+On 13 November 2008, Christian Marois of the National Research Council of Canada's Herzberg
+Institute of Astrophysics and his team announced they had directly observed three planets orbiting
+the star with the Keck and Gemini telescopes in Hawaii,[20][21][22][23] in both cases employing
+adaptive optics to make observations in the infrared.[b] A precovery observation of the outer
+3 planets was later found in infrared images obtained in 1998 by the Hubble Space Telescope's
+NICMOS instrument, after a newly developed image-processing technique was applied.[24] Further
+
+11/15/2023, 8:10 PM
+
+HR 8799 - Wikipedia
+
+4 of 11
+
+https://en.wikipedia.org/wiki/HR_8799
+
+observations in 2009–2010 revealed the fourth giant planet
+orbiting inside the first three planets at a projected separation
+just less than 15 ��,[8][25] which has been confirmed by
+multiple studies.[26]
+The outer planet orbits inside a dusty disk like the Solar Kuiper
+belt. It is one of the most massive disks known around any star
+within 300 light years of Earth, and there is room in the inner
+system for terrestrial planets.[22] There is an additional debris
+disk just inside the orbit of the innermost planet.[8]
+The orbital radii of planets e, d, c, and b are 2–3 times those of
+Jupiter, Saturn, Uranus, and Neptune's orbits, respectively.
+Orbit diagram of the HR 8799
+Because of the inverse square law relating radiation intensity to
+planetary system
+distance from the source, comparable radiation intensities are
+present at distances √ 4.9 ≈ 2.2 times farther from HR 8799
+than from the Sun, the upshot being that corresponding planets in the solar and HR 8799 systems
+receive similar amounts of stellar radiation.[8]
+These objects are near the upper mass limit for classification as planets; if they exceeded 13 Jupiter
+masses, they would be capable of deuterium fusion in their interiors and thus qualify as brown
+dwarfs under the definition of these terms used by the IAU's Working Group on Extrasolar
+Planets.[27] If the mass estimates are correct, the HR 8799 system is the first multiple-planet
+extrasolar system to be directly imaged.[21] The orbital motion of the planets is in an anticlockwise
+direction and was confirmed via multiple observations dating back to 1998.[20] The system is more
+likely to be stable if the planets e, d, and c are in a 4:2:1 resonance, which would imply that the
+orbit of the planet d has an eccentricity exceeding 0.04 in order to match the observational
+constraints. Planetary systems with the best-fit masses from evolutionary models would be stable if
+the outer three planets are in a 1:2:4 orbital resonance (similar to the Laplace resonance between
+Jupiter's inner three Galilean satellites: Io, Europa, and Ganymede as well as three of the planets in
+the Gliese 876 system).[8] However, it is disputed if planet b is in resonance with the other
+3 planets. According to dynamical simulations, the HR 8799 planetary system may be even an
+extrasolar system with multiple resonance 1:2:4:8.[18] The 4 young planets are still glowing red hot
+from the heat of their formation, and are larger than Jupiter and over time they will cool and
+shrink to the sizes of 0.8–1.0 Jupiter radii.
+The broadband photometry of planets b, c and d has shown that there may be significant clouds in
+their atmospheres,[25] while the infrared spectroscopy of planets b and c points to non-equilibrium
+CO / CH4 chemistry.[8] Near-infrared observations with the Project 1640 integral field
+spectrograph on the Palomar Observatory have shown that compositions between the four planets
+vary significantly. This is a surprise since the planets presumably formed in the same way from the
+same disk and have similar luminosities.[28]
+
+Planet spectra
+A number of studies have used the spectra of HR 8799's planets to determine their chemical
+compositions and constrain their formation scenarios. The first spectroscopic study of planet b
+(performed at near-infrared wavelengths) detected strong water absorption and hints of methane
+
+11/15/2023, 8:10 PM
+
+HR 8799 - Wikipedia
+
+5 of 11
+
+The spectrum is that of a giant exoplanet,
+orbiting around the bright and very young
+star HR 8799, about 130 light-years away.
+This spectrum of the star and the planet
+was obtained with the NACO adaptive
+optics instrument on ESO's Very Large
+Telescope.
+
+https://en.wikipedia.org/wiki/HR_8799
+
+absorption.[29] Subsequently, weak methane and carbon
+monoxide absorption in this planet's atmosphere was also
+detected, indicating efficient vertical mixing of the
+atmosphere and a disequilibrium CO / CH4 ratio at the
+photosphere. Compared to models of planetary
+atmospheres, this first spectrum of planet b is best
+matched by a model of enhanced metallicity (about
+10 times the metallicity of the Sun), which may support
+the notion that this planet formed through coreaccretion.[30]
+
+The first simultaneous spectra of all four known planets in
+the HR 8799 system were obtained in 2012 using the
+Project 1640 instrument at Palomar Observatory. The
+near-infrared spectra from this instrument confirmed the
+red colors of all four planets and are best matched by
+models of planetary atmospheres that include clouds. Though these spectra do not directly
+correspond to any known astrophysical objects, some of the planet spectra demonstrate similarities
+with L- and T-type brown dwarfs and the night-side spectrum of Saturn. The implications of the
+simultaneous spectra of all four planets obtained with Project 1640 are summarized as follows:
+Planet b contains ammonia and/or acetylene as well as carbon dioxide, but has little methane;
+planet c contains ammonia, perhaps some acetylene but neither carbon dioxide nor substantial
+methane; planet d contains acetylene, methane, and carbon dioxide but ammonia is not
+definitively detected; planet e contains methane and acetylene but no ammonia or carbon dioxide.
+The spectrum of planet e is similar to a reddened spectrum of Saturn.[28]
+Moderate-resolution near-infrared spectroscopy, obtained with the Keck telescope, definitively
+detected carbon monoxide and water absorption lines in the atmosphere of planet c. The carbonto-oxygen ratio, which is thought to be a good indicator of the formation history for giant planets,
+for planet c was measured to be slightly greater than that of the host star HR 8799. The enhanced
+carbon-to-oxygen ratio and depleted levels of carbon and oxygen in planet c favor a history in
+which the planet formed through core accretion.[31] However, it is important to note that
+conclusions about the formation history of a planet based solely on its composition may be
+inaccurate if the planet has undergone significant migration, chemical evolution, or core dredging.
+Later, in November 2018, researchers confirmed the existence of water and the absence of methane
+in the atmosphere of HR 8799 c using high-resolution spectroscopy and near-infrared adaptive
+optics (NIRSPAO) at the Keck Observatory.[32][33]
+The red colors of the planets may be explained by the presence of iron and silicate atmospheric
+clouds, while their low surface gravities might explain the strong disequilibrium concentrations of
+carbon monoxide and the lack of strong methane absorption.[31]
+
+Debris disk
+In January 2009 the Spitzer Space Telescope obtained images of the debris disk around HR 8799.
+Three components of the debris disk were distinguished:
+1. Warm dust (T ≈ 150 K) orbiting within the innermost planet (e). The inner and outer edges of
+this belt are close to 4:1 and 2:1 resonances with the planet.[8]
+
+11/15/2023, 8:10 PM
+
+HR 8799 - Wikipedia
+
+6 of 11
+
+https://en.wikipedia.org/wiki/HR_8799
+
+2. A broad zone of cold dust (T ≈ 45 K) with a sharp inner
+edge orbiting just outside the outermost planet (b). The
+inner edge of this belt is approximately in 3:2 resonance
+with said planet, similar to Neptune and the Kuiper belt.[8]
+3. A dramatic halo of small grains originating in the cold dust
+component.
+The halo is unusual and implies a high level of dynamic activity
+which is likely due to gravitational stirring by the massive
+planets.[34] The Spitzer team says that collisions are likely
+occurring among bodies similar to those in the Kuiper Belt and
+that the three large planets may not yet have settled into their
+final, stable orbits.[35]
+In the photo, the bright, yellow-white portions of the dust cloud
+come from the outer cold disk. The huge extended dust halo,
+seen in orange-red, has a diameter of ≈ 2,000 ��. The diameter
+of Pluto's orbit (≈ 80 ��) is shown for reference as a dot in the
+centre.[36]
+
+Spitzer infrared image of HR 8799's
+debris disk, January 2009. The
+small dot in the centre is the size of
+Pluto's orbit.
+
+This disk is so thick that it threatens the young system's
+stability.[37]
+
+Vortex Coronagraph: Testbed for high-contrast imaging technology
+Up until the year 2010, telescopes could only directly image
+exoplanets under exceptional circumstances. Specifically, it is
+easier to obtain images when the planet is especially large
+(considerably larger than Jupiter), widely separated from its
+parent star, and hot so that it emits intense infrared radiation.
+However, in 2010 a team from NASAs Jet Propulsion
+Laboratory demonstrated that a vortex coronagraph could
+enable small telescopes to directly image planets.[38] They did
+this by imaging the previously imaged HR 8799 planets using
+just a 1.5 m portion of the Hale Telescope.
+
+NICMOS images
+
+Direct image of exoplanets around
+the star HR 8799 using a vortex
+coronagraph on a 1.5 m portion of
+the Hale Telescope
+
+In 2009, an old NICMOS image was processed to show a predicted exoplanet around HR 8799.[39]
+In 2011, three further exoplanets were rendered viewable in a NICMOS image taken in 1998, using
+advanced data processing.[39] The image allows the planets' orbits to be better characterised, since
+they take many decades to orbit their host star.[39]
+
+Search for radio emissions
+Starting in 2010, astronomers searched for radio emissions from the exoplanets orbiting HR 8799
+using the radio telescope at Arecibo Observatory. Despite the large masses, warm temperatures,
+
+11/15/2023, 8:10 PM
+
+HR 8799 - Wikipedia
+
+7 of 11
+
+https://en.wikipedia.org/wiki/HR_8799
+
+and brown dwarf-like luminosities, they failed to detect any emissions at 5 GHz down to a flux
+density detection threshold of 1.0 mJy.[40]
+
+See also
+▪ List of exoplanets
+▪ Direct imaging of extrasolar planets
+
+Notes
+a. The star is a member of the Lambda Boötis class of peculiar stars, thus the observed
+abundance may not reflect the abundances of the star as a whole.
+b. The planets are young and therefore they are still hot and bright in the near-infrared part of the
+spectrum.
+
+References
+1. Brown, A. G. A.; et al. (Gaia collaboration) (2021). "Gaia Early Data Release 3: Summary of
+the contents and survey properties" (https://doi.org/10.1051%2F0004-6361%2F202039657).
+Astronomy & Astrophysics. 649: A1. arXiv:2012.01533 (https://arxiv.org/abs/2012.01533).
+Bibcode:2021A&A...649A...1G (https://ui.adsabs.harvard.edu/abs/2021A&A...649A...1G).
+doi:10.1051/0004-6361/202039657 (https://doi.org/10.1051%2F0004-6361%2F202039657).
+S2CID 227254300 (https://api.semanticscholar.org/CorpusID:227254300).
+(Erratum: doi:10.1051/0004-6361/202039657e (https://doi.org/10.1051%2F0004-6361%2F20203
+9657e)). Gaia EDR3 record for this source (http://vizier.u-strasbg.fr/viz-bin/VizieR-S?Gaia%20E
+DR3%202832463659640297472) at VizieR.
+2. "HR 8799" (http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=HR+8799). SIMBAD. Centre de
+données astronomiques de Strasbourg. Retrieved 14 November 2008.
+3. Gray, Richard O.; Kaye, Anthony B. (December 1999). "HR 8799: A link between γ Doradus
+variables and λ Bootis stars" (https://doi.org/10.1086%2F301134). The Astronomical Journal.
+118 (6): 2993–2996. Bibcode:1999AJ....118.2993G (https://ui.adsabs.harvard.edu/abs/1999A
+J....118.2993G). doi:10.1086/301134 (https://doi.org/10.1086%2F301134).
+4. Kaye, Anthony B.; Handler, Gerald; Krisciunas, Kevin; Poretti, Ennio; Zerbi, Filippo M. (July
+1999). "Gamma Doradus stars: Defining a new class of pulsating variables". The Publications
+of the Astronomical Society of the Pacific. 111 (761): 840–844. arXiv:astro-ph/9905042 (https://
+arxiv.org/abs/astro-ph/9905042). Bibcode:1999PASP..111..840K (https://ui.adsabs.harvard.edu/
+abs/1999PASP..111..840K). doi:10.1086/316399 (https://doi.org/10.1086%2F316399).
+S2CID 15583148 (https://api.semanticscholar.org/CorpusID:15583148).
+5. Hoffleit, Dorrit; Warren, Wayne H., Jr., eds. (June 1991). "HR 8799" (http://webviz.u-strasbg.fr/v
+iz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=8799). The Bright Star Catalogue.
+VizieR (5th, revised ed.). Strasbourg, FR: Université de Strasbourg / CNRS. V/50 (http://vizier.u
+-strasbg.fr/viz-bin/Cat?V/50). Retrieved 14 November 2008.
+6. Sepulveda, Aldo G.; Bowler, Brendan P. (2022). "Dynamical Mass of the Exoplanet Host Star
+HR 8799". The Astronomical Journal. 163 (2): 52. arXiv:2111.12090 (https://arxiv.org/abs/2111.
+12090). Bibcode:2022AJ....163...52S (https://ui.adsabs.harvard.edu/abs/2022AJ....163...52S).
+doi:10.3847/1538-3881/ac3bb5 (https://doi.org/10.3847%2F1538-3881%2Fac3bb5).
+S2CID 232572566 (https://api.semanticscholar.org/CorpusID:232572566).
+
+11/15/2023, 8:10 PM
+
+Luhman 16 - Wikipedia
+
+1 of 12
+
+https://en.wikipedia.org/wiki/Luhman_16
+
+Luhman 16
+Coordinates:
+
+10h 49m 18.723s, −53° 19′ 09.86″
+
+Luhman 16 (also designated WISE
+1049−5319
+or
+WISE
+J104915.57−531906.1) is a binary
+brown-dwarf system in the southern
+constellation Vela at a distance of
+approximately 6.5 light-years (2.0
+parsecs) from the Sun. These are the
+closest-known brown dwarfs and the
+closest system
+found
+since
+the
+measurement of the proper motion of
+Barnard's Star in 1916,[11][12] and the
+third-closest-known system to the Sun
+(after the Alpha Centauri system and
+Barnard's Star). The primary is of
+spectral type L7.5 and the secondary of
+type T0.5 ± 1 (and is hence near the L–T
+transition).[13]
+The
+masses
+of
+Luhman 16 A and B are 33.5 and 28.6
+Jupiter masses, respectively, and their
+ages are estimated to be 600–800
+million years.[5] Luhman 16 A and B
+orbit each other at a distance of about 3.5
+astronomical units[4] with an orbital
+period of approximately 27 years.[5]
+
+Luhman 16
+
+WISE image of Luhman 16. In the GMOS image in the inset,
+it is resolved into a pair.
+Observation data
+Epoch J2000[1]
+Equinox J2000[1]
+Constellation
+
+Vela
+
+Discovery
+
+Right ascension
+
+10h 49m 18.723s[1]
+
+Declination
+
+−53° 19′ 09.86″[1]
+
+This system was discovered by Kevin
+Luhman, astronomer from Pennsylvania
+State University and a researcher at Penn
+State's Center for Exoplanets and
+Habitable Worlds,[11] from images made
+by the Wide-field Infrared Survey
+Explorer
+(WISE)
+Earth-orbiting
+satellite—NASA
+infrared-wavelength
+40 cm (16 in) space telescope, a mission
+that lasted from December 2009 to
+February 2011; the discovery images
+were taken from January 2010 to
+January 2011, and the discovery was
+
+Apparent magnitude (V)
+
+16.20[2]
+
+Characteristics
+Spectral type
+
+A: L7.5[3]
+B: T0.5 ± 1[3]
+
+Apparent magnitude (i
+(DENIS filter system))
+
+14.94 ± 0.03[4]
+
+Apparent magnitude (J
+(2MASS filter system))
+
+10.73 ± 0.03[4]
+
+Apparent magnitude (J
+(DENIS filter system))
+
+10.68 ± 0.05[4]
+
+11/15/2023, 8:07 PM
+
+Luhman 16 - Wikipedia
+
+2 of 12
+
+announced in 2013 (the pair are the only
+two objects announced in the discovery
+paper). The system was found by
+comparing WISE images at different
+epochs to reveal objects that have high
+proper motions.[11][4]
+Luhman 16 appears in the sky close to
+the galactic plane, which is densely
+populated by stars; the abundance of
+light sources makes it difficult to spot
+faint objects. This explains why an object
+so near to the Sun was not discovered in
+earlier searches.[4]
+
+https://en.wikipedia.org/wiki/Luhman_16
+
+Apparent magnitude (H
+(2MASS filter system))
+
+9.56 ± 0.03[4]
+
+Apparent magnitude (KS
+(2MASS filter system))
+
+8.84 ± 0.02[4]
+
+Apparent magnitude (KS
+(DENIS filter system))
+
+8.87 ± 0.08[4]
+
+Astrometry
+Proper motion (μ)
+
+RA: −2 762.16 ± 2.43[5] mas/yr
+Dec.: 357.79 ± 3.44[5] mas/yr
+
+Parallax (π)
+
+501.557 ± 0.082 mas[6]
+
+Distance
+
+6.503 ± 0.001 ly
+(1.9938 ± 0.0003 pc)
+
+Discovery of companion
+
+Luhman 16 is the yellow disc at the
+center of this WISE image. The
+individual brown dwarfs are not
+resolved.
+
+Orbit[6]
++0.39
+
+Period (P)
+
+27.54 −0.43 yr
+
+Semi-major axis (a)
+Eccentricity (e)
+
+3.557 −0.023 AU
+0.343 ± 0.005
+
+Inclination (i)
+
+100.26 ± 0.05°
+
+Longitude of the node (Ω)
+
+139.67 ± 0.05°
+
+Periastron epoch (T)
+
+2 017.78 ± 0.05
+
++0.026
+
+Argument of periastron (ω) 128.1 ± 1.5°
+(secondary)
+Details[7][8][5]
+Luhman 16A
+
+The second component of the system was
+also discovered by Luhman in 2013, and
+was announced in the same article as the
+primary. Its discovery image in the
+i-band was taken on the night of 23
+February 2013 with the Gemini MultiObject Spectrograph (GMOS) at the
+Gemini South telescope, Chile. The
+components of the system were resolved
+with an angular distance of 1.5
+arcseconds, corresponding to a projected
+separation of 3 AU, and a magnitude
+difference of 0.45 mag.[4]
+
+Precovery
+Although the system was first found on
+images taken by WISE in 2010–2011,
+
+Mass
+
+0.032 M☉
+
+Mass
+
+33.5 ± 0.3[6] MJup
+
+Radius
+
+~0.85[note 1] RJup
+
+Luminosity
+
+0.000 0219[5] L☉
+
+Temperature
+
+1350 K
+Luhman 16B
+
+Mass
+
+0.027 M☉
+
+Mass
+
+28.6 ± 0.3[6] MJup
+
+Radius
+
+~1.04[note 1] RJup
+
+Luminosity
+
+0.000 0209[5] L☉
+
+Temperature
+
+1210 K
+
+Position (relative to A)[4]
+Component
+
+B
+
+Angular distance
+
+1.5″
+
+11/15/2023, 8:07 PM
+
+Luhman 16 - Wikipedia
+
+3 of 12
+
+afterwards it was precovered from the
+Digitized Sky Survey (DSS, 1978 (IR) &
+1992 (red)),[4] Infrared Astronomical
+Satellite (IRAS, 1983),[1] ESO Schmidt
+telescope (1984 (red)),[1] Guide Star
+Catalog (GSC, 1995),[1] Deep Near
+Infrared Survey of the Southern Sky
+(DENIS, 1999),[4] Two Micron All-Sky
+Survey (2MASS, 1999),[4] and the AKARI
+satellite (2007).[1]
+On the ESO Schmidt telescope image,
+taken in 1984, the source looks elongated
+with a position angle of 138°.[1] The
+similarity of this position angle with that
+of the resolved pair in the GMOS image
+(epoch 2013) in Fig. 1 of Luhman (2013)
+suggests that the time period between
+1984 and 2013 may be close to the orbital
+period of the system (not far from
+original orbital period estimate by
+Luhman (2013)[4]).[1]
+
+https://en.wikipedia.org/wiki/Luhman_16
+
+Observed separation
+(projected)
+
+3 AU
+
+Other designations
+LUH 16,[1] Luhman–WISE 1,[1] WISE
+J104915.57−531906.1,[4] DENIS-P
+J104919.0−531910,[9] 2MASS
+J10491891−5319100,[9] IRAS
+Z10473-5303,[1] AKARI
+J1049166−531907,[1] GSC2.2
+S11132026703,[1] GSC2.3
+S4BM006703,[1] TIC 119862115,[9] GJ
+11551[10]
+Database references
+SIMBAD
+
+The system (https://simbad.cd
+s.unistra.fr/simbad/sim-id?Ide
+nt=WISE+J104915.57-53190
+6.1)
+A (https://simbad.cds.unistra.f
+r/simbad/sim-id?Ident=NAM
+E+WISE+J1049-5319A)
+
+Name
+Eric E. Mamajek proposed the name
+Luhman 16 for the system, with the
+components called Luhman 16A and
+Luhman 16B. The name originates from
+the frequently updated Washington
+Double Star Catalog (WDS). Kevin
+Luhman had already published several
+new discoveries of binary stars that have
+been compiled in the WDS with
+discovery identifier "LUH". The WDS
+catalog now lists this system with the
+identifier 10493−5319 and discoverer
+designation LUH 16.[14]
+
+B (https://simbad.cds.unistra.f
+r/simbad/sim-id?Ident=NAM
+E+WISE+J1049-5319B)
+
+Luhman 16
+
+The rationale is that Luhman 16 is easier
+to
+remember
+than
+WISE
+J104915.57−531906.1 and that "it seems
+Location of Luhman 16 in the constellation Vela
+silly to call this object by a 24-character
+name (space included)".[1][15][note 2] The
+"phone number names" also include WISE J1049−5319 and WISE 1049−5319. Luhman–WISE 1
+was proposed as another alternative.[1]
+As a binary object it is also called Luhman 16AB.
+
+11/15/2023, 8:07 PM
+
+Luhman 16 - Wikipedia
+
+4 of 12
+
+https://en.wikipedia.org/wiki/Luhman_16
+
+Astrometry
+Position in the sky
+Luhman 16 is located in the southern celestial hemisphere in the constellation Vela. As of July
+2015, its components are the nearest-known celestial objects in this constellation outside the Solar
+System. Its celestial coordinates: RA = 10h 49m 18.723s, Dec = −53° 19′ 09.86″.[1]
+
+Distance
+The trigonometric parallax of Luhman 16 as
+published by Sahlmann & Lazorenko (2015) is
+0.500 51 ± 0.000 11 arcsec, corresponding to a
+distance of 6.5166 ± 0.0013 light-years
+(1.998 ± 0.0004 parsecs).[13]
+
+Proximity to the Solar System
+Currently Luhman 16 is the third-closest-known
+star/brown-dwarf system to the Sun after the
+triple Alpha Centauri system (4.37 ly) and
+Barnard's Star (5.98 ly), pushing Wolf 359 (7.78
+ly) to the fifth place, along with the discovery of
+WISE 0855−0714. It also holds several records:
+the nearest brown dwarf, the nearest L-type
+dwarf, and possibly the nearest T-type dwarf (if
+component B is of T-type).
+
+Proximity to Alpha Centauri
+
+The position of Luhman 16 on a radar map among all
+stellar objects or stellar systems within 9 light years
+(ly) from the map's center, the Sun (Sol). The
+diamond-shapes are their positions entered according
+to right ascension in hours angle (indicated at the edge
+of the map's reference disc), and according to their
+declination. The second mark shows each's distance
+from Sol, with the concentric circles indicating the
+distance in steps of one ly.
+
+Luhman 16 is the nearest-known star/browndwarf system to Alpha Centauri, located 3.577 ly
+(1.097 pc) from Alpha Centauri AB, and 3.520 ly
+(1.079 pc) from Proxima Centauri.[note 3] Both
+systems
+are
+located
+in
+neighboring
+constellations, in the same part of the sky as
+seen from Earth, but Luhman 16 is a bit farther away. Before the discovery of Luhman 16, the Solar
+System was the nearest-known system to Alpha Centauri.
+Luhman 16 is closer to Proxima Centauri than to Alpha Centauri AB, just like Earth, even though
+Luhman 16 is further from Earth than Alpha Centauri system. Therefore Luhman 16 has smaller
+angular distance to Proxima Centauri than to Alpha Centauri AB in Earth's sky, and this makes
+more contribution to the distance difference from Luhman 16 to Alpha Centauri than to the
+distance difference between them and Earth.
+
+11/15/2023, 8:07 PM
+
+Luhman 16 - Wikipedia
+
+5 of 12
+
+https://en.wikipedia.org/wiki/Luhman_16
+
+Proper motion
+The proper motion of Luhman 16 as published by Garcia
+et al. (2017), is about 2.79″/year, which is relatively large
+due to the proximity of Luhman 16.[5]
+
+Radial velocity
+The radial velocity of component A is 23.1 ± 1.1 km/s
+(14.35 ± 0.68 mi/s), and the radial velocity of
+component B is 19.5 ± 1.2 km/s (12.12 ± 0.75 mi/s).[8]
+Since values of the radial velocity are positive, the system
+currently is moving away from the Solar System.
+
+Luhman 16A and B orbit each other at a
+distance of only 3.5 AU.[16]
+
+Assuming these values for the components, and a mass ratio of Luhman 16 from Sahlmann &
+Lazorenko (2015) of 0.78,[13] the system's barycentre radial velocity is about 21.5 km/s
+(13.4 mi/s).[note 4] This implies that Luhman 16 passed by the Solar System around 36,000 years
+ago at a minimal distance of about 5.05 ly (1.55 pc).
+
+Orbit and masses
+In Luhman 16's original discovery paper, Luhman et al. (2013) estimated the orbital period of its
+components to be about 25 years.[4]
+Garcia et al. (2017), using archival observations extending over 31 years, found an orbital period of
+27.4 years with a semi-major axis of 3.54 AU. This orbit has an eccentricity of 0.35 and an
++1.3
+
+inclination of 79.5°. The masses of the components were found to be 34.2 −1.2 MJup and
++1.1
+27.9 −1.0 MJup, respectively, with their mass ratio being about 0.82.[5]
+With the data from Gaia DR2 in 2018, their orbit was refined to a period of 27.5 ± 0.4 years, with a
+semi-major axis of 3.56 ± 0.025 AU, an eccentricity of 0.343 ± 0.005, and an inclination of
+100.26° ± 0.05° (facing the opposite direction as the 2017 study found). Their masses were
++0.31
+
++0.26
+
+additionally refined to 33.51 −0.29 MJup and 28.55 −0.25 MJup.[6]
+These results are consistent with all previous estimates of the orbit and component masses.[5][1]
+[3][13]
+
+By comparing the rotation periods of the brown dwarfs with the projected rotational velocities, it
+appears that both brown dwarfs are viewed roughly equator-on, and they are aligned well to their
+orbits.[17]
+
+Age
+A 2013 paper, published shortly after Luhman 16 was discovered, concluded that the brown dwarf
+belongs to the thin disk of the Milky Way with 96% probability, and therefore does not belong to a
+young moving group.[1] Based on lithium absorption lines the system has a maximum age of about
+
+11/15/2023, 8:07 PM
+
+Luhman 16 - Wikipedia
+
+6 of 12
+
+https://en.wikipedia.org/wiki/Luhman_16
+
+3–4.5 Gyr.[18][19] Observations with the VLT showed that the system is older than 120 Myr.[20]
+However, in 2022, Luhman 16 was found to be a member of the newly discovered Oceanus moving
+group, which has an age of 510 ± 95 Myr.[21]
+
+Search for planets
+In December 2013, perturbations of the orbital motions in the system were reported, suggesting a
+third body in the system. The period of this possible companion was a few months, suggesting an
+orbit around one of the brown dwarfs. Any companion would need to be below the brown-dwarf
+mass limit, because it would otherwise have been detected through direct imaging. Researchers
+estimated the odds of a false positive as 0.002%, assuming the measurements had not been made
+in error. If confirmed, this would have been the first exoplanet discovered astrometrically. They
+estimate the planet to likely have a mass between "a few" and 30 MJup, although they mention that
+a more massive planet would be brighter and therefore would affect the "photocenter" or measured
+position of the star. This would make it difficult to measure the astrometric movement of an
+exoplanet around it.[7]
+Subsequent astrometric monitoring of Luhman 16 with the Very Large Telescope has excluded the
+presence of any third object with a mass greater than 2 MJup orbiting around either brown dwarf
+with a period between 20 and 300 days. Luhman 16 does not contain any close-in giant planets.[13]
+Observations with the Hubble Space Telescope in 2014–2016 confirmed the nonexistence of any
+additional brown dwarfs in the system. It additionally ruled out any Neptune mass (17 MEarth)
+objects with an orbital period of one to two years.[22] This makes the existence of the previously
+found exoplanet candidate highly unlikely.
+
+Atmosphere
+A study by Gillon et al. (2013) found that Luhman 16B exhibited uneven surface illumination
+during its rotation.[23] On 5 May 2013, Crossfield et al. (2014) used the European Southern
+Observatory 's Very Large Telescope (VLT) to directly observe the Luhman 16 system for five hours,
+the equivalent of a full rotation of Luhman 16B.[24][25] Their research confirmed Gillon et al. 's
+observation, finding a large, dark region at the middle latitudes, a bright area near its upper pole,
+and mottled illumination elsewhere. They suggest this variant illumination indicates "patchy global
+clouds", where darker areas represent thick clouds and brighter areas are holes in the cloud layer
+permitting light from the interior.[24][25] Luhman 16B's illumination patterns change rapidly, on a
+day-to-day basis.[23][17] Luhman 16B is one of the most photometrically variable brown dwarfs
+known, sometimes varying with an amplitude of over 20%.[26] Only 2MASS J21392676+0220226
+is known to be more variable.[26]
+Heinze et al. (2021) observed variability in spectral lines of alkali metals such as potassium and
+sodium; they suggested that the variations were caused by changes in cloud cover, which changed
+the local chemical equilibrium with chlorides. Lightning or aurorae were deemed possible, but less
+likely.[26]
+Luhman 16B's lightcurve shows evidence of differential rotation. There is evidence of equatorial
+regions and mid-latitude regions with different rotation periods. The main period is 5.28 hours,
+
+11/15/2023, 8:07 PM
+
+Luhman 16 - Wikipedia
+
+7 of 12
+
+https://en.wikipedia.org/wiki/Luhman_16
+
+corresponding to the rotation period of the equatorial region.[17] Meanwhile, the rotation period of
+Luhman 16A is likely 6.94 hours.[17]
+
+Surface map of Luhman 16B recreated from Artist's impression of Luhman 16B based on
+VLT observations
+the VLT observations
+
+Luhman 16 with VLT's
+MUSE
+instrument
+in
+visible light.
+
+Radio and X-ray activity
+In a study by Osten et al. (2015), Luhman 16 was observed with the Australia Telescope Compact
+Array in radio waves and with the Chandra X-ray Observatory in X-rays. No radio or X-ray activity
+was found at Luhman 16 AB, and constraints on radio and X-ray activity were presented, which are
+"the strongest constraints obtained so far for the radio and X-ray luminosity of any ultracool
+dwarf".[27]
+
+See also
+▪ Substellar object
+
+Notes
+
+11/15/2023, 8:07 PM
+
+NGC 1333 - Wikipedia
+
+1 of 3
+
+https://en.wikipedia.org/wiki/NGC_1333
+
+NGC 1333
+NGC 1333 is a reflection nebula located in the northern
+constellation Perseus, positioned next to the southern
+constellation border with Taurus and Aries.[3] It was first
+discovered by German astronomer Eduard Schönfeld in
+1855.[4] The nebula is visible as a hazy patch in a small
+telescope, while a larger aperture will show a pair of dark
+nebulae designated Barnard 1 and Barnard 2.[5] It is associated
+with a dark cloud L1450 (Barnard 205). Estimates of the
+distance to this nebula range from 980–1,140 ly
+(300–350 pc).[4]
+This nebula is in the western part[4] of the Perseus molecular
+cloud and is a young region of very active star formation,[6]
+being one of the best-studied objects of its type.[4] It contains a
+fairly typical hierarchy of star clusters that are still embedded
+in the molecular cloud in which they formed,[7] which are split
+into two main sub-groups to the north and south. Most of the
+infrared emission is happening in the southern part of the
+nebula. A significant portion of the stars seen in the infrared
+are in the pre-main sequence stage of their evolution.[6]
+The nebula region has a combined mass of approximately
+450 M☉,[4] while the cluster contains around 150 stars with a
+median age of a million years and a combined mass of 100 M☉.
+The average star formation rate is 1 × 10−4 M☉ yr–1.[4] Within
+the nebula are 20 young stellar objects producing outflows,
+including Herbig–Haro objects, and a total of 95 X-ray sources
+that are associated with known members of embedded star
+clusters.[6] In 2011 researchers reported finding 30 to 40
+brown dwarf objects in the cloud and in the Rho Ophiuchi
+cloud complex.[8]
+
+NGC 1333
+Reflection nebula
+
+An infrared image of NGC 1333 by
+the Spitzer Space Telescope
+Observation data: J2000.0 epoch
+Right
+ascension
+
+03h 29m 11.3s[1]
+
+Declination
+
++31° 18′ 36″[1]
+
+Distance
+
+967 ly
+(296.5 pc)[1] ly
+
+Apparent
+magnitude (V)
+
+5.6
+
+Apparent
+6′ x 3′
+dimensions (V)
+
+15 objects with a spectral type of M9 or later were discovered
+Constellation
+Perseus
+in NGC 1333. This spectral type corresponds to a mass of a
+planetar-mass object (PMO) at the age of NGC 1333. About Designations Ced 16, GN
+42% of the PMO are surrounded by a circumstellar disk, but
+03.26.1, LBN
+only one out of six objects with a spectral type of L0 (about 10
+741[2]
+MJ) or later has a disk. Scholz et al. argues that this indicates
+that very low mass PMOs form like planets (aka ejected planets) and not like stars (also called subbrown dwarfs).[9] Parker & Alves de Oliveira on the other hand argue that the distribution of PMOs
+in NGC 1333 follows N-body simulations of objects that form like stars and that none of the PMOs
+has a peculiar motion, which is predicted for ejected planets. They also note that ejected planets
+are hiding in this and star-forming regions.[10]
+
+11/15/2023, 7:59 PM
+
+NGC 1333 - Wikipedia
+
+2 of 3
+
+https://en.wikipedia.org/wiki/NGC_1333
+
+Gallery
+
+A small region of
+NGC 1333 taken by
+Hubble
+Space
+[11]
+Telescope.
+
+There are 5 Herbig– NGC 1333 by the The region south of
+Haro
+objects
+Mount Lemmon Sky NGC
+1333
+in
+(numbered 7 to 11) Center
+infrared. It shows
+the dark clouds
+in NGC 1333.[12]
+Barnard 203 and
+204
+
+Perseus
+giant
+molecular cloud with
+star nurseries IC348
+and NGC1333
+
+References
+1. Soubiran, C.; et al. (November 2018). "Open cluster kinematics with Gaia DR2". Astronomy &
+Astrophysics. 619: 11. arXiv:1808.01613 (https://arxiv.org/abs/1808.01613).
+Bibcode:2018A&A...619A.155S (https://ui.adsabs.harvard.edu/abs/2018A&A...619A.155S).
+doi:10.1051/0004-6361/201834020 (https://doi.org/10.1051%2F0004-6361%2F201834020).
+S2CID 125754189 (https://api.semanticscholar.org/CorpusID:125754189). A155.
+2. "NGC 1333" (http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=NGC+1333). SIMBAD. Centre
+de données astronomiques de Strasbourg. Retrieved 2020-08-15.
+3. Sinnott, Roger W.; Perryman, Michael A. C. (1997). Millennium Star Atlas. Vol. 1. Sky
+Publishing Corporation and the European Space Agency. ISBN 0-933346-84-0.
+4. Walawender, J.; et al. (December 2008). Reipurth, Bo (ed.). NGC 1333: A Nearby Burst of Star
+Formation (http://www.ifa.hawaii.edu/publications/preprints/08preprints/Walawender_08-206.pd
+f) (PDF). p. 346. Bibcode:2008hsf1.book..346W (https://ui.adsabs.harvard.edu/abs/2008hsf1.b
+ook..346W). Retrieved 2020-08-15. {{cite book}}: |work= ignored (help)
+
+11/15/2023, 7:59 PM
+
+TRAPPIST-1 - Wikipedia
+
+1 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+TRAPPIST-1
+Coordinates:
+
+23h 06m 29.383s, −05° 02′ 28.59″
+
+TRAPPIST-1 is a cool red dwarf star[b] with seven known exoplanets.
+It lies in the constellation Aquarius about 40.66 light-years away from
+Earth, and has a surface temperature of about 2,566 kelvins (2,290
+degrees Celsius; 4,160 degrees Fahrenheit). Its radius is slightly larger
+than Jupiter and it has a mass of about 9% of the Sun. It is estimated to
+be 7.6 billion years old, making it older than the Solar System. The
+discovery of the star was first published in 2000.
+Observations in 2016 from the Transiting Planets and Planetesimals
+Small Telescope (TRAPPIST) at La Silla Observatory in Chile and other
+telescopes led to the discovery of two terrestrial planets in orbit around
+TRAPPIST-1. In 2017, further analysis of the original observations
+identified five more planets, of unknown types. It takes the seven
+planets between about 1.5 and 19 days to orbit around the star in
+circular orbits. They are likely tidally locked to TRAPPIST-1, such that
+one side of each planet always faces the star, leading to permanent day
+on one side and permanent night on the other. Their masses are
+comparable to that of Earth and they all lie in the same plane; from
+Earth they seem to move past the disk of the star.
+Up to four of the planets – designated d, e, f and g – orbit at distances
+where temperatures are suitable for the existence of liquid water, and
+are thus potentially hospitable to life. There is no evidence of an
+atmosphere on any of the planets. It is unclear whether radiation
+emissions from TRAPPIST-1 would allow for such atmospheres. The
+planets have low densities; they may consist of large amounts of volatile
+materials. Due to the possibility of several of the planets being
+habitable, the system has drawn interest from researchers and has
+appeared in popular culture.
+
+TRAPPIST-1
+
+TRAPPIST-1 is within the red circle in the
+constellation Aquarius.
+Observation data
+Epoch J2000
+Equinox J2000
+Constellation
+
+Aquarius
+
+Right ascension
+
+23h 06m 29.368s[1]
+
+Declination
+
+−05° 02′ 29.04″[1]
+
+Apparent magnitude (V) 18.798 ± 0.082[2]
+Characteristics
+Evolutionary stage
+
+Main sequence
+
+Discovery
+
+Spectral type
+
+M8V[3]
+
+The star now known as TRAPPIST-1 was discovered in 1999 by
+astronomer John Gizis and colleagues[16] during a survey of close-by
+ultra-cool dwarf stars.[17][18] It appeared in sample C[16][17] of the
+surveyed stars, which was obtained in June 1999. Publication of the
+discovery took place in 2000.[19] The name is a reference to the
+TRansiting Planets and PlanetesImals Small Telescope (TRAPPIST)
+[11][c] project that discovered the first two exoplanets around the
+star.[23]
+
+Apparent magnitude (I)
+
+Its planetary system was discovered by a team led by Michaël Gillon, a
+Belgian astronomer[24] at the University of Liege,[25] in 2016[26] during
+observations made at the La Silla Observatory, Chile,[27][28] using the
+TRAPPIST telescope. The discovery was based on anomalies in the light
+curves[d] measured by the telescope in 2015. These were initially
+interpreted as indicating the existence of three planets. In 2016,
+separate discoveries revealed that the third planet was in fact multiple
+planets. The telescopes and observatories involved were[11] the Spitzer
+Space Telescope; the ground-based TRAPPIST and TRAPPIST-North in
+Oukaïmeden Observatory, Morocco; the South African Astronomical
+
+Apparent magnitude (R) 16.466 ± 0.065[2]
+14.024 ± 0.115[2]
+
+Apparent magnitude (J) 11.354 ± 0.022[4]
+Apparent magnitude (H) 10.718 ± 0.021[4]
+Apparent magnitude (K) 10.296 ± 0.023[4]
+V−R color index
+
+2.332
+
+R−I color index
+
+2.442
+
+J−H color index
+
+0.636
+
+J−K color index
+
+1.058
+Astrometry
+
+Proper motion (μ)
+
+RA: 930.788[1] mas/yr
+Dec.: −479.038[1] mas/yr
+
+Parallax (π)
+
+80.2123 ± 0.0716 mas[1]
+
+Distance
+
+40.66 ± 0.04 ly
+(12.47 ± 0.01 pc)
+Details
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+2 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+Observatory; and the Liverpool Telescopes and William Herschel
+Telescopes in Spain.[30]
+
+Mass
+
+0.0898 ± 0.0023[5] M☉
+
+Radius
+
+0.1192 ± 0.0013[5] R☉
+
+The observations of TRAPPIST-1 are considered among the most
+important research findings of the Spitzer Space Telescope.[31]
+Complementing the findings were observations by the Himalayan
+Chandra Telescope, the United Kingdom Infrared Telescope, and the
+Very Large Telescope.[32] Since then, research has confirmed the
+existence of at least seven planets in the system,[33] the orbits of which
+have been calculated using measurements from the Spitzer and Kepler
+telescopes.[34] Some news reports incorrectly attributed the discovery of
+the TRAPPIST-1 planets to NASA; in fact the TRAPPIST project that led
+to their discovery received funding from both NASA and the European
+Research Council of the European Union (EU).[35]
+
+Luminosity
+(bolometric)
+
+0.000553 ± 0.000018[5] L☉
+
+Surface gravity (log g)
+Temperature
+
+5.2396 −0.0073[a][5] cgs
+2,566 ± 26[5] K
+
+Metallicity [Fe/H]
+
+0.04 ± 0.08[6] dex
+
+Rotation
+
+3.295 ± 0.003 days[7]
+
+Rotational velocity
+(v sin i)
+
+6[8] km/s
+
+Age
+
+7.6 ± 2.2[9] Gyr
+
+Description
+TRAPPIST-1 is in the constellation Aquarius,[25] five degrees south of
+the celestial equator.[e][1][37] It is a relatively close star[38] located
+40.66 ± 0.04 light-years from Earth,[f][1] with a large proper
+motion[g][38] and no companion stars.[41]
+It is a red dwarf of spectral class M8.0 ± 0.5,[h][32][44] meaning it is
+relatively small and cold.[45] With a radius 12% of that of the Sun,
+TRAPPIST-1 is only slightly larger than the planet Jupiter (though much
+more massive).[32] Its mass is approximately 9% of that of the Sun,[45]
+being just sufficient to allow nuclear fusion to take place.[46][47]
+TRAPPIST-1's density is unusually low for a red dwarf.[48] It has a low
+effective temperature[i] of 2,566 K (2,293 °C) making it, as of 2022, the
+coldest-known star to host planets.[50] TRAPPIST-1 is cold enough for
+condensates to form in its photosphere;[j] these have been detected
+through the polarisation they induce in its radiation during transits of
+its planets.[52]
+
++0.0056
+
+Other designations
+12171,[10]
+
+2MUDC
+2MASS
+J23062928–0502285, EPIC
+246199087,[11] K2-112,[12]
+SPECULOOS-1, an internal name of
+the star used by the SPECULOOS
+project, as this star was its first
+discovery,[13] and TRAPPIST-1a.[14]
+Database references
+SIMBAD
+
+data (https://simbad.cds.u
+nistra.fr/simbad/sim-id?Ide
+nt=2MASS+J23062928-0
+502285)
+
+Exoplanet Archive
+
+data (https://exoplanetarc
+hive.ipac.caltech.edu/cgibin/DisplayOverview/nphDisplayOverview?objnam
+e=TRAPPIST-1)
+
+There is no evidence that it has a stellar cycle.[k][54] Its luminosity,
+Extrasolar Planets
+emitted mostly as infrared radiation, is about 0.055% that of the
+Encyclopaedia
+Sun.[45][55] Low precision[56] measurements from the XMM-Newton
+[57]
+[58]
+satellite
+and other facilities
+show that the star emits faint
+radiation at short wavelengths such as x-rays and UV radiation.[l][57] There are no
+detectable radio wave emissions.[60]
+
+data (http://exoplanet.eu/s
+tar.php?st=TRAPPIST-1)
+
+Rotation period and age
+Measurements of TRAPPIST-1's rotation have yielded a period of 3.3 days; earlier
+measurements of 1.4 days appear to have been caused by changes in the
+distribution of its starspots.[61] Its rotational axis may be slightly offset from that
+of its planets.[62]
+Using a combination of techniques, the age of TRAPPIST-1 has been estimated at
+about 7.6 ± 2.2 billion years,[63] making it older than the Solar System, which is
+about 4.5 billion years old.[64] It is expected to shine for ten trillion years – about
+700 times[65] longer than the present age of the Universe[66] – whereas the Sun
+will run out of hydrogen and leave the main sequence[m] in a few billion years.[65]
+
+True-colour illustration of the Sun (left)
+next to TRAPPIST-1 (right). TRAPPIST-1
+is darker, redder, and smaller than the
+Sun.
+
+Activity
+Photospheric features have been detected on TRAPPIST-1.[68] The Kepler and Spitzer Space Telescopes have observed
+possible bright spots, which may be faculae,[n][70][71] although some of these may be too large to qualify as such.[72] Bright
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+3 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+spots are correlated to the occurrence of some stellar flares.[o][73]
+The star has a strong magnetic field[74] with a mean intensity of about 600 gauss.[p][76] The magnetic field drives high
+chromospheric[q][74] activity, and may be capable of trapping coronal mass ejections.[r][69][77]
+According to Garraffo et al. (2017), TRAPPIST-1 loses about 3 × 10−14 solar masses per year[78] to the stellar wind, a rate
+which is about 1.5 times that of the Sun. [79] Dong et al. (2018) simulated the observed properties of TRAPPIST-1 with a
+mass loss of 4.1 × 10−15 solar masses per year.[78] Simulations to estimate mass loss are complicated because, as of 2019,
+most of the parameters that govern TRAPPIST-1's stellar wind are not known from direct observation.[80]
+
+Planetary system
+TRAPPIST-1 is orbited by seven planets, designated TRAPPIST-1b, 1c, 1d, 1e,
+1f, 1g, and 1h[81] in alphabetic order going out from the star.[s][84] These
+planets have orbital periods ranging from 1.5–19 days,[85][86][6] at distances of
+0.011–0.059 astronomical units[t] (1,700,000–8,900,000 km).[88]
+All the planets are much closer to their star than Mercury is to the Sun,[26]
+making the TRAPPIST-1 system very compact.[89] Kral et al. (2018) did not
+detect any comets around TRAPPIST-1,[90] and Marino et al. (2020) found no
+evidence of a Kuiper belt,[91] although it is uncertain whether a Solar Systemlike belt around TRAPPIST-1 would be observable from Earth.[92]
+Observations with the Atacama Large Millimeter Array found no evidence of a
+circumstellar dust disk.[93]
+The inclinations of planetary orbits relative to the system's ecliptic are less
+than 0.1 degrees[u],[95] making TRAPPIST-1 the flattest planetary system in
+the NASA Exoplanet Archive.[96] The orbits are highly circular, with minimal
+eccentricities[v][89] and are well-aligned with the spin axis of TRAPPIST-1.[98]
+The planets orbit in the same plane and, from the perspective of the Solar
+System, transit TRAPPIST-1 during their orbit[99] and frequently pass in front
+of each other.[100]
+Comparison of the orbits of the TRAPPIST-1
+planets with the Solar System and Jupiter's
+moons
+
+Size and composition
++1.4
+
++1.5
+
+The radii of the planets are estimated to range between 77.5−1.4 and 112.9−1.3%
+of Earth's radius.[101] The planets:star mass ratio of the TRAPPIST-1 system resembles that of the moons:planet ratio of the
+Solar System's gas giants.[102]
+The TRAPPIST-1 planets are expected to have compositions that resemble each other[103] as well as that of Earth.[104] The
+estimated densities of the planets are lower than Earth's[34] which may imply that they have large amounts of volatile
+chemicals.[w] Alternatively, their cores may be smaller than that of Earth;[106] or include large amounts of elements other
+than iron;[107] or their iron may exist in an oxidised form rather than as a core;[106] or they may be rocky planets with less
+iron than that of Earth.[108] Their densities are too low for a pure magnesium silicate composition,[x] requiring the presence
+of lower-density compounds such as water.[110][111] Planets b, d, f, g and h are expected to contain large quantities of
+volatile chemicals.[112] The planets may have deep atmospheres and oceans, and contain vast amounts of ice.[113] Several
+compositions are possible considering the large uncertainties in their densities.[114] The photospheric features of the star
+may introduce inaccuracies in measurements of the properties of TRAPPIST-1's planets,[68] including their densities being
++20
+
+underestimated by 8 -7 percent,[115] and incorrect estimates of their water content.[116]
+
+Resonance and tides
+The planets are in orbital resonances.[117] The durations of their orbits have ratios of 8:5, 5:3, 3:2, 3:2, 4:3 and 3:2 between
+neighbouring planet pairs,[118] and each set of three is in a Laplace resonance.[y][89] Simulations have shown such
+resonances can remain stable over billions of years but that their stability is strongly dependent on initial conditions. Many
+configurations become unstable after less than a million years. The resonances enhance the exchange of angular
+momentum between the planets, resulting in measurable variations – earlier or later – in their transit times in front of
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+4 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+TRAPPIST-1. These variations yield information on the planetary
+system,[120] such as the masses of the planets, when other techniques
+are not available.[121] The resonances and the proximity to the host star
+have led to comparisons between the TRAPPIST-1 system and the
+Galilean moons of Jupiter.[99] Kepler-223 is another exoplanet system
+with a TRAPPIST-1-like long resonance.[122]
+The mutual interactions of the planets could prevent them from
+reaching full synchronisation, which would have important implications
+1:32
+for the planets' climates. These interactions could force periodic or
+episodic full rotations of the planets' surfaces with respect to the star on
+Animation of TRAPPIST-1 exoplanets transiting their
+timescales of several Earth years.[123] Vinson, Tamayo and Hansen
+host star, with effects on the star's light curve.
+(2019) found the planets TRAPPIST-1d, e and f likely have chaotic
+rotations due to mutual interactions, preventing them from becoming
+synchronised to their star. Lack of synchronisation potentially makes the planets more habitable.[124] Other processes that
+can prevent synchronous rotation are torques induced by stable triaxial deformation of the planets,[z] which would allow
+them to enter 3:2 resonances.[126]
+The closeness of the planets to TRAPPIST-1 results in tidal interactions[127] stronger than those on Earth.[128] All the
+planets have reached an equilibrium with slow planetary rotations and tidal locking,[127] which can lead to the
+synchronisation of a planet's rotation to its revolution around its star.[aa][130]
+The planets are likely to undergo substantial tidal heating[131] due to deformations arising from their orbital eccentricities
+and gravitational interactions with one another.[132] Such heating would facilitate volcanism and degassing[ab] especially on
+the innermost planets, with degassing facilitating the establishment of atmospheres.[134] According to Luger et al. (2017),
+tidal heating of the four innermost planets is expected to be greater than Earth's inner heat flux.[135] For the outer planets
+Quick et al. (2020) noted that their tidal heating could be comparable to that in the Solar System bodies Europa,
+Enceladus, and Triton.[136]
+Tidal heating could influence temperatures of the night sides and cold areas where volatiles may be trapped, and gases are
+expected to accumulate; it would also influence the properties of any subsurface oceans[137] where volcanism and
+hydrothermal venting[ac] could occur.[139] It may further be sufficient to melt the mantles of the four innermost planets, in
+whole or in part,[140] potentially forming subsurface magma oceans.[141] This heat source is likely dominant over
+radioactive decay, both of which have substantial uncertainties and are considerably less than the stellar radiation
+received.[142] Intense tides could fracture the planets' crusts even if they are not sufficiently strong to trigger the onset of
+plate tectonics.[143] Tides can also occur in the planetary atmospheres.[144]
+
+Skies and impact of stellar light
+Because most of TRAPPIST-1's radiation is in the
+infrared region, there may be very little visible light on
+the planets' surfaces; Amaury Triaud, one of the system's
+co-discoverers, said the skies would never be brighter
+than Earth's sky at sunset[146] and only a little brighter
+than a night with a full moon. Ignoring atmospheric
+effects, illumination would be orange-red.[147] All of the
+planets would be visible from each other and would, in
+many cases, appear larger than Earth's Moon in the sky
+of Earth;[26] observers on TRAPPIST-1e, f and g,
+however, could never experience a total stellar eclipse.
+[ae][84] Assuming the existence of atmospheres, the star's
+long-wavelength radiation would be absorbed to a
+Relative sizes, densities,[ad] and illumination of the TRAPPIST-1 system
+greater degree by water and carbon dioxide than sunlight
+compared to the inner planets of the Solar System
+on Earth; it would also be scattered less by the
+atmosphere[148] and less reflected by ice,[149] although
+the development of highly reflective hydrohalite ice may negate this effect.[150] The same amount of radiation results in a
+warmer planet compared to Sun-like irradiation;[148] more radiation would be absorbed by the planets' upper atmosphere
+than by the lower layers, making the atmosphere more stable and less prone to convection.[151]
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+5 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+Habitable zone
+For a dim star like TRAPPIST-1, the habitable zone[af] is
+located closer to the star than for the Sun.[152] Three or
+four[57] planets might be located in the habitable zone;
+these include e, f, and g;[152] or d, e, and f.[74] As of 2017,
+this is the largest-known number of planets within the
+habitable zone of any known star or star system.[153] The
+presence of liquid water on any of the planets depends
+on several other factors, such as albedo (reflectivity),[154]
+the presence of an atmosphere[155] and any greenhouse
+effect.[156] Surface conditions are difficult to constrain
+without
+better
+knowledge
+of
+the
+planets'
+atmospheres.[155] A synchronously rotating planet might
+not entirely freeze over if it receives too little radiation
+Habitable zones of TRAPPIST-1 and the Solar System. The displayed
+from its star because the day-side could be sufficiently
+planetary surfaces are speculative.
+heated to halt the progress of glaciation.[157] Other
+factors for the occurrence of liquid water include the
+presence of oceans and vegetation;[158] the reflective properties of the land surface; the configuration of continents and
+oceans;[159] the presence of clouds;[160] and sea ice dynamics.[161] The effects of volcanic activity may extend the system's
+habitable zone to TRAPPIST-1h.[162]
+Intense extreme ultraviolet (XUV) and X-ray radiation[163] can split water into its component parts of hydrogen and
+oxygen, and heat the upper atmosphere until they escape from the planet. This was thought to have been particularly
+important early in the star's history, when radiation was more intense and could have heated every planet's water to its
+boiling point.[149] This process is believed to have removed water from Venus.[164] In the case of TRAPPIST-1, different
+studies with different assumptions on the kinetics, energetics, and XUV emissions have come to different conclusions on
+whether any TRAPPIST-1 planet may retain substantial amounts of water. Because the planets are most likely synchronised
+to their host star, any water present could become trapped on the planets' night sides and would be unavailable to support
+life unless heat transport by the atmosphere[165] or tidal heating are intense enough to melt ice.[166]
+
+Moons
+No moons with a size comparable to Earth's have been detected in the TRAPPIST-1 system,[167] and they are unlikely in
+such a densely packed planetary system. This is because moons would likely be either destroyed by their planet's gravity
+after entering its Roche limit[ag] or stripped from the planet by leaving its Hill radius[ah][170] Although the TRAPPIST-1
+planets appear in an analysis of potential exomoon hosts, they do not appear in the list of habitable-zone exoplanets that
+could host a moon for at least one Hubble time,[171] a timeframe slightly longer than the current age of the Universe.[172]
+Despite these factors, it is possible the planets could host moons.[173]
+
+Magnetic effects
+The TRAPPIST-1 planets are expected to be within the Alfvén surface of their host star,[174] the area around the star within
+which any planet would directly magnetically interact with the corona of the star, possibly destabilising any atmosphere the
+planet has.[175] Stellar energetic particles would not create a substantial radiation hazard for organisms on TRAPPIST-1
+planets if atmospheres reached pressures of about 1 bar.[176] Estimates of radiation fluxes have considerable uncertainties
+due to the lack of knowledge about the structure of TRAPPIST-1's magnetic field.[177] Induction heating from the star's
+time-varying electrical and magnetic fields[140][178] may occur on its planets[179] but this would make no substantial
+contribution to their energy balance[142] and is vastly exceeded by tidal heating.[136]
+
+Formation history
+The TRAPPIST-1 planets most likely formed further from the star and migrated inwards,[180] although it is possible they
+formed in their current locations.[181] According to Ormel et al. (2017), the planets formed when a streaming instability[ai]
+at the water-ice line gave rise to precursor bodies, which accumulated additional fragments and migrated inwards,
+eventually giving rise to planets.[183] The migration may initially have been fast and later slowed,[184] and tidal effects may
+have further influenced the formation processes.[185] The distribution of the fragments would have controlled the final
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+6 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+mass of the planets, which would consist of approximately 10% water consistent with observational inference.[183]
+Resonant chains of planets like those of TRAPPIST-1 usually become unstable when the gas disk that gave rise to them
+dissipates, but in this case, the planets remained in resonance.[186] The resonance may have been either present from the
+system's formation and was preserved when the planets simultaneously moved inwards,[187] or it might have formed later
+when inward-migrating planets accumulated at the outer edge of the gas disk and interacted with each other.[181] Inwardmigrating planets would contain substantial amounts of water – too much for it to entirely escape – whereas planets that
+formed in their current location would most likely lose all water.[188][189] According to Flock et al. (2019), the orbital
+distance of the innermost planet TRAPPIST-1b is consistent with the expected radius of an inward-moving planet around a
+star that was one order of magnitude brighter in the past,[190] and with the cavity in the protoplanetary disc created by
+TRAPPIST-1's magnetic field.[191] Alternatively, TRAPPIST-1h may have formed in or close to its current location.[192]
+The presence of other bodies and planetesimals early in the system's history would have destabilised the TRAPPIST-1
+planets' resonance if the bodies were massive enough.[193] Raymond et al. (2021) concluded the TRAPPIST-1 planets
+assembled in 1–2 million years, after which time little additional mass was accreted.[194] This would limit any late delivery
+of water to the planets[195] and also implies the planets cleared the neighbourhood[aj] of any additional material.[196] The
+lack of giant impact events (the rapid formation of the planets would have quickly exhausted pre-planetary material) would
+help the planets preserve their volatile materials.[197]
+Due to a combination of high insolation, the greenhouse effect of water vapour atmospheres and remnant heat from the
+process of planet assembly, the TRAPPIST-1 planets would likely have initially had molten surfaces. Eventually the surfaces
+would cool until the magma oceans solidified, which in the case of TRAPPIST-1b may have taken between a few billions of
+years, or a few millions of years. The outer planets would then have become cold enough for water vapour to condense.[198]
+
+List of planets
+
+The TRAPPIST-1 system with distances to scale, compared with the Moon-Earth distance
+
+TRAPPIST-1b
+TRAPPIST-1b has a semi-major axis of 0.0115 astronomical units (1,720,000 km)[199] and an orbital period of 1.51 Earth
+days. It is expected to be tidally locked to its star. The planet is outside the habitable zone;[200] its expected irradiation is
+more than four times that of Earth.[200] TRAPPIST-1b has a slightly larger measured radius and mass than Earth but
+estimates of its density imply it does not exclusively consist of rock.[201] Owing to its black-body temperature of 124 °C
+(397 K), TRAPPIST-1b may have had a runaway greenhouse effect similar to that of Venus;[74] its atmosphere, if present,
+may be similarly deep, dense, and hot.[202] Based on several climate models, the planet would have been desiccated by
+TRAPPIST-1's stellar wind and radiation;[203][204] it could be quickly losing hydrogen and therefore any hydrogendominated atmosphere.[ak] Water, if any exists, could persist only in specific settings on the planet,[206] whose surface
+temperature could be as high as 1,200 °C (1,470 K), making TRAPPIST-1b a candidate magma ocean planet.[207]
+
+TRAPPIST-1c
+TRAPPIST-1c has a semi-major axis of 0.0158 AU (2,360,000 km)[199] and orbits its
+star every 2.42 Earth days. It is close enough to TRAPPIST-1 to be tidally locked.[200] Its
+atmosphere could either be absent or thick like that of Venus.[202] TRAPPIST-1c is
+outside the habitable zone[200] as it receives about twice as much stellar irradiation as
+Earth[208] and thus either is or has been a runaway greenhouse.[74] Based on several
+climate models, the planet would have been desiccated by TRAPPIST-1's stellar wind
+and radiation.[203] TRAPPIST-1c could harbour water only in specific settings on its
+surface.[206] Observations in 2017 showed no escaping hydrogen,[58] but observations
+by the Hubble Space Telescope (HST) in 2020 indicated that hydrogen may be escaping
+at a rate of 1.4 × 107 g/s.[205]
+
+Infrared measurements by the
+NASA / ESA / Canadian Space
+Agency / James Webb Space
+Telescope of TRAPPIST-1 c
+indicate that it is likely not as
+Venus-like as once imagined.
+
+TRAPPIST-1d
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+7 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+TRAPPIST-1d has a semi-major axis of 0.022 AU (3,300,000 km) and an orbital period of 4.05 Earth days. It is more
+massive but less dense than Mars.[209] Based on fluid dynamical arguments, TRAPPIST-1d is expected to have weak
+temperature gradients on its surface if it is tidally locked,[210] and may have significantly different stratospheric dynamics
+than that of Earth.[211] Several climate models suggest that the planet may[203] or may not have been desiccated by
+TRAPPIST-1's stellar wind and radiation;[203] density estimates, if confirmed, indicate it is not dense enough to consist
+solely of rock.[201] The current state of TRAPPIST-1d depends on its rotation and climatic factors like cloud feedback;
+[al][202] it is close to the inner edge of the habitable zone, but the existence of either liquid water or alternatively a runaway
+greenhouse effect (that would render it uninhabitable) are dependent on detailed atmospheric conditions.[213] Water could
+persist in specific settings on the planet.[206]
+
+TRAPPIST-1e
+TRAPPIST-1e has a semi-major axis of 0.029 AU (4,300,000 km)[199] and orbits its star every 6.10 Earth days.[214] It has
+density similar that of Earth.[215] Based on several climate models, the planet is the most likely of the system to have
+retained its water,[203] and the most likely to have liquid water for many climate states. A dedicated climate model project
+called TRAPPIST-1 Habitable Atmosphere Intercomparison (THAI) has been launched to study its potential climate
+states.[216] Based on observations of its Lyman-alpha radiation emissions, TRAPPIST-1e may be losing hydrogen at a rate
+of 0.6 × 107 g/s.[205]
+TRAPPIST-1e is in a comparable position within the habitable zone to that of Proxima Centauri b,[am][218][219] which also
+has an Earth-like density.[215] TRAPPIST-1e could have retained masses of water equivalent to several of Earth's oceans.[74]
+Moderate quantities of carbon dioxide could warm TRAPPIST-1e to temperatures suitable for the presence of liquid
+water.[204]
+
+TRAPPIST-1f
+TRAPPIST-1f has a semi-major axis of 0.038 AU (5,700,000 km)[199] and orbits its star every 9.21 Earth days.[214] It is
+likely too distant from its host star to sustain liquid water, being instead an entirely glaciated snowball planet.[203]
+Moderate quantities of CO2 could warm TRAPPIST-1f to temperatures suitable for the presence of liquid water.[206]
+TRAPPIST-1f may have retained masses of water equivalent to several of Earth's oceans[74] and which could comprise up to
+half of the planet's mass;[220] it could thus be an ocean planet.[an][222]
+
+TRAPPIST-1g
+TRAPPIST-1g has a semi-major axis of 0.047 AU (7,000,000 km)[199] and orbits its star every 12.4 Earth days.[214] It is
+likely too distant from its host star to sustain liquid water, being instead a snowball planet.[203] Moderate quantities of
+CO2[206] or internal heat from radioactive decay and tidal heating may warm its surface to above the melting point of
+water.[223] TRAPPIST-1g may have retained masses of water equivalent to several of Earth's oceans;[74] density estimates of
+the planet, if confirmed, indicate it is not dense enough to consist solely of rock.[201] Up to half of its mass may be
+water.[220]
+
+TRAPPIST-1h
+TRAPPIST-1h has a semi-major axis of 0.062 astronomical units (9,300,000 km); it is the system's least massive known
+planet[199] and orbits its star every 18.9 Earth days.[214] It is likely too distant from its host star to sustain liquid water and
+may be a snowball planet,[203] or have a methane/nitrogen atmosphere resembling that of Titan.[224] Large quantities of
+CO2, hydrogen or methane,[225] or internal heat from radioactive decay and tidal heating,[223] would be needed to warm
+TRAPPIST-1h to the point where liquid water could exist.[225] TRAPPIST-1h could have retained masses of water
+equivalent to several of Earth's oceans.[74]
+
+Data table
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+8 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+TRAPPIST-1 planets data table[226][86][6]
+
+Planet
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+M
+
+SX
+
+OP
+
+E
+
+I
+
+R
+1.116
+
+1.374
+
+0.01154
+
+1.510826
+
+0.00622
+
+89.728
+
+± 0.069
+
+± 0.0001
+
+± 0.000006
+
+± 0.00304
+
+± 0.165°
+
++0.014
+−0.012
+
+1.308
+
+0.01580
+
+2.421937
+
+0.00654
+
+89.778
+
+1.097
+
+± 0.056
+
+± 0.00013
+
+± 0.000018
+
+± 0.00188
+
+± 0.118°
+
++0.014
+−0.012
+
+0.388
+
+0.02227
+
+4.049219
+
+0.00837
+
+89.896
+
+0.770
+
+± 0.012
+
+± 0.00019
+
+± 0.000026
+
+± 0.00093
+
+± 0.077°
+
++0.011
+−0.010
+
+0.692
+
+0.02925
+
+6.101013
+
+0.00510
+
+89.793
+
+0.920
+
+± 0.022
+
+± 0.00025
+
+± 0.000035
+
+± 0.00058
+
+± 0.048°
+
++0.013
+−0.012
+
+1.039
+
+0.03849
+
+9.207540
+
+0.01007
+
+89.740
+
+1.045
+
+± 0.031
+
+± 0.00033
+
+± 0.000032
+
+± 0.00068
+
+± 0.019°
+
++0.013
+−0.012
+
+1.321
+
+0.04683
+
+12.352446
+
+0.00208
+
+89.742
+
+1.129
+
+± 0.038
+
+± 0.0004
+
+± 0.000054
+
+± 0.00058
+
+± 0.012°
+
++0.015
+−0.013
+
+0.326
+
+0.06189
+
+18.772866
+
+0.00567
+
+89.805
+
+0.775
+
+± 0.020
+
+± 0.00053
+
+± 0.000214
+
+± 0.00121
+
+± 0.013°
+
++0.014
+−0.014
+
+RX
+
+T
+
+G
+
+ORb
+
+ORi
+
+—
+
+—
+
+5:8
+
+5:8
+
+3:8
+
+3:5
+
+1:4
+
+2:3
+
+1:6
+
+2:3
+
+1:8
+
+3:4
+
+1:12
+
+2:3
+
+397.6 ± 3.8K
+4.153
+± 0.160
+
+(124.5 ± 3.8
+°C; 256.0 ±
+6.8 °F)[ao]
+
+1.102
+± 0.052
+
+339.7 ± 3.3K
+2.214
+± 0.085
+
+1.115
+± 0.04
+
+(66.6 ± 3.3 °C;
+151.8 ± 5.9
+°F)
+
+286.2 ± 2.8K
+(13.1 ± 2.8 °C;
+55.5 ± 5.0 °F)
+
+1.086
+± 0.043
+
+0.624
+± 0.019
+
+249.7 ± 2.4K
+0.646
+± 0.025
+
+(−23.5 ± 2.4
+°C; −10.2 ±
+4.3 °F)
+
+0.817
+± 0.024
+
+217.7 ± 2.1K
+0.373
+± 0.014
+
+(−55.5 ± 2.1
+°C; −67.8 ±
+3.8 °F)
+
+0.951
+± 0.024
+
+197.3 ± 1.9K
+0.252
+± 0.010
+
+(−75.8 ± 1.9
+°C; −104.5 ±
+3.4 °F)
+
+1.035
+± 0.026
+
+171.7 ± 1.7K
+0.144
+± 0.006
+
+(−101.5 ± 1.7
+°C; −150.6 ±
+3.1 °F)
+
+0.570
+± 0.038
+
+M mass (Earth masses) · OP orbital period (days) · E eccentricity[86] · I inclination[85] · R radius (Earth radii) · RX radiation
+flux (Earth units)[85] · T temperature[86] (equilibrium, assumes null Bond albedo) · G gravity (Earth units)[85] · ORb
+approximate orbital resonance with TRAPPIST-1b · ORi approximate orbital resonance with inward planet
+
+Potential planetary atmospheres
+As of 2020, there is no definitive evidence that any of the TRAPPIST-1 planets have an atmosphere,[ap][228] but
+atmospheres could be detected in the future.[229] The outer planets are more likely to have atmospheres than the inner
+planets.[180] Several studies have simulated how different atmospheric scenarios would look to observers, and the chemical
+processes underpinning these atmospheric compositions.[230] The visibility of an exoplanet and of its atmosphere scale
+with the inverse square of the radius of its host star.[229] Detection of individual components of the atmospheres – in
+particular CO2, ozone, and water[231] – would also be possible, although different components would require different
+conditions and different numbers of transits.[232] A contamination of the atmospheric signals through patterns in the
+stellar photosphere is a further impediment to detection.[233]
+The existence of atmospheres around TRAPPIST-1's planets depends on the balance between the amount of atmosphere
+initially present, its rate of evaporation, and the rate at which it is built back up by meteorite impacts,[89] incoming material
+from a protoplanetary disk[aq],[235] and outgassing and volcanic activity.[236] Impact events may be particularly important
+in the outer planets because they can both add and remove volatiles; addition is likely dominant in the outermost planets
+where impact velocities are slower.[237][238] Although the properties of TRAPPIST-1 are unfavourable to the continued
+existence of atmospheres around its planets,[239] the formation conditions of the planets would give them large initial
+quantities of volatile materials,[180] including oceans over 100 times larger than those of Earth.[240]
+If the planets are tidally locked to TRAPPIST-1, surfaces that permanently face away from the star can cool sufficiently for
+any atmosphere to freeze out on the night side.[241] This frozen-out atmosphere could be recycled through glacier-like flows
+to the day side with assistance from tidal or geothermal heating from below, or could be stirred by impact events. These
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+9 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+processes could allow an atmosphere to persist.[242] In a carbon dioxide
+(CO2) atmosphere, carbon-dioxide ice is denser than water ice, under
+which it tends to be buried. CO2-water compounds named clathrates[ar]
+can form. Further complications are a potential runaway feedback loop
+between melting ice and evaporation, and the greenhouse effect.[244]
+Numerical modelling and observations constrain the properties of
+hypothetical atmospheres around TRAPPIST-1 planets:[180]
+▪ Theoretical calculations[245] and observations have ruled out the
+possibility the TRAPPIST-1 planets have hydrogen-rich[222][246] or
+helium-rich atmospheres.[247] Hydrogen-rich exospheres[as] may be
+detectable[249] but have not been reliably detected,[250] except
+perhaps for TRAPPIST-1b and 1c by Bourrier et al. (2017).[192][14]
+▪ Water-dominated atmospheres, though suggested by some density
+estimates, are improbable for the planets because they are expected
+to be unstable under the conditions around TRAPPIST-1, especially
+Graph showing dips in brightness in TRAPPIST-1 star
+early in the star's life.[201] The spectral properties of the planets
+by the planet's transits or obstruction of starlight.
+imply they do not have a cloud-free, water-rich atmosphere.[251]
+Larger planets create deeper dips and further planets
+▪ Oxygen-dominated atmospheres can form when radiation splits
+create longer dips.
+water into hydrogen and oxygen, and the hydrogen escapes due to
+its lighter mass. The existence of such an atmosphere and its mass
+depends on the initial water mass, on whether the oxygen is dragged out of the atmosphere by escaping hydrogen and
+of the state of the planet's surface; a partially molten surface could absorb sufficient quantities of oxygen to remove an
+atmosphere.[252]
+▪ Atmospheres formed by ammonia and/or methane near TRAPPIST-1 would be destroyed by the star's radiation at a
+sufficient rate to quickly remove an atmosphere. The rate at which ammonia or methane are produced, possibly by
+organisms, would have to be considerably larger than that on Earth to sustain such an atmosphere. It is possible the
+development of organic hazes from ammonia or methane photolysis could shield the remaining molecules from
+degradation caused by radiation.[253] Ducrot et al. (2020) interpreted observational data as implying methanedominated atmospheres are unlikely around TRAPPIST-1 planets.[254]
+▪ Nitrogen-dominated atmospheres are particularly unstable with respect to atmospheric escape, especially on the
+innermost planets, although the presence of CO2 may slow evaporation.[255] Unless the TRAPPIST-1 planets initially
+contained far more nitrogen than Earth, they are unlikely to have retained such atmospheres.[256]
+▪ CO2-dominated atmospheres escape slowly because CO2 effectively radiates away energy and thus does not readily
+reach escape velocity; on a synchronously rotating planet, however, CO2 can freeze out on the night side, especially if
+there are no other gases in the atmosphere. The decomposition of CO2 caused by radiation could yield substantial
+amounts of oxygen, carbon monoxide (CO),[204] and ozone.[257]
+Theoretical modelling by Krissansen-Totton and Fortney (2022) suggests the inner planets most likely have oxygen-andCO2-rich atmospheres, if any.[258] If the planets have an atmosphere, the amount of precipitation, its form and location
+would be determined by the presence and position of mountains and oceans, and the rotation period.[259] Planets in the
+habitable zone are expected to have an atmospheric circulation regime resembling Earth's tropical regions with largely
+uniform temperatures.[260] Whether greenhouse gases can accumulate on the outer TRAPPIST-1 planets in sufficient
+quantities to warm them to the melting point of water is controversial; on a synchronously rotating planet, CO2 could freeze
+and precipitate on the night side, and ammonia and methane would be destroyed by XUV radiation from TRAPPIST-1.[74]
+Carbon dioxide freezing-out can occur only on the outermost planets unless special conditions are met, and other volatiles
+do not freeze out.[261]
+
+Stability
+The emission of extreme ultraviolet (XUV) radiation by a star has an important influence on the stability of its planets'
+atmospheres, their composition and the habitability of their surfaces.[261] It can cause the ongoing removal of atmospheres
+from planets.[89] XUV radiation-induced atmospheric escape has been observed on gas giants.[262] M dwarfs emit large
+amounts of XUV radiation;[261] TRAPPIST-1 and the Sun emit about the same amount of XUV radiation[at] and because
+TRAPPIST-1's planets are much closer to the star than the Sun's, they receive much more intense irradiation.[55]
+TRAPPIST-1 has been emitting radiation for much longer than the Sun.[264] The process of atmospheric escape has been
+modelled mainly in the context of hydrogen-rich atmospheres and little quantitative research has been done on those of
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+10 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+other compositions such as water and CO2.[246]
+TRAPPIST-1 has moderate to high stellar activity[au],[32]
+and this may be another difficulty for the persistence of
+atmospheres and water on the planets:[27]
+▪ Dwarfs of the spectral class M have intense
+flares;[261] TRAPPIST-1 averages about 0.38 flares
+per day[74] and four to six superflares[av] per
+year.[267] Such flares would have only small impacts
+on atmospheric temperatures but would substantially
+affect the stability and chemistry of atmospheres.[89]
+According to Samara, Patsourakos and Georgoulis
+Observed brightness of the TRAPPIST-1 star, showing large variation in
+(2021), the TRAPPIST-1 planets are unlikely to be
+brightness. The graph displays dips, indicating the transit of exoplanets.
+able to retain atmospheres against coronal mass
+The planet corresponding to the dips in brightness are plotted below with
+diamond markers.
+ejections.[268]
+▪ The stellar wind from TRAPPIST-1 may have a
+pressure 1,000 times larger than that of the Sun at
+Earth's orbit, which could destabilise atmospheres of the star's planets[269] up to planet f. The pressure would push the
+wind deep into the atmospheres,[203] facilitating loss of water and evaporation of the atmospheres.[89][224] Stellar winddriven escape in the Solar System is largely independent from planetary properties such as mass;[270] stellar wind from
+TRAPPIST-1 could remove the atmospheres of its planets on a timescale of 100 million to 10 billion years.[271]
+▪ Ohmic heating[aw] of the atmosphere of TRAPPIST-1e, f, and g amounts to 5–15 times the heating from XUV radiation;
+if the heat is effectively absorbed, it could destabilise the atmospheres.[273]
+The star's history also influences the atmospheres of its planets.[274] Immediately after its formation, TRAPPIST-1 would
+have been in a pre-main-sequence state, which may have lasted between hundreds of millions[261] and two billion
+years.[233] While in this state, it would have been considerably brighter than it is today and the star's intense irradiation
+would have impacted the atmospheres of surrounding planets, vaporising all common volatiles such as ammonia, CO2,
+sulfur dioxide, and water.[275] Thus, all of the system's planets would have been heated to a runaway greenhouse[ax] for at
+least part of their existence.[261] The XUV radiation would have been even higher during the pre-main-sequence stage.[89]
+
+Possible life
+Life may be possible in the TRAPPIST-1 system, and some of the star's planets are considered promising targets for its
+detection.[27] On the basis of atmospheric stability, TRAPPIST-1e is theoretically the planet most likely to harbour life; the
+probability that it does is considerably less than that of Earth. There are an array of factors at play:[276][277]
+▪ Due to multiple interactions, TRAPPIST-1 planets are expected to have intense tides.[278] If oceans are present,[ay] the
+tides could: lead to alternate flooding and drying of coastal landscapes triggering chemical reactions conducive to the
+development of life;[280] favour the evolution of biological rhythms such as the day-night cycle that otherwise would not
+develop in a synchronously rotating planet;[281] mix oceans, thus supplying and redistributing nutrients;[282] and
+stimulate periodic expansions of marine organisms similar to red tides on Earth.[283]
+▪ TRAPPIST-1 may not produce sufficient quantities of radiation for photosynthesis to support an Earth-like biosphere.
+[284][285][286] Mullan and Bais (2018) speculated that radiation from flares may increase the photosynthetic potential of
+TRAPPIST-1,[287] but according to Lingam and Loeb (2019), the potential would still be small.[288]
+▪ Due to the proximity of the TRAPPIST-1 planets, it is possible rock-encased microorganisms ripped[az] from one planet
+may arrive at another planet while still viable inside the rock, allowing life to spread between the planets if it originates
+on one.[289]
+▪ Too much UV radiation from a star can sterilise the surface of a planet[111][152] but too little may not allow the formation
+of chemical compounds that give rise to life.[14][290] Inadequate production of hydroxyl radicals by low stellar-UV
+emission may allow gases such as carbon monoxide that are toxic to higher life to accumulate in the planets'
+atmospheres.[291] The possibilities range from UV fluxes from TRAPPIST-1 being unlikely to be much larger than these
+of early Earth – even in the event that TRAPPIST-1's emissions of UV radiation are high[292] – to being sufficient to
+sterilise the planets if they do not have protective atmospheres.[293] As of 2020 it is unclear which effect would
+predominate around TRAPPIST-1,[233] although observations with the Kepler Space Telescope and the Evryscope
+telescopes indicate the UV flux may be insufficient for the formation of life or its sterilisation. [267]
+▪ The outer planets in the TRAPPIST-1 system could host subsurface oceans similar to those of Enceladus and Europa
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+11 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+in the Solar System.[294] Chemolithotrophy, the growth of organisms based on non-organic reduced compounds,[295]
+could sustain life in such oceans.[139] Very deep oceans may be inimical to the development of life.[296]
+▪ Some planets of the TRAPPIST-1 system may have enough water to completely submerge their surfaces.[297] If so, this
+would have important effects on the possibility of life developing on the planets, and on their climates,[298] as
+weathering would decrease, starving the oceans of nutrients like phosphorus as well as potentially leading to the
+accumulation of carbon dioxide in their atmospheres.[299]
+In 2017, a search for technosignatures that would indicate the existence of past or present technology in the TRAPPIST-1
+system found only signals coming from Earth.[300] In less than two millennia, Earth will be transiting in front of the Sun
+from the viewpoint of TRAPPIST-1, making the detection of life on Earth from TRAPPIST-1 possible.[301]
+
+Reception and scientific importance
+Public reaction and cultural impact
+The discovery of the TRAPPIST-1 planets drew widespread attention in major world
+newspapers, social media, streaming television and websites.[302][303] As of 2017, the
+discovery of TRAPPIST-1 led to the largest single-day web traffic to the NASA
+website.[304] NASA started a public campaign on Twitter to find names for the planets,
+which drew responses of varying seriousness, although the names of the planets will be
+decided by the International Astronomical Union.[305] The dynamics of the TRAPPIST-1
+planetary system have been represented as music, such as Tim Pyle's Trappist
+Transits,[306] in Isolation's single Trappist-1 (A Space Anthem)[307] and Leah Asher's
+piano work TRAPPIST-1.[308] The alleged discovery of an SOS signal from TRAPPIST-1
+was an April Fools prank by researchers at the High Energy Stereoscopic System in
+Namibia.[309] In 2018, Aldo Spadon created a giclée (digital artwork) named
+"TRAPPIST-1 Planetary System as seen from Space".[310] A website was dedicated to the
+TRAPPIST-1 system.[311]
+
+Kepler image of TRAPPIST-1
+
+Exoplanets are often featured in science-fiction works; books, comics and video games
+have featured the TRAPPIST-1 system, the earliest being The Terminator, a short story
+by Swiss author Laurence Suhner published in the academic journal that announced the
+system's discovery.[312] At least one conference was organised to recognise works of
+fiction featuring TRAPPIST-1.[313] The planets have been used as the basis of science
+education competitions[314] and school projects.[315][316] Websites offering TRAPPIST1-like planets as settings of virtual reality simulations exist,[317] such as the "Exoplanet
+Travel Bureau"[318] and the "Exoplanets Excursion" – both by NASA.[319] Scientific
+accuracy has been a point of discussion for such cultural depictions of TRAPPIST-1
+planets.[320]
+
+Scientific importance
+Fictional TRAPPIST-1e tourism
+TRAPPIST-1 has drawn intense scientific interest.[228] Its planets are the most easily
+poster made by NASA
+studied exoplanets within their star's habitable zone owing to their relative closeness,
+the small size of their host star, and because from Earth's perspective they frequently
+pass in front of their host star.[33] Future observations with space-based observatories
+and ground-based facilities may allow further insights into their properties such as density, atmospheres, and
+biosignatures.[ba] TRAPPIST-1 planets[322][323] are considered an important observation target for the James Webb Space
+Telescope (JWST)[bb][228] and other telescopes under construction.[158] Together with the discovery of Proxima Centauri b,
+the discovery of the TRAPPIST-1 planets and the fact that three of the planets are within the habitable zone has led to an
+increase in studies on planetary habitability.[326] The planets are considered prototypical for the research on habitability of
+M dwarfs.[327] The star has been the subject of detailed studies[104] of its various aspects[328] including the possible effects
+of vegetation on its planets; the possibility of detecting oceans on its planets using starlight reflected off their surfaces;[329]
+possible efforts to terraform its planets;[330] and difficulties any inhabitants of the planets would encounter with
+discovering the law of gravitation[331] and with interstellar travel.[332]
+
+The role EU funding played in the discovery of TRAPPIST-1 has been cited as an example of the importance of EU
+
+11/15/2023, 8:12 PM
+
+TRAPPIST-1 - Wikipedia
+
+12 of 34
+
+https://en.wikipedia.org/wiki/TRAPPIST-1
+
+projects,[35] and the involvement of a Moroccan observatory as an indication of the Arab world's role in science. The
+original discoverers were affiliated with universities spanning Africa, Europe, and North America,[333] and the discovery of
+TRAPPIST-1 is considered to be an example of the importance of co-operation between observatories.[334] It is also one of
+the major astronomical discoveries from Chilean observatories.[335]
+
+Exploration
+TRAPPIST-1 is too distant from Earth to be reached by humans with current or expected technology.[336] Spacecraft
+mission designs using present-day rockets and gravity assists would need hundreds of millennia to reach TRAPPIST-1;
+even a theoretical interstellar probe travelling at the speed of light would need decades to reach the star. The speculative
+Breakthrough Starshot proposal for sending small, laser-accelerated, uncrewed probes would require around two centuries
+to reach TRAPPIST-1.[337]
+
+See also
+▪
+▪
+▪
+▪
+▪
+
+HD 10180, a star with at least six known planets, and three more exoplanet candidates
+Tabby's Star, another star with notable transit data
+LHS 1140, another star with a planetary system suitable for atmospheric studies
+LP 890-9, the second-coolest star found to host a planetary system, after TRAPPIST-1.
+List of potentially habitable exoplanets
+
+Notes
+a. A log(g) of 2.992 for the Earth indicates that TRAPPIST-1 has a surface gravity approximately 177 times stronger than
+Earth's.
+b. A red dwarf is a very small and cold star. They are the most common type of star in the Milky Way.[15]
+c. TRAPPIST is a 60-centimetre (24 in) telescope[11] intended to be a prototype for the "Search for habitable Planets
+EClipsing ULtra-cOOl Stars" project (SPECULOOS), which aims to identify planets around close, cold stars.[20][21]
+TRAPPIST is used to find exoplanets, and is preferentially employed on stars colder than 3,000 K (2,730 °C;
+4,940 °F).[22]
+d. When a planet moves in front of its star, it absorbs part of the star's radiation, which may be observed via
+telescopes.[29]
+e. The celestial equator is the equator's projection into the sky.[36]
+f. Based on parallax measurements;[1] the parallax is the position of a celestial object with respect to other celestial
+objects for a given position of Earth. It can be used to infer the distance of the object from Earth.[39]
+g. The movement of the star in the sky, relative to background stars.[40]
+h. Red dwarfs include the spectral type M and K.[42] Spectral types are used to categorise stars by their temperature.[43]
+i. The effective temperature is the temperature a black body that emits the same amount of radiation would have.[49]
+j. The photosphere is a thin layer at the surface of a star, where most of its light is produced.[51]
+k. The solar cycle is the Sun's 11-year long period, during which solar output varies by about 0.1%.[53]
+l. Including Lyman-alpha radiation[59]
+m. The main sequence is the longest stage of a star's lifespan, when it is fusing hydrogen.[67]
+n. Faculae are bright spots on the photosphere.[69]
+o. Flares are presumably magnetic phenomena lasting for minutes or hours during which parts of the star emit more
+radiation than usual.[69]
+p. For comparison, a strong fridge magnet has a strength of about 100 gauss and Earth's magnetic field about 0.5
+gauss.[75]
+q. The chromosphere is an outer layer of a star.[69]
+r. A coronal mass ejection is an eruption of coronal material to the outside of a star.[69][77]
+s. Exoplanets are named in order of discovery as "b", "c" and so on; if multiple planets are discovered at once they are
+named in order of increasing orbital period.[82] The term "TRAPPIST-1a" is used to refer to the star itself.[83]
+t. One astronomical unit (AU) is the mean distance between the Earth and the Sun.[87]
+u. For comparison, Earth's orbit around the Sun is inclined by about 1.578 degrees.[94]
+v. The inner two planets' orbits may be circular; the others could have a small eccentricity.[97]
+
+11/15/2023, 8:12 PM
+
+TW Hydrae - Wikipedia
+
+1 of 7
+
+https://en.wikipedia.org/wiki/TW_Hydrae
+
+TW Hydrae
+TW Hydrae is a T Tauri star approximately 196
+light-years away[1] in the constellation of Hydra
+(the Sea Serpent). TW Hydrae is about 80% of the
+mass of the Sun, but is only about 5-10 million
+years old. The star appears to be accreting from a
+face-on protoplanetary disk of dust and gas,
+which has been resolved in images from the
+ALMA observatory. TW Hydrae is accompanied
+by about twenty other low-mass stars with similar
+ages and spatial motions, comprising the "TW
+Hydrae association" or TWA, one of the closest
+regions of recent "fossil" star-formation to the
+Sun.
+
+Stellar characteristics
+
+TW Hydrae
+
+Inner region of TW Hydrae protoplanetary disc
+Credit: S. Andrews, B. Saxton, ALMA (see
+description)
+Observation data
+Epoch J2000.0
+Equinox J2000.0
+
+A broadband optical light curve
+plotted from MOST microsatellite
+data published by Rucinski et al.
+(2008)[6]
+
+TW Hydrae is a pre-main-sequence star that is
+approximately 80% the mass of and 111% the
+radius of the Sun. It has a temperature of 4000 K
+and is about 8 million years old. In comparison,
+the Sun is about 4.6 billion years old[7] and has a
+temperature of 5778 K.[8] The star's luminosity is
+28% (0.28x) that of the Sun, equivalent to that of
+a main-sequence star of spectral type ~K2.
+However, the spectral class is K6.
+The star's apparent magnitude, or how bright it
+appears from Earth's perspective, is 11.27. It is
+too dim to be seen with the naked eye.
+
+Constellation
+
+Hydra
+
+Right ascension
+
+11h 01m 51.9054s[1]
+
+Declination
+
+−34° 42′ 17.0316″[1]>
+
+Apparent magnitude (V) 11.27 ± 0.09[2]
+Characteristics
+Evolutionary stage
+
+Pre-main-sequence
+
+Spectral type
+
+K6[2]
+
+U−B color index
+
+-0.33[3]
+
+B−V color index
+
+0.67[2]
+
+J−H color index
+
+0.659[2]
+
+J−K color index
+
+0.92[2]
+
+Variable type
+
+T Tauri
+Astrometry
+
+Radial velocity (Rv)
+
+13.40 ± 0.8[2] km/s
+
+Proper motion (μ)
+
+RA: −68.389 ±
+0.054[1] mas/yr
+Dec.: −14.016 ±
+
+11/15/2023, 8:00 PM
+
+TW Hydrae - Wikipedia
+
+2 of 7
+
+https://en.wikipedia.org/wiki/TW_Hydrae
+
+0.059[1] mas/yr
+
+Planetary system
+
+Parallax (π)
+
+16.6428 ± 0.0416 mas[1]
+
+Distance
+
+196.0 ± 0.5 ly
+(60.1 ± 0.2 pc)
+Details
+
+Mass
+
+0.8[4] M☉
+
+Radius
+
+1.11[5] R☉
+
+Luminosity
+(bolometric)
+
+0.28[note 1] L☉
+
+Temperature
+
+4,000[5] K
+
+Age
+
+8[5] Myr
+Other designations
+
+TWA 1, TW Hya, CD−34° 7151,
+HIP 53911
+Database references
+SIMBAD
+
+data (https://simbad.cd
+s.unistra.fr/simbad/sim-i
+d?Ident=TW+Hya)
+
+The TW Hydrae planetary system[9]
+Companion
+(in order from star)
+
+b (unconfirmed)
+
+Mass
+
+Semimajor axis
+
+Orbital period
+
+(AU)
+
+(days)
+
+22
+
+—
+
+23.72 M⊕
+
+Protoplanetary disk
+
+1–30? AU
+
+Eccentricity
+
+Inclination
+
+Radius
+
+—
+
+—
+
+~4.25 R⊕
+
+—
+
+—
+
+The star is known to host one likely exoplanet, TW Hydrae b.
+
+Protoplanetary disk
+Previously disproven protoplanet
+In December 2007, a team led by Johny Setiawan of the Max Planck Institute for Astronomy in
+Heidelberg, Germany announced discovery of a planet orbiting TW Hydrae, dubbed "TW Hydrae
+b" with a minimum mass around 1.2 Jupiter masses, a period of 3.56 days, and an orbital radius of
+0.04 astronomical units (inside the inner rim of the protoplanetary disk). Assuming it orbits in the
+same plane as the outer part of the dust disk (inclination 7±1°[10]), it has a true mass of 9.8±3.3
+Jupiter masses.[10][11] However, if the inclination is similar to the inner part of the dust disk
++5
+
+(4.3±1.0°[12]), the mass would be 16−3 Jupiter masses, making it a brown dwarf.[12] Since the star
+itself is so young, it was presumed this is the youngest extrasolar planet yet discovered, and
+essentially still in formation.[13]
+
+11/15/2023, 8:00 PM
+
+TW Hydrae - Wikipedia
+
+3 of 7
+
+https://en.wikipedia.org/wiki/TW_Hydrae
+
+In 2008 a team of Spanish researchers concluded that the planet does not exist: the radial velocity
+variations were not consistent when observed at different wavelengths, which would not occur if
+the origin of the radial velocity variations was caused by an orbiting planet. Instead, the data was
+better modelled by starspots on TW Hydrae's surface passing in and out of view as the star rotates.
+"Results support the spot scenario rather than the presence of a hot Jupiter around TW Hya".[14]
+Similar wavelength-dependent radial velocity variations, also caused by starspots, have been
+detected on other T Tauri stars.[15]
+New study of more distant planet
+In 2016, ALMA found evidence that a possible Neptune-like planet was forming in its disk, at a
+distance of around 22 AU.[16]
+Detection of methanol
+In 2016, methanol, one of the building blocks for life, was detected in the star's protoplanetary
+disk.[17][18][19][20][21][22][23][24]
+
+Gallery
+
+Shadow moving counterclockwise around a gas
+
+Simulation based on Hubble observations.
+
+and dust disc.[25]
+
+11/15/2023, 8:00 PM
+
+TW Hydrae - Wikipedia
+
+4 of 7
+
+https://en.wikipedia.org/wiki/TW_Hydrae
+
+TW Hydrae protoplanetary disc.
+
+This illustration is based on NASA/ESA Hubble
+Space Telescope images of a gas and dust discs
+encircling the young star TW Hydrae.
+
+This artist’s impression video shows the
+protoplanetary disc around TW Hydrae. The
+organic molecule methyl alcohol (methanol) has
+been found in this disc.
+
+Notes
+1. From
+, where is the luminosity,
+is the radius,
+temperature and is the Stefan–Boltzmann constant.
+
+is the effective surface
+
+References
+1. Brown, A. G. A.; et al. (Gaia collaboration) (August 2018). "Gaia Data Release 2: Summary of
+the contents and survey properties" (https://doi.org/10.1051%2F0004-6361%2F201833051).
+Astronomy & Astrophysics. 616. A1. arXiv:1804.09365 (https://arxiv.org/abs/1804.09365).
+Bibcode:2018A&A...616A...1G (https://ui.adsabs.harvard.edu/abs/2018A&A...616A...1G).
+doi:10.1051/0004-6361/201833051 (https://doi.org/10.1051%2F0004-6361%2F201833051).
+Gaia DR2 record for this source (http://vizier.u-strasbg.fr/viz-bin/VizieR-S?Gaia%20DR2%2054
+01795662560500352) at VizieR.
+2. "V* TW Hya" (http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=V%2A+TW+Hya). SIMBAD.
+Centre de données astronomiques de Strasbourg. Retrieved 2014-01-02.
+
+11/15/2023, 8:00 PM
+
+WASP-18b - Wikipedia
+
+1 of 3
+
+https://en.wikipedia.org/wiki/WASP-18b
+
+WASP-18b
+Coordinates:
+
+01h 37m 25s, −45° 40′ 41″
+
+WASP-18b is an exoplanet that is notable for having an
+orbital period of less than one day. It has a mass equal to
+10 Jupiter masses,[1] just below the boundary line
+between planets and brown dwarfs (about 13 Jupiter
+masses). Due to tidal deceleration, it is expected to spiral
+toward and eventually merge with its host star, WASP-18,
+in less than a million years.[1] The planet is
+approximately 3.1 million km (1.9 million mi; 0.021 AU)
+from its star, which is about 400 light-years (120
+parsecs) from Earth. A team led by Coel Hellier, a
+professor of astrophysics at Keele University in England,
+discovered the exoplanet in 2009.[1]
+Scientists at Keele and at the University of Maryland are
+working to understand whether the discovery of this
+planet so shortly before its expected demise (with less
+than 0.1% of its lifetime remaining) was fortuitous, or
+whether tidal dissipation by WASP-18 is actually much
+less efficient than astrophysicists typically assume.[1][5]
+Observations made over the next decade should yield a
+measurement of the rate at which WASP-18b's orbit is
+decaying.[6]
+
+WASP-18b
+
+Size comparison of WASP-18b with
+Jupiter.
+Discovery[1]
+Discovered by
+
+Hellier et al.
+(SuperWASP)
+
+Discovery date
+
+August 27, 2009
+
+Detection
+method
+
+Transit (including
+secondary eclipses)
+
+Orbital characteristics[2]
+Semi-major
+axis
+
+0.02024 ± 0.00030 AU
+(3,028,000 ± 45,000 km)
+
+Eccentricity
+
+0.0051 −0.0037
+0.941 452 23(24) d
+22.59485352 h
+
++0.0070
+
+The closest example of a similar situation in the Solar
+System is Mars' moon Phobos. Phobos orbits Mars at a
+distance of only about 9,000 km (5,600 mi), 40 times
+closer than the Moon is to the Earth[7] and is expected to
+be destroyed in about eleven million years.[8]
+
+Orbital period
+(sidereal)
+
+The planet's dayside temperature, as measured in 2020,
+is 3,029 ± 50 K (2,755.8 ± 50.0 °C; 4,992.5 ± 90.0 °F).[3]
+A 2023 study found an average dayside temperature of
+
+Semi-amplitude 1814 +23 m/s
+−24
+WASP-18
+Star
+
+83.5° −1.6°
+
+Argument of
+periastron
+
+−85° −96°
+
+A study in 2012, utilizing the Rossiter–McLaughlin
+effect, determined that the planetary orbit is well aligned
+with the equatorial plane of the star, with a misalignment
+equal to 13 ± 7°.[9]
+A 2017 study detected carbon monoxide in the planet's
+atmosphere, without signs of water vapor.[10][11]
+However, in 2023, the James Webb Space Telescope
+
++72°
+
+Physical characteristics[2]
+
++25
+
+2,781 −13 K (2,508 °C; 4,546 °F).[4]
+
++2.0°
+
+Inclination
+
+Mean radius
+
+1.240 ± 0.079 RJ
+
+Mass
+
+10.20 ± 0.35 MJ
+
+Mean density
+
+6.6 −1.1 g/cm3
+3,029 ± 50 K (2,756 °C;
+4,993 °F)[3]
+
+Temperature
+
++1.2
+
++25
+
+2,781 −13 K (2,508 °C;
+4,546 °F)[4]
+
+11/15/2023, 8:09 PM
+
+WASP-18b - Wikipedia
+
+2 of 3
+
+https://en.wikipedia.org/wiki/WASP-18b
+
+detected water vapor in the planet's atmosphere.[4][12]
+
+Exoplanet WASP-18b − high carbon monoxide
+levels detected in stratosphere (artist concept)[11]
+
+See also
+▪ SuperWASP
+
+References
+1. Hellier, Coel; et al. (2009). "An orbital period of 0.94days for the hot-Jupiter planet WASP-18b"
+(http://orbi.ulg.ac.be/bitstream/2268/28276/1/nature08245.pdf) (PDF). Nature. 460 (7259):
+1098–1100. Bibcode:2009Natur.460.1098H (https://ui.adsabs.harvard.edu/abs/2009Natur.460.
+1098H). doi:10.1038/nature08245 (https://doi.org/10.1038%2Fnature08245). hdl:2268/28276
+(https://hdl.handle.net/2268%2F28276). PMID 19713926 (https://pubmed.ncbi.nlm.nih.gov/197
+13926). S2CID 205217669 (https://api.semanticscholar.org/CorpusID:205217669).
+2. Cortés-Zuleta, Pía; Rojo, Patricio; et al. (April 2020). "TraMoS. V. Updated ephemeris and
+multi-epoch monitoring of the hot Jupiters WASP-18Ab, WASP-19b, and WASP-77Ab".
+Astronomy & Astrophysics. 636: A98. arXiv:2001.11112 (https://arxiv.org/abs/2001.11112).
+Bibcode:2020A&A...636A..98C (https://ui.adsabs.harvard.edu/abs/2020A&A...636A..98C).
+doi:10.1051/0004-6361/201936279 (https://doi.org/10.1051%2F0004-6361%2F201936279).
+3. Wong, Ian; Shporer, Avi; Daylan, Tansu; Benneke, Björn; Fetherolf, Tara; Kane, Stephen R.;
+Ricker, George R.; Vanderspek, Roland; Latham, David W.; Winn, Joshua N.; Jenkins, Jon M.;
+Boyd, Patricia T.; Glidden, Ana; Goeke, Robert F.; Sha, Lizhou; Ting, Eric B.; Yahalomi, Daniel
+(2020), "Systematic Phase Curve Study of Known Transiting Systems from Year One of the
+TESS Mission", The Astronomical Journal, 160 (4): 155, arXiv:2003.06407 (https://arxiv.org/abs
+/2003.06407), Bibcode:2020AJ....160..155W (https://ui.adsabs.harvard.edu/abs/2020AJ....160..
+155W), doi:10.3847/1538-3881/ababad (https://doi.org/10.3847%2F1538-3881%2Fababad),
+S2CID 212717799 (https://api.semanticscholar.org/CorpusID:212717799)
+4. Coulombe, Louis-Philippe; Benneke, Björn; et al. (August 2023). "A broadband thermal
+emission spectrum of the ultra-hot Jupiter WASP-18b". Nature. 620 (7973): 292–298.
+arXiv:2301.08192 (https://arxiv.org/abs/2301.08192). Bibcode:2023Natur.620..292C (https://ui.
+adsabs.harvard.edu/abs/2023Natur.620..292C). doi:10.1038/s41586-023-06230-1 (https://doi.o
+rg/10.1038%2Fs41586-023-06230-1).
+
+11/15/2023, 8:09 PM
+
+WASP-39b - Wikipedia
+
+1 of 5
+
+https://en.wikipedia.org/wiki/WASP-39b
+
+WASP-39b
+Coordinates:
+
+14h 29m 18.0s, −03° 26′ 40″
+
+WASP-39b, officially named Bocaprins, is a "hot Jupiter"
+extrasolar planet discovered in February 2011[3] by the WASP
+project, notable for containing a substantial amount of water in
+its atmosphere.[1][4][5] In addition WASP-39b was the first
+exoplanet found to contain carbon dioxide in its atmosphere,
+[6][7] and likewise for sulfur dioxide.
+WASP-39b is in the constellation Virgo, and is about 700 lightyears from Earth.[1] As part of the NameExoWorlds campaigns
+at the 100th anniversary of the IAU, the planet was named
+Bocaprins, after the beach Boca Prins in the Arikok National
+Park of Aruba.
+
+WASP-39b / Bocaprins
+
+Exoplanet WASP-39b artist's
+concept[1]
+
+Characteristics
+
+Discovery
+Discovery site
+
+WASP[2]
+
+Discovery date 2011[2]
+Detection
+method
+
+Primary transit[2]
+
+Orbital characteristics
+
+Comparison of "hot Jupiter" exoplanets, including WASP-39b (top
+row; 4th from left) (artist's concept).
+From top left to lower right: WASP-12b, WASP-6b, WASP-31b,
+WASP-39b, HD 189733b, HAT-P-12b, WASP-17b, WASP-19b,
+HAT-P-1b and HD 209458b.
+
+WASP-39b has a mass of about 0.28 times that of Jupiter and
+a radius about 1.27 times that of Jupiter (91,000 km).[2] It is a
+hot gas giant planet with a high temperature of 900 °C.[6] The
+exoplanet orbits very close (7 million km) to WASP-39, its host
+star, every 4 days.[1]
+
+Semi-major
+axis
+
+0.0486 ± 0.0005
+AU,
+(7.27 ± 0.1) × 106
+km
+
+Eccentricity
+
+0[2]
+
+Orbital period
+(sidereal)
+
+4.055 26[2] d
+
+Inclination
+
+87.83 ± 0.25[2]
+
+Star
+
+WASP-39[2]
+Physical characteristics
+
+Mean radius
+
+1.27 ± 0.04[2] RJ,
+(91 ± 3) × 103 km
+
+Mass
+
+0.28 ± 0.03[2] MJ
+
+Mean density
+
+180 ± 40 kg m−3
+
+11/15/2023, 8:09 PM
+
+WASP-39b - Wikipedia
+
+2 of 5
+
+https://en.wikipedia.org/wiki/WASP-39b
+
+WASP-39b is also notable for having an extremely low density, near that of WASP-17b. While
+WASP-17b has a density of 0.13 ± 0.06 g/cm3, WASP-39b has a slightly higher density of
+0.18 ± 0.04 g/cm3.
+
+Atmospheric composition
+Hot water molecules were found in the atmosphere of
+WASP-39b in a 2018 study.[1] The atmospheric transmission
+spectra, taken by different instruments, were inconsistent as in
+2021, possibly indicating a disequilibrium atmospheric
+chemistry.[8] High-fidelity spectra obtained by the James Webb
+Space Telescope in 2022 did not confirm a disequilibrium
+chemistry.
+WASP-39b's atmospheric
+transmission spectrum captured by
+Webb’s Near-Infrared Spectrograph
+(NIRSpec) reveals first clear
+evidence for carbon dioxide in a
+planet outside the Solar System.[6]
+
+WASP-39b is one of the James Webb Space Telescope's early
+release science targets. Sulfur dioxide was observed in this
+planet's atmosphere for the first time, or indeed of any planet
+outside of the Solar System, indicating the existence of
+photochemical processes in the atmosphere.[9] WASP-39b is
+the first exoplanet in which carbon dioxide has been detected.
+[6][10][7]
+
+Planetary transmission spectra taken in 2022 has indicated the atmosphere of WASP-39b is
+partially cloudy, and planet C/O ratio appears to be subsolar.[11] The spectral signature of water,
+carbon dioxide, sodium[12] and sulfur dioxide were also detected.[13]
+
+WASP-39 (star)
+The parent star WASP-39 is of spectral class G
+and is slightly smaller than the Sun. It lies in the
+Virgo constellation, 698 light-years from
+Earth.[1] The star WASP-39 was named Malmok.
+[14][15]
+
+See also
+WASP-6b
+WASP-17b
+WASP-19b
+WASP-31b
+WASP-121b
+List of proper names of exoplanets (see
+section Sources in References)
+▪ List of transiting exoplanets
+▪ List of exoplanets discovered in 2011
+▪
+▪
+▪
+▪
+▪
+▪
+
+Malmok
+Observation data
+Epoch J2000.0
+Equinox J2000.0 (ICRS)
+Constellation
+
+Virgo
+
+Right ascension
+
+14h 29m 18.4151689656s
+
+Declination
+
+−03° 26′ 40.204480380″
+
+Apparent magnitude (V) 12.09
+Distance
+
+702 ± 2 ly
+(215.4 ± 0.7 pc)
+Other designations
+
+2MASS J14291840-0326403,
+Gaia DR2 3643098875168270592,
+Gaia EDR3 3643098875168270592
+Database references
+
+11/15/2023, 8:09 PM
+
+WASP-43b - Wikipedia
+
+1 of 5
+
+https://en.wikipedia.org/wiki/WASP-43b
+
+WASP-43b
+WASP-43b, formally named Astrolábos,[3] is a transiting
+planet in orbit around the young, active, and low-mass star
+WASP-43 in the constellation Sextans. The planet is a hot
+Jupiter with a mass twice that of Jupiter, but with a roughly
+equal radius. WASP-43b was flagged as a candidate by the
+SuperWASP program, before they conducted follow-ups using
+instruments at La Silla Observatory in Chile, which confirmed
+its existence and provided orbital and physical characteristics.
+The planet's discovery was published on April 14, 2011.[2]
+At the time of its discovery, WASP-43b had an orbital period of
+approximately 0.8 days (19.2 hours), the second-shortest orbit
+ever detected, surpassed only by WASP-19b.[2] In addition, at
+the time of discovery, WASP-43b was the most closely orbiting
+hot Jupiter known,[2] a phenomenon that can most likely be
+explained by its host star's low mass.
+
+WASP-43b / Astrolábos
+
+Exoplanet WASP-43b orbits its
+parent star.[1]
+Discovery[2]
+Discovered by
+
+Coel Hellier et al.
+
+Discovery site
+
+La Silla
+Observatory /
+South African
+Astronomical
+Observatory
+
+Discovery date
+
+Published April
+15, 2011
+
+Detection
+method
+
+transit method
+(secondary
+occultation
+detected later)
+
+Nomenclature
+In August 2022, this planet and its host star were included
+among 20 systems to be named by the third NameExoWorlds
+project.[7] The approved names, proposed by a team from
+Romania, were announced in June 2023. WASP-43b is named
+Astrolábos and its host star is named Gnomon, after the
+gnomon and the Greek word for the astrolabe.[3]
+
+Observational history
+WASP-43 was first flagged as host to a potential transiting
+event (when a body crosses in front of and dims its host star)
+by data collected by SuperWASP, a British organization
+working to discover transiting planets across the entirety of the
+sky. In particular, WASP-43 was observed first by the leg of
+WASP-South at the South African Astronomical Observatory
+between January and May 2009.[2]
+Later observation by both SuperWASPs in the Northern and
+Southern Hemispheres led to the collection of 13,768 data
+points between January and May 2010 and to the use of the
+CORALIE spectrograph at La Silla Observatory in Chile.
+
+Designations
+Alternative
+names
+
+Astrolábos[3]
+
+Orbital characteristics
+Semi-major
+axis
+
+0.01526 (±
+0.00018)[4] AU
+
+Eccentricity
+
+< 0.0298 [4]
+
+Orbital period
+(sidereal)
+
+0.81347753 (±
+0.00000071)[4] d
+
+Inclination
+
+82.33 (± 0.20) [4]
+
+Star
+
+WASP-43
+
+11/15/2023, 8:10 PM
+
+WASP-43b - Wikipedia
+
+2 of 5
+
+Fourteen measurements using the radial velocity method
+confirmed WASP-43b as a planet, revealing its mass in the
+process. The use of La Silla's TRAPPIST telescope helped the
+science team working on the planet to create a light curve of
+the planet's transit in December 2010.[2]
+The planet's discovery was published in the journal Astronomy
+and Astrophysics on April 14, 2011.[2]
+
+https://en.wikipedia.org/wiki/WASP-43b
+
+Physical characteristics
++0.07
+
+Mean radius
+
+1.04 −0.09[5] RJ
+
+Mass
+
+2.03 (± 0.1)[5] MJ
+
+Albedo
+
+<0.06[6]
+
+Temperature
+
+1666 ± 48 K
+
+In 2014, a secondary transit of the planet was reported.[8] Full observation of phases of the planet
+was reported in September 2014.[9]
+
+Host star
+WASP-43 is a K-type star in the Sextans constellation that is about 80 parsecs (261 light years)
+away.[2] The star has a mass 0.58 times that of the Sun, but is more diffuse, with a radius 0.93
+times that of the Sun. The star's effective temperature is 4,400 K, making the star cooler than the
+Sun, and is metal-poor with regards to the Sun because it has a metallicity of [Fe/H] = −0.05 (89%
+the amount of iron in the Sun).[5] The star is young, and is estimated to be 598 million years old (as
+compared to the Sun's 4.6 billion years).[5] Analysis of emission lines indicate that WASP-43 is an
+active star.[2]
+WASP-43 has one detected planet in its orbit, WASP-43b. The star has an apparent magnitude of
+12.4, and thus is too faint to be seen with the unaided eye from Earth.[5]
+
+Characteristics
+WASP-43b is a dense hot Jupiter with a mass 2.05 times the mass of Jupiter, but a radius 1.036
+times that of Jupiter's. The planet orbits its host star at a mean distance of 0.01526 AU every
+0.813478 days (19.5235 hours);[5] this orbital period, at the time of WASP-43b's discovery, was the
+second-shortest orbit yet detected, surpassed only by WASP-19b. In comparison, Mercury has an
+orbital period of 87.97 days and lies at a mean distance of 0.387 AU from the Sun.[10] In addition,
+WASP-43b had the closest orbit to its host star (among hot Jupiters) at the time of its discovery,
+comparable only to the super-Earth planet GJ 1214 b and to the planetary candidate orbiting
+KOI-961 (confirmed a year later as Kepler-42). While hot Jupiters are known to have small orbital
+periods, planets with exceptionally small periods below three or four days are extremely rare;
+however, in the case of WASP-43b, the planet's proximity can be explained because its host star
+has a very low mass. The rarity of systems like that of WASP-43 and its planet suggest that hot
+Jupiters do not usually occur around low-mass stars, or that such planets cannot maintain stable
+orbits around such stars.[2]
+WASP-43b, along with the planets WASP-19b and WASP-18b, conflicted with currently accepted
+models of tidal movements derived from observations of the orbits of binary star systems.
+Revisions to the model with regard to planets were proposed to help the models conform to the
+orbital parameters of these planets.[2] No orbital decay driven by tidal dissipation was detected in
+2016, placing a lower limit of 10 million years on the remaining planetary lifetime.[11] Updated
+orbital period measurements have failed to detect orbital decay as of 2021.[12][13]
+
+11/15/2023, 8:10 PM
+
+WASP-43b - Wikipedia
+
+3 of 5
+
+https://en.wikipedia.org/wiki/WASP-43b
+
+Atmosphere
+In 2019, the spectrum of WASP-43b was taken, with the best fit being water-containing clouds
+without significant amounts of alkali metals.[14] In 2020, further analysis of the spectra revealed
+the presence of bivalent aluminum oxide (AlO) and water in the atmosphere,[15] while carbon
+monoxide, carbon dioxide and methane were not detected. Climate modelling suggests the carbon
+monoxide concentration may be variable, while the atmospheric spectrum of WASP-43b is
+dominated by clouds made of refractory mineral particles, with a small contribution from
+hydrocarbon haze.[16] Carbon to oxygen ratio in the planet (0.75 ± 0.15) is elevated compared to
+the Solar ratio of 0.55.[17] The planet is very dark overall, with no clouds on the dayside[18] and an
+albedo below 0.06.[6]
+There is a large difference in temperature between dayside (1479 ± 13 K) and nightside (755 ± 46
+K).[18]
+
+External links
+▪ "WASP-43b" (http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=WASP-43b). SIMBAD. Centre
+de données astronomiques de Strasbourg.
+▪ WASP Planets (http://wasp-planets.net/wasp-planets/)
+▪ "Hubble Hangout on planet WASP-43b" (https://www.youtube.com/watch?v=n-oDqYCf3XY).
+YouTube. 2014. Retrieved 7 Nov 2014.
+
+References
+1. "Hubble reveals most detailed exoplanet weather map ever" (http://www.spacetelescope.org/ne
+ws/heic1422/). ESA/Hubble Press Release. Retrieved 14 October 2014.
+2. Hellier, C.; Anderson, D.R. (2011). "WASP-43b: The closest-orbiting hot Jupiter". Astronomy
+and Astrophysics. 535: L7. arXiv:1104.2823 (https://arxiv.org/abs/1104.2823).
+Bibcode:2011A&A...535L...7H (https://ui.adsabs.harvard.edu/abs/2011A&A...535L...7H).
+doi:10.1051/0004-6361/201117081 (https://doi.org/10.1051%2F0004-6361%2F201117081).
+S2CID 70287736 (https://api.semanticscholar.org/CorpusID:70287736).
+3. "2022 Approved Names" (https://www.nameexoworlds.iau.org/2022approved-names).
+nameexoworlds.iau.org. IAU. Retrieved 7 June 2023.
+4. Gillon, M.; Triaud, A.H.M.J. (2012). "The TRAPPIST survey of southern transiting planets. I.
+Thirty eclipses of the ultra-short period planet WASP-43 b". Astronomy and Astrophysics. 542
+(A4): A4. arXiv:1201.2789 (https://arxiv.org/abs/1201.2789). Bibcode:2012A&A...542A...4G (htt
+ps://ui.adsabs.harvard.edu/abs/2012A&A...542A...4G). doi:10.1051/0004-6361/201218817 (htt
+ps://doi.org/10.1051%2F0004-6361%2F201218817). S2CID 50880195 (https://api.semanticsch
+olar.org/CorpusID:50880195).
+5. Jean Schneider (2011). "Notes for star WASP-43" (http://www.exoplanet.eu/star.php?st=WASP
+-43). Extrasolar Planets Encyclopaedia. Retrieved 7 May 2011.
+
+11/15/2023, 8:10 PM
+
+

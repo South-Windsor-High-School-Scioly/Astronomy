@@ -26,7 +26,13 @@ var defaultlist=[
   "Radial Velocity Calc.txt",
   "Radiation Laws (Easier).txt",
   "T-Tauri Variables Source 2.txt",
-"Supernovas And Binary Systems.txt"];
+"Supernovas And Binary Systems.txt", 
+"2M1207 - Wikipedia-combined-1.txt", 
+"Daniel Fleisch, Julia Kregenow - A Student's Guide to the Mathematics of Astronomy-Cambridge University Press (2013).txt", 
+"DefinitionsConstants.txt", 
+"exoplanets.txt", 
+"Helpfull astro crash course.txt"
+];
 
 //___________________________________________________________________________________________________________________
 

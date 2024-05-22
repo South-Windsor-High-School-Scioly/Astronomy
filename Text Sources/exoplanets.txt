@@ -1,0 +1,307 @@
+Astronomy/Exoplanets - Wiki - Scioly.org
+
+1 of 6
+
+https://scioly.org/wiki/index.php/Astronomy/Exoplanets
+
+Astronomy/Exoplanets
+Exoplanets, or extra-solar planets, are planets orbiting stars outside of Earth's solar system.
+Exoplanets is one of the topics for the 2024 Astronomy event, the others being Stellar Evolution
+and Star Formation.
+
+Contents
+Detection of Exoplanets
+Transit
+Radial Velocity
+Direct Imaging
+Types of Exoplanets
+Gas Giant
+Hot Jupiters
+Ice Giant
+Terrestrial Planet
+Super-Earth
+Mini-Neptune
+Pulsar Planet
+Goldilocks Planet
+Rogue Planet
+Puffy Planet
+Chthonian Planet
+Water Worlds
+Temperature of Exoplanets
+External Links
+
+Detection of Exoplanets
+In the equations below, the subscript s denotes the star, and the subscript e denotes the exoplanet.
+R denotes the radius of the object, and M denotes the mass of the object.
+
+Transit
+The transit method uses the light blocked from the parent star by the host planet to determine
+various properties of the star and planet. When a planet comes across the plane of the star in the
+point of view of the Earth, the light given by the star will encounter a brief dip then flatten out before
+then coming back up to the mean value. This dip, called the transit depth, can be used to calculate
+the radius of the planet by comparing it with the radius of the star which can be determined through
+other means and the equation
+
+11/17/23, 9:16 AM
+
+Astronomy/Exoplanets - Wiki - Scioly.org
+
+2 of 6
+
+https://scioly.org/wiki/index.php/Astronomy/Exoplanets
+
+R 2p
+ΔF
+= 2,
+F0
+Rs
+where ΔF is the change in flux or brightness of the star, and F 0 is the original flux.
+One important factor is the likelihood of transit in terms of the properties of the star. This also
+determines how likely it is to find a certain kind of exoplanet. The bigger the planet, the more likely
+the transit can happen which should make sense: the bigger the planet, the more area it covers in
+the sky and more importantly on the star itself, increasing the likelihood of a transit. The bigger the
+orbit, the less likely the transit can happen due to the inclination of the orbit. With a smaller orbital
+radius, there exists a greater range of inclinations that can result in a transit regardless of the size of
+the planet. However, with a larger orbital radius, there exists a lower range of inclination possibly
+resulting in a transit.
+As of September 2023, the transit method has discovered the largest number of exoplanets (about
+3/4 of the total known exoplanets), particularly due to the Kepler/K2 and TESS (Transiting Exoplanet
+Survey Satellite) missions.
+
+Radial Velocity
+Radial velocity, also known as Doppler spectroscopy, detects exoplanets by measuring Doppler
+shifts in the spectrum of the parent star. As of September 2023, about 19% of exoplanets were
+detected using radial velocity.
+The velocity and period of the planet's orbit and the mass of the planet can be calculated after
+measurements with Radial Velocity. First, if the mass of the star M s is not given, calculate it by
+plotting it on the H-R diagram. If the velocity of the star is not given, calculate it using the Doppler
+shift formula
+
+Δλ
+v
+= , where λ 0 is the average of the highest and lowest wavelength and Δλ is the
+λ0
+c
+
+difference between the highest and the average wavelengths.
+
+Find the period P of the star's orbit from the radial velocity measurements. Then, use the general
+
+r3
+GM s
+form 2 =
+of Kepler's Third Law, where r is the length of the semi-major axis of the planet's
+P
+4π 2
+r3
+orbit. Alternatively, one can use the specific form 2 = M s where r is in AU, P is in years and M s is
+P
+in solar masses.
+
+Find the velocity of the planet using v p =
+
+ms vs = me ve .
+
+2πr
+. Finally, find the mass of the planet using
+P
+
+This calculation gives us the minimum mass of the planet. The measured velocity of the star is less
+than its true velocity if the orbital plane is not perpendicular to the sky.Let α denote the orbital
+inclination (https://en.wikipedia.org/wiki/Orbital_inclination#Exoplanets_and_multiple_star_systems),
+then the true velocity of the star and true mass of the planet is given by
+
+v s, true =
+
+vs
+Me
+, M e,true =
+.
+sin α
+sin α
+
+When an exoplanet transits the parent star, the inclination α is very close to 90 degrees. Therefore,
+
+11/17/23, 9:16 AM
+
+Astronomy/Exoplanets - Wiki - Scioly.org
+
+3 of 6
+
+https://scioly.org/wiki/index.php/Astronomy/Exoplanets
+
+the calculation based on radial velocity is close to its true mass.
+
+Direct Imaging
+Direct imaging detects exoplanets by resolving the
+exoplanet from the star in an image. is usually very difficult,
+because planets are much fainter than their parent stars. The
+coronoagraph is used to block the light from the star so the
+planets can be resolved. Most direct imaged exoplanets are
+relatively close to the Earth, widely separated from its parent
+star, and are especially large and hot. Images are made in
+the infrared, where the radiation from the planet is the
+strongest.
+
+Types of Exoplanets
+Gas Giant
+
+Direct Image of four planets around the
+star HR 8799.
+
+Planets composed mainly of hydrogen and helium. They may
+possibly have rocky or icy cores. They have masses greater
+than 10 Earth masses.
+
+Hot Jupiters
+Gas giants that orbit very close to their host star. Scientists believed Hot Jupiters formed farther
+away and migrated inward. Migration is a change in orbit due to interactions with a disk of gas or
+planetesimals. Hot Jupiters are found within .05-.5 AU of the host star. They are extremely hot, with
+temperatures as high as 2400 K. They were initially the most common type of exoplanet found
+because they are the easiest to detect (because they are huge and close to the host star), but as
+detection methods have improved smaller exoplanets and exoplanets farther from their host stars
+have been discovered as well.
+
+Ice Giant
+Composed primarily of volatile substances heavier than helium, such as oxygen, carbon, nitrogen,
+and sulfur. Ice giants have significantly less helium and hydrogen than gas giants and they are also
+smaller. Uranus and Neptune are ice giants. According to some planetary models, these two giant
+planets may have layers of superionic ice under relatively shallow hydrogen and helium atmospheres,
+which would explain their unusual magnetic fields.
+
+Terrestrial Planet
+Composed primarily of silicate minerals or metals.
+
+11/17/23, 9:16 AM
+
+Astronomy/Exoplanets - Wiki - Scioly.org
+
+4 of 6
+
+https://scioly.org/wiki/index.php/Astronomy/Exoplanets
+
+Super-Earth
+Defined exclusively by mass with upper and lower limits. Super Earths are ‘potentially’ rocky planets
+with up to 10 times the mass of Earth. The term ‘Super Earth’ simply refers to the mass of the planet
+and not to any planetary conditions, so some of these may actually be gas dwarfs. The Kepler
+Mission defined a Super-Earth as a planet bigger than Earth-like planets (.8-1.25 Earth radii), but
+smaller than mini-Neptunes (2-4 Earth radii).
+
+Mini-Neptune
+Also known as a gas dwarf or transitional planet. Mini-Neptunes are planets with a mass up to 10
+Earth masses. They are less massive than Uranus and Neptune (shocker) and have thick
+hydrogen/helium atmospheres.
+
+Pulsar Planet
+A planet that orbits a pulsar, a rapidly rotating neutron star. Pulsar planets are discovered through
+anomalies in pulsar timing measurements. Pulsars rotate at a regular speed, so any bodies orbiting
+the pulsar will cause regular changes in its pulsation. The changes can be detected with precise
+timing measurements.
+
+Goldilocks Planet
+Planet that falls within star's habitable zone, which basically means it has the potential to support
+liquid water on its surface.
+
+Rogue Planet
+Also known as interstellar planet, nomad planet, free-floating planet, orphan planet, wandering
+planet or starless planet. A planet without a host star that orbits the galaxy directly.
+
+Puffy Planet
+A planet with a large radius but very low density. Puffy planets expand because they are being
+warmed from the inside out. This warming may be from the star's heat reaches the planet's core, or
+from stellar winds carrying ions and heat that reach deeper into the planet. The ions are attracted to
+the planet's magnetic field. Friction is generated by winds blowing past ions being held by the
+magnetic field, creating heat that will warm the planet from the inside and causing it to expand.
+
+Chthonian Planet
+The rocky core left behind when a hot Jupiter orbits too close to their star. The star's heat and
+extreme gravity can rip away the planet's water or atmosphere.
+
+11/17/23, 9:16 AM
+
+Astronomy/Exoplanets - Wiki - Scioly.org
+
+5 of 6
+
+https://scioly.org/wiki/index.php/Astronomy/Exoplanets
+
+Water Worlds
+An exoplanet completely covered in water. Simulations suggest that these planets formed from icerich debris further from their host star. As they migrated inward, the water melted and covered the
+planet in a giant ocean.
+
+Temperature of Exoplanets
+In calculation of temperature of exoplanets, the star is often assumed to be a blackbody. The
+exoplanet is assumed to reflect some of the radiation, have no heating from its core, and have
+emissivity close to 1.
+Let the temperature of the exoplanet and the star be T e and T s , and the radius be R e and R s . They
+are separated by a distance of D. Then, by Stefan-Boltzmann Law, the radiation from the star and
+the exoplanet is
+
+L s = 4πR 2s ⋅ σT s4 ,
+
+L e = 4πR 2e ⋅ σT e4 ,
+
+where σ is the Stefan-Boltzmann constant.
+Only a fraction of the star's radiation reaches the exoplanet, and only a fraction of those radiation is
+
+πR 2e
+absorbed. The ratio of radiation that reaches the exoplanet is
+by considering the sphere
+4πD 2
+centered at the sun that crosses the exoplanet, and 1 − A of those is absorbed, where A is the
+πR 2e (1 − A)
+Albedo (https://en.wikipedia.org/wiki/Albedo) of the planet. Therefore, L e =
+Ls .
+4πD 2
+Expanding L e and L s and simplifying, we find
+
+T e4
+
+R 2s T s4 (1 − A)
+=
+,
+4D 2
+
+2
+
+4
+
+4 R T (1 − A)
+Te = √ s s 2
+.
+4D
+
+For example, if both the sun and the Earth are assumed to be blackbodies (A = 0), the temperature
+of the Earth would be
+4
+√
+
+(7 ⋅ 10 8 m) 2 (5778K) 4
+= 280K.
+4(1AU) 2
+
+This equation can also be adjusted to account for the presence of an atmosphere with greenhouse
+gases, which gives a better prediction of temperature for some types of exoplanets.
+
+External Links
+NASA Exoplanet Exploration Website (https://exoplanets.nasa.gov/) (Exoplanet information for
+the general public)
+NASA Exoplanet Archive (https://exoplanetarchive.ipac.caltech.edu/) (Database and exoplanet
+news)
+
+11/17/23, 9:16 AM
+
+Astronomy/Exoplanets - Wiki - Scioly.org
+
+6 of 6
+
+https://scioly.org/wiki/index.php/Astronomy/Exoplanets
+
+The Extrasolar Planets Encyclopaedia (http://exoplanet.eu/) (Another database)
+NASA Exoplanet Watch (https://exoplanets.nasa.gov/exoplanet-watch/resources/everything-exo
+/) (Collect and work with exoplanet data!)
+Retrieved from "https://scioly.org/wiki/index.php?title=Astronomy/Exoplanets&oldid=175451"
+
+11/17/23, 9:16 AM
+
+
