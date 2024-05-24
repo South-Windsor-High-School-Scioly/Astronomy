@@ -28,10 +28,11 @@ var defaultlist=[
   "T-Tauri Variables Source 2.txt",
 "Supernovas And Binary Systems.txt", 
 "2M1207 - Wikipedia-combined-1.txt", 
-"Daniel Fleisch, Julia Kregenow - A Student's Guide to the Mathematics of Astronomy-Cambridge University Press (2013).txt", 
+"textbook.txt", 
 "DefinitionsConstants.txt", 
 "exoplanets.txt", 
-"Helpfull astro crash course.txt"
+"Helpfull astro crash course.txt", 
+"All Astro Notes.txt"
 ];
 
 //___________________________________________________________________________________________________________________

@@ -1,0 +1,3174 @@
+NOTES:
+absolute magnitude – a measure of how bright a star would be if it were seen from a
+standard distance (32.6 LY away)
+- apparent magnitude – the brightness of a star as seen from Earth
+-
+
+For identical stars, L (luminosity) is intrinsic, so the ratio La to Lb is 1
+
+-
+
+Calcium is not a common absorption line in the suns solar spectrum
+
+-
+
+Lower absolute value means it’s brighter
+-
+
+-
+
+-
+
+-
+
+-
+
+Random: More negative absolute magnitude is brighter (take absolute value to
+find out which one’s brighter)
+- White dwarves, protostars, and neutrons stars increase in density as more mass is
+added
+- A star with a positive absolute magnitude is NOT intrinsically brighter than a star
+with a negative absolute magnitude
+Planetary system formation theory
+- Planets must orbit in a flat plane
+- Planets DON’T orbit in one direction while close to the central star, and the
+opposite when farther away
+- Large planets have cleared orbital regions
+- Planets orbit in the same direction about the central star
+- Molecular cloud builds up due to strong gravity → part of the cloud collapses to
+form a star → another portion o f the cloud clumps together to form planets
+Drake equation answers the question “Are we alone in the universe” → estimates the
+number of communicative civilizations in the Milky Way
+
+Thermal equilibrium
+- Temperature is constant; loss in energy through radiation = gain in energy
+through fusion
+Nebular theory of solar system formation
+- formed from the gravitational collapse of a giant interstellar gas cloud—the solar
+nebula. – (Nebula is the Latin word for cloud.)
+- Kant and Laplace proposed the nebular hypothesis over two centuries ago.
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Cloud condenses and begins to spin and flattened into a protoplanetary disk and
+then became our solar system
+- Star heats up until fusion occurs
+- Theory supported by our system’s orbital plane, direction, and rotation
+- Pluto’s orbit and Venus do not support this theory
+Unless it’s quickly combined with more nuclei, Helium-helium fusion creates
+Beryllium-8, a highly unstable isotope
+Algol paradox refers to the apparent inconsistency in the brightness variation of an
+eclipsing binary system
+- The Algol paradox refers to the observation that the binary star system, Algol,
+does not follow accepted models of stellar evolution. Typically larger mass stars
+will fuse through their hydrogen faster than lower mass stars. When a star runs
+out of hydrogen, it will move on to the giant stage, one of the later stages of
+evolution.
+- In the case of Algol, the lower mass star was observed to be a red giant, while the
+larger mass star was still on the main sequence. This seemed to defy our models
+of stellar evolution, but the problem was resolved when astronomers realized that
+mass could be transferred from one star to the other.
+The fictitious “angle” which varies linearly with time and defines the position of an
+orbiting body at a specific time is called the mean anomaly
+“Apsidal precession” refers to gradual change in the longitude of ascending node
+Quantum tunneling is NOT cause of perturbations in an elliptical orbit
+- Gravity of other planets, electromagnetic forces, atmospheric drag, radiation
+pressure, and relativistic effects are all causes of perturbations in an elliptical
+orbit
+The vernal equinox represents the origin for ecliptic longitude in the sky and occurs when
+the sun is on the ascending node of the celestial equator
+Sirius B is a white dwarf and an unseen binary companion to the brightest star in the
+night sky (Sirius A)
+Neutronium is the densest state of matter
+A star cluster is a useful natural “laboratory” for studying stellar evolution because the
+stars in a cluster all Have similar spectral type
+Kuiper belt = Donut-shaped disc in the outer Solar
+System, extending from the orbit of Neptune at 30-50
+AU from the Sun
+Asteroids with low albedos are most easily observed
+with infrared light
+Cosmological constant measures the energy density
+of the vacuum of space → simplest explanation for
+dark matter
+Detection of sound waves in early universe → What we observe is not the sound waves
+themselves but rather the spectrum of light emitted from the compressions and
+rarefactions of the sound waves
+
+-
+
+-
+
+Jupiter and Saturn radiate more energy than they receive from the sun, most likely due to
+Gravitational contraction
+The orbits of comets are highly elliptical, and their semi-major axes are large so Most
+comets do not reappear in our sky very often
+Reflection nebulae are due to Scattered radiation from dust and are usually blue
+Lower stellar magnitude number (or apparent magnitude) is a brighter star
+Cosmic Microwave Background is best studied using radio wavelengths
+Metallicity measures the abundance of elements other than hydrogen and helium in an
+object
+In a system in which the planet exhibits an unexpectedly rapid precession of its orbit,
+what might be an explanation based on Keplerian mechanics → The presence of a
+massive object in the outer orbit
+Lyman-alpha lines in astronomical observation is a significant emission line of neutral
+hydrogen
+Cosmological principle = states that the universe looks the same from any location (on
+the large scale)
+Hawking radiation is a theoretical prediction for black holes. This phenomenon suggests
+that black holes Emit radiation due to quantum effects near the event horizon
+Blue loop = the stage in the life of an evolved star where it changes from a cool star to a
+hotter one before cooling again → makes a loop towards blue on the HR diagram
+
+Absorption nebula (aka dark nebula):
+-
+
+Extinction of an absorption nebula is commonly studied using a Wolf diagram. The x axis is the
+magnitude while y axis is the number of stars
+
+-
+
+At lower magnitudes, the number of stars in the nebula and comparison group both increase
+together. After the limiting magnitude, the number of stars falls below the comparison group.
+A dark nebula or absorption nebula is a type of interstellar cloud, particularly molecular clouds,
+that is so dense that it obscures the visible wavelengths of light from objects behind it, such as
+background stars and emission or reflection nebulae.
+The extinction of the light is caused by interstellar dust grains in the coldest, densest parts of
+molecular clouds.
+Clusters and large complexes of dark nebulae are associated with Giant Molecular Clouds.
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Isolated small dark nebulae are called Bok globules. Like other interstellar dust or material, the
+things it obscures are visible only using radio waves in radio astronomy or infrared in infrared
+astronomy.
+Dark clouds appear so because of sub-micrometre-sized dust particles, coated with frozen carbon
+monoxide and nitrogen, which effectively block the passage of light at visible wavelengths. Also
+present are molecular hydrogen, atomic helium, C18O (CO with oxygen as the 18O isotope), CS,
+NH3 (ammonia), H2CO (formaldehyde), c-C3H2 (cyclopropenylidene) and a molecular ion
+N2H+ (diazenylium), all of which are relatively transparent. These clouds are the spawning
+grounds of stars and planets, and understanding their development is essential to understanding
+star formation.
+The form of such dark clouds is very irregular: they have no clearly defined outer boundaries and
+sometimes take on convoluted serpentine shapes. The closest and largest dark nebulae are visible
+to the naked eye, since they are the least obscured by stars in between Earth and the nebula, and
+because they have the largest angular size, appearing as dark patches against the brighter
+background of the Milky Way like the Coalsack Nebula and the Great Rift. These naked-eye
+objects are sometimes known as dark cloud constellations and take on a variety of names.
+
+Molecular Clouds
+A molecular cloud, sometimes called a stellar nursery (if star formation is occurring within), is a type of
+interstellar cloud, the density and size of which permit absorption nebulae, the formation of molecules (most
+commonly molecular hydrogen, H2), and the formation of H II regions. This is in contrast to other areas of the
+interstellar medium that contain predominantly ionized gas.
+Molecular hydrogen is difficult to detect by infrared and radio observations, so the molecule most often used to
+determine the presence of H2 is carbon monoxide (CO). The ratio between CO luminosity and H2 mass is
+thought to be constant, although there are reasons to doubt this assumption in observations of some other
+[1]
+
+galaxies.
+
+Within molecular clouds are regions with higher density, where much dust and many gas cores reside, called
+clumps. These clumps are the beginning of star formation if gravitational forces are sufficient to cause the dust
+and gas to collapse.
+-
+
+[2]
+
+Gravitational collapse is the primary mechanism driving the process of star formation in molecular
+clouds
+
+Within the Milky Way, molecular gas clouds account for less than one percent of the volume of the interstellar medium
+(ISM), yet it is also the densest part of it. The bulk of the molecular gas is contained in a ring between 3.5 and 7.5
+kiloparsecs (11,000 and 24,000 light-years) from the center of the Milky Way (the Sun is about 8.5 kiloparsecs from the
+center).[6] Large scale CO maps of the galaxy show that the position of this gas correlates with the spiral arms of the
+
+galaxy.[7] That molecular gas occurs predominantly in the spiral arms suggests that molecular clouds must form and
+dissociate on a timescale shorter than 10 million years—the time it takes for material to pass through the arm region.[8]
+
+Perpendicularly to the plane of the galaxy, the molecular gas inhabits the narrow midplane of the galactic disc with a
+characteristic scale height, Z, of approximately 50 to 75 parsecs, much thinner than the warm atomic (Z from 130 to 400
+parsecs) and warm ionized (Z around 1000 parsecs) gaseous components of the ISM.[10] The exceptions to the
+ionized-gas distribution are H II regions, which are bubbles of hot ionized gas created in molecular clouds by the intense
+radiation given off by young massive stars; and as such they have approximately the same vertical distribution as the
+molecular gas.
+This distribution of molecular gas is averaged out over large distances; however, the small scale distribution of the gas is
+highly irregular, with most of it concentrated in discrete clouds and cloud complexes
+
+GIANT MOLECULAR CLOUDS:
+GMCs are around 15 to 600 light-years (5 to 200 parsecs) in diameter, with typical masses of 10 thousand to
+[20]
+
+10 million solar masses.
+Whereas the average density in the solar vicinity is one particle per cubic
+centimeter, the average density of a GMC is a hundred to a thousand times lower. Although the Sun is much
+denser than a GMC, the volume of a GMC is so great that it contains much more mass than the Sun. The
+[8]
+
+substructure of a GMC is a complex pattern of filaments, sheets, bubbles, and irregular clumps.
+
+Filaments are truly ubiquitous in the molecular cloud. Dense molecular filaments will fragment into
+gravitationally bound cores, most of which will evolve into stars. Continuous accretion of gas, geometrical
+bending, and magnetic fields may control the detailed fragmentation manner of the filaments. In supercritical
+filaments, observations have revealed quasi-periodic chains of dense cores with spacing of 0.15 parsec
+comparable to the filament inner width.
+
+[21]
+
+A substantial fraction of filaments contained prestellar and
+[22]
+
+protostellar cores, supporting the important role of filaments in gravitationally bound core formation.
+
+The densest parts of the filaments and clumps are called molecular cores, while the densest molecular cores are
+4
+
+6
+
+called dense molecular cores and have densities in excess of 10 to 10 particles per cubic centimeter. Typical
+molecular cores are traced with CO and dense molecular cores are traced with ammonia. The concentration of
+dust within molecular cores is normally sufficient to block light from background stars so that they appear in
+[23]
+
+silhouette as dark nebulae.
+
+GMCs are so large that local ones can cover a significant fraction of a constellation; thus they are often
+referred to by the name of that constellation, e.g. the Orion molecular cloud (OMC) or the Taurus molecular
+
+cloud (TMC). These local GMCs are arrayed in a ring in the neighborhood of the Sun coinciding with the
+[24]
+
+Gould Belt.
+The most massive collection of molecular clouds in the galaxy forms an asymmetrical ring
+about the galactic center at a radius of 120 parsecs; the largest component of this ring is the Sagittarius B2
+complex. The Sagittarius region is chemically rich and is often used as an exemplar by astronomers searching
+[25]
+
+for new molecules in interstellar space.
+
+[26]
+
+Distribution of molecular gas in 30 merging galaxies.
+
+Small molecular clouds[edit]
+Main article: Bok globule
+Isolated gravitationally-bound small molecular clouds with masses less than a few hundred times that of the
+Sun are called Bok globules. The densest parts of small molecular clouds are equivalent to the molecular cores
+found in GMCs and are often included in the same studies.
+
+High-latitude diffuse molecular clouds[edit]
+Main article: Infrared cirrus
+[clarification needed]
+
+[27]
+
+In 1984 IRAS
+identified a new type of diffuse molecular cloud.
+These were diffuse
+filamentary clouds that are visible at high galactic latitudes. These clouds have a typical density of 30 particles
+per cubic centimetre.
+
+[28]
+
+Herbig Haro Objects
+-
+
+bright patches of nebulosity associated with newborn stars.
+formed when narrow jets of partially ionized gas ejected by stars collide with nearby clouds of
+gas and dust at several hundred kilometers per second
+The jets interacting with and ionizing the interstellar medium causes the bright spectra that’s
+observed
+commonly found in star-forming regions, and several are often seen around a single star, aligned
+with its rotational axis. (0 degrees from rotational axis)
+Most of them lie within about one parsec (3.26 light-years) of the source, although some have
+been observed several parsecs away. HH objects are transient phenomena that last around a few
+tens of thousands of years. They can change visibly over timescales of a few years as they move
+rapidly away from their parent star into the gas clouds of interstellar space (the interstellar
+medium or ISM). Hubble Space Telescope observations have revealed the complex evolution of
+HH objects over the period of a few years, as parts of the nebula fade while others brighten as
+they collide with the clumpy material of the interstellar medium
+Electromagnetic emission from HH objects is caused
+when their associated shock waves collide with the
+interstellar medium, creating what is called the
+[11]
+
+"terminal working surfaces".
+The spectrum is
+continuous, but also has intense emission lines of
+[7]
+
+neutral and ionized species. Spectroscopic
+observations of HH objects' doppler shifts indicate
+velocities of several hundred kilometers per second, but
+the emission lines in those spectra are weaker than
+what would be expected from such high-speed
+collisions. This suggests that some of the material they
+are colliding with is also moving along the beam,
+[12][13]
+
+although at a lower speed.
+Spectroscopic
+observations of HH objects show they are moving away
+from the source stars at speeds of several hundred
+kilometers per second
+
+-
+
+As they move away from the parent star, HH objects evolve significantly, varying in brightness
+on timescales of a few years. Individual compact knots or clumps within an object may brighten
+and fade or disappear entirely, while new knots have been seen to appear.
+because of the precession of their jets,
+
+[17][18]
+
+[9][11]
+
+These arise likely
+
+along with the pulsating and intermittent eruptions
+
+[10]
+
+from their parent stars.
+Faster jets catch up with earlier slower jets, creating the so-called
+"internal working surfaces", where streams of gas collide and generate shock waves and
+[19]
+
+-
+
+consequent emissions.
+Short lived, typically formed in star-forming regions, associated with propstars
+
+−8
+
+The total mass being ejected by stars to form typical HH objects is estimated to be of the order of 10
+−6
+
+10
+
+[17]
+
+M☉ per year,
+
+a very small amount of material compared to the mass of the stars themselves
+
+but amounting to about 1–10% of the total mass accreted by the source stars in a year.
+tends to decrease with increasing age of the source.
+[23]
+
+typically about 9,000–12,000 K,
+[24]
+
+and planetary nebulae.
+
+[22]
+
+[21]
+
+to
+
+[20]
+
+Mass loss
+
+The temperatures observed in HH objects are
+
+similar to those found in other ionized nebulae such as H II regions
+
+Densities, on the other hand, are higher than in other nebulae, ranging from a
+3 [23]
+
+few thousand to a few tens of thousands of particles per cm ,
+3
+
+compared to a few thousand particles
+
+[24]
+
+per cm in most H II regions and planetary nebulae.
+
+[22]
+
+Densities also decrease as the source evolves over time.
+HH objects consist mostly of hydrogen and
+helium, which account for about 75% and 24% of their mass respectively. Around 1% of the mass of
+HH objects is made up of heavier chemical elements, including oxygen, sulfur, nitrogen, iron, calcium
+and magnesium. Abundances of these elements, determined from emission lines of respective ions, are
+[20]
+
+generally similar to their cosmic abundances.
+Many chemical compounds found in the surrounding
+interstellar medium, but not present in the source material, such as metal hydrides, are believed to have
+[8]
+
+been produced by shock-induced chemical reactions. Around 20–30% of the gas in HH objects is
+ionized near the source star, but this proportion decreases at increasing distances. This implies the
+material is ionized in the polar jet, and recombines as it moves away from the star, rather than being
+[23]
+
+ionized by later collisions.
+
+Shocking at the end of the jet can re-ionise some material, giving rise to
+
+[
+
+bright "caps".
+
+HH objects are formed when accreted material is ejected by a protostar as ionized
+gas along the star's axis of rotation,
+-
+
+Brightest ones are found at the end of jets from protostars
+
+-
+
+All known Herbig-Haro objects have been found in regions of star formation
+
+-
+
+Herbig-Haro objects are created due to the mass ejection from protostars in the
+form of jets. As the protostar gets older, the rate of mass loss decreases
+
+Molecular Hydrogen Emission Line Object vs. Herbig-Haro Object:
+-
+
+HH objects are observed in optical wavelengths, MHOs are observed in the near
+infrared
+
+Herbig Ae/Be Star
+
+-
+
+pre-main-sequence star – a young (<10 Myr) star of spectral types A or B.
+embedded in gas-dust envelopes and are sometimes accompanied by circumstellar disks.[1] Hydrogen and
+calcium emission lines are observed in their spectra.
+
+-
+
+Circumstellar disks are formed when a protostellar cloud collapses because of conservation of angular
+momentum
+
+-
+
+They are 2-8 Solar mass (M ) objects, still existing in the star formation (gravitational contraction) stage and
+☉
+approaching the main sequence (i.e. they are not burning hydrogen in their center).
+
+-
+
+In the Hertzsprung–Russell diagram, Herbig Ae/Be stars are located to the right of the main sequence.
+
+-
+
+These have a shorter life span than T Tauri stars, so they’re less studied than T Tauri
+
+Protoplanetary Disks
+-
+
+-
+
+a rotating circumstellar disc of dense gas and dust surrounding a young newly formed star, a T Tauri
+star, or Herbig Ae/Be star.
+The protoplanetary disk may also be considered an accretion disk(a rotating disk of matter formed by
+accretion around a massive body, like blackhole, under the influence of gravitation) for the star itself,
+because gasses or other material may be falling from the inner edge of the disk onto the surface of the
+star. This process should not be confused with the accretion process thought to build up the planets
+themselves. Externally illuminated photo-evaporating protoplanetary disks are called proplyds.
+Protostars form from molecular clouds consisting primarily of molecular hydrogen. When a portion of
+a molecular cloud reaches a critical size, mass, or density, it begins to collapse under its own gravity.
+As this collapsing cloud, called a solar nebula, becomes denser, random gas motions originally present
+in the cloud average out in favor of the direction of the nebula's net angular momentum. Conservation
+of angular momentum causes the rotation to increase as the nebula radius decreases. This rotation
+causes the cloud to flatten out—much like forming a flat pizza out of dough—and take the form of a
+disk. This occurs because centripetal acceleration from the orbital motion resists the gravitational pull
+of the star only in the radial direction, but the cloud remains free to collapse in the axial direction.
+
+Debris Disks
+-
+
+a circumstellar disk of dust and debris in orbit around a star. Sometimes these disks contain prominent
+rings, as seen in the image of Fomalhaut on the right. Debris disks are found around stars with mature
+[1]
+
+planetary systems, including at least one debris disk in orbit around an evolved neutron star. Debris
+disks can also be produced and maintained as the remnants of collisions between planetesimals,
+otherwise known as asteroids and comets.
+- Before planetesimals have enough gravity to accrete more mass, particles in the debris field are
+clumped together by electrostatic tensions
+- If there’s a star with a debris disk around it, you can infer there’s at least one planet forming around it,
+there is at least one planet which already formed around it, or there was a failed proto-planet which
+could not fully form around it
+Other Disk info:
+- Why many objects are spinning disks:
+- When a cloud of gas and dust collapses under gravity, it often possesses some initial rotation,
+which gives it angular momentum.
+- The motion in the directions orthogonal to the initial rotation tends to cancel out due to
+collisions and interactions among particles. This cancellation leads to the formation of a
+flatter spinning disk, where most of the mass ends up concentrated in this rotating plane.
+However, since angular momentum is conserved, the disk still spins.
+- What causes shear forces in a protoplanetary disk
+- The material in the disk orbits around the center according to Kepler’s Laws. This means that
+material that is farther away has a lower angular velocity.
+- This differential rotation means that within a region, the part closer to the center will orbit
+faster than the part farther from the center. This causes the region to “smear”, resulting in the
+shear force.
+- Within the disk, which force will dominate → The force with the shortest timescale will dominate.
+
+HI and HII Regions:
+-
+
+HI regions contain neutral, un-ionized hydrogen atoms and HII regions contain ionized hydrogen
+atoms
+HI region = cloud in the interstellar medium composed of neutral atomic hydrogen (HI), in addition to
+the local abundance of helium and other elements.
+- These regions do not emit detectable visible light (except in spectral lines from elements other
+than hydrogen) but are observed by the 21-cm (1,420 MHz) region spectral line.
+- This line has a very low transition probability, so it requires large amounts of hydrogen gas
+for it to be seen.
+- At ionization fronts, where HI regions collide with expanding ionized gas (such as an H II
+region), the latter glows brighter than it otherwise would.
+- The degree of ionization in an HI region is very small at around 10−4 (i.e. one particle in
+10,000).
+- At typical interstellar pressures in galaxies like the Milky Way, HI regions are most stable at
+temperatures of either below 100 K or above several thousand K; gas between these
+temperatures heats or cools very quickly to reach one of the stable temperature regimes.
+Within one of these phases, the gas is usually considered isothermal, except near an
+expanding H II region.
+
+-
+
+-
+
+Near an expanding H II region is a dense HI region, separated from the undisturbed HI region
+by a shock front and from the H II region by an ionization front.
+- Mapping HI emissions with a radio telescope is a technique used for determining the structure
+of spiral galaxies. It is also used to map gravitational disruptions between galaxies.
+- When two galaxies collide, the material is pulled out in strands, allowing astronomers to
+determine which way the galaxies are moving.
+- HI regions effectively absorb photons that are energetic enough to ionize hydrogen, which
+requires an energy of 13.6 electron volts.
+- They are ubiquitous in the Milky Way galaxy, and the Lockman Hole is one of the few
+"windows" for clear observations of distant objects at extreme ultraviolet and soft x-ray
+wavelengths.
+An H II region or HII region is a region of interstellar atomic hydrogen that is ionized.
+- Evolve from molecular clouds
+- It is typically in a molecular cloud of partially ionized gas in which star formation has
+recently taken place, with a size ranging from one to hundreds of light years, and density from
+a few to about a million particles per cubic centimeter.
+- Ionization or recombination occurs because of star formation; in particular, the formation of
+young, hot, O/B type stars that have ionizing radiation
+- The Orion Nebula, now known to be an H II region, was observed in 1610 by Nicolas-Claude
+Fabri de Peiresc by telescope, the first such object discovered.
+- The regions may be of any shape because the distribution of the stars and gas inside them is
+irregular. The short-lived blue stars created in these regions emit copious amounts of
+ultraviolet light that ionize the surrounding gas.
+- H II regions—sometimes several hundred light-years across—are often associated with giant
+molecular clouds. They often appear clumpy and filamentary, sometimes showing intricate
+shapes such as the Horsehead Nebula.
+- H II regions may give birth to thousands of stars over a period of several million years. In the
+end, supernova explosions and strong stellar winds from the most massive stars in the
+resulting star cluster disperse the gasses of the H II region, leaving a cluster of stars which
+have formed.
+- H II regions can be observed at considerable distances in the universe, and the study of
+extragalactic H II regions is important in determining the distances and chemical composition
+of galaxies.
+- Spiral and irregular galaxies contain many H II regions, while elliptical galaxies are almost
+devoid of them. In spiral galaxies, including our Milky Way, H II regions are concentrated in
+the spiral arms, while in irregular galaxies they are distributed chaotically.
+- Some galaxies contain huge H II regions, which may contain tens of thousands of stars.
+Examples include the 30 Doradus region in the Large Magellanic Cloud and NGC 604 in the
+Triangulum Galaxy.
+- Eta Carinae is HII region
+
+Life Cycle of a Star:
+
+-
+
+Star will spend 90% of its lifetime in stage 2
+Initial mass determines how fast a star evolves
+Larger mass means shorter life span because resources get used up faster
+Close binary system with larger stars = shorter lifespan
+Nearly all the elements in the Universe are formed in the cores of massive stars except for
+hydrogen and helium (carbon, oxygen, silicon, sulfur, iron, and nickel are all formed in here)
+The outer layers of a star are more opaque than the layers closer to the core, which is why
+many stars have radiative transport in its inner layers since radiation isn’t absorbed in outer layers
+
+Birth:
+- The life cycle differs between stars depending on their mass.
+- Normal-mass stars begin in stellar nurseries, and some matter condenses to create a
+protostar.
+- This gains more mass until fusion (H -> He) begins, when it becomes a main-sequence
+star.
+- 0.8 solar masses is the lowest mass at which a star can begin hydrogen core fusion
+- A solar nebula consists 98% of hydrogen and helium
+- Star does NOT need to have a mass exceeding TOV limit, temperature below 1000 K,
+uniform magnetic field, or presence of heavy elements to start formation
+- The Tolman-Oppenheimer-Volkoff limit (TOV or Landau-Oppenheimer-Volkoff
+limit or LOV) is the maximum mass of a neutron star (around 3 solar masses)
+- Similar to Chandrasekhar Limit (max mass of a white dwarf)
+Sun:
+- When the sun was in its early solar system formation
+- It had a much faster rate of rotation than it does now
+
+-
+
+-
+
+It was NOT much more luminous than it is now and did NOT have a higher
+temperature than it does now
+- The solar wind was stronger back then than now
+Lithium burning is the process is responsible for removing the lithium from the sun
+- Occurs through p-p chain of nuclear reaction pathway
+
+Moon:
+- Formation of Earth;s moon likely resulted from a collision of two planetary embryos
+Stellar nursery:
+- A stellar nursery, also called a molecular cloud, is the cloud of matter from which stars
+originate.
+- They are clouds primarily consisting of (molecular) hydrogen which are dense and big
+enough that molecules are formed from atoms.
+- They are not extremely common in the interstellar medium (ISM), but they are the
+densest objects in it.
+- Majority of hydrogen in ISM is considered to be HI
+- The molecular gas found in the Milky Way corresponds with its spiral system.
+- Most of the stellar nurseries that we see are Giant Molecular Clouds (GMCs), which,
+predictably, are giant clouds of molecules.
+- They usually have masses upwards of 1000 solar masses and can be up to a few
+hundred light years across.
+- They are made up of complex systems of filaments, sheets, and bubbles, and the
+densest clouds can block light from stars in the background.
+- The Orion Nebula (M42) is part of the Orion Molecular Cloud (OMC), which is a
+well-known GMC close to our Sun.
+- Fragmentation is the process in which a giant molecular cloud breaks into many
+smaller pieces to begin star formation
+- When solar nebula collapses, rotation increases because of conservation of
+angular momentum
+- Jeans mass is the term for the mass at which a gas cloud begins contracting into a
+protostar
+- The cloud is unstable if it is either very massive at a given temperature or very cool at a
+given mass; under these circumstances, the gas pressure gradient cannot overcome
+gravitational force, and the cloud will collapse → called Jeans collapse criterion.
+- Magnetic field does NOT matter
+- Gravitational potential energy is the dominant source of energy for star formation from a
+nebula/gas cloud
+Protostar:
+- When a star is in free-fall collapse, it is a protostar
+
+-
+
+-
+
+-
+
+-
+
+Protostellar cloud collapses under self-gravity, rotating solar nebula takes the shape of a
+disk, grain-sized particles stick together, large particles collide and form protoplanets and
+planetesimals, bombardment, present-day
+Its evolution revolves around the point that its energy comes from gravitational
+contraction.
+Due to its larger radius, it is more luminous than it will be on the main sequence.
+Its low temperature allows for high opacity; due to this high opacity, its main form of
+energy transport is convection.
+Protostars gradually shrink and gain material as their central temperature rises, then
+drops.
+As it contracts, it moves down on the H-R diagram. Its temperature doesn't change much
+at first, but when it rises, opacity decreases, allowing radiation to take over.
+When the star loses much energy to radiation, it moves to the left on the H-R diagram.
+Very low mass stars with masses less than 0.08 solar masses cannot reach the main
+sequence. → They may become brown dwarfs or, more rarely, planets.
+Protostars aren’t found east of the Hayashi track because Collapsing protostars are
+supposed to be fully convective, and if a protostar is in that region, the protostar would
+not be stable, or in hydrostatic equilibrium.
+When mass accretion stops, the protostar is a pre-main sequence star (same energy source
+though)
+Some stars have no discernible pre-main sequence phase
+- Massive stars skip the pre-main sequence phase (or it’s too short to be observable)
+→ by the time they’re visible, they’re already fusing hydrogen
+Pre-main sequence stars are more luminous than main sequence
+
+T Tauri Stars:
+- pre-main-sequence variable stars that are contracting; spectral classes from F to M.
+- They have many emission lines in their spectra, indicating their strong stellar winds.
+- They are easy to identify and can be used as traces of solar-mass star formation regions.
+- T Tauri stars almost always appear within dark dust clouds (Interstellar clouds +
+protoplanetary disks) and in binary systems
+- T Tauri stars have masses generally less than 2 solar masses, with a relatively high
+lithium abundance.
+- As a star ages, lithium is brought deeper into the interior, where it gets destroyed.
+- Thus, the amount of lithium in a star can help give an estimation as to its age, with a
+higher lithium abundance implying a younger star.
+- Type of variable and pre main sequence star (protostar) that uses gravity (gravitational
+energy) to power itself as it heads towards hydrogen fusion
+- Expect to see strong lines of the Balmer Series
+- Over 10 million years old
+- Periodic variability (on timescale of days) → large sunspots cause this
+
+-
+
+random fluctuations → accretion disk instability, obscuration by dust, or flares on star’s
+surface cause this
+- If 1 solar mass, star must develop a radiative zone for this for this stage of stellar
+evolution to end
+- Radiative zones are stable against the formation of convection cells
+- If 4 solar masses, star is Herbig Ae/Be star
+- If 10 solar mass, it’s surprising to find star because Pre-main-sequence stars above 8 M
+evolve quickly and are on the main sequence by the time they disperse the surrounding
+dust cloud, so they aren’t usually visible in their PMS stage
+Main sequence:
+- Stars spend the majority of their lives (about 80 percent) at this stage.
+- The main sequence lifetime of a solar-mass star is approximately 10 billion years.
+- How long a star remains on the main sequence depends on its mass.
+- A star becomes a main sequence star when it is obtaining all its radiated energy from
+nuclear fusion of hydrogen into helium.
+- The pressure that maintains hydrostatic equilibrium with gravity is exerted by collisions
+within the star.
+- When stars are in hydrostatic equilibrium, they do not move on the H-R diagram
+- These collisions will eventually excite electrons in atoms, which then emit light waves.
+- Some of these waves will escape the star; this lost energy comes at the price of lost
+random motion of atoms, which caused collisions in the first place.
+- If nothing could replace this energy, the star would contract because pressure would
+decrease and gravity would take over.
+- This is why thermonuclear reactions in the form of hydrogen burning must occur.
+- Lower-mass stars burn hydrogen using the proton-proton chain. In this reaction, four
+hydrogen atoms combine to form a helium atom. The rate of this reaction is equal to
+- T^4, where T is temperature.
+- M stars have the lowest temperature, so it has the longest main sequence lifetime
+- Convection transfers heat across the outermost region of main sequence stars to the
+surface
+- Convection is occurring in the outer layers, so we should see the areas of convection
+bubbling up and sinking around it, which is what creates the granular appearance
+- More massive main sequence stars have higher temperatures
+- Cooler main sequence stars tend to NOT have less spectral lines
+- More than 99% of stars in the universe are main sequence stars
+- The lower the mass of the star, the more stars there are with that mass (not just with main
+sequence stars)
+- HOWEVER the lower the mass, the less stars we observe with that mass
+- Spectroscopic parallax → a technique that uses main-sequence fitting to determine a
+star’s distance from Earth.
+
+-
+
+-
+
+Uses spectra to determine distance of far away stars when you knew the distance
+of a close star
+- Might yield inaccurate distances for certain types of variable stars because their
+intrinsic luminosity changes over time
+Thermal pressure and radiation pressure are forces acting to stop the collapse of the star
+when it reaches main sequence
+Thermal pressure, radiation pressure, and electron degeneracy pressure are forces acting
+to stop the collapse of the sat in later evolutionary stages
+
+Main Sequence to Red Giant:
+-
+
+Energy released by the core collapsing from gravity drives outer layers to expand
+star transition across a typical H-R diagram during this phase; goes up and right
+hydrogen fusion moving from the core to the shell (used up all hydrogen fuel in the core)
+moves star off of main sequence
+
+Red Giant to Horizontal Branch Phase:
+-
+
+-
+
+Helium Flash occurs in core that lets red giant transition into this phase
+This event is mostly undetectable; we wouldn’t really observe anything
+- Because energy is used to bring the core out of degeneracy and excess energy is
+absorbed by outer layers
+Hydrogen and helium fusion keeps star from collapsing into itself
+Helium nuclei are fused into carbon during helium flash through triple-alpha process
+
+Red Giant to Asymptotic Giant Branch:
+-
+
+Fusion is occuring in a shell around the core; The core is collapsing, releasing energy
+(similar to red giant to horizontal branch)
+Outer layers cool because they are pushed outward when the helium shell around the core
+is violently re-ignited.
+A planetary nebula is formed from material expelled from a highly evolved low mass
+star. These outbursts may be a way that shells of material are expelled from the star.
+- At center of planetary nebula resides a white dwarf
+
+Asymptotic Giant Branch:
+-
+
+Stars in the asymptotic giant branch are short-lived. The degenerate core of the star is
+more massive that it was in the single-shell burning phase, and due to the peculiar nature
+of degenerate matter, the more massive core is physically smaller. The gravity
+experienced by overlying layers is hence stronger, requiring higher luminosities to
+maintain the balance between pressure and gravity. Thus the star expends energy at a very
+high rate and may well become a red supergiant. Stars in this phase of stellar evolution
+have proven to be challenging to model. One problem is that the helium shell burning is
+not stable. The layer of helium fusion is thin. Slight positive perturbations in the nuclear
+energy generate extra pressure and the region is enlarged slightly. But because the layer is
+
+thin, the change in height is slight and hence the change in pressure on the hotter region is
+changed very little. The higher temperature will likely increase the rate of nuclear
+reactions (many reaction processes are very temperature sensitive, such as the triple-alpha
+process which will most likely be dominant in the helium shell). Thus local reaction rates
+will pick up, generating more heat before it can diffuse
+Maturity:
+- When a main sequence star exhausts its core hydrogen, thermonuclear reactions cease.
+- Gravity takes over and contracts the core.
+- This heats the layer of hydrogen, so it can burn in a shell around the core in shell burning.
+This burning heats the surrounding areas, making them expand. Their temperatures
+decrease as their radii increase.
+- The decrease in temperature increases opacity, resulting in convection taking over
+radiation again. The star's luminosity increases significantly.
+- A helium core builds up inside the star, but there isn't enough heat/pressure to fuse the
+helium into heavier elements.
+- However, the hydrogen "shell" around the helium core starts to fuse at a higher rate,
+causing the star to expand into a red giant and become more luminous.
+- Then, as the star uses up its store of hydrogen, the outer layers of the star contract, finally
+achieving enough heat and pressure for the He in the core to fuse to carbon and oxygen.
+- Helium burning occurs by the triple-alpha process. Because the gas in the core is
+degenerate, once it has been ignited, fusion spreads rapidly throughout the core.
+- The temperature increases, increasing the rate of reactions, which then increases the
+temperature again in a cycle.
+- This causes a helium flash when helium is suddenly ignited.
+- After a slight contraction to heat the remaining helium, helium burning continues in a
+shell in a manner like that of hydrogen burning.
+- The burning shells make the star expand enough to reach the red giant phase again, which
+it left after ceasing helium burning.
+- Because the rate of the triple-alpha process is highly sensitive to temperature, the heat of
+the helium-burning shell makes the star unstable.
+- The star will contract a little, increasing temperature, energy production, and pressure in
+the helium layer.
+- The pressure increase overcompensates for gravity, so the star expands.
+- This expansion then decreases the temperature, energy production, and pressure, so
+gravity contracts the star again. This continues in cycles known as thermal pulses.
+Death:
+- Normal-mass stars don't have enough mass to fuse carbon and oxygen into any heavier
+elements.
+- During the thermal pulses, the star has a strong outflow of mass called a superwind.
+
+-
+
+-
+
+Once the star uses its entire store of hydrogen and helium, the outer layers of the star are
+ejected at high speed, potentially forming a planetary nebula.
+- UV Radiation from the central star ionizes the surrounding gas causes material in
+a planetary nebula to emit light
+The remaining carbon/oxygen core heats these layers, exciting photons so the nebula
+glows due to fluorescence.
+The core then cools to become a white dwarf (0.5-0.7M). A white dwarf will continue to
+shine bright despite no longer undergoing fusion, due to the leftover energy it radiates.
+In terms of Astronomy, the energy leftover from fusion is more than enough to keep the
+star bright for millions of years.
+If a white dwarf accumulates enough mass (perhaps gas from its partner in a binary
+system), it will explode in a Type Ia supernova.
+
+White Dwarfs:
+-
+
+-
+
+The more massive the white dwarf, the bigger the radius
+Typically, has the mass of the sun and the volume of the Earth
+A white dwarf could collapse into a black hole if it accretes enough mass from a
+companion to exceed the Chandrasekhar Limit (1.44 solar masses)
+- Has to overcome Pauli Exclusion Principle for this to occur
+Stars with 8 or less solar masses turn into white dwarfs
+
+Brown Dwarfs
+-
+
+-
+
+have more mass than the biggest gas giant planets, but less than the least massive
+main-sequence stars. Their mass is approximately 13 to 80 times that of Jupiter
+(MJ)[2][3]—not big enough to sustain nuclear fusion of ordinary hydrogen (1H) into helium in
+their cores, but massive enough to emit some light and heat from the fusion of deuterium
+(2H). The most massive ones (> 65 MJ) can fuse lithium (7Li).[3]
+Appear diff colors to the naked eye depending on temperature
+They fuse deuterium, but most massive ones fuse lithium
+DBMM = Deuterium burning minimum mass
+brown dwarfs occupy types spectral types M, L, T, and Y based on surface temperature
+Brown dwarfs do not undergo stable hydrogen fusion, they cool down over time, progressively
+passing through later spectral types as they age.
+Black dwarfs are cooled down white dwarfs (after main sequence), while brown dwarfs are still
+main sequence stars
+Transition from spectral type L to T due to changes in temperature
+More chemically similar to red dwarfs than white dwarfs
+As brown dwarfs do not undergo stable hydrogen fusion, they cool down over time,
+progressively passing through later spectral types as they age.
+Their name comes not from the color of light they emit but from their falling between white
+dwarf stars and "dark" planets in size.
+
+-
+
+The warmest ones are possibly orange or red, while cooler brown dwarfs would likely appear
+magenta or black to the human eye.
+Brown dwarfs may be fully convective, with no layers or chemical differentiation by depth.
+Though their existence was initially theorized in the 1960s, it was not until the mid-1990s that the
+first unambiguous brown dwarfs were discovered.
+As brown dwarfs have relatively low surface temperatures, they are not very bright at visible
+wavelengths, emitting most of their light in the infrared. However, with the advent of more
+capable infrared detecting devices, thousands of brown dwarfs have been identified.
+The nearest known brown dwarfs are located in the Luhman 16 system, a binary of L- and T-type
+brown dwarfs about 6.5 light-years (2.0 parsecs) from the Sun. Luhman 16 is the third closest
+system to the Sun after Alpha Centauri and Barnard's Star.
+
+-
+
+High Mass Stars:
+-
+
+-
+
+-
+
+Larger stars are similar, except they begin with more mass and grow to supergiants.
+However, high-mass stars DO have enough mass to fuse carbon and oxygen into heavier
+elements, each step of which temporarily creates enough outwards pressure to keep the
+star from collapsing under its own mass.
+Fusion continues all the way to iron in a process known as nucleosynthesis. Any element
+heavier than iron releases energy through fission instead of fusion.
+- The s-process (slow neutron capture process) is primarily responsible for the
+creation of Intermediate and heavy elements beyond iron in the periodic table
+The energy released by fission isn't enough to support a star of such large mass, and
+evidence of fission indicates that a star will soon be approaching the end of their lifetime.
+You can’t get energy out of iron through fission or fusion due to iron having the lowest
+binding energy per atom of all the elements. Therefore, an iron core is chemically inert;
+the star will have no more energy with an iron core.
+
+Death:
+-
+
+At the end of their lifetime, they can undergo a massive explosion known as a Type II
+Supernova, resulting in their collapse into a neutron star or a black hole.
+Ironically, Higher-mass stars go through their life-cycle faster than their low-mass
+counterparts because the extra mass results in a faster rate of fusion.
+Neutron stars are extremely dense, and rotate at high speeds.
+A popular comparison for the density of neutron stars is condensing the mass of the
+human population into the size of a sugar cube. → 10^17 kg/m3
+As main sequence stars, high-mass stars produce energy through the CNO cycle.
+This form of hydrogen burning uses carbon, nitrogen, and oxygen as catalysts for the
+production of helium.
+
+Low Mass Stars:
+-
+
+Smaller mass stars (red dwarfs-[0.08 to 0.45M]) don't become giants.
+
+-
+
+-
+
+Due to a main sequence lifespan longer than the age of the universe, no evolved red
+dwarf has been observed.
+Some current models predict the red dwarf increasing in surface temperature while
+maintaining a constant radius, transforming them into blue dwarfs.
+Upon the termination of nuclear fusion, the blue dwarf will cool into a white dwarf and
+eventually cool into a black dwarf.
+In general, the mass of a star is inversely proportional to its lifespan - smaller stars (red
+dwarfs) live much longer than our own Sun (an "average" star), which in turn has a much
+longer lifespan than massive stars like Vega.
+Low mass stars fuse up to carbon and end as a white dwarf, while high mass stars fuse up
+to iron and end as neutron star or black holes
+Largest portion (by number) of stars in the Milky Way
+
+Proton-Proton Chain & the Details on Nuclear Fusion:
+-
+
+Proton-proton chain: chain of thermonuclear reactions that is the chief source of the
+energy radiated by the Sun and other cool main-sequence stars.
+four hydrogen nuclei (protons) are combined to form one helium nucleus
+0.7 percent of the original mass is lost mainly by conversion into heat energy, but some
+energy escapes in the form of neutrinos (ν)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Or just 4H → He + 2v
+four hydrogen atoms smashing together and creating a helium atom, two
+electrons, two neutrinos, and two highly energetic gamma-ray photons.
+Nuclear fusion: releases energy because the total mass of the resulting single nucleus is
+less than the mass of the two original nuclei.
+- Einstein’s equation (E=mc2), which says in part that mass and energy can be
+converted into each other, explains why this process occurs
+The main fusion process that provides the vast majority of the sun's energy is the
+proton-proton I (PPI) chain. There are two other branches of the PP chain (II and III) but
+these only account for around 15 percent of the thermonuclear fusion in the sun.
+Photons created thro p-p chain will struggle to escape the star's dense interior, however
+— taking over 30,000 years to move from the core to the surface.
+During this time the photons are undergoing a series of collisions, absorptions, and
+re-emissions, which 'downgrade' their energy to photons of visible light eventually
+radiated out by the photosphere.
+The PPI isn't the main fusion reaction in more massive stars than the sun, however.
+Instead, most of these stars' energy comes from the carbon-nitrogen-oxygen (CNO) cycle
+which requires the higher temperatures of more massive stars to get started.
+
+-
+
+-
+
+-
+
+The energy generated by fusion serves a vital purpose within stars, providing the outward
+pressure that balances the ball of plasma against the inward force of gravity.
+When fusion ceases, so goes the outward pressure; this results in the collapse of the star
+and the swelling and loss of its outer layers.
+For stars larger than our sun, this gravitational collapse creates enough pressure to trigger
+the nuclear fusion of helium created by the main sequence lifetime in its core, fusing it to
+create carbon, neon and oxygen.
+When helium is exhausted, collapse occurs again triggering the fusion of even heavier
+elements.
+As this continues, the star develops an onion-like structure with lighter elements fusing in
+its outer layers and subsequently heavier elements being created towards the core.
+This progression of nuclear fusions ends even for the most massive stars when iron
+dominates the stellar core. This is because iron is an extremely stable element and stars
+aren't massive enough to trigger its fusion.
+When all nuclear fusion ceases, the star undergoes a final and catastrophic gravitational
+collapse → supernova
+shockwaves from the compressing iron core — which will eventually birth a neutron star
+or even a black hole — hit gas shed by the supernova triggering further nuclear fusion
+creating elements heavier than iron and radioactive materials as well as blasting out
+x-rays and gamma-rays.
+
+CNO Cycle:
+-
+
+-
+
+sequence of thermonuclear reactions that provides most of the energy radiated by the
+hotter stars.
+It is only a minor source of energy for the Sun and does not operate at all in very cool
+stars.
+
+C-12 is a catalyst
+
+Supernovae:
+● an event where a star explodes, destroying itself and releasing huge amounts of energy
+
+● distinct from a nova, which is a smaller explosion that does not destroy the progenitor
+star
+● Depending on the star's mass, the supernova may leave behind a neutron star or a black
+hole
+
+●
+Phillips Relation:
+- Relates peak luminosity and speed of luminosity evolution after maximum light
+Core Collapse Supernova:
+- Two ways to form supernova
+- thermonuclear explosion of a white dwarf which has been accreting matter from a
+companion is known as a Type Ia supernova,
+- core-collapse of massive stars produce Type II, Type Ib and Type Ic supernovae.
+- Cutoff mass at which stars will end their lives in core-collapse supernovae = 8 solar
+masses
+- For massive (>10 solar masses) stars, however, this is not the end. The contraction of the
+helium core raises the temperature sufficiently so that carbon burning can begin. After the
+carbon burning stage comes the neon burning, oxygen burning and silicon burning stages,
+each lasting a shorter period of time than the previous one. The end result of the silicon
+burning stage is the production of iron, and it is this process which spells the end for the
+star.
+- Just before core-collapse, the interior of a massive star looks a little like an onion, with
+shells of successively lighter elements burning around an iron core. These burning stages
+become shorter and shorter as lighter elements are fused into heavier elements.
+- Up until this stage, the enormous mass of the star has been supported against gravity by
+the energy released in fusing lighter elements into heavier ones. Iron, however, is the
+most stable element and must actually absorb energy in order to fuse into heavier
+elements. The formation of iron in the core therefore effectively concludes fusion
+processes and, with no energy to support it against gravity, the star begins to collapse in
+on itself.
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+The collapse causes temperatures in the core to skyrocket, which releases very
+high-energy gamma rays. These photons undo hundreds of thousands of years of nuclear
+fusion by breaking the iron nuclei up into helium nuclei in a process called
+photodisintegration.
+At this stage the core has already contracted beyond the point of electron degeneracy, and
+as it continues contracting, protons and electrons are forced to combine to form neutrons.
+This process releases vast quantities of neutrinos carrying substantial amounts of energy,
+again causing the core to cool and contract even further.
+The contraction is finally halted once the density of the core exceeds the density at which
+neutrons and protons are packed together inside atomic nuclei. It is extremely difficult to
+compress matter beyond this point of nuclear density as the strong nuclear force becomes
+repulsive. Therefore, as the innermost parts of the collapsing core overshoot this mark,
+they slow in their contraction and ultimately rebound. This creates an outgoing shock
+wave which reverses the infalling motion of the material in the star and accelerates it
+outwards.
+Aiding in the propagation of this shock wave through the star are the neutrinos which are
+being created in massive quantities under the extreme conditions in the core. Under
+normal circumstances neutrinos interact very weakly with matter, but under the extreme
+densities of the collapsing core, a small fraction of them can become trapped behind the
+expanding shock wave. The energy of these trapped neutrinos increases the temperature
+and pressure behind the shock wave, which in turn gives it strength as it moves out
+through the star.
+The passage of this shock wave compresses the material in the star to such a degree that a
+whole new wave of nucleosynthesis occurs. These reactions produce many more
+elements including all the elements heavier than iron, a feat the star was unable to
+achieve during its lifetime.
+The creation of such elements requires an enormous input of energy and core-collapse
+supernovae are one of the very few places in the Universe where such energy is available.
+Eventually, after a few hours, the shock wave reaches the surface of the star and expels
+stellar material and newly created elements into the interstellar medium.
+Depending on the final mass of the core, neutron star, black hole, or nothing can be left
+after (no white dwarf)
+Spectrum of a core collapse supernova directly reflects the composition of the OUTER
+layer of the progenitor star
+
+-
+
+Type Ia Supernovae:
+● Caused by white dwarves gaining too much mass from a binary companion and reaching
+the Chandrasekhar limit not by high mass stars reaching the end of their lives
+● Also can be caused by two white dwarves colliding
+
+● Generally occur in binary systems where a white dwarf pulls enough mass off of its
+companion to go supernova
+● System that could cause white dwarf to go over the limit is a symbiotic Variable
+● Limit is 1.4 solar masses; when it exceeds limit, it blows itself up in a supernova that’s
+significantly brighter than Type II supernova
+● Distinguished from other type I supernovae by the presence of a strong silicon
+absorption line in their spectra
+● All type Ia supernovae emit roughly the same amount of energy and are the same
+brightness because they result from the same type of star (a carbon/oxygen white dwarf
+around 1.4 solar masses), making them a good tool to determine galaxy distances
+● These supernovae also have very distinctive light curves that fall off quickly and steadily,
+as compared to the gradual fall-off of Type II supernovae
+● The spectra is also distinctive, since exploding dwarfs don't have hydrogen absorption
+lines
+● Type Ia is NOT a core-collapse supernova
+● If you spot a Type 1a supernova, you’d be almost certain that there’s a white dwarf
+located close by
+Causes:
+● Type Ia supernovae occur because of the Pauli Exclusion Principle, which states that two
+particles of the same type can't be in the same quantum state (position, velocity, energy
+level, spin, etc.)
+● Quantum mechanics says that as a white dwarf gains mass and its electrons are squeezed
+into a smaller and smaller space, they have to move faster to avoid being in the same
+quantum state as other electrons
+● As a white dwarf approaches 1.4 solar masses, its electrons start moving at nearly the
+speed of light!
+● White dwarves are the most stable of stars
+● They are very small
+● They shed away their core- comprised of hydrogen and helium- and it turns into a
+planetary nebula
+● Since nothing in the universe can move faster than the speed of light, a white dwarf can't
+exist above 1.4 solar masses, and instead collapses into a neutron star or a black hole
+● This limit of about 1.4 solar masses is known as the Chandrasekhar Limit
+● There are two main models for what can cause a Type Ia supernova: the single degenerate
+model and the double degenerate model.
+Single Degenerate Model:
+● The most common model for a type 1a supernovae consists of a binary star
+system of two main sequence stars
+● (ejects about 1 solar mass worth of iron)
+
+● The larger of the stars will expend the hydrogen in its core faster and evolve into a
+red giant before its partner
+● Eventually, the larger star becomes a white dwarf and the smaller evolves into a
+red giant
+● The orbital period of the binary star system then decreases and can be as low as a
+few hours
+● As the angular momentum of the system is lost, the stars spiral together with the
+white dwarf accreting gas off of the red giant
+● Ultimately, the white dwarf explodes for reasons listed above
+Double Degenerate Model:
+● Another model is where two white dwarves orbit each other quickly and begin to
+fall toward each other
+● Eventually, they will collide in the center of the system, and the resulting body
+will have a mass of over 1.4 solar masses, thus exceeding the Chandrasekhar
+Limit and resulting in a supernova
+● RX J0806.3+1527, a former DSO, fits this model
+
+Exception to the Chandrasekhar Limit:
+● There have been cases in which a white dwarf has exceeded the limit of 1.4 solar
+masses before exploding, and the most famous of these is SN 2003fg, nicknamed
+the "Champagne Supernova"
+● This object approached a mass of 2 solar masses before exploding, so it is causing
+astronomers to question the universality of the Chandrasekhar Limit
+● One hypothesis for the fact that it exceeded the mass is that its fast rotation
+allowed it to support more mass than normal white dwarfs
+Identifying Type Ia Supernovae:
+● Couple ways that can verify whether the object we are looking at is truly a Type Ia
+supernova
+Gamma Ray Bursts:
+
+-
+
+-
+
+-
+
+The fact that long Gamma ray bursts are isotropically distributed across the sky is
+supporting evidence that most of them are extragalactic and similar to supernovae in their
+astrophysical origin
+If you plotted a histogram of the burst durations of a catalog of Gamma Ray Bursts, you
+would see a bimodal distribution
+
+Short-duration GRBs last less than 2 seconds and are thought to originate from neutron
+star mergers, while long-duration GRBs last more than 2 seconds and are believed to be
+the result of massive star collapse
+
+Kilonova:
+A kilonova (also called a macronova) is a transient astronomical event that occurs in a compact
+binary system when two neutron stars or a neutron star and a black hole merge.[1] These mergers
+are thought to produce gamma-ray bursts and emit bright electromagnetic radiation, called
+"kilonovae", due to the radioactive decay of heavy r-process nuclei that are produced and ejected
+fairly isotropically during the merger process.[2] The measured high sphericity of the kilonova
+AT2017gfo at early epochs was deduced from the blackbody nature of its spectrum.[3]
+-
+
+Two neutron stars merging produces a larger neutron star or a black hole
+Light Curves:
+● One of the ways astronomers identify Type Ia Supernovae is through their light
+curves
+● All of the light curves have a similar shape, with a sharp increase, followed by a
+decrease that begins steeply and gets flatter
+● Also, because Type Ia supernovae originate in the same basic way, they all have a
+peak absolute magnitude of around -19.3, which is useful as a standard candle
+● This is one of the main ways that they are differentiated from Type II supernovae,
+whose curves have distinctly different shapes
+
+Emission Spectra:
+● All Type Ia supernovae also have very similar emission spectra, since they all
+originate from white dwarves
+● The two major characteristics of Type Ia are that they are lacking in hydrogen
+(common to all Type I supernovae) and have strong Si II lines (only characteristic
+of Ia)
+Use In Determining Distances:
+● An important characteristic for Type Ia supernovae is that they can act as a standard
+candle
+● All Type Ia supernovae have an absolute magnitude of about -19.3 (sometimes cited as
+-19.6), so by measuring the apparent magnitude observed from the explosion on Earth,
+one can simply use the distance modulus formula to determine the distance to the object.
+● The distance modulus is given by: 𝑚 − 𝑀 = 5(𝑙𝑜𝑔(𝑑) − 1); distance is in pc
+● Since the absolute magnitude at the peak must be -19.3, you can substitute this into the
+equation as the value for M: 𝑚 + 19. 3 = 5𝑙𝑜𝑔(𝑑) − 1)
+𝑚+19.3
++1
+5
+
+● Or, if the equation is rearranged to get distance on one side: 𝑑 = 10
+● So once you know how bright the supernovae appeared from Earth at its peak, you can
+then determine its distance fairly accurately.
+
+Type II Supernovae:
+● Type II supernovae occur when a star of at least eight solar masses cannot fuse any more
+elements together to create energy
+● This happens when iron is created; no nuclear energy can be made from iron with fusion
+or fission
+● When this happens, the star blows itself apart
+● Heavy elements - elements with atomic numbers greater than 26 - are created in these
+supernovae
+● If the star's core has a mass of 1.4 to 3.2 solar masses, a neutron star is formed
+
+● Neutron stars are incredibly dense - a neutron star with a diameter of about 12 km has the
+same mass as the Sun
+● Some neutron stars rotate quickly enough to emit beams of radiation at the magnetic
+poles; these are called pulsars, as the beams appear to "pulse" at a constant rate
+● However, if the core has a mass greater than 3.2 solar masses, a black hole is formed
+● These are made of degenerate elementary particles and have infinite density; Their
+gravity is so great that at a certain distance, called the event horizon, not even light can
+escape
+Electron Degeneracy Pressure:
+● Electron Degeneracy Pressure is a direct result of the Pauli Exclusion Principle, which
+states that no two electrons can occupy the same quantum state at the same time
+● Because of this, electrons that are packed very close together experience a force
+preventing them from getting any closer
+● However, gravitational force continues to be directed inward, so the electron degeneracy
+pressure is directed against this to prevent a gravitational collapse
+● As the gravity increases, electrons move to higher and higher energy levels to
+compensate, causing them to move faster than normal
+● Dominant force counteracting gravity in some part of a solar-mass star during Red Giant
+(core) and white dwarf phases
+Chandrasekhar Limit:
+● There is a limit to which the electron degeneracy pressure can work
+● Eventually, the gravity is too great for the electron degeneracy pressure to overcome,
+since eventually the electrons must be moving at or above the speed of light to balance it,
+which is impossible
+● The mass at this point is around 1.44 solar masses, and this is what is known as the
+Chandrasekhar limit
+● Above this limit, white dwarves will undergo gravitational collapse and result in a Type
+Ia supernova, but it can also cause the core of a massive star to collapse, triggering a
+Type II supernova
+Cause:
+● Type II Supernovae result from the collapse of massive stars, resulting from the collapse
+of the star's iron core
+● This usually occurs once the star starts fusing silicone- the end product is iron, which
+burns through fission rather than fusion
+● This results in the formation of a series of layers within the star
+● When the iron core reaches the Chandrasekhar mass limit of about 1.4 solar masses, the
+electron degeneracy pressure (in layman's terms, the unwillingness of electrons to be
+squeezed into a smaller and smaller space) which had kept it from collapsing before then,
+isn't enough to hold the core up
+● Protons and electrons in the core are forced together to form neutrons and neutrinos
+
+● The neutrinos produce a huge outward force simply because there are so many of them
+(they don't usually interact with regular matter)
+● The force can not be successively countered, and the star will implode and send off a
+shockwave that becomes the supernova explosion
+● Meanwhile, the outer layers of the star fall inward, due to gravity, as the core collapses
+● When the core stops collapsing because of neutron degeneracy pressure (compression of
+neutrons in the contracting core), the outer layers crash into the core and "bounce"
+outwards, creating a shock wave
+● Along with the outward pressure from the neutrinos, this shock wave is what causes the
+star (except for the core) to blow itself apart in a Type II supernova
+● "Massive" stars generally need to be at least eight solar masses to be categorized as such,
+though much more massive stars are known to exist
+● The theoretical maximum mass for a star is defined through the Eddington limit, though
+there have been observed cases that seemingly break it
+● The more massive the star, the faster it will go through the stages of fusion and eventually
+collapse
+● Because massive stars are metal-rich (they're the only ones capable of even fusing and
+creating most metals), they tend to be Population I stars, located in Open Clusters, where
+there are younger and more metal heavy stars
+● As a result, Type II Supernovae are generally thought to occur in Population I stars and
+Open Clusters.
+Variations of Type II Supernovae:
+● Type II Supernovae are categorized based on their light curves
+● However, there are various characteristics that have been determined to be related to the
+variation of supernova they will undergo
+● Type II-p supernovae are expected to occur from stars that are up to around 90 times the
+mass of the sun and have a high metallicity.
+● Type II-L supernovae are expected to occur from stars of around the previous mass, but
+with a lower metallicity.
+● Type II-n supernovae are supernovae that have narrow Hydrogen lines in their emission
+spectra.
+Results of Type II Supernovae:
+● The results of a Type II Supernova are either neutron stars or black holes along with a
+supernova remnant
+● The energy and mass that make up a supernova remnant spread out and become a part of
+the interstellar medium, fueling the creation of new stellar objects
+● In this way, supernovae contribute to the "life cycle" of the universe- as stars collapse and
+reach their ends, parts get recycled to help create new stars and objects
+Neutron Stars:
+● Stars with 8 or more solar masses turn into neutron stars
+
+● If the core is 2-3 solar masses or less, it evolves into a neutron star - a star made
+up almost entirely of neutrons, leaving the star with no electrical charge
+● Despite the name, neutron stars do not behave like normal stars in that they do not
+burn their core through fusion
+● Neutron stars spin very fast due to how dense they are, and they have very strong
+magnetic fields, which can emit radio waves
+● The angular momentum from the original star is conserved, but at a much smaller
+radius, causing its high rotational speed
+● As these stars spin, the radio jets are aimed out into space
+● When the jet is momentarily aimed towards Earth during its rotation, we see a
+regular, repeating pulse...which is why these stars are called pulsars
+○ As neutron star slows or loses kinetic energy, radio bursts that scientists
+observe would be spaced out and they can use this to figure of the rate of
+loss of rotational kinetic energy in pulsars and neutron stars
+● Neutron stars are composed of neutrons,
+● Though there is no fusion, the star keeps itself together through degeneracy
+pressure
+● This can be further explained by the Pauli Exclusion Principle, stating that no two
+subatomic particles can occupy the same place and state simultaneously
+● Because of the Pauli Exclusion Principle, the neutrons repel each other and keep
+in motion, with the sheer number of neutrons creating a force that keeps the object
+together
+● radius = 11 km; Mass = 1.3-2.5 Msun
+● Carbon atmosphere and iron envelope on surface of star
+● Neutron stars are the collapsed core of a massive supergiant which had a mass
+between 10-25 solar masses, more if the star was metal rich
+Pulsars:
+- Pulsars = rapidly rotating neutron star that emits regular pulses of radio waves and
+other electromagnetic radiation at rates of up to one thousand pulses per second
+- Millisecond pulsars (MSPs) = pulsar with a rotational period less than about 10
+milliseconds
+- origin of millisecond pulsars is that they are old, rapidly rotating neutron
+stars that have been spun up or "recycled" through accretion of matter
+from a companion star in a close binary system
+- Magnetars = a neutron star with an extremely strong magnetic field.
+- Magnetars are differentiated from other neutron stars by having even
+stronger magnetic fields, and by rotating more slowly in comparison. Most
+magnetars rotate once every two to ten seconds, whereas typical neutron
+stars rotate one to ten times per second
+- Oldest to Youngest → Magnetars, pulsars, MSPs
+
+Light Curves:
+● Light Curves relate to variable stars as well, but analyzing the light curves of supernovae
+can reveal information about them, such as their type or subtypes
+● Type II Supernovae are primarily distinguished by a much slower decline in luminosity
+when compared to the days after the event, highlighted by a prolonged plateau
+● Type II Supernovae also tend to peak lower than their Type I counterparts, in terms of
+luminosity
+● Given the several different possible variations within the Type II supernova, it is
+important to know the differences between their light curves- it can end up being
+essential to their identification.
+● Type II-p supernovae have the distinct plateau in their luminosity that type II supernovae
+are generally known for, showing a long period of constant luminosity before eventually
+fading down.
+● Type II-L supernovae lack the plateau that Type II-p supernovae have, and are much
+more uncommon.
+○ When asked to identify against a Type-I supernova, the Type II-L one will likely
+have a lower average magnitude and fade out after a much longer timespan.
+● Type II-b supernovae are peculiar in that after a bit of time, they fade out similar to Type
+I-b supernovae
+○ When identifying, look for a lower average magnitude and a change in the light
+curve similar to a "dip"- after declining in luminosity, the curve will rise and peak
+again, and decline in a (relatively) rapid fashion similar to a Type I supernova.
+● Type II-n supernovae are a bit more luminous, peak a bit faster, and decline a bit faster,
+but nowhere near in the degree as Type I supernovae.
+
+Type Ib and Type Ic Supernovae:
+
+● Type Ib and Ic supernovae (also called stripped core-collapse supernovae) both result
+from the collapse of a massive star (like a population I star), much like Type II
+supernovae
+● Type Ib happens when a star that has shed its hydrogen shell goes supernova.
+● Type Ic loses hydrogen and helium shell
+● However, since these stars have lost their outer layer of hydrogen before the explosion,
+hydrogen is absent from their emission spectra, so their spectra are comparable to Type Ia
+supernovae, which do not have hydrogen in them either
+● Type Ic has also had its helium layer blown off, so it will not have helium lines in its
+spectrum either
+● This blowing off of layers is normally caused by either a strong stellar wind by a partner
+in a binary system or the fact that the star is so massive that it has little gravitational
+control over its outer layers, as in a Wolf-Rayet star.
+● Since, to exist, the parent stars of these supernovae must have been extremely large, they
+are only found in areas of rapid star formation, and so they are rarely found in elliptical
+galaxies and globular clusters.
+● Like type Ia supernovae, they are characterized by a lack of hydrogen absorption lines in
+their spectra
+● The spectra of Type Ib/c supernovae are very similar to that of a Type Ia, except for the
+fact that they lack an absorption line of ionized silicon at 635.5 nm
+● The spectra of Types Ib and Ic can be distinguished by the absence of helium lines at
+587.6 nm for a Type Ic (since it has lost most of its helium)
+
+Planet Formation (Star Formation earlier):
+-
+
+51 Pegasi b. Is important → First exoplanet orbiting a sun-like Star/prototype of Hot
+Jupiter class of exoplanets
+Around PSR 1257 was where the first exoplanet was discovered by Aleksander
+Wolszczan
+Exoplanet is a planet outside our solar system
+Habitable planets are less likely to exist far from a galactic center because There are
+fewer metals to form planets in the outer disk
+
+How planets form:
+- The dust around a star is critical to forming celestial objects around it.
+- Dust around stars contains elements such as carbon and iron which can help form
+planetary systems.
+- When a star is in its forming disk, otherwise known as the T Tauri phase, it is ejecting
+extremely hot winds dominated by positively charged particles called protons and neutral
+helium atoms.
+- Although much of the material from the disk is still falling on the star, small groups of
+lucky dust particles are crashing into one another, clumping into larger objects.
+- Dust clumps become pebbles, pebbles become larger rocks that grind together to expand.
+The presence of gas helps particles of solid material stick together. Some break apart, but
+others hold on. These are the building blocks of planets, sometimes called
+"planetesimals."
+- Where the disk is colder, far enough from the star that water can freeze, tiny fragments of
+ice hitch a ride with dust. Dirty snowballs can amass into giant planetary cores.
+- These colder regions also allow gas molecules to slow down enough to be drawn onto a
+planet.
+- This is how Jupiter, Saturn, Uranus and Neptune, the gas giants of our solar system, are
+thought to have formed. Jupiter and Saturn are thought to have formed first and quickly
+within the first 10 million years of the solar system.
+- In the warmer parts of the disk, closer to the star, rocky planets begin to form.
+- After the icy giants form there’s not a lot of gas left for the terrestrial planets to accrete.
+- Planets that are rocky like Mercury, Venus, Earth and Mars may take tens of millions of
+years to form after the birth of the star. The details of exactly where planets prefer to form
+in disks is still a mystery and an ongoing area of research.
+- Once planets form around a star they are referred to as planetary systems, which are
+defined as sets of gravitationally bound objects that orbit a star.
+- They can consist of one or more planets, but may also include dwarf planets, asteroids,
+natural satellites, meteoroids, and comets.
+- The Sun and its planets, including Earth, is known as the solar system. The term
+"extrasolar" system and "exoplanet" system refer to planetary systems other than our
+own.
+Stages:
+- Dust to planetesimals → formation of planetesimals from dust via gravitational instability
+of the dust layer or binary coagulation of dust grains
+- Planetesimals to protoplanets → grow by collisions
+- Initial growth mode is runaway growth, where larger planetesimals grow faster
+than smaller ones
+- When mass of protoplanets (runaway planetesimals) exceeds the critical mass, the
+growth mode shifts to oligarchic growth
+
+-
+
+-
+
+Oligarchic growth → protoplanets grow in an orderly mode while maintaining
+orbital separation by orbital repulsion
+- As a result, by the end of the second stage, protoplanets are formed with orbital
+separations proportional to their Hill radii.
+Protoplanets to planets → known as giant impact phase where protoplanets collide with
+one another to form planets.
+
+Planetary Formation Theories:
+- Planetesimal hypothesis → theory of the origin of the solar system
+- Proposed by Forrest R. Moulton and Thomas C. Chamberlain in 1900
+- States that the planets were formed by the accumulation of extremely small bits of
+matter that revolved around the sun
+- This matter was produced when a passing star almost collided with the sun
+- During the near-collision, hot gasses were pulled out of both stars and the gasses
+then condensed
+- Planets were built up in hierarchical collisions
+- Greatest flaw as assuming matter would condense, but gravity was weaker so it
+probably won’t
+- Tidal theory → planets formed from condensed gasses “ripped” from an already existing
+Sun
+- James Jeans theory in 1917 that involved Sun and very massive star in 3 stages
+- 1. Massive star passes within Roche Limit of Sun, pulling out material in the form
+of a filament
+- Roche limit = distance at which a satellite begins to be tidally torn apart
+- 2. Filament is gravitationally unstable and breaks into series of blobs of masses
+greater than the Jeans’ critical mass, and so collapse to form protoplanets
+- 3. Planets were left in orbit about the Sun
+- Capture theory → during a close stellar encounter, Sun captures material out of which
+planets form
+- Modified version of Jeans’ theory proposed in 1964 by M. Woolfson
+- Sun interacts with nearby protostar, dragging filament from protostar
+- Low rotation speed of Sun is explained as due to formation before planets
+- Terrestrial planets due to collisions between protoplanets close to Sun and giant
+planets
+- Planetary satellites due to condensation in drawn out filaments
+- Nebula theory → planets formed at the same time as the Sun in the same gas cloud
+- Proposed by Pierre Laplace in 1796 and Consists of 5 stages
+- 1. Slowly rotating, collapsing gas and dust sphere.
+- 2. An oblate spheroid, flattened along the spin axis.
+- 3. The critical lenticular form - material in the equatorial region is in free orbit.
+
+-
+
+4. Rings left behind in the equatorial plane due to further collapse. “Spasmodic”
+process leads to annular rings.
+5. One planet condenses in each ring with the Sun at center.
+
+Stages of terrestrial planetary development (idk if this will be useful):
+- Differentiation → layer formation
+- As a body becomes large enough to attract planetesimals en masse and become a
+planet, the energy generated by the frequent impacts begins a process of
+differentiation, whereby the material separates according to density.
+- Dense materials migrate to the core, attracted by gravity, whereas finer materials
+form the crust and early atmosphere.
+- The process is complex. Dense materials may separate out like drops of water and
+drop through the crust, while fluids and molten materials rise buoyantly through
+the crust, forming veins and fissures.
+- Differentiation happens because the system seeks to minimize gravitational
+energy.
+- Cratering → Impacts and Scars
+- The crust of the newly formed planet eventually cools, but the bombardment of
+planetesimals that created it in the first place continues, and because the planet is
+no longer molten, the impacts form craters.
+- Some of the impacts may burst through the crust to the molten mantle.
+- In the early stages of planetary formation, the number of impacts is very high, as
+evidenced by Mercury and the moon, two bodies with old surfaces that have been
+largely unchanged since they were formed. Both planets are saturated with craters.
+- Flooding → Lava covers everything
+- While cratering is still occurring -- and partly as the result of it -- the crust of a
+planet fractures, and lava bursts through and flows over the land, smoothing the
+craters and filling them.
+- In the case of Earth, water vapor also flowed through the fissures during this stage
+of planetary formation.
+- It rose into the atmosphere and fell to the ground as rain, forming the oceans and
+other bodies of water.
+- Water flooding didn't accompany lava flooding on other planets in the solar
+system. On these planets, the effects of lava flooding are more apparent.
+- Surface evolution → changing landscape
+- The last stage of planetary formation, surface evolution, lasts for billions of years.
+- The face of the planet is slowly altered by the movement of tectonic plates and the
+effects of atmospheric movements and water.
+
+-
+
+-
+
+-
+
+The collision of tectonic plates pushes up mountains and shifts continents, while
+rain and wind slowly wear away the surface and remove all traces of chaotic early
+stages of planetary formation.
+In the case of Earth, radioactivity in the core actually makes it hotter than it was
+when it formed, which may be one of many reasons why the conditions to support
+life evolved.
+In a multi-planet system, the phenomenon of orbital resonance can either stabilize
+or destabilize the system, depending on the specific orbital periods.
+
+Detection of Exoplanets:
+● In the equations below, the subscript s denotes the star, and the subscript e denotes the
+exoplanet. R denotes the radius of the object, and M denotes the mass of the object.
+Astrometry:
+- Least successful method of discovering exoplanets
+- the measurement of the positions, motions, and magnitudes of stars
+Transit:
+● Found the most exoplanets
+● The transit method uses the light blocked from the parent star by the host planet to
+determine various properties of the star and planet
+● When a planet comes across the plane of the star in the point of view of the Earth,
+the light given by the star will encounter a brief dip then flatten out before then
+coming back up to the mean value
+● This dip, called the transit depth, can be used to calculate the radius of the planet
+by comparing it with the radius of the star which can be determined through other
+2
+
+means and the equation
+
+∆𝐹
+𝐹0
+
+=
+
+𝑅𝑝
+2
+
+𝑅𝑠
+
+where ∆𝐹 is the change in flux or brightness of
+
+the star, and 𝐹0 is the original flux
+●
+●
+●
+
+●
+
+○ Transit depth relates to size/radius of exoplanet
+When you want to observe the small dip in brightness as an exoplanet passes
+behind its host star, you look at the infrared spectrum
+One important factor is the likelihood of transit in terms of the properties of the
+star
+This also determines how likely it is to find a certain kind of exoplanet; The
+bigger the planet, the more likely the transit can happen which should make sense:
+the bigger the planet, the more area it covers in the sky and more importantly on
+the star itself, increasing the likelihood of a transit
+The bigger the orbit, the less likely the transit can happen due to the inclination of
+the orbit
+
+● With a smaller orbital radius, there exists a greater range of inclinations that can
+result in a transit regardless of the size of the planet
+● However, with a larger orbital radius, there exists a lower range of inclination
+possibly resulting in a transit
+● Multiple stars can be observed at once in search for exoplanets
+● Best utilized for planets with “edge-on” orientation
+● Most planets discovered since 1995 (4150 planets maybe?)
+● Can be used to predict ingress and egress duration
+○ Ingress = time it takes to fully cover star
+○ Egress = time it takes to fully uncover star
+● The main difficulty with the transit-photometry method is that in order for the
+photometric effect to be measured, a transit must occur. Not all planets orbiting
+other stars transit their stars as seen from Earth; a distant planet must pass directly
+between its star and Earth.
+● Drawbacks: transit cannot be detected if the angle of inclination is near 90 degree;
+bigger orbit decreases probability of transit being viewed, smaller star decreases
+probability of transit being viewed.
+● Does not allow a direct study of the discovered exoplanet
+● We can observe a transit for Venus
+● Based on the transit photometry curve alone, you can say these things could be
+true: system contains only 2 planets, or system contains more than 2 planets
+○ You CAN’T say that the planets in the system are equal in size or that the
+system contains more than 1 central star (idk if this depends on a specific
+light curve though)
+Radial Velocity:
+● Found the second most exoplanets
+● Requires precise spectroscopy, which is expensive, so not as many found as
+transit method
+● Radial velocity, also known as Doppler spectroscopy, detects exoplanets by
+measuring Doppler shifts in the spectrum of the parent star. As of April 2016,
+about (1000 maybe?) of exoplanets were detected using radial velocity
+● Can be used if the exoplanet’s orbital plane is along our line of sight (so a
+significant radial velocity can be measured) or if The exoplanet is also relatively
+large and close to its star.
+● The velocity and period of the planet's orbit and the mass of the planet can be
+calculated after measurements with Radial Velocity
+● First, if the mass of the star is not given, calculate it by plotting it on the H-R
+diagram
+
+● If the velocity of the star is not given, calculate it using the doppler shift formula
+∆λ
+λ0
+
+𝑣
+
+= 𝑐 where λ0 is the average of the highest and lowest wavelength and ∆λ is
+
+the difference between the highest and the average wavelengths.
+● Find the period P of the star's orbit from the radial velocity measurements. Then,
+use the general form
+
+3
+
+𝑟
+
+2
+
+𝑃
+
+=
+
+𝐺𝑀𝑠
+2
+
+4π
+
+of Kepler's Third Law, where 𝑟 is the length of
+
+the semi-major axis of the planet's orbit. Alternatively, one can use the specific
+form
+
+3
+
+𝑟
+
+2
+
+𝑃
+
+= 𝑀𝑠 where r is in AU, P is in years and 𝑀𝑠 is in solar masses.
+
+● Find the velocity of the planet using 𝑣𝑝 =
+
+2π𝑟
+𝑃
+
+● Finally, find the mass of the planet using 𝑚𝑠𝑣𝑠 = 𝑚𝑒𝑣𝑒; This calculation gives us
+the minimum mass of the planet. The measured velocity of the star is less than its
+true velocity if the orbital plane is not perpendicular to the sky
+● Let α denote the orbital inclination, then the true velocity of the star and true mass
+𝑣
+
+𝑀
+
+𝑠
+𝑒
+of the planet is given by 𝑣𝑠, 𝑡𝑟𝑢𝑒 = 𝑠𝑖𝑛α
+, 𝑀𝑒, 𝑡𝑟𝑢𝑒 = 𝑠𝑖𝑛α
+
+● When an exoplanet transits the parent star, the inclination is very close to 90
+degrees. Therefore, the calculation based on radial velocity is close to its true
+mass.
+● Using radial velocity and transit method, you can find the density of an exoplanet
+● Disadvantage → Cannot accurately determine mass of planet; can only provide
+estimate of minimum mass/most likely to find types of planets least likely to be
+hosts of life.
+Direct Imaging:
+● Direct imaging detects exoplanets by resolving the exoplanet from the star in an
+image
+● It’s usually very difficult, because planets are much fainter than their parent stars
+● The coronagraph is used to block the light from the star so the planets can be
+resolved
+● Most direct imaged exoplanets are relatively close to the Earth, widely separated
+from its parent star, and are especially large and hot
+● Images are made in the infrared, where the radiation from the planet is the
+strongest
+● Can’t use it if planet is close to luminous star because you can’t see the planet
+over the star’s light
+● NOT TRUE → Attaining practical image quality requires one to be located very
+close to the system of interest, making it most useful for studying our solar
+system.
+
+● NOT TRUE → Collecting sufficient data for analysis can take many months or
+even years since you need to plot the system’s light curve over at least one period.
+● The resolving power of the telescope must be very high to distinguish an
+exoplanet located far away.
+● NOT TRUE → You must know the distance to the system of interest to ignore the
+effects of cosmological redshift.
+
+Core Accretion Model
+-
+
+a two-stage process whose first stage closely resembles the formation of terrestrial planets.
+
+-
+
+A core with a mass of the order of 10 Earth masses forms in the disk by numerous collisions
+between planetesimals. Typically, there is not enough solid material to form bodies this massive
+in the inner region of a protoplanetary disk.
+
+-
+
+At larger orbital radii, beyond the snow line (frost line), the temperature is low enough that ice as
+well as rocky materials can condense. This extra solid material, together with the reduced gravity
+of the central star, allows large solid cores to form in the outer regions of a disk. Initially a core is
+surrounded by a low-mass atmosphere, which grows steadily more massive as the gas cools and
+contracts onto the core.
+
+-
+
+Eventually the core exceeds a "critical core mass", beyond which a hydrostatic envelope cannot
+be maintained. Determining an accurate time scale for reaching the critical core mass is very
+difficult, in part because the rate at which the gas cools depends upon how transparent the
+envelope is. The transparency varies dramatically with the amount of dust present, which is
+extremely uncertain. Once the core mass is exceeded, gas begins to flow onto the core. It is slow
+at first but increases rapidly as the planet becomes more massive. Growth ceases when the supply
+of gas is terminated, either because the planet opens a gap in the disk or because the disk gas
+dissipates.
+
+-
+
+Terrestrial planet formation will be found close to the central star where temperatures are high
+
+-
+
+In short: The model proposes that gas giant planets form by the gradual accumulation of solid
+cores (or planetesimals) followed by the rapid accretion of surrounding gas from the
+protoplanetary disk.
+
+-
+
+Terrestrial planets→ higher density, condense at higher temperatures and so they form closer to
+stars than gas giants because heavier elements are more strongly attached by a star
+
+(Direct Image of 4 planets around the star HR 8799)
+Gravitational Microlensing Method:
+- Gravitational lensing is an observational effect that occurs because the presence of mass
+warps the fabric of space-time, sort of like the dent a bowling ball makes when set on a
+trampoline.
+- Microlensing → relies on relativistic effects of gravity to bend light
+- The effect is extreme around very massive objects, like black holes and entire galaxies.
+- But even stars and planets cause a detectable degree of warping, called microlensing.
+- Here’s how it works. Light travels in a straight line, but if space-time is bent – which
+happens near something massive, like a star – light follows the curve. Any time two stars
+align closely from our vantage point, light from the more distant star curves as it travels
+through the warped space-time around the nearer star.
+- If the alignment is especially close, the nearer star acts like a natural cosmic lens,
+magnifying light from the background star. Planets orbiting the lens star can produce a
+similar effect on a smaller scale.
+- Roman will find planets in other poorly studied categories, too.
+- Microlensing is best suited to finding worlds from the habitable zone of their star and
+farther out.
+- This includes ice giants, like Uranus and Neptune in our solar system.
+- While ice giants are a minority in our solar system, a 2016 study indicated that they may
+be the most common kind of planet throughout the galaxy.
+- Roman will put that theory to the test and help us get a better understanding of which
+planetary characteristics are most prevalent.
+Types of Exoplanets:
+Gas Giant:
+● Planet composed mainly of hydrogen and helium; may possibly have rocky or icy
+cores; masses greater than 10 Earth masses
+● Around 25% of all discovered exoplanets are gas giants.
+
+Hot Jupiters:
+● Hot Jupiters are gas giants that orbit very close to its host star
+● First type of exoplanet found
+● Scientists believed Hot Jupiters formed farther away and migrated inward →
+describes formation of Hot Jupiters
+● Migration is a change in orbit due to interactions with a disk of gas or
+planetesimals
+● Hot Jupiters are found within .05-.5 AU of the host star
+● Much, much larger high orbital velocity around its central star
+● They are extremely hot, with temperatures as high as 2400 K
+● They are the most common type of exoplanet found because they are the easiest to
+detect (because they are huge and close to the host star.)
+● Around 50% of discovered exoplanets are Hot Jupiters.
+Ice Giant:
+● Composed primarily of volatile substances heavier than helium, such as oxygen,
+carbon, nitrogen, and sulfur
+● Ice giants have significantly less helium and hydrogen than gas giants and they
+are also smaller
+● Uranus and Neptune are ice giants
+● According to some planetary models, these two giant planets may have layers of
+superionic ice under relatively shallow hydrogen and helium atmospheres, which
+would explain their unusual magnetic fields.
+● H2O, CH4 and NH3 abundant on these planets
+Terrestrial Planet:
+● Composed primarily of silicate minerals or metals
+Super-Earth:
+● Defined exclusively by mass with upper and lower limits, Super Earths are
+‘potentially’ rocky planets with up to 10 times the mass of Earth
+● The term ‘Super Earth’ simply refers to the mass of the planet and not to any
+planetary conditions, so some of these may actually be gas dwarfs
+● The Kepler Mission defined a Super-Earth as a planet bigger than Earth-like
+planets (.8-1.25 Earth radii), but smaller than mini-Neptunes (2-4 Earth-radii).
+● A super-Earth has a lower mass than a mini-Neptune; those two are classified
+solely by mass.
+Mini-Neptune:
+● Also known as a gas dwarf or transitional planet
+● Mini-Neptunes are planets with a mass up to 10 Earth masses
+● They are less massive than Uranus and Neptune (shocker) and have thick
+hydrogen/helium atmospheres.
+Pulsar Planet:
+
+● A planet that orbits a pulsar, a rapidly rotating neutron star
+● Pulsar planets are discovered through anomalies in pulsar timing measurements
+● Pulsars rotate at a regular speed, so any bodies orbiting the pulsar will cause
+regular changes in its pulsation
+● The changes can be detected with precise timing measurements
+● Pulsars were used to confirm the existence of extrasolar planets
+Goldilocks Planet:
+● Planet that falls within a star's habitable zone, which basically means it has liquid
+water.
+Rogue Planet:
+● Also known as interstellar planets, nomad planet, free-floating planet, orphan
+planet, wandering planet or starless planet
+● A planet without a host star that orbits the galaxy directly.
+Puffy Planet:
+● A planet with a large radius but very low density
+● Puffy planets expand because they are being warmed from the inside out
+● This warming may be from the star's heat reaching the planet's core, or from
+stellar winds carrying ions and heat that reach deeper into the planet
+● The ions are attracted to the planet's magnetic field
+● Friction is generated by winds blowing past ions being held by the magnetic field,
+creating heat that will warm the planet from the inside and causing it to expand.
+Chthonian Planet:
+● The rocky core left behind when a hot Jupiter orbits too close to their star
+● The star's heat and extreme gravity can rip away the planet's water or atmosphere.
+● 0 have been detected so far
+Water Worlds:
+● An exoplanet completely covered in water
+● Simulations suggest that these planets formed from ice-rich debris further from
+their host star
+● As they migrated inward, the water melted and covered the planet in a giant ocean
+Temperature of Exoplanets:
+● In calculation of temperature of exoplanets, the star is often assumed to be a blackbody
+● The exoplanet is assumed to reflect some of the radiation, have no heating from its core,
+and have emissivity close to 1
+● Let the temperature of the exoplanet and the star be 𝑇𝑒 and 𝑇𝑠, and the radius be 𝑅𝑒 and
+𝑅𝑠. They are separated by a distance of D. Then, by Stefan-Boltzmann Law, the radiation
+2
+
+4
+
+2
+
+4
+
+from the star and the exoplanet is 𝐿𝑠 = 4π𝑅𝑠 * σ𝑇𝑠 , 𝐿𝑒 = 4π𝑅𝑒 * σ𝑇𝑒
+● where σ is the Stefan-Boltzmann constant
+
+● Only a fraction of the star's radiation reaches the exoplanet, and only a fraction of that
+2
+
+radiation is absorbed. The ratio of radiation that reaches the exoplanet is
+
+π𝑅𝑒
+
+by
+
+2
+
+4π𝐷
+
+considering the sphere centered at the sun that crosses the exoplanet, and 1 − 𝐴 of those
+2
+
+is absorbed, where A is the Albedo of the planet. Therefore, 𝐿𝑒 =
+4
+
+● Expanding 𝐿𝑒 and 𝐿𝑠 and simplifying, we find 𝑇𝑒 =
+
+π𝑅𝑒 (1−𝐴)
+
+2 4
+
+𝑅𝑠 𝑇𝑠 (1−𝐴)
+2
+
+4𝐷
+
+2
+
+4π𝐷
+
+𝐿𝑠
+
+2 4
+
+, 𝑇𝑒 =
+
+𝑅𝑠 𝑇𝑠 (1−𝐴)
+2
+
+4𝐷
+
+● This equation can also be adjusted to account for the presence of an atmosphere with
+greenhouse gasses, which gives a better prediction of temperature for some types of
+exoplanets
+● Summary: Need inverse square law for light at the planet’s distance from the star, the
+albedo of the planet, and the atmospheric composition of the planet
+Binary Star System:
+- More massive star evolves faster
+- Lower mass star would gravitationally pull some of the red giant’s material from the
+outer layers onto itself when the faster evolving star expands to a red giant
+- This increases luminosity and temperature
+- Primary factor used to classify binary star systems is orbital period
+- Significant of a common proper motion → both stars more though space with the same
+velocity
+- Proper motion = The apparent angular motion of a star across the sky with respect
+to more distant stars, as seen from the center of mass of the solar system.
+- Parallax is caused by the motion of Earth around the sun, which is not taken into
+consideration in proper motion.
+- Planets orbit both stars around a point called the barycenter
+Triple star system:
+- Two stars form a close binary system, while the third orbits at a greater system
+
+Variable Stars:
+-
+
+-
+
+Stars that vary significantly in brightness with time, usually due to the buildup of energy
+via pressure generated from stellar processes.
+Changes in luminosity can be tracked via light curves, and periods may span from several
+hours to several years. Most lie on a strip (the instability strip) on the HR diagram
+between the main-sequence and red giants.
+Shortest to longest period: RR Lyrae, Cepheid, LPV (Mira); (LPV = long period variable)
+
+Standard Candles:
+
+-
+
+Astrophysical objects whose luminosity can be calibrated via measurements independ of
+flux and distance
+Usually known apparent magnitude
+Eg. helium flash red giant stars
+
+Intrinsic Variable Stars:
+- change in luminosity due to physical changes in the star
+Pulsating Variable Stars:
+- are stars whose atmospheres expand and contract periodically.
+Wolf-rayet Stars:
+Wolf–Rayet stars, often abbreviated as WR stars, are a rare heterogeneous set of stars with unusual
+spectra showing prominent broad emission lines of ionized helium and highly ionized nitrogen or carbon.
+The spectra indicate very high surface enhancement of heavy elements, depletion of hydrogen, and strong
+stellar winds. The surface temperatures of known Wolf–Rayet stars range from 20,000 K to around
+210,000 K, hotter than almost all other kinds of stars. They were previously called W-type stars referring
+to their spectral classification.
+Classic (or population I) Wolf–Rayet stars are evolved, massive stars that have completely lost their outer
+hydrogen and are fusing helium or heavier elements in the core. A subset of the population I WR stars
+show hydrogen lines in their spectra and are known as WNh stars; they are young extremely massive stars
+still fusing hydrogen at the core, with helium and nitrogen exposed at the surface by strong mixing and
+radiation-driven mass loss. A separate group of stars with WR spectra are the central stars of planetary
+nebulae (CSPNe), post-asymptotic giant branch stars that were similar to the Sun while on the main
+sequence, but have now ceased fusion and shed their atmospheres to reveal a bare carbon-oxygen core.
+All Wolf–Rayet stars are highly luminous objects due to their high temperatures
+
+Cepheid variables:
+
+-
+
+have high luminosities and short periods, with their pulsation periods closely related to
+their luminosities.
+Stars which brightens and dims periodically
+Eg. RT Aurigae
+Cepheids are used as standard candles to establish distances because they have known
+absolute magnitude
+
+-
+
+-
+
+Luminosity is dependent on period, and we can measure the period from any
+distance. Thus, we know the luminosity, and can then calculate the distance using
+apparent brightness.
+When the star expands outward, the temperature decreases and the luminosity increases
+
+-
+
+They inhabit the upper portion of the instability strip on the HR diagram.
+They are based off of the star Delta Cephei.
+There are two classes of Cepheids: Classical and Type II.
+Type I Cepheids:
+- Type I Cepheids (δ Cepheus is a classical Cepheid) are population I stars with
+high metallicities, and pulsation periods generally less than 10 days.
+- Brighter and younger than type II
+- Type II Cepheids:
+- Type II Cepheids (W Virginis stars), are low-metallicity, population II stars with
+pulsation periods between 10 and 100 days.
+Mira variables:
+
+-
+
+-
+
+are red giant stars in the very late stages of stellar evolution (Asymptotic Giant Branch).
+This class of variable stars have pulsation periods of longer than 100 days with
+amplitudes greater than 1 magnitude in the infrared and 2.5 in the visible. Based off of
+the star Mira.
+They are rapidly losing mass which forms dust shrouds around the star
+Carbon rich and oxygen rich
+Semiregular Variable is similar to Mira Variables
+- We don't have any way of knowing the intrinsic luminosity of semiregular, as
+luminosity is not dependent on period.
+
+-
+
+a type of variable star, is a giant or supergiant of intermediate and late spectral
+type showing considerable periodicity in its light changes, accompanied or
+sometimes interrupted by various irregularities
+- SRA vs SRB
+- SRA = consistent periodicities
+- SRB = inconsistent periodicities
+- CANNOT be used as Standard Candle
+RR Lyrae variables:
+
+-
+
+Can be used as standard candle
+are older, relatively low-mass, metal poor stars (Population II) with typical pulsation
+periods of less than one day, possibly as short as seven hours.
+- Absolute magnitude around 0.75 (0-+5)
+- They belong to a pulsating horizontal branch on the H-R diagram, and are usually class A
+or F stars with masses about half of that of the Sun.
+- They are more common than Cepheids, yet are less luminous and are used as std. candles
+for relatively near objects and studies of globular clusters.
+- Ionized helium is opaque, which allows the star to push outer layers out. if the helium is
+not opaque, then the outer layers will begin to fall inward until the helium is heated and
+ionized to opacity again. (causes pulsation in star)
+- If the core of this star is generating more energy, it would take longer to make one
+pulsation because the helium would push out farther, then have to collapse farther back
+in, which would take longer.
+- The luminosity of the star would increase with higher energy
+- Red giant phase in stellar evolution
+- Found in the galactic halo or bulge
+T Tauri variables:
+
+-
+
+are pre-main sequence stars and belong to F, G, K, and M classes.
+They are contracting along the Hayashi track to the main sequence, and display strong
+optical variability.
+- Because of their large radii, they are more luminous than main-sequence stars of similar
+mass.
+- Because of their youth, they are typically found near molecular clouds.
+S Doradus variables:
+
+-
+
+are extremely rare, extremely massive, and extremely luminous stars.
+They are also known as Luminous Blue Variables and often show unpredictable and
+dramatic variations in both spectra and brightness that becomes an LBV is 21 M
+Minimum initial mass of main sequence star
+First published in the triangulum galaxy in 1922 by john charles duncan
+Are unstable supergiant or hypergiant stars with <1M years in the LBV phase.
+Temperatures can range from ~10,000K to 25,000K and luminosities range from
+250,000-1M times that of the Sun. Example is Eta Carinae
+Lose mass because of stellar winds and random outburst
+- Luminosity will increase during these periods
+Brightness, spectral features, appearance, temperature all vary
+Type II supernovae comes next in stellar evolution
+- Core collapses when this happens
+Close to reaching the Humphreys-Davidson (HD) limit
+- sets the boundary between evolutionary channels of massive stars that either end
+their lives as red supergiants (RSGs) or as the hotter blue supergiants (BSGs) and
+Wolf-Rayet stars
+
+Dwarf novae:
+
+-
+
+are a class of cataclysmic variable stars consisting of a close binary system, one of which
+is a white dwarf accreting material from its partner.
+- Collapse of accreted material causes a cataclysmic explosion.
+- Have lower luminosities than classical novae and recur on scales from days to decades.
+Luminosity of outburst increases with interval and orbital period.
+- Possibly useful as standard candles (used to measure distance because of its known
+luminosity)
+- Look at the main sequence turnoff point and see how much it moved to estimate how
+much time passed from 2 HR Diagrams of Dwarf Novae and its previous binary system
+- Faster evolving star = white dwarf; slower evolving star = red giant
+- Buildup of mass on surface of white dwarf, common envelope (dust would make some
+variation), occasionally an outburst cause variations
+- Dwarf novae, symbiotic stars, and X-ray binaries all have systems composed of a
+compact object and a non-compact donor star and they likely went through a common
+envelope phase
+Eruptive Variable Stars:
+
+-
+
+The second major type of intrinsic variable star are eruptive variable stars.
+These stars are mostly pre-main sequence stars, but an exceptional few main sequence
+stars are eruptive variables.
+
+-
+
+Pre-main sequence (also called protostars) are stars that have not completed the process
+of becoming a main-sequence star from a gas nebula and are not yet condensed. So while
+condensing they change in magnitude.
+- Eruptive Main-sequence variables are usually extremely larger or extremely smaller than
+the average main sequence star.
+- Some eruptive variables are red giants since they easily lose their gasses.
+- The last type of eruptive variable star is binary eruptive stars. These stars flare up and can
+remain that way for 1-4 years.
+- Important eruptive variable stars are the Orion Variables, the Wolf-Rayet variables, and
+RS Canum Venaticorum variables.
+Explosive Variable Stars:
+- The third major type of an intrinsic variable star is a cataclysmic or explosive variable
+star.
+- The most dramatic type of these variable stars are called Supernovae.
+- This only occurs in extremely massive and old stars, or in white dwarfs that gain enough
+mass to go supernova.
+- The outer layers of the star are expelled at high speeds creating a supernova remnant or
+nebula. A white dwarf or pulsar is usually left behind.
+- The second type of these variables are called Novae. They are dramatic explosions
+caused by a pair of close binaries but don’t cause the total destruction of the star.
+- Another type are dwarf novae and are very similar to novae. Dwarf novae are just two
+binary white dwarfs that regularly have outbursts.
+- The fourth and final type of intrinsic variable are Z Andromedae Variables. These are a
+less common type of variable and are caused by a double star system containing a red
+giant and a hot blue star; enclosed in a cloud of dust and gas.
+
+Extrinsic Variable Stars:
+-
+
+Extrinsic variable stars can be stars that change in luminosity due to external changes; the
+two major types are rotating and eclipsing.
+- Rotating variable stars are stars that change in luminosity due to the rotation of the star.
+This can happen because of such things as a sunspot on the surface as it rotates. This can
+also occur when two close binary stars change shape due to their mutual gravity.
+Fluctuations in magnetic fields can cause slight change in magnitude.
+- The second type of extrinsic variable star are eclipsing variable stars. These are caused
+when stars in double star systems eclipse, causing a lowing of magnitude. However, this
+variation can only be viewed from certain angles. Planetary transits can also cause a very
+small variation in luminosity only viewed with very accurate instruments.
+Binaries:
+- A binary star system is a system of two stars that orbit a common center of gravity, or
+barycenter.
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+These systems make up nearly 80 percent of all stars in the Milky Way. Binaries and
+other multiple-star systems can be visual, eclipsing, astrometric, spectroscopic, or a
+combination of these.
+Visual binaries appear to the unaided eye to be one star, but can be seen as two through a
+telescope. An example is Polaris, which is made up of Polaris A ( which is two more stars
+in itself) and Polaris B.
+Eclipsing binaries appear to be single stars through a telescope; however, by measuring
+the brightness of an eclipsing binary, one can determine that the brightness changes over
+time.
+This change of brightness is because the plane of these stars' orbit lies along our line of
+sight. When one star passes in front of the other, it appears as though the "star" gets
+dimmer.
+If rings surrounding the central system are dusty material ejected by one of the stars, the
+star that produces the dust and stellar winds is typically a Wolf-Rayet Star
+If the dusty material is periodically compressed by stellar winds when they orbit close
+enough, the orbit of the binary system is highly eccentric
+Thus, their light curves reveal occasional dips in luminosity between constant periods due
+to this eclipse. Epsilon Aurigae, one of the DSO's, is a special eclipsing binary because
+one of its components is surrounded by a mysterious dust cloud.
+
+Spectral binaries are stars that are so close that they cannot be distinguished by either a
+telescope or by measuring brightness. They can only be separated with spectral analyses,
+which is where they get their names.
+-
+
+Herbig–Haro objects are bright patches of nebulosity associated with newborn stars. They are
+formed when narrow jets of partially ionized gas ejected by stars collide with nearby clouds
+of gas and dust at several hundred kilometers per second (found with T tauri stars) (found
+with infrared wavelengths)
+
+X Ray Binaries:
+X-ray binaries are a class of binary stars that are luminous in X-rays. The X-rays are
+produced by matter falling from one component, called the donor (usually a relatively normal
+
+star), to the other component, called the accretor, which is very compact: a neutron star or
+black hole. The infalling matter releases gravitational potential energy, up to several tenths of
+its rest mass, as X-rays. (Hydrogen fusion releases only about 0.7 percent of rest mass.) The
+lifetime and the mass-transfer rate in an X-ray binary depends on the evolutionary status of
+[1]
+
+the donor star, the mass ratio between the stellar components, and their orbital separation.
+
+-
+
+Normal star + (white dwarf, neutron star, or black hole)
+
+Blackbodys:
+-
+
+A black body or blackbody is an idealized physical body that absorbs all incident
+electromagnetic radiation, regardless of frequency or angle of incidence. The name "black
+body" is given because it absorbs all colors of light. A black body also emits black-body
+radiation. In contrast, a white body is one with a "rough surface that reflects all incident rays
+[1]
+
+completely and uniformly in all directions."
+
+-
+
+Has no reflectance so it appears white
+All moving baryonic matter emits electromagnetic radiation
+black body radiation is a continuous frequency spectrum only depending on a
+body’s temperature
+Black holes are near perfect black bodies
+Radiation DOES NOT vary linearly with temperature
+
+Globular Clusters:
+A globular cluster is a spheroidal conglomeration of stars. Globular clusters are bound together by gravity,
+with a higher concentration of stars towards their centers.
+Although one globular cluster, Omega Centauri, was observed in antiquity and long thought to be a star,
+recognition of the clusters' true nature came with the advent of telescopes in the 17th century. Using larger
+telescopes, 18th-century astronomers recognized that globular clusters are groups of many individual stars.
+Early in the 20th century the distribution of globular clusters in the sky was some of the first evidence that the
+Sun is far from the center of the Milky Way.
+Globular clusters are found in nearly all galaxies. In spiral galaxies like the Milky Way they are mostly found
+in the outer spheroidal part of the galaxy – the galactic halo. They are the largest and most massive type of star
+cluster, tending to be older, denser, and composed of lower abundances of heavy elements (Population II) than
+open clusters (Population I), which are generally found in the disks of spiral galaxies. The Milky Way has
+more than 150 known globulars, and there may be many more.
+The origin of globular clusters and their role in galactic evolution are unclear. Some are among the oldest
+objects in their galaxies and even the universe, constraining estimates of the universe's age. Star clusters were
+formerly thought to consist of stars that all formed at the same time from one star-forming nebula, but nearly
+all globular clusters contain stars that formed at different times, or that have differing compositions. Some
+clusters may have had multiple episodes of star formation, and some may be remnants of smaller galaxies
+captured by larger galaxies. Globular clusters are generally composed of hundreds of thousands of low-metal,
+old stars. The stars found in a globular cluster are similar to those in the bulge of a spiral galaxy but confined
+[32]
+
+to a spheroid in which half the light is emitted within a radius of only a few to a few tens of parsecs.
+[46]
+
+are free of gas and dust
+
+They
+
+and it is presumed that all the gas and dust was long ago either turned into stars or
+
+blown out of the cluster by the massive first-generation stars.
+
+[32]
+
+-
+
+All stars in a globular cluster are around the same age and have similar compositions
+First one was NGC 104
+Relatively few supernovae (type II), planetary nebulae, luminous blue variables, and
+magnetars occur in globular clusters
+In Milky Way, typical globular cluster has Population II stars
+
+Stellar Populations:
+-
+
+Populations of stars are classified by their metallicity, or by how much heavy metals a
+star has.
+- Higher metallicity of the universe when the star formed causes spectral differences
+between the populations
+- Similar Chemical composition and age
+Population I:
+- has the greatest concentration of metals, and most of them are relatively new stars that
+have taken metals expelled from other stars.
+- The Sun is included within this group, as are many stars in the outer reaches of our
+galaxy.
+- These make up the majority of stars in spiral and irregular galaxies.
+- Open clusters, which are mostly located in the spiral arms of a galaxy, contain mostly
+Population I stars.
+- Main factor that causes spectral difference between population I and II stars is the higher
+metallicity of the universe when the star formed
+- hotter
+Population II:
+- has some heavy metals, but not as much as Population I, as they are older and did not
+benefit from as much metal dust as newer stars did.
+- Stars in globular clusters and near the core of our galaxy belong to this population.
+- Smaller galaxies also have more stars in this population.
+- Population II stars also make up the majority of stars in elliptical galaxies.
+- Cooler
+- Lower metallicity results in fewer massive stars, giving the galaxy a redder appearance
+- due to older, cooler stars.
+Population III (hypothetical):
+- consisting of the very first stars with little to no metal content, as they did not exist near
+the beginning of the universe.
+- They did not last very long, but helped the metals to form for the later populations
+Emission Lines:
+- If a particle emitting that emission line is traveling towards you, 1. The emission line
+shifts to higher wavelengths. 2. The emission line broadens
+
+Galaxies:
+-
+
+A galaxy is a gravitationally bound group of stars, dust and stellar remnants.
+Tully-fisher relation → technique that uses the rotational velocity of a galaxy to
+determine its distance from Earth
+
+Galactic Structures:
+-
+
+There are four main structures that may be found in galaxies: the disk, the halo, the bulge,
+and the nucleus.
+
+Disk:
+- This is the flattened area of a galaxy that surrounds the galactic bulge.
+- It contains a majority of the luminous stars and interstellar matter (gas and dust in and
+amongst the stars).
+- It contains both young and old stars, but has the highest quantity of young stars of these
+structures and is undergoing star formation.
+- Stars move in circular orbits in the galactic plane of the disk.
+Halo:
+- This is the spherical area all around the galaxy.
+- It is relatively dim, and contains only old stars.
+- It does not contain interstellar medium, and is not undergoing star formation.
+- The galactic halo contains a majority of the globular clusters.
+- It appears reddish in color.
+- Stars in the halo move in random orbits (in three dimensions).
+Bulge:
+- This is the area of a galaxy where the disk bulges in the center.
+- It contains young and old stars, with a higher number of old stars toward the outer region
+of the bulge.
+- It has ongoing star formation, especially toward the center, and has interstellar medium,
+in higher quantity toward the center.
+- It appears yellow-white.
+- Stars in the bulge have random orbits (in three dimensions)
+Nucleus:
+- This is the dense center of the galaxy, often contained within the bulge.
+- It has a high density of stars and interstellar matter.
+
+Hubble Classification:
+-
+
+Edwin Hubble (American astronomer) was the first astronomer to categorize galaxies in a
+comprehensive manner, based heavily on their shape and structure.
+Spiral Galaxies:
+- Spiral galaxies are denoted by the letter "S" in the Hubble classification scheme.
+- Spiral galaxies consist of an inner core of old stars moving slowly and outer arms of
+faster-moving younger stars.
+- Spiral galaxies contain a flattened disk with apparent spiral arms, a dense bulge, and a
+halo.
+- The bulge has the highest stellar density (stars per unit volume) in spiral galaxies.
+- The disks of spiral galaxies are rich in interstellar matter.
+- A high amount of star formation occurs in their spiral arms, which contain emission
+nebulae.
+- Newly formed O and B-type stars cause the spiral arms to appear bluer than the rest of
+the galaxy.
+- Spiral galaxies are classified into three subtypes, Sa, Sb, and Sc. Some major differences
+between Sa spiral galaxies and Sc spiral galaxies are listed in the table below, with Sb
+being an intermediate between the two in all categories.
+
+Barred Spiral Galaxies:
+- Barred Spiral Galaxies are a variation of Spiral Galaxies, and are denoted by "SB"
+in the Hubble Classification Scheme.
+- They have very similar properties to spiral galaxies, but have a horizontal bar of
+stars protruding out from the galactic core into the disk, and the spiral arms
+project from the ends of the bar.
+- The subclasses (SBa-SBc) have the same properties as spiral galaxies in their
+classification.
+
+Elliptical Galaxies:
+- Elliptical galaxies are denoted by the letter "E" in the Hubble Classification Scheme.
+- Elliptical Galaxies are generally older and larger than spiral galaxies.
+- They display little structure of any type, with a dense nucleus in the center and halo
+surrounding it.
+- Contain more Population II stars than the Milky Way
+- They tend to not display a galactic bulge or disk, and it is very weak if they do.
+- Elliptical galaxies contain very little cool interstellar matter, and there is no evidence of
+ongoing star formation or young stars.
+- Elliptical galaxies contain mostly old, red stars.
+- However, elliptical galaxies do contain large amounts of very hot interstellar gas.
+- Elliptical galaxies have a huge variation.
+
+-
+
+They range from huge in size (giant ellipticals) to very small in size (dwarf ellipticals). In
+the Hubble Classification Scheme, they are ordered in terms of eccentricity.
+E0 ellipticals are perfectly circular, and E7 ellipticals cigar-shaped.
+
+Lenticular Galaxies:
+- This is a type of galaxy between an elliptical galaxy and a spiral galaxy.
+- It contains a thin disk and bulge, but no gas or spiral arms.
+- These galaxies are classified as S0 galaxies (or SB0 if they have a bar).
+
+Irregular Galaxies:
+- Irregular galaxies are denoted by "Irr" in the Hubble Classification Scheme.
+- Their appearance does not fit them into any other category, and they tend to exhibit little
+to no internal structure.
+- They tend to have lots of interstellar matter and young, blue stars.
+- Irregular galaxies also have subclasses.
+- The more common Irr I irregulars look more like misshapen spiral galaxies.
+- The much rarer Irr II galaxies have a much more irregular shape, and commonly have an
+explosive or filamentary appearance.
+
+Formation and Evolution:
+-
+
+Studies on galaxy formation and evolution, unlike star formation and evolution, are still
+very young and in the early stages.
+- There are some widespread theories that have gained popularity, however, of galaxy
+formation and evolution.
+- Galaxy mergers do not inhibit star formation? (at least not because of the chaotic flow of
+dust and gas)
+Formation:
+- Galaxies likely are a result of slight differences in density in the early universe.
+- Places with higher density would get matter pulled toward them through gravity, while
+places with lower density would have matter pulled away from them.
+- These galaxies may have merged and grown to form the large galaxies we see today.
+Evolution:
+- Galaxies can evolve in two ways.
+- They can evolve passively (without outside influence of other galaxies) or, much more
+commonly through interaction.
+Passive Evolution:
+- A galaxy's overall color, composition, and appearance will change as stars evolve and
+interstellar matter gets used up, and recycled through star death.
+- The already red elliptical galaxies will likely get redder and fainter.
+- The blue spiral and irregular galaxies will stay blue as long as gas remains are available
+for them to reform.
+Interaction:
+- Galaxies can interact to change in their entire internal structure, which can trigger star
+formation or cause activity in the galactic nucleus.
+Galactic Interactions:
+- Galaxies can interact with each other gravitationally in many ways.
+- The most common is a near miss, where two galaxies pass each other nearly.
+- The matter in both galaxies is gravitationally pulled together and the two galaxies begin
+to change structure, even from afar.
+- This likely results in the galaxies returning together to merge.
+
+-
+
+If the merger of galaxies was between a small and large galaxy, it is called galactic
+cannibalism, and the structure of the larger galaxy is likely to remain mostly unaffected.
+On the other hand, if the merger is between two galaxies of similar size, it results in a
+dramatic change in both galaxies (if both were spirals, it will likely end in an elliptical
+galaxy).
+
+Dark Matter:
+-
+
+Measurements of mass in space can sometimes not match up with the amount of mass we
+can actually see, and by a significant amount.
+One theory to explain this extra matter in the universe classifies the extra matter as Dark
+Matter, because we cannot see it in any wavelengths.
+We can only measure dark matter by the gravitational effect it has on normal matter.
+Otherwise, however, dark matter does not appear to interact with normal matter.
+While dark matter is dispersed throughout the universe, it specifically can affect how
+matter in galaxies interacts, and it can affect the motion of the galaxy.
+
+Galaxy Groups and Clusters:
+Galaxy Groups:
+- Galaxies are usually located close to other galaxies.
+- A galaxy group is the smallest group classification, and it refers to a group of about 30-50
+galaxies.
+- The Milky Way is located in the Local Group, along with the Andromeda and
+Triangulum Galaxies.
+Galaxy Clusters:
+- Galaxy clusters are larger than galaxy groups, containing hundreds to thousands of
+galaxies.
+- They are among the largest known gravitationally bound systems in the universe.
+- Galaxy clusters are massive systems that get around 1% of their mass from the galaxies
+in them.
+- Around 9% of the mass comes from extremely hot gas (typically millions of Kelvins)
+very bright in X-Rays.
+- Clusters typically consist of around 90% dark matter, observed through gravitational
+interactions such as gravitational lensing (the bending of spacetime, causing light to be
+bent around an object, and a background object to appear magnified, distorted, in
+different areas of the sky, and/or multiple times.
+- Galaxy clusters are largely closed systems, and can be used to observe processes that
+happen in the universe (such as nucleosynthesis) on a smaller scale.
+- Additionally, galaxy clusters tend to evolve very slowly, providing a probe to observe
+galaxy evolution.
+- Galaxy cluster collisions are some of the most energetic events in the universe.
+
+-
+
+Galaxy Clusters are formed because of very slight variations in density in the early
+universe.
+- As the universe continued to expand, and the space between objects increased, more and
+more matter was attracted toward these denser spots, eventually becoming a galaxy
+cluster.
+Galaxy Superclusters:
+- The largest classification is that of galaxy superclusters, which are groups of other groups
+and clusters.
+- They are massive, and span hundreds of millions of light years.
+- They typically contain 3-10 galaxy clusters. The Milky Way is located in the Virgo (or
+Local) Supercluster.
+
+Starburst Galaxies:
+-
+
+A starburst galaxy is a term used to refer to any galaxy with a star formation rate up to
+100 times greater than a normal galaxy.
+This rate is high enough that if this rate were to persist in the long-term, the star's
+reserves of gas would deplete in a small fraction of the galaxy's lifetime.
+For this reason, most starburst galaxies only stay that way for a short period of time.
+Starburst activity frequently arises when two or more galaxies interact with each other.
+Starburst galaxies are responsible for a sizable fraction of the universe's star formation.
+The high activity areas can be spread throughout the galaxy, or concentrated in a small
+area.
+Typically, starbursts are observed around the nucleus of a galaxy.
+Starburst galaxies are defined by three factors:
+- The rate that gas is being converted into stars (star formation rate or SFR)
+- How much gas is available
+- How long it will take to consume the available gas at the current star formation
+rate
+
+Types:
+Blue Compact Galaxies (BCGs):
+- Blue compact galaxies (BCGs) often have very low masses and no dust.
+- They also have a very low metal content and are often blue in color.
+- Most BCGs show signs of merging or close interactions, and they can be of any age.
+- Blue compact dwarf galaxies are small BCGS, and Green Pea galaxies are small compact
+galaxies resembling starbursts.
+- They are oxygen-rich, and no more than 16,300 light-years across.
+- Green Peas are exclusively star-forming rather than having a nucleus.
+- Green Peas are considered relatively rare objects.
+
+Luminous infrared galaxies:
+- Luminous infrared galaxies (LIRGs) are galaxies with luminosities over 1011 L☉.
+- They can also be referred to as submillimeter galaxies (SMGs), though they are typically
+known as LIRGs because of the large amount of infrared light they emit.
+- These galaxies typically create around 100 new stars a year, which results in the high
+level of infrared light.
+- However, this may also be caused by an active galactic nucleus (AGN).
+- An AGN is a region at the center of a galaxy which has a very high luminosity, such as a
+quasar.
+- LIRGs were discovered in 1983 by the Infrared Astronomical Satellite (IRAS).
+- LIRGs emit around as much energy as quasars, but as they are not visible to the naked
+eye it is harder to detect them.
+- LIRGs are brighter in the infrared because much of the visible light they give off is
+absorbed, resulting in it being given off as infrared thermal energy.
+- Luminous infrared galaxies are also capable of becoming ultraluminous infrared galaxies
+(ULIRGs) when their luminosity surpasses 1012 L☉.
+- However, not all galaxies undergo this transformation.
+
+Wolf-Rayet galaxies + Stars:
+-
+
+Wolf–Rayet stars, often abbreviated as WR stars, are a rare heterogeneous set of stars
+with unusual spectra showing prominent broad emission lines of ionized helium and
+highly ionized nitrogen or carbon.
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+The spectra indicate very high surface enhancement of heavy elements, depletion of
+hydrogen, and strong stellar winds.
+The surface temperatures of known Wolf–Rayet stars range from 20,000 K to around
+210,000 K, hotter than almost all other kinds of stars.
+They were previously called W-type stars referring to their spectral classification.
+Classic (or population I) Wolf–Rayet stars are evolved, massive stars that have
+completely lost their outer hydrogen and are fusing helium or heavier elements in the
+core.
+A subset of the population I WR stars show hydrogen lines in their spectra and are known
+as WNh stars
+- they are young extremely massive stars still fusing hydrogen at the core, with
+helium and nitrogen exposed at the surface by strong mixing and radiation-driven
+mass loss.
+A separate group of stars with WR spectra are the central stars of planetary nebulae
+(CSPNe), post-asymptotic giant branch stars that were similar to the Sun while on the
+main sequence, but have now ceased fusion and shed their atmospheres to reveal a bare
+carbon-oxygen core.
+All Wolf–Rayet stars are highly luminous objects due to their high temperatures
+powerful winds emitted by these objects are driven by intense radiation pressure
+Thought to descend from O stars that have lost their hydrogen envelopes to reveal an
+exposed helium core
+It is estimated that about 50% of Wolf-Rayet stars occur in binary systems. Proposed
+companions are another Wolf-Rayet star, or a compact companion such as a black hole or
+neutron star.
+Wolf- Rayet stars are thought to end their lives spectacularly as either a Type Ib or Type
+Ic supernova explosion.
+Wolf-Rayet galaxies contain mainly Wolf-Rayet stars, which are high-mass
+post-main-sequence stars that come from the more massive O stars.
+The stars are Population I and contain broad emission lines from dense, high-velocity
+winds.
+The lines create a bump called the "Wolf-Rayet" bump at 4650-4690 angstroms that
+allows one to detect them in galaxies.
+nuclear fusion occurs in shells in the stellar core
+amount of energy produced by nuclear fusion in a Wolf-Rayet star is connected to the
+nebulous area because the higher energy causes high stellar winds that blow off material
+Strong stellar winds would have ionized elements whizzing around in a lot of different
+directions. These would generate broad emission lines. Strong stellar winds would also
+drive particles rather far away from the star, which accounts for the large radius the
+spectrum is observed over.
+
+-
+
+First found in Cygnus
+WN- spectrum dominated by nitrogen // WC - spectrum dominated by carbon oxygen
+Divided in subclasses by temperature
+Wolf-Rayet stars would NOT have carbon in photospheres, but carbon stars, Mira
+Variables, and O-type main sequence stars would have carbon
+
+Active Galaxies:
+AGN and Quasars:
+-
+
+-
+
+-
+
+AGN, or Active Galactic Nuclei, are defined as galactic nuclei that emit more
+electromagnetic radiation than a normal galaxy.
+This radiation is emitted in a large jet in one direction.
+In addition, a torus of gas forms around the nucleus perpendicular to the direction of the
+jet, which can obscure some parts of the galaxy from observers, changing their visual
+characteristics.
+The six main characteristics that define AGN are: compact angular size, high luminosity,
+continuum radiation (all types of radiation in the spectrum are emitted), emission lines,
+variability of emission, and strong radio emission.
+- However, they are the same type of object viewed from different angles
+Quasars, also known as quasi-stellar radio sources or quasi-stellar objects, are the most
+luminous type of AGN.
+
+- Active Galaxies are galaxies which contain an AGN at their center.
+- Do NOT indicate high planetary formation rates
+- Relatively rapid fluctuations (within 1 day) in the electromagnetic output of quasars is an
+indication of The relatively small size of the emitting regions
+Seyfert Galaxies:
+- Seyfert Galaxies are subclasses of active galaxies classified by emission lines of ionized
+gas.
+- The two main classifications are Type 1 and Type 2.
+
+-
+
+Type 1 Seyferts emit narrow and broad spectral lines, while Type 2 Seyferts only emit
+narrow lines.
+Some galaxies can also be classified as numbers between 1 and 2, like 1.5, depending on
+the relative sizes of the lines.
+Perseus A is an example of a Type 1.5 Seyfert galaxy.
+
+Other classifications:
+- AGN and quasars are mainly classified based on the angle that the object is viewed from
+by an observer on Earth.
+- This is because the angle of the electromagnetic radiation emitted from the nucleus can
+change how visible the object is.
+- If the emission jet faces away from the observer, the object will appear less active, and
+vice versa.
+- The diagram at left shows how viewing angle correlates to the type of AGN.
+- AGN are classified into two large groups, Radio-Quiet AGN and Radio-Loud AGN.
+- In Radio-Quiet AGN, the large jet of radiation faces away from the observer.
+- Seyfert galaxies contain Radio-Quiet AGN.
+- In contrast, Radio-Loud AGN occurs when the jet of radiation faces the observer, and
+much more activity is apparent.
+- In some cases, the radiation is pointed directly at earth, so an observer can see the
+radiation jet head-on. → Their objects are known as Blazars.
+- BL Lacertae Objects and OVV (optically violent variable) Quasars, which are both very
+variable (OVV Quasars more so), are both types of Blazars.
+- Meanwhile, Radio Galaxies, such as Cygnus A, are galaxies with Radio-Loud AGN
+which are viewed at a greater angle from the jet.
+- Quasars can be Radio-Quiet or Radio-Loud.
+- Difference between Quasar and Blazar → quasar is pointed at an angle away from the
+observer while a blazar is pointed very nearly at the observer
+
+Black Holes:
+-
+
+-
+
+-
+
+Black holes are supermassive objects from which nothing can escape.
+Since light cannot be emitted, they appear as black spots in space.
+They can also alter the appearance of surrounding objects because of the high
+gravitational pull.
+Stellar-mass black holes have masses at 1.4 to 20 times the Sun.
+They are very dense and result from the collapse of a large star.
+Intermediate-mass black holes are thought to be at the center of globular clusters, and
+they are larger than stellar-mass black holes.
+The largest black holes, supermassive black holes, are usually the centers of galaxies.
+The center of the Milky Way, Sagittarius A, is thought to be a supermassive black hole.
+AGN are usually supermassive black holes.
+Supermassive black holes can be over one billion solar masses and less dense than water.
+They appear black because their escape velocity is greater than that of the speed of light,
+and nothing is faster than light.
+If the core ends up with over 2-3 solar masses of matter (because some of the matter in
+the outer layers fell back onto the core when the star went supernova), even neutron
+degeneracy pressure can't support the core against its own gravity and it collapses into a
+black hole
+Once the core contracts to a small enough size, the escape velocity becomes greater than
+the speed of light! Nothing - not even light - can escape the gravitational pull of the
+collapsed core
+Because of this, we can't even see the black hole itself; all we can see are its effects on
+nearby matter
+Black holes are technically only theorized as they can not be directly observed due to the
+lack of emitted light/radiation (hence the term black hole), but astronomical observations
+of their possible gravitational effects on nearby systems have led to them being
+commonly accepted as existing stellar remnants, and products of Type II supernovae
+
+-
+
+Many things about black holes are still not completely understood due to their complex
+nature.
+- Uses x ray wavelengths
+- No hair theorem: black holes are characterized by only three observable properties: mass,
+angular momentum and charge
+- Intermediate mass Black Holes (IMBHs) in Milky Way would be formed via hierarchical
+merging in a globular cluster or nuclear star cluster
+Schwarzschild Metric:
+- describes the spacetime geometry of empty space surrounding any spherical mass.
+- In Einstein's theory of general relativity, the Schwarzschild metric (also known as the
+Schwarzschild solution) is an exact solution to the Einstein field equations that describes
+the gravitational field outside a spherical mass, on the assumption that the electric charge
+of the mass, angular momentum of the mass, and universal cosmological constant are all
+zero. The solution is a useful approximation for describing slowly rotating astronomical
+objects such as many stars and planets, including Earth and the Sun. It was found by Karl
+Schwarzschild in 1916.
+- Importance → radius below which the gravitational attraction between the particles of a
+body must cause it to undergo irreversible gravitational collapse. This phenomenon is
+thought to be the final fate of the more massive stars
+
+Gravitational Waves
+Gravitational waves are 'ripples' in space-time caused by some of the most violent and energetic
+processes in the Universe. The strongest gravitational waves are produced by cataclysmic events
+such as colliding black holes, supernovae (massive stars exploding at the end of their lifetimes),
+and colliding neutron stars. Other waves are predicted to be caused by the rotation of neutron
+stars that are not perfect spheres, and possibly even the remnants of gravitational radiation
+created by the Big Bang. Thought to be a natural outcome of the theory of relativity
+- Continuous gravitational waves are thought to be produced by a single spinning
+massive object like a neutron star. Any bumps on or imperfections in the spherical
+shape of this star will generate gravitational waves as it spins.
+- Compact Binary Inspiral gravitational waves: all objects LIGO has detected fall into
+this category. They are produced by orbiting pairs of massive and dense objects like
+white dwarf stars, black holes, and neutron stars, three types of subclasses: binary neutron
+star, (BNS) binary black hole (BBH), neutron star black hole binary (NSBH)
+- Stochastic Signal”, so called because the word, 'stochastic' means having a random
+pattern that may be analyzed statistically but not predicted precisely. These will be the
+smallest and most difficult gravitational waves to detect, but it is possible that at least part
+of this stochastic signal may originate from the Big Bang.
+- 'burst gravitational waves' is truly a search for the unexpected—both because LIGO has
+yet to detect them,
+
+Relativity and Cosmology:
+Black Holes:
+- One special property of stars is that their entire lives and evolution can mostly be
+predicted solely from the mass of whatever formed them.
+- Stars usually form from large clouds of gas called protostars which collapse from
+gravitational pressure to form what are known as pre-main-sequence stars.
+- As these stars age, their initial mass determines the physics of how the evolve, including
+how they die.
+- If a star has a core that has a mass above the Tolman–Oppenheimer–Volkoff limit, which
+is debated to be around 2-3 solar masses (i.e. 2-3 times the mass of the sun), it will
+collapse to form a black hole
+- M-sigma relation in astronomy correlates the mass of a galactic central supermassive
+black hole with the velocity dispersion of the galaxy’s bulge
+The Big Bang:
+- Around 13 billion years ago, the universe began in a blast of energy called the Big Bang.
+- The Big Bang started from an infinitesimal point of space and began to expand over time.
+- As it cooled, particles began to form and the structure of the Universe began to become
+more apparent.
+- The Big Bang can be divided into 3 main time periods.
+Lorentz Transformations:
+- According to Einstein's Special Theory of Relativity, an observer moving at a constant
+velocity will experience events differently than an observer at rest.
+- To describe the differences in these observations, the Lorentz transformations can be used
+to transform values in one reference frame to another.
+- The transformations only apply in inertial reference frames, i.e. ones that do not
+accelerate relative to another inertial reference frame.
+- By extension, since rotation requires a change in direction of velocity, which is
+represented by acceleration, reference frames that are rotating relative to another
+reference frame are not inertial.
+Twin Paradox:
+- One paradox involved with time travel is the twin paradox.
+- The twin paradox involves two identical twins, one that stays on Earth and one that goes
+on a rocket that goes at 99% the speed of light.
+- When the astronaut goes to a certain distance and comes back, the astronaut finds that the
+twin on Earth has aged more.
+- This is because in the astronaut's frame of reference, time has slowed down, while
+according to the twin, time has not slowed down.
+Gravitational Lensing:
+- Einstein's general theory of relativity states that objects with mass cause curvature in
+spacetime around them, and this effect is the explanation for gravity.
+
+-
+
+-
+
+Used to Study the nature of dark energy and dark matter
+This curvature of spacetime is often thought of using the analogy of a bowling ball on a
+trampoline pulling down on the fabric, as shown in the figure below.
+This analogy does have downfalls, such as not explaining how the bowling ball weighs
+down on the trampoline without circling back to gravity, but the idea of curvature is the
+point here.
+For those who are curious, the curvature is actually caused by complex properties of the
+energy and momentum of the body of mass, but that is very high-level and not required
+knowledge for this event.
+
+Image depicting curvature of spacetime around
+the Earth as described by Einstein's general theory of relativity.
+- The existence of matter bends space time around the matter, and this spacetime gives a
+description of how objects move through spacetime.
+- All objects in spacetime must follow the curvature of spacetime, and light is no
+exception.
+- Thus, when light approaches near a massive object, it moves along the curvature, causing
+it to bend at a slight angle known as the angle of deflection.
+- This is what makes the light look like it's flowing around the object, creating shapes like
+an Einstein Ring or an Einstein Cross.
+- Since the path of light is altered, near a massive object, the distance the light has to travel
+to reach the observer also changes.
+- However, Einstein showed in his special theory of relativity that the speed of light is
+constant.
+- Since the time it takes an object to travel a distance is dependent on the distance and
+speed, increasing distance increases the amount of time it takes for the object to travel
+that distance.
+- As a result, gravitational lensing can delay some of the light traveling from a single
+source, making it appear multiple times in the sky.
+- This has been observed many times in the past, proving the existence of gravitational
+lensing.
+
+Hertzsprung-Russell diagrams:
+-
+
+-
+
+-
+
+-
+
+plots the temperature of stars against their luminosity (the theoretical HR diagram), or the
+color of stars (or spectral type) against their absolute magnitude (the observational HR
+diagram, also known as a color-magnitude diagram).
+The main sequence stretching from the upper left (hot, luminous stars) to the bottom
+right (cool, faint stars) dominates the HR diagram. It is here that stars spend about 90% of
+their lives burning hydrogen into helium in their cores. Main sequence stars have a
+Morgan-Keenan luminosity class labeled V and a spectral class of (M)
+- Very luminous stars with low temperatures Could have variable diameter
+depending on spectral class
+The Stefan-Boltzmann relation allows us to draw lines on the Hertzsprung-Russell
+diagram that are constant radius
+There are more K and M type stars than O and B type stars
+Smallest to largest main-sequence radius (with Morgan-Keenan system): OBAFGKM
+
+-
+
+-
+
+-
+
+Order of evolutionary stages of star: Red giant branch – main sequence – horizontal
+branch – asymptotic giant branch
+red giant and supergiant stars (luminosity classes I through III) occupy the region
+above the main sequence. They have low surface temperatures and high luminosities
+which, according to the Stefan-Boltzmann law, means they also have large radii. Stars
+enter this evolutionary stage once they have exhausted the hydrogen fuel in their cores
+and have started to burn helium and other heavier elements.
+white dwarf stars (luminosity class D) are the final evolutionary stage of low to
+intermediate mass stars, and are found in the bottom left of the HR diagram. These stars
+are very hot but have low luminosities due to their small size.
+
+1. The main sequence stretching from the upper left (hot, luminous stars) to the bottom right (cool, faint
+stars) dominates the HR diagram. It is here that stars spend about 90% of their lives burning hydrogen
+into helium in their cores. Main sequence stars have a Morgan-Keenan luminosity class labeled V.
+(hydrostatic equilibrium- is the condition of a fluid or plastic solid at rest, which occurs when external
+[1]
+
+forces, such as gravity, are balanced by a pressure-gradient force. In the planetary physics of Earth,
+the pressure-gradient force prevents gravity from collapsing the planetary atmosphere into a thin,
+dense shell, whereas gravity prevents the pressure-gradient force from diffusing the atmosphere into
+outer space.Hydrostatic equilibrium is the distinguishing criterion between dwarf planets and small
+solar system bodies)
+1. red giant and supergiant stars (luminosity classes I through III) occupy the region above the main
+sequence. They have low surface temperatures and high luminosities which, according to the
+Stefan-Boltzmann law, means they also have large radii. Stars enter this evolutionary stage once they
+have exhausted the hydrogen fuel in their cores and have started to burn helium and other heavier
+elements.
+2. white dwarf stars (luminosity class D) are the final evolutionary stage of low to intermediate mass
+stars, and are found in the bottom left of the HR diagram. These stars are very hot but have low
+luminosities due to their small size.
+The Sun is found on the main sequence with a luminosity of 1 and a temperature of around 5,400 Kelvin.
+Astronomers generally use the HR diagram to either summarize the evolution of stars, or to investigate the
+properties of a collection of stars. In particular, by plotting a HR diagram for either a globular or open cluster
+of stars, astronomers can estimate the age of the cluster from where stars appear to turnoff the main sequence
+(see the entry on main sequence for how this works).
+
+Instability Strip:
+- The Instability Strip is a region on the H-R Diagram in which many variable stars
+can be found. This strip extends through the A, F, and occasionally G classes
+above and below the main sequence.
+- In this strip, stars have a tendency to be unstable and pulsate, thus causing them to
+have some variability. Cepheids, RR Lyrae, W Virginis, and ZZ Ceti stars can all
+be found in this region, as well as other, less common variable stars.
+
+Hayashi Track:
+- The Hayashi track explains the lives of low-mass stars with solar masses less than 0.5,
+and it was developed by Japanese scientist Chushiro Hayashi.
+- Protostars (pre main sequence stars) follow this path; luminosity-temperature relationship
+- All stars in this track become fully convective, and so it mostly applies to red dwarfs.
+- As the stars become denser, they become less luminous, until fusion begins, when they
+get warmer. This leads them to the main sequence.
+- The Hayashi boundary is found at about 4000 K and marks the boundary for which the
+track can be followed.
+- Stars cooler than this temperature will get warmer until they hit the boundary; there, it
+will stop and remain within this boundary.
+- Stars that have solar masses higher than 0.5 will follow the first part of the Hayashi track,
+but break off midway to follow the Henyey track, so named after American astronomer
+Louis Henyey.
+- In this track, the stars get hotter, and move horizontally until they reach the main
+sequence. This is characteristic of more Sun-like stars.
+- Henyey track → pre-main sequence star = Herbig Ae/Be star
+- Hayashi track → pre-main sequence star = T Tauri star (which appears below the
+main-sequence)
+
+Turnoff Point:
+- The point at which the stars deviate from the main sequence after using up most of their
+fuel is known as the turnoff point.
+- The bend in the evolutionary track can be caused by the development of a radiative
+core/zone
+- This is useful as a dating mechanism for globular clusters, since once stars become red
+giants, their lifespan is practically over on a universal standpoint.
+- By mapping the stars in a globular cluster on an H-R diagram, one can clearly see where
+there is a turnoff from the main sequence, so the approximate age of the cluster is about
+the same as the age of the stars at the turnoff point.
+- Young clusters will have many blue stars, and the turnoff point will be in the O or B
+classes of the diagram.
+- Conversely, older clusters will be made almost entirely of red and yellow stars, and the
+turnoff point will be much further to the right.
+- However, red dwarves do not have a turnoff point, since they do not grow from dwarf
+status, so clusters with only red dwarves cannot be dated through this method.
+
+Stellar Classification:
+Spectral Class:
+-
+
+-
+
+First, stars can be categorized through Spectral Class (Letters O, B, A, F, G, K and M,
+with O being the hottest and most mass and M being the coolest and least mass). Each of
+these classes have special properties, relating to temperature and spectra. A common
+mnemonic for spectral classification is "Oh Be A Fine Girl, Kiss Me".
+A change in mass can show that a star is changing class when its brightness is increasing
+
+-
+
+-
+
+-
+
+Of all the stars with mass 1 M(sun), the largest stars tend NOT to be the highest in
+temperature
+Spectral type A has the strongest lines of neutral hydrogen
+O & B spectral types of stars cause the glow that forms H II regions
+FU Orionis → special type of object F that young stars undergo stages of about 10-20
+times before entering the main-sequence
+- Rapid and profound fluctuations in luminosity caused by Abrupt mass transfer
+from accretion disc onto T-Tauri star & collapse of mass from disk to star surface
+*Type A color is blue/white (idk some test said it was blue)
+If you want to measure a star’s hydrogen lines to perform stellar classification, you plot
+the intensity of light of different wavelengths
+
+Idk columbia test said G type stars like the Sun have strong hydrogen lines
+
+Main Sequence (V)
+
+Yerkes Classification:
+-
+
+Further, stars can be classified into different luminosity classes.
+Decreasing Surface Gravity: VII > VI > V > IV > III > II > I > 0
+VII = Dwarfs (D); VI = subdwarfs (sd)
+In order of Stellar Evolution: V, IV, III, VII
+
+Peculiar Code / Features:
+
+Color Index:
+-
+
+-
+
+-
+
+In astronomy, the color index is a simple numerical expression that determines the color of an object,
+which in the case of a star gives its temperature. The lower the color index, the more blue (or hotter)
+the object is. Conversely, the larger the color index, the more red (or cooler) the object is.
+Stars of different spectral classes demonstrate different profiles across multiple color indices
+
+Light curves:
+-
+
+-
+
+-
+
+graphs that show the brightness of an object over a period of time.
+Helps in the study of objects which change their brightness over time, such as
+novae, supernovae, and variable stars.
+The record of changes in brightness that a light curve provides can help
+astronomers understand processes at work within the object they are studying and
+identify specific categories (or classes) of stellar events.
+We know generally what light curves look like for a set of objects, so when we
+plot a new light curve, we can compare it to those standard light curves to
+possibly identify the type of object we're observing.
+Peak in light curves (one narrow specific color appears super bright) is called an
+emission line
+
+Period of a binary star would be difference in
+time of the two dips (between 24 and 64: 30
+hours)
+
+Cosmological distance equations and relationships:
+-
+
+Red shift: The light of objects which are receding from us is shifted to
+longer wavelengths – towards the red end of the visible spectrum – due to
+the Doppler Effect. This affects all objects at cosmological distances,
+which are invariably receding from the Earth due to the continuous
+expansion of the Universe.
+
+-
+
+Interstellar reddening: interstellar dust absorbs and scatter more blue
+light than red light making stars appear redder than they are
+Higher reddening→ higher extinction
+
+-
+
+-
+
+-
+
+Redshift = low frequencies - stretched out (longer)- occurs when objects move away
+from us
+Blueshift = high frequencies - compressed waves (shorter)- occurs when objects move
+towards us
+It’s unusual to see carbon in a star’s spectrum because the fusion of helium into carbon
+occurs deep inside stars
+More spectra lines → heavier element because it has more electrons
+
+Einstein’s Field Theory:
+- relates the geometry of spacetime to the distribution of matter within it
+- This leads to the prediction of black holes and models of evolution of the universe
+
+-
+
+General Relativity:
+- observed gravitational effect between masses results from their warping of spacetime.
+- Provided foundation for current understanding of black holes
+- General relativity, also known as the general theory of relativity and Einstein's theory of
+gravity, is the geometric theory of gravitation published by Albert Einstein in 1915 and is
+the current description of gravitation in modern physics. General relativity generalizes
+special relativity and refines Newton's law of universal gravitation, providing a unified
+
+description of gravity as a geometric property of space and time or four-dimensional
+spacetime. In particular, the curvature of spacetime is directly related to the energy and
+momentum of whatever matter and radiation are present. The relation is specified by the
+Einstein field equations, a system of second order partial differential equations.
+
+
