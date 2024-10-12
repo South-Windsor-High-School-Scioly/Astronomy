@@ -1,0 +1,48 @@
+﻿Debris Disk
+
+Mark Wyatt's group at the IoA carries out a range of observational and
+theoretical debris disk related research. Debris disks are the disks of
+planetesimals and dust found around many nearby main sequence
+stars. The Solar System has its own debris disk: the asteroid and
+Kuiper belts, as well as the dust produced in collisions and sublimation
+of these objects. This dust is visible with the naked eye from the Earth
+as the zodiacal light; debris also collides with the Earth creating
+meteor showers, extinctions, and may have delivered much of our
+water. As well as the analogous implications for the habitability of
+extrasolar planetary systems, studying the debris disks of nearby stars
+provides vital clues to the outcome of planet formation processes.
+Many nearby disks can be imaged, and by studying such images it is
+possible to pinpoint the presence of unseen planets, and to ascertain
+their evolutionary history, from the effect of the planets' gravity on the
+disks. Accurate characterisation of the level of dust present around
+nearby stars is also an essential step on the quest to find Earth-like
+planets, for which such dust can be both a hindrance and a help.
+
+Debris Disk Observations
+
+
+
+Our observational work currently focuses on an unbiased survey of a
+sample that covers the nearest ~500 stars (or rather the nearest ~100
+of each spectral type A,F,G,K,M). Read more.
+
+Debris Disk Theory
+Comparison with observations of the structure of debris disks, and of
+how the level of dust emission varies with age, as well as other stellar
+parameters, provide vital tests of the models. Read more.
+
+Post-Main Sequence Debris Disks
+Although debris discs around main sequence stars are relatively well
+understood, very little is known about what happens to these systems
+as the star evolves. Read more.
+
+Solar System
+The Solar System hosts a debris disk, comprising primarily the
+Asteroid and Edgeworth-Kuiper belts, but with other important
+components such as the Zodiacal cloud, irregular satellites, and
+trojans. Read more.
+
+Planetary System Dynamics
+Nearly all work on planetary systems requires an understanding of how
+planets and smaller bodies move under the gravitational influence of
+the host star(s) and each other.

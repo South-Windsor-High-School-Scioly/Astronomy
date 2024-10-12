@@ -1,0 +1,315 @@
+﻿PSR B1257+12
+PSR B1257+12, previously designated PSR РSR В1257+12
+1257+12, alternatively designated PSR
+J1300+1240,[6] Lich
+
+ is a millisecond pulsar located 2,300
+light-years (710 parsecs) from the Sun in the Observation data
+constellation of Virgo, rotating at about 161 times Epoch J2000.0      Equinox J2000.0
+per second (faster than a blender's blade).[1] It is Constellation Virgo
+also named Lich, after a powerful, fictional undead Right ascension 13h 00m 01s
+creature of the same name.[7][5]
+
+Declination +12° 40′ 57″
+The pulsar has a planetary system with three known Characteristics
+pulsar planets, named "Draugr" (PSR B1257+12 b Evolutionary stage Pulsar
+or PSR B1257+12 A), "Poltergeist" (PSR B1257+12
+
+Astrometry
+c, or PSR B1257+12 B), and "Phobetor" (PSR
+B1257+12 d, or PSR B1257+12 C), respectively. Proper motion (μ) RA: 46.44 ± 0.08[1] mas/yr
+They were both the first extrasolar planets and the Dec.: −84.87 ± 0.32[1] mas/yr
+first pulsar planets to be discovered; B and C in Parallax (π) 1.41 ± 0.08 mas[1]
+
+1992 and A in 1994. A is the lowest-mass planet yet Distance 2,300 ± 100 ly
+discovered by any observational technique, with (710 ± 40 pc)
+somewhat less than twice the mass of Earth's moon.
+
+Details
+
+Rotation 0.006219 s[2]
+
+Nomenclature
+Age 1–3[3][4][a] Gyr
+
+The convention that arose for designating pulsars Other designations
+was that of using the letters PSR (Pulsating Source Lich,[5] PSR 1257+12,
+of Radio) followed by the pulsar's right ascension PSR J1300+1240, PSR 1300+1240
+and degrees of declination. The modern convention
+prefixes the older numbers with a B meaning the Database references
+
+coordinates are for the 1950.0 epoch. All new SIMBAD data (https://simbad.cds.unis
+
+pulsars have a J indicating 2000.0 coordinates and tra.fr/simbad/sim-id?Ident=P
+
+also have declination including minutes. Pulsars that SR+B1257%2B12)
+
+were discovered before 1993 tend to retain their B
+names rather than use their J names, but all pulsars have a J name that provides more precise coordinates
+of its location in the sky.[8]
+
+On their discovery, the planets were designated PSR 1257+12 A, B, and C, ordered by increasing
+distance. They were discovered before the convention that extrasolar planets receive designations
+consisting of the star's name followed by lower-case Roman letters starting from "b", in order of
+discovery, was established.[9] However, they are listed under the latter convention on astronomical
+databases such as SIMBAD and the Extrasolar Planets Encyclopaedia, with A becoming b, B becoming c,
+and C becoming d.
+
+
+
+In July 2014, the International Astronomical Union launched NameExoWorlds, a process for giving
+proper names to certain exoplanets and their host stars.[10] The process involved public nomination and
+voting for the new names.[11] In December 2015, the IAU announced the winning names, submitted by
+the Planetarium Südtirol Alto Adige in Karneid, Italy, were Lich for the pulsar and Draugr, Poltergeist,
+and Phobetor for planets A, B, and C, respectively:[7][12]
+
+A lich is an undead creature known for controlling other undead creatures with magic.
+Draugr refers to undead creatures in Norse mythology.
+Poltergeist is a name for supernatural beings that create physical disturbances, from the
+German for "noisy ghost".
+Phobetor is, in Ovid's Metamorphoses, one of the thousand sons of Somnus (Sleep) who
+appears in dreams in the form of beasts.[13]
+
+In 2016, the IAU organized a Working Group on Star Names (WGSN)[14] to catalog and standardize
+proper names for stars (including stellar remnants). In its first bulletin of July 2016,[15] the WGSN
+explicitly recognized the names of exoplanets and their host stars approved by the Executive Committee
+Working Group Public Naming of Planets and Planetary Satellites, including the names of stars adopted
+during the 2015 NameExoWorlds campaign. This stellar remnant is now so entered in the IAU Catalog of
+Star Names.[6]
+
+Pulsar
+
+Discovery
+PSR B1257+12 was discovered by the Polish astronomer Aleksander Wolszczan on 9 February 1990
+using the Arecibo radio telescope. It is a millisecond pulsar, a kind of neutron star, with a rotation period
+of 6.22 milliseconds (9,650 rpm), and was found to have anomalies in the pulsation period, which led to
+investigations as to the cause of the irregular pulses. In 1992, Wolszczan and Dale Frail published a
+famous paper on the first confirmed discovery of planets outside the Solar System. Using refined methods
+one more planet was found orbiting this pulsar in 1994.
+
+Characteristics
+The pulsar is estimated to have a mass of 1.4 M☉, which is typical for most neutron stars and pulsars. The
+radius is estimated to be around 10 kilometres or 6.2 miles (~1.5 × 10−5 R☉), also common for pulsars
+and neutron stars. The pulsar is extremely hot, with a surface temperature of up to around 28,856 K
+(28,583 °C; 51,481 °F). The pulsar formed one to three billion years ago from a white dwarf merger, a
+pair of white dwarfs colliding and collapsing to form a rapidly spinning pulsar.[16]
+
+
+
+The discovery stimulated a search for planets orbiting other pulsars, but it turned out such planets are
+rare; only five other pulsar planets, orbiting PSR B1620−26, PSR B0943+10, PSR B0329+54, and PSR
+J1719−1438, have been confirmed.
+
+Planetary system
+
+The PSR B1257+12 planetary system[4]
+
+Companion Semimajor Orbital
+(in order from Mass axis period Eccentricity Inclination Radius
+
+star) (AU) (days)
+
+0.020 ±
+A (b / Draugr) 262 ±
+
+0.002 M 0.19 25.
+0.003 0.0 ~50° —
+
+🜨
+
+B (c / 4.3 ± 0.2 M 5419 ± 0.0186 ±
+Poltergeist) 🜨 0.36 66.
+
+0.0001 0.0002 53° —
+
+C (d / 2114 ± 0.0252 ±
+Phobetor) 3.9 ± 0.2 M🜨 0.46 98.
+
+0.0002 0.0002 47° —
+
+Planets
+In 1992, Wolszczan and Frail discovered that the pulsar had two
+planets. These were the first discovery of extrasolar planets to be
+confirmed;[17][18] as pulsar planets, they surprised many
+astronomers who expected to find planets only around main-
+sequence stars. Additional uncertainty surrounded the system,
+because of a claim of an earlier pulsar planet around PSR 1829-10
+that had to be retracted due to errors in calculations. In 1994, an
+additional planet was discovered. Additionally, this system may
+have an asteroid belt or a Kuiper belt.
+
+Artist's impression of the planets
+
+The planets are believed to be the result of a second round of orbiting PSR B1257+12. The one in
+
+planetary system formation as a result of two white dwarfs the foreground is planet "C".
+
+merging with each other into a pulsar and a resulting disk of
+material in orbit around the star.[16] Other scenarios include unusual supernova remnants or a quark-
+nova.[19] However, the white dwarf–white dwarf merge model seems to be the most likely cause of the
+formation of the planets.
+
+Retracted claim of fourth orbital body
+In 1996, a possible Saturn-like (100 Earth mass) gas giant was announced orbiting the pulsar at a distance
+of about 40 AU (6.0 billion km; 3.7 billion mi).[20] The original hypothesis was retracted; a
+reinterpretation of the data led to a new hypothesis of a dwarf planet one-fifth the size of Pluto orbiting
+PSR B1257+12. It would have an average orbital distance of 2.4 AU (360 million km; 220 million mi)
+with an orbital period of approximately 4.6 years.[21][22][23][24] The dwarf planet hypothesis was also
+
+
+
+retracted because further observations showed that the pulsation anomalies previously thought to reveal a
+fourth orbital body are "not periodic and can be fully explained in terms of slow changes in the pulsar's
+dispersion measure".[23]
+
+See also
+51 Pegasi
+Gamma Cephei Ab
+List of exoplanets discovered before 2000 - Draugr, Poltergeist and Phobetor
+PSR B1620-26
+
+Notes
+a. Value taken from the range of 1 and 3 billion years of age, from the two sources.
+
+References
+1. Yan, Zhen; et al. (2013). "Very long baseline interferometry astrometry of PSR B1257+12, a
+
+pulsar with a planetary system" (https://doi.org/10.1093%2Fmnras%2Fstt712). Monthly
+Notices of the Royal Astronomical Society. 433 (1): 162–169.
+Bibcode:2013MNRAS.433..162Y (https://ui.adsabs.harvard.edu/abs/2013MNRAS.433..162
+Y). doi:10.1093/mnras/stt712 (https://doi.org/10.1093%2Fmnras%2Fstt712).
+
+2. Manchester, R. N.; Hobbs, G.B.; Teoh, A.; Hobbs, M. "PSR B1257+12 in the ATNF Pulsar
+Database" (https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.66&N
+ame=Name&JName=JName&RaJD=RaJD&DecJD=DecJD&P0=P0&Dist=Dist&startUserDe
+fined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition
+=&pulsar_names=B1257%2B12&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coor
+ds_1=&coords_2=&style=Long+with+last+digit+error&no_value=*&fsize=3&x_axis=&x_scal
+e=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=28&table_bottom.y=32).
+atnf.csiro.edu. Australia Telescope National Facility. Retrieved 9 January 2022.
+
+3. "PSR 1257 12 d" (https://exoplanet.eu/catalog/psr_1257_12_d--236/). Extrasolar Planets
+Encyclopaedia. Retrieved 5 October 2017.
+
+4. Konacki, M.; Wolszczan, A. (2003). "Masses and Orbital Inclinations of Planets in the PSR
+B1257+12 System". The Astrophysical Journal. 591 (2): L147–L150. arXiv:astro-ph/0305536
+(https://arxiv.org/abs/astro-ph/0305536). Bibcode:2003ApJ...591L.147K (https://ui.adsabs.ha
+rvard.edu/abs/2003ApJ...591L.147K). doi:10.1086/377093 (https://doi.org/10.1086%2F3770
+93). S2CID 18649212 (https://api.semanticscholar.org/CorpusID:18649212).
+
+5. International Astronomical Union (10 August 2018). "Star Names" (https://www.iau.org/publi
+c/themes/naming_stars). Naming Stars | IAU. International Astronomical Union. Retrieved
+23 October 2019.
+
+6. "IAU Catalog of Star Names" (https://www.pas.rochester.edu/~emamajek/WGSN/IAU-CSN.t
+xt). 4 April 2022. Retrieved 28 July 2016.
+
+7. International Astronomical Union (15 December 2015). "Final Results of NameExoWorlds
+Public Vote Released" (https://www.iau.org/news/pressreleases/detail/iau1514/). iau1514 —
+Press Release. Retrieved 30 January 2024.
+
+8. Lyne, Andrew G.; Graham-Smith, Francis (1998). Pulsar Astronomy. Cambridge University
+Press. ISBN 0-521-59413-8.
+
+
+
+9. Hessman, F. V.; et al. (3 December 2010). "On the naming convention used for multiple star
+systems and extrasolar planets". arXiv:1012.0707 (https://arxiv.org/abs/1012.0707) [astro-
+ph.SR (https://arxiv.org/archive/astro-ph.SR)].
+
+10. International Astronomical Union (9 July 2014). "NameExoWorlds: An IAU Worldwide
+Contest to Name Exoplanets and their Host Stars" (https://www.iau.org/news/pressreleases/
+detail/iau1404/). iau1404 — Press Release. Paris. Retrieved 30 January 2024.
+
+11. International Astronomical Union. "NameExoWorlds" (https://web.archive.org/web/20150815
+025117/http://www.nameexoworlds.iau.org/process). Archived from the original (http://name
+exoworlds.iau.org/process) on 15 August 2015. Retrieved 5 October 2017.
+
+12. "NameExoWorlds" (https://web.archive.org/web/20170405053828/http://nameexoworlds.iau.
+org/systems/106). International Astronomical Union. 3 January 2016. Archived from the
+original (http://nameexoworlds.iau.org/systems/106) on 5 April 2017.
+
+13. OVID (1916). Goold, G. P. (ed.). "Metamorphoses" (https://www.loebclassics.com/view/ovid-
+metamorphoses/1916/pb_LCL043.165.xml). Loeb Classical Library (Book XI ed.). Harvard
+University Press: 164–165. doi:10.4159/DLCL.ovid-metamorphoses.1916 (https://doi.org/10.
+4159%2FDLCL.ovid-metamorphoses.1916). Retrieved 30 January 2024.
+
+14. "IAU Working Group on Star Names (WGSN)" (https://www.iau.org/science/scientific_bodie
+s/working_groups/280/). Retrieved 22 May 2016.
+
+15. "Bulletin of the IAU Working Group on Star Names, No. 1" (http://www.pas.rochester.edu/~e
+mamajek/WGSN/WGSN_bulletin1.pdf) (PDF). Retrieved 28 July 2016.
+
+16. Podsiadlowski, P. (1993). "Planet Formation Scenarios". Planets Around Pulsars;
+Proceedings of the Conference. Vol. 36. California Institute of Technology. pp. 149–165.
+Bibcode:1993ASPC...36..149P (https://ui.adsabs.harvard.edu/abs/1993ASPC...36..149P).
+
+17. "Pulsar Planets" (https://web.archive.org/web/20051230112904/http://www.astro.psu.edu/us
+ers/alex/pulsar_planets.htm). Archived from the original (http://www.astro.psu.edu/users/ale
+x/pulsar_planets.htm) on 30 December 2005.
+
+18. Wolszczan, A.; Frail, D. (1992). "A planetary system around the millisecond pulsar PSR1257
++ 12". Nature. 355 (6356): 145–147. Bibcode:1992Natur.355..145W (https://ui.adsabs.harva
+rd.edu/abs/1992Natur.355..145W). doi:10.1038/355145a0 (https://doi.org/10.1038%2F3551
+45a0). S2CID 4260368 (https://api.semanticscholar.org/CorpusID:4260368).
+
+19. Keränen, P.; Ouyed, R. (2003). "Planets orbiting Quark Nova compact remnants".
+Astronomy and Astrophysics. 407 (3): L51–L54. arXiv:astro-ph/0301574 (https://arxiv.org/ab
+s/astro-ph/0301574). Bibcode:2003A&A...407L..51K (https://ui.adsabs.harvard.edu/abs/200
+3A&A...407L..51K). doi:10.1051/0004-6361:20030957 (https://doi.org/10.1051%2F0004-636
+1%3A20030957). S2CID 18748570 (https://api.semanticscholar.org/CorpusID:18748570).
+
+20. Wolszczan, Alex (1997). "The Pulsar Planets Update". Planets Beyond the Solar System
+and the Next Generation of Space Missions. Proceedings of a workshop held at Space
+Telescope Science Institute, Baltimore, MD, 16–18 October 1996. ASP Conference Series,
+Vol. 119. Astronomical Society of the Pacific. p. 135. Bibcode:1997ASPC..119..135W (http
+s://ui.adsabs.harvard.edu/abs/1997ASPC..119..135W).
+
+21. Fischer, Daniel (25 October 2002). "A comet orbiting a pulsar?" (http://www.astro.uni-bonn.d
+e/~dfischer/mirror/244.html). The Cosmic Mirror (244).
+
+22. "Smallest extra-solar planet found" (http://news.bbc.co.uk/2/hi/science/nature/4264603.stm).
+BBC News. 14 February 2005.
+
+23. Wolszczan, Alex (January 2012). "Discovery of pulsar planets". New Astronomy Reviews. 56
+(1). Elsevier: 2–8. Bibcode:2012NewAR..56....2W (https://ui.adsabs.harvard.edu/abs/2012N
+ewAR..56....2W). doi:10.1016/j.newar.2011.06.002 (https://doi.org/10.1016%2Fj.newar.201
+1.06.002).
+
+24. "Scientists announce smallest extra-solar planet yet discovered" (https://web.archive.org/we
+b/20081012120754/http://live.psu.edu/story/10180) (Press release). Pennsylvania State
+University. 2005. Archived from the original (http://live.psu.edu/story/10180) on 12 October
+2008.
+
+
+
+Wolszczan, A. (1994). "Confirmation of Earth Mass Planets Orbiting the Millisecond Pulsar
+PSR B1257+12" (https://web.archive.org/web/20110720034147/http://www2.astro.psu.edu/~
+niel/astro550/week07-wolszczan-pulsar-planets.pdf) (PDF). Science. 264 (5158): 538–542.
+Bibcode:1994Sci...264..538W (https://ui.adsabs.harvard.edu/abs/1994Sci...264..538W).
+doi:10.1126/science.264.5158.538 (https://doi.org/10.1126%2Fscience.264.5158.538).
+PMID 17732735 (https://pubmed.ncbi.nlm.nih.gov/17732735). S2CID 19621191 (https://api.
+semanticscholar.org/CorpusID:19621191). Archived from the original (http://www.astro.psu.e
+du/~niel/astro550/week07-wolszczan-pulsar-planets.pdf) (PDF) on 20 July 2011.
+Wolszczan, A.; et al. (2000). "Timing Observations of Four Millisecond Pulsars with the
+Arecibo and Effelsberg Radio Telescopes" (https://doi.org/10.1086%2F308206). The
+Astrophysical Journal. 528 (2): 907–912. Bibcode:2000ApJ...528..907W (https://ui.adsabs.h
+arvard.edu/abs/2000ApJ...528..907W). doi:10.1086/308206 (https://doi.org/10.1086%2F308
+206).
+Salter, C. (2001). "Radio Astronomy Highlights" (https://web.archive.org/web/200812191922
+04/http://www.naic.edu/~newslet/no33/NAICNo33.pdf) (PDF). Arecibo Newsletter (33).
+Archived from the original (http://www.naic.edu/~newslet/no33/NAICNo33.pdf) (PDF) on 19
+December 2008. Retrieved 24 July 2006.
+
+External links
+Pulsar Planets (https://web.archive.org/web/20051230112904/http://www.astro.psu.edu/user
+s/alex/pulsar_planets.htm)
+PSR 1257+12 (https://web.archive.org/web/20080525161540/http://exoplanet.eu/star.php?st
+=PSR+1257+12) on The Extrasolar Planets Encyclopaedia (https://web.archive.org/web/200
+80613163808/http://exoplanet.eu/index.php)
+Britt, Robert Roy (29 May 2003). "A World With Two Suns" (http://www.space.com/sciencea
+stronomy/aas_earthsize_020329.html). SPACE.com.
+Lytle, Wayne (1992). "Does This Pulsar Have Orbiting Planets?" (https://www.youtube.com/
+watch?v=UrhfVH8itPE). Cornell Theory Center
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=PSR_B1257%2B12&oldid=1238488993"

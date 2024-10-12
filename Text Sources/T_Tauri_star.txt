@@ -1,0 +1,149 @@
+﻿T Tauri star
+T Tauri stars (TTS) are a class of variable stars that are less than
+about ten million years old.[1] This class is named after the
+prototype, T Tauri, a young star in the Taurus star-forming region.
+They are found near molecular clouds and identified by their
+optical variability and strong chromospheric lines. T Tauri stars
+are pre-main-sequence stars in the process of contracting to the
+main sequence along the Hayashi track, a luminosity–temperature
+relationship obeyed by infant stars of less than 3 solar masses
+(M ) in the pre-main-sequence phase of 
+☉ stellar evolution.[2] It Artist's impression of a T Tauri star
+
+ends when a star of 0.5 M☉ or larger develops a radiative zone, or with a circumstellar accretion disc
+when a smaller star commences nuclear fusion on the main
+sequence.
+
+History
+While T Tauri itself was discovered in 1852, the T Tauri class of stars were initially defined by Alfred
+Harrison Joy in 1945.[3]
+
+Characteristics
+T Tauri stars comprise the youngest visible F, G, K and M spectral type stars (<2 M☉). Their surface
+temperatures are similar to those of main-sequence stars of the same mass, but they are significantly more
+luminous because their radii are larger. Their central temperatures are too low for hydrogen fusion.
+Instead, they are powered by gravitational energy released as the stars contract, while moving towards the
+main sequence, which they reach after about 100 million years. They typically rotate with a period
+between one and twelve days, compared to a month for the Sun, and are very active and variable.
+
+There is evidence of large areas of starspot coverage, and they have intense and variable X-ray and radio
+emissions (approximately 1000 times that of the Sun). Many have extremely powerful stellar winds;
+some eject gas in high-velocity bipolar jets. Another source of brightness variability are clumps
+(protoplanets and planetesimals) in the disk surrounding T Tauri stars.
+
+Their spectra show a higher lithium abundance than the Sun and other main-sequence stars because
+lithium is destroyed at temperatures above 2,500,000 K. From a study of lithium abundances in 53 T
+Tauri stars, it has been found that lithium depletion varies strongly with size, suggesting that "lithium
+burning" by the p-p chain during the last highly convective and unstable stages during the later pre–main
+sequence phase of the Hayashi contraction may be one of the main sources of energy for T Tauri stars.
+Rapid rotation tends to improve mixing and increase the transport of lithium into deeper layers where it is
+destroyed. T Tauri stars generally increase their rotation rates as they age, through contraction and spin-
+
+
+
+up, as they conserve angular momentum. This causes an increased rate of
+lithium loss with age. Lithium burning will also increase with higher
+temperatures and mass, and will last for at most a little over 100 million
+years.
+
+The p-p chain for lithium burning is as follows
+
+p + 6
+3Li → 7
+
+4Be  
+7
+4Be + −
+
+e  → 7
+3Li + νe
+
+p + 7
+3Li → 8
+
+4Be  (unstable)
+The ejection of a bubble
+
+  8
+4Be → 2 42He + energy
+
+of hot gas from XZ Tauri,
+a binary system of T
+
+It will not occur in stars with less than sixty times the mass of Jupiter (MJ). Tauri stars. The scale is
+The rate of lithium depletion can be used to calculate the age of the star. much larger than that of
+
+the Solar System.
+
+Types
+Several types of TTSs exist:[4]
+
+Classical T Tauri star (CTTS)
+Weak-line T Tauri star (WTTS)
+
+Naked T Tauri star (NTTS), which is a subset of WTTS.
+Roughly half of T Tauri stars have circumstellar disks, which
+in this case are called protoplanetary discs because they are
+probably the progenitors of planetary systems like the Solar
+System. Circumstellar discs are estimated to dissipate on
+timescales of up to 10 million years. Most T Tauri stars are in
+binary star systems. In various stages of their life, they are
+called young stellar object (YSOs). It is thought that the
+active magnetic fields and strong solar wind of Alfvén waves
+of T Tauri stars are one means by which angular momentum
+
+Protoplanetary discs in the Orion Nebula gets transferred from the star to the protoplanetary disc. A T
+Tauri stage for the Solar System would be one means by
+which the angular momentum of the contracting Sun was
+
+transferred to the protoplanetary disc and hence, eventually to the planets.
+
+
+
+Analogs of T Tauri stars in the higher mass range (2–8 solar masses)—A and B spectral type pre–main-
+sequence stars, are called Herbig Ae/Be-type stars. More massive (>8 solar masses) stars in pre–main
+sequence stage are not observed, because they evolve very quickly: when they become visible (i.e.
+disperses surrounding circumstellar gas and dust cloud), the hydrogen in the center is already burning and
+they are main sequence objects.
+
+Planets
+Planets around T Tauri stars include:
+
+HD 106906 b around an F-type star
+1RXS J160929.1−210524b around a K-type star
+Gliese 674 b around an M-type star
+V830 Tau b around an M-type star
+PDS 70b around a K-type star
+
+See also
+Orion variable
+EX Lupi
+P Cygni profile
+
+References
+1. Appenzeller, I; Mundt, R (1989). "T Tauri stars". The Astronomy and Astrophysics Review. 1
+
+(3–4): 291. Bibcode:1989A&ARv...1..291A (https://ui.adsabs.harvard.edu/abs/1989A&ARv...
+1..291A). doi:10.1007/BF00873081 (https://doi.org/10.1007%2FBF00873081).
+S2CID 118324477 (https://api.semanticscholar.org/CorpusID:118324477).
+
+2. "Stellar Evolution - Cycles of Formation and Destruction; Young Stellar Objects" (https://cha
+ndra.harvard.edu/edu/formal/stellar_ev/story/index5.html). chandra.harvard.edu. Retrieved
+2023-01-31.
+
+3. Joy, Alfred H. (1945). "T Tauri Variable Stars" (http://articles.adsabs.harvard.edu/full/1945Ap
+J...102..168J). The Astrophysical Journal. 102: 168–195. Bibcode:1945ApJ...102..168J (http
+s://ui.adsabs.harvard.edu/abs/1945ApJ...102..168J). doi:10.1086/144749 (https://doi.org/10.
+1086%2F144749).
+
+4. Scott J. Wolk (1996). "T Tauri Stars, Naked and Otherwise" (http://hea-www.harvard.edu/~s
+wolk/thesis/intro/node2.html). Retrieved 2018-03-14.
+
+Discussion of V471 Tauri observations and general T-Tauri properties (https://web.archive.or
+g/web/20110524172358/http://universe.gsfc.nasa.gov/seminars/presentations/walter/toc.ht
+ml), Frederick M. Walter, Stony Brook University, April 2004
+An empirical criterion to classify T Tauri stars and substellar analogs using low-resolution
+optical spectroscopy (https://arxiv.org/abs/astro-ph/0309284), David Barrado y Navascues,
+2003
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=T_Tauri_star&oldid=1214729828"

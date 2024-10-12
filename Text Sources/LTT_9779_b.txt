@@ -1,0 +1,93 @@
+﻿LTT 9779 b
+LTT 9779 b, officially named Cuancoá, is a Neptune- LTT 9779 b / Cuancoá
+sized planet orbiting the sunlike star LTT 9779, or
+Uúba. As of 2023, it has the highest-known albedo of Discovery
+any planet.[1]
+
+Discovery date 2020
+
+Detection Transit
+method
+
+Characteristics Designations
+
+LTT 9779 b is one of the few known planets in the Alternative Cuancoá
+names
+
+Neptunian desert.[2] It is highly reflective, with an
+albedo of 0.8.[3] This makes it the most reflective Orbital characteristics
+
+exoplanet discovered so far. It completes an orbit Semi-major axis 0.01679 AU
+around LTT 9779 in less than a day, making Eccentricity <0.01
+temperatures on the day side soar to over 2,000 Inclination 76.39 ± 0.43°
+degrees Celsius.[4] Global climate models of the planet
+indicate it has a very metal-rich atmosphere, with Star LTT 9779
+
+clouds made of silicate likely being present.[1] Physical characteristics
+Mean radius 4.72 ± 0.23 R🜨
+
+Being in the Neptunian desert, LTT 9779 b is a very Mass 29.32 M
+rare class of planet, with few like it being known. It is 🜨
+
+estimated that only 1 in 200 Sun-like stars possess a Albedo 0.8
+
+planet with an orbital period of less than a day,[2] and Temperature 2,305 K (2,032 °C; 3,689
+most of those are Hot Jupiters or rocky planets, with °F) (Dayside)
+ultra-hot Neptune planets being rare.[2] Because of
+this, LTT 9779 b has been extensively studied by many
+space telescopes including Hubble and James Webb.
+
+Name
+LTT 9779 b was officially named Cuancoá in 2022 by the International Astronomical Union, as part of
+the NameExoWorlds competition. Cuancoá is a word that refers to the morning star in the Uwa
+language.[5] Cuancoá's star was named Uúba after the word for "star," "seed," and "eye" in the same
+language.
+
+See also
+LTT 9779
+
+List of proper names of exoplanets
+
+Neptunian desert
+
+
+
+NGTS-4b, another planet in the Neptunian desert
+
+References
+1. Hoyer, S.; Jenkins, J. S.; Parmentier, V.; Deleuil, M.; Scandariato, G.; Wilson, T. G.; Díaz, M.
+
+R.; Crossfield, I. J. M.; Dragomir, D.; Kataria, T.; Lendl, M.; Ramirez, R.; Rojas, P. A. Peña;
+Vinés, J. I. (2023-07-01). "The extremely high albedo of LTT 9779 b revealed by CHEOPS -
+An ultrahot Neptune with a highly metallic atmosphere" (https://www.aanda.org/articles/aa/a
+bs/2023/07/aa46117-23/aa46117-23.html). Astronomy & Astrophysics. 675: A81.
+doi:10.1051/0004-6361/202346117 (https://doi.org/10.1051%2F0004-6361%2F202346117).
+ISSN 0004-6361 (https://search.worldcat.org/issn/0004-6361). S2CID 259715040 (https://ap
+i.semanticscholar.org/CorpusID:259715040).
+
+2. Jenkins, James S.; Díaz, Matías R.; Kurtovic, Nicolás T.; Espinoza, Néstor; Vines, Jose I.;
+Rojas, Pablo A. Peña; Brahm, Rafael; Torres, Pascal; Cortés-Zuleta, Pía; Soto, Maritza G.;
+Lopez, Eric D.; King, George W.; Wheatley, Peter J.; Winn, Joshua N.; Ciardi, David R.
+(2020-09-14). "An Ultra-Hot Neptune in the Neptune desert". Nature Astronomy. 4 (12):
+1148–1157. arXiv:2009.12832 (https://arxiv.org/abs/2009.12832). doi:10.1038/s41550-020-
+1142-z (https://doi.org/10.1038%2Fs41550-020-1142-z). ISSN 2397-3366 (https://search.wo
+rldcat.org/issn/2397-3366). S2CID 221883508 (https://api.semanticscholar.org/CorpusID:22
+1883508).
+
+3. "Cheops shows scorching exoplanet acts like a mirror" (https://www.esa.int/Science_Explora
+tion/Space_Science/Cheops/Cheops_shows_scorching_exoplanet_acts_like_a_mirror).
+www.esa.int. Retrieved 2023-10-21.
+
+4. Crossfield, Ian J. M.; Dragomir, Diana; Cowan, Nicolas B.; Daylan, Tansu; Wong, Ian;
+Kataria, Tiffany; Deming, Drake; Kreidberg, Laura; Mikal-Evans, Thomas; Gorjian, Varoujan;
+Jenkins, James S.; Benneke, Bjoern; Collins, Karen A.; Burke, Christopher J.; Henze,
+Christopher E. (2020-10-26). "Phase Curves of Hot Neptune LTT 9779b Suggest a High-
+Metallicity Atmosphere" (https://doi.org/10.3847%2F2041-8213%2Fabbc71). The
+Astrophysical Journal. 903 (1): L7. arXiv:2010.12745 (https://arxiv.org/abs/2010.12745).
+doi:10.3847/2041-8213/abbc71 (https://doi.org/10.3847%2F2041-8213%2Fabbc71).
+ISSN 2041-8213 (https://search.worldcat.org/issn/2041-8213).
+
+5. "2022 Approved Names" (https://www.nameexoworlds.iau.org/2022approved-names).
+NameExoworlds. Retrieved 2023-10-21.
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=LTT_9779_b&oldid=1222442643"

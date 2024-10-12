@@ -1,331 +1,249 @@
-Astronomy Formula Sheet
-ˆ
-mB ´ mA “ 2.5log
-Intensity Ratio:
-
-Small Angle Formula:
+﻿Astronomy Formula Sheet
+ˆ ˙
 
 IA
+mB ´mA “ 2.5log
+
+I m “ Magnitude
+Intensity Ratio: B
+
+I I “ Intensity
+A
+
+100.4pmB´mAq“
 IB
 
-IA
-“ 100.4pmB ´mA q
-IB
-θ “ 206265
+D θ “ Angular Diameter (arcsecs)
+Small Angle Formula: θ “ 206265 D “ Diameter
 
-c
-
-˙
-m “ Magnitude
-I “ Intensity
-
-θ “ Angular Diameter (arcsecs)
-D “ Diameter
-d “Distance
-
-D
-d
+d d “Distance
 
 v “ circular velocity (m/s)
+c
+
 G “ Gravitational Constant
-M “ Mass (kg)
+Circular Velocity: GM
+
+v “
+r M “ Mass (kg)
+
 r “ radius (meters)
 
-GM
-r
+λ ∆θ “ Angular separation (arcsecs)
+Resolving Power: ∆θ “ 251643 λ “ Wavelength
 
-Circular Velocity:
+d d “ Optic Diameter
 
-v“
+ˆ ˙2
+LGP D LGP “ Light Gathering Power
 
-Resolving Power:
-
-∆θ “ 251643
-
-Compare LGP:
-
-LGPA
+Compare LGP: A A
 “
-LGPB
 
-Magnification:
+LGP D “ Optic Diameter
+B DB
 
-M“
+F M “ Magnification Power
+O
 
-Wien’s Law:
+Magnification: M “ FO “ Objective focal length
+FE FE “ Eyepiece focal length
 
-λpeak “
+2900000 λpeak “ Peak wavelength (nm)
+Wien’s Law: λpeak “
 
-ˆ
+T T “ Temperature (K)
 
-∆θ “ Angular separation (arcsecs)
-λ “ Wavelength
-d “ Optic Diameter
+F 4
+“ σT F “ Flux (luminosity/area) (W/m2)
 
-λ
-d
+L σ “ Stefan-Boltzmann Constant
+“ 4πσR2T 4
 
-DA
-DB
+Stefan-Boltzmann Law: T “ Temperature (K)
+ˆ ˙2ˆ ˙4
 
-˙2
-
-LGP “ Light Gathering Power
-D “ Optic Diameter
-M “ Magnification Power
-FO “ Objective focal length
-FE “ Eyepiece focal length
-
-FO
-FE
-2900000
-T
-
-λpeak “ Peak wavelength (nm)
-T “ Temperature (K)
-
-F “ σT 4
-L “ 4πσR2 T 4
-ˆ
-˙2 ˆ ˙ 4
-L
-R
-T
+L R T L “ Luminosity (W)
 “
-Ld
-Rd
-Td
 
-F “ Flux (luminosity/area) (W/m2 )
-σ “ Stefan-Boltzmann Constant
-T “ Temperature (K)
-L “ Luminosity (W)
-R “ Radius (m)
+L R “ Radius (m)
+d Rd Td
 
-Redshift:
+λ z “ Redshift
+O
 
-λO
-z`1“
-λE
-
-z “ Redshift
-λO “ Observed Wavelength
-λE “ Emitted Wavelength
-
-Doppler Formula:
-
-v “ cz
+Redshift: z ` 1 “ λO “ Observed Wavelength
+λE λE “ Emitted Wavelength
 
 v “ Velocity (m/s)
-c “ Speed of light (m/s)
+Doppler Formula: v “ cz c “ Speed of light (m/s)
+
 z “ Redshift
-
-Stefan-Boltzmann Law:
-
 d
-Relativistic Doppler Shift:
 
-Hubble’s Law:
+1` pv{cq v “ Velocity (m/s)
+Relativistic Doppler Shift: z ` 1 “ c “ Speed of light (m/s)
 
-Fusion Explained:
+1´ pv{cq z “ Redshift
 
-z`1“
-
-1 ` pv{cq
-1 ´ pv{cq
-
-v “ Velocity (m/s)
-c “ Speed of light (m/s)
-z “ Redshift
 v “ Recessional velocity (km/s)
-H0 “ Hubble’s Constant
+Hubble’s Law: v “ H0d H0 “ Hubble’s Constant
+
 d “ Distance
 
-v “ H0 d
-
 E “ Energy (J)
-m “ Mass (kg)
+Fusion Explained: E “ mc2 m “ Mass (kg)
+
 c “ Speed of light (m/s)
 
-2
-
-E “ mc
-
 1
 
-Parallax:
 
-d“
 
+1 d “ Distance (pc)
+Parallax: d “
+
+p p “ Parallax Angle (arcseconds)
+
+Lf Lf “ Focal Length
 F Ratio:
 
-Lf
-DO
+D DO “ Objective Diameter
+O
 
-Distance Modulus:
+m´M “ ´5` 5logpdq m “ Apparent magnitude
+Distance Modulus: M “ Absolute Magnitude
 
-1
-p
+m´M`5
+d “ 10 5 d “ Distance (pc)
 
-d “ Distance (pc)
-p “ Parallax Angle (arcseconds)
-Lf “ Focal Length
-DO “ Objective Diameter
+c e “ Orbital Eccentricity
+Orbit Eccentricity: e “ c “ Distance from focus to center
 
-m ´ M “ ´5 ` 5logpdq
-d “ 10
-
-m´M `5
-5
-
-e “ Orbital Eccentricity
-c “ Distance from focus to center
-a “ semimajor axis
-
-c
-a
-
-Orbit Eccentricity:
-
-e“
-
-Aphelion/Perihelion:
-
-Ra “ ap1 ` eq
-Rp “ ap1 ´ eq
-
-MA ` MB “
-Kepler’s 3rd Law:
-
-Mass-Luminosity Relation:
+a a “ semimajor axis
 
 Ra “ Orbit Aphelion
-Rp “ Orbit Perihelion
-a “ Semimajor Axis
+Ra “ ap1` eq Rp “ Orbit Perihelion
+
+Aphelion/Perihelion:
+Rp “ ap1´ eq a “ Semimajor Axis
+
 e “ Eccentricity
 
 a3
-p2
+MA `MB “
 
-M “ Mass (solar masses)
-a “ Semimajor axis (AU)
-p “ Orbital Period (years)
+p2 M “ Mass (solar masses)
+Kepler’s 3rd Law: a “ Semimajor axis (AU)
 
 a3
-MA ` MB
+p2 p “ Orbital Period (years)
+“
+MA `MB
 
-p2 “
-
-m “ Apparent magnitude
-M “ Absolute Magnitude
-d “ Distance (pc)
-
-M “ Mass (solar masses)
+Mass-Luminosity Relation: L “M3.5 M “ Mass (solar masses)
 L “ Luminosity (Solar luminosity)
 
-L “ M 3.5
-
-Stellar Lifetime:
-
-τ “ 1010 M ´2.5
-
-M “ Mass (solar masses)
+Stellar Lifetime: τ “ 1010M´2.5 M “ Mass (solar masses)
 τ “ Stellar Lifetime (years)
 
-Schwarzschild Radius:
-
-2Gm
-rs “ 2
-c
-
 rs “ Schwartzchild Radius (meters)
-G “ Gravitational Constant
-c “ Speed of light
+2Gm G “ Gravitational Constant
+
+Schwarzschild Radius: rs “
+c2 c “ Speed of light
+
 r “ radius (meters)
-
-Universal Gravitation:
-
-mA mB
-F “G
-r2
 
 F “ Gravitational Force (N)
-G “ Gravitational Constant
-m “ mass (kg)
+mAmB G “ Gravitational Constant
+
+Universal Gravitation: F “ G
+r2 m “ mass (kg)
+
 r “ radius (meters)
 
-Inverse-Squares Law:
+L I “ Light Intensity (W/m2)
+Inverse-Squares Law: I “ L “ Luminosity (W)
 
-L
-I“
-4πd2
+4πd2 d “ Distance (m)
 
-I “ Light Intensity (W/m2 )
-L “ Luminosity (W)
-d “ Distance (m)
+c f “ Wave frequency (Hz)
+Vacuum Frequency: f “ c “ Speed of Light (m/s)
 
-Vacuum Frequency:
+λ λ “ wavelength (m)
 
-f“
-
-Hubble Time:
-
-TU “
-
-f “ Wave frequency (Hz)
-c “ Speed of Light (m/s)
-λ “ wavelength (m)
-
-c
-λ
-9.778 ˆ 1011
-H0
-
+9.778ˆ 1011
 TU “ Age of the Universe (years)
-H0 “ Hubble Constant (km/s/Mpc)
+
+Hubble Time: TU “
+H H0 “ Hubble Constant (km/s/Mpc)
+
+0
 
 2
 
-Astronomical Constants and Conversions
+
+
+Astronomical Constants and Conversions
+
 Constants
-Speed of Light “ c “ 3 ˆ 108 m/s
-Gravitational Constant = G = 6.67 ˆ 10´11 N m2 /kg2
-Mass of Earth “ MC “ 5.97 ˆ 1024 kg
+
+Speed of Light “ c “ 3ˆ 108 m/s
+
+Gravitational Constant = G = 6.67ˆ 10´11N m2/kg2
+
+Mass of Earth “MC “ 5.97ˆ 1024 kg
+
 Radius of Earth “ RC “ 6378 km
-Mass of the sun “ M@ “ = 1.99 ˆ 1030 kg
-Radius of the sun “ R@ “ 6.96 ˆ 105 km
+
+Mass of the sun “M@ “ = 1.99ˆ 1030 kg
+
+Radius of the sun “ R@ “ 6.96ˆ 105 km
+
 Effective Temperature of the sun “ T@ “ 5778 K
-Luminosity of the sun “ L@ “ 3.9 ˆ 1026 W
-Mass of the Moon “ MK “ 7.346 ˆ 1022 kg
+
+Luminosity of the sun “ L@ “ 3.9ˆ 1026W
+
+Mass of the Moon “MK “ 7.346ˆ 1022 kg
+
 Radius of the Moon “ RK “ 1738.1 km
-Mass of a proton = mp = 1.6726 ˆ 10´27 kg
-Mass of an Electron “ me´ “ 9.109 ˆ 10´31 kg
-Hubble’s Constant “ H0 “ 70 km/s/Mpc
 
-(Note: There is ongoing debate about the actual value)
+Mass of a proton = mp = 1.6726ˆ 10´27 kg
 
-Stefan-Boltzmann Constant “ σ “ 5.67 ˆ 10´8 W/m2 K4
-Planck’s Constant “ h “ 6.626 ˆ 10´34 J s
-Boltzmann Constant = kB = 1.380 ˆ 10´23 m2 kg s´2 K´1
+Mass of an Electron “ me´ “ 9.109ˆ 10´31 kg
+
+Hubble’s Constant “ H0 “ 70 km/s/Mpc (Note: There is ongoing debate about the actual value)
+
+Stefan-Boltzmann Constant “ σ “ 5.67ˆ 10´8 W/m2K4
+
+Planck’s Constant “ h “ 6.626ˆ 10´34 J s
+
+Boltzmann Constant = kB = 1.380ˆ 10´23 m2 kg s´2 K´1
+
 Hα Spectral Line = 656.28 nm
+
 Type Ia Supernova Absolute Magnitude = -19.3
+
 Unit Conversions
-1 Astronomical Unit = 1 AU = 1.5 ˆ 108 km
-1 Parsec = 1 pc = 3.09 ˆ 1013 km = 3.26 ly
-1 Light Year = 1 ly = 9.46 ˆ 1012 km
-1 0
-1 Arc Minute = 11 = p 60
-q = (1.667 ˆ 10´2 )0
-1 1
-1 Arcsecond = 12 = p 60
-q = (1.667 ˆ 10´2 )1
+
+1 Astronomical Unit = 1 AU = 1.5ˆ 108 km
+
+1 Parsec = 1 pc = 3.09ˆ 1013km = 3.26 ly
+
+1 Light Year = 1 ly = 9.46ˆ 1012km
+
+1 Arc Minute = 11 = p 1 q0 = (1.667ˆ 10´2)0
+60
+
+1 Arcsecond = 12 = p 1 q1 = (1.667ˆ 10´2)1
+60
 
 1 year = 31557600 seconds
-1 Megaton (energy) = 1,000,000 tons of TNT = 4.184 ˆ 1015 J
+
+1 Megaton (energy) = 1,000,000 tons of TNT = 4.184ˆ 1015 J
 
 Important Note:
 If constants or unit conversions are provided on the exam, use those instead of these.
 
 3
-
-

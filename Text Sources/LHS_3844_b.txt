@@ -1,0 +1,129 @@
+﻿LHS 3844 b
+LHS 3844 b, formally named Kua'kua,[2] is an LHS 3844 b / Kua'kua
+exoplanet orbiting the red dwarf LHS 3844, about 48.5
+light-years (14.9 parsecs) away in the constellation
+Indus,[6] discovered using the Transiting Exoplanet
+Survey Satellite. It orbits its parent star once every 11
+hours, and its radius is 1.32 times that of Earth.[1] It
+has a low albedo, indicating that its surface may
+resemble that of the Moon or Mercury. LHS 3844 b
+probably does not have an atmosphere as almost no
+heat goes to its night side, and it has a dayside
+
+Artist’s illustration of LHS 3844 b
+temperature of 1,040 K (770 °C; 1,410 °F).[5][7] The
+presence of cloudy atmosphere with cloud tops above Discovery[1]
+
+pressure level of 0.1 bar cannot be excluded though.[8] Discovered by Vanderspek et al.
+Discovery date September 2018
+
+In order to explain the lack of atmosphere, it has been
+proposed that the planet was formed interior to the star Detection Transit
+
+method
+system's snow-line, because if it formed beyond the
+snow-line it would have carried volatiles, on the Designations
+
+surface and in a thick atmosphere, that according to Alternative Kua'kua,[2] TOI-136.01, TIC
+models on atmospheric loss should have been enough names 410153553 b[3][4]
+
+to sustain an atmosphere to the present.[9] The planet Orbital characteristics
+probably also formed with a volatile-poor outgassing Semi-major 0.006 22 ± 0.000 17 AU[3][4]
+mantle, in a stagnant lid regime, because if the mantle axis
+was similar in constitution to Earth's, with plate Orbital period 0.462 929 13 ± 0.000 001 90
+tectonics, then it should still have a thick atmosphere, (sidereal) d[3][4]
+
+unless the red dwarf consistently flared at an
+Inclination 88.50 ± 0.51[4]
+
+uncharacteristically extreme rate not yet considered in
+atmospheric loss models.[9] An alternative explanation Star LHS 3844
+
+for the lack of atmosphere could be through a large Physical characteristics
+impact event, one with enough momentum to strip the Mean radius 1.303 ± 0.022 R [3][4]
+
+🜨
+planet of its atmosphere and a large portion of its Albedo <0.2[5]
+mantle.[9] In order to explain the non replenishment of
+volatiles via comets back onto the planet, it is also Temperature 1,040 K (770 °C; 1,410 °F)
+
+(day side)[5]
+proposed that perhaps there is an outer gas giant in the
+star system.[9]
+
+
+
+It is thought that LHS 3844 b is tidally locked due to its surface being 'relatively cool', although this
+hypothesis could possibly be complicated by the fact that the research into the temperature of the planet
+assumed that there was no atmosphere, a point which isn't definitively confirmed.[10]
+
+Naming
+In August 2022, this planet and its host star were included among 20 systems to be named by the third
+NameExoWorlds project.[6] The approved names, proposed by a team from Costa Rica, were announced
+in June 2023. LHS 3844 b is named Kua'kua and its host star is named Batsũ,̀ after the Bribri words for
+"butterfly" and "hummingbird".[2]
+
+See also
+List of exoplanets discovered in 2019
+WASP-17b
+
+References
+1. Team, the TESS; Villaseñor, Jesus Noel S.; Twicken, Joseph D.; Rose, Mark; Morgan,
+
+Edward H.; Pepper, Joshua; Glidden, Ana W.; Fausnaugh, Michael; Davies, Misty D. (2018-
+09-19). "TESS Discovery of an ultra-short-period planet around the nearby M dwarf LHS
+3844" (https://doi.org/10.3847%2F2041-8213%2Faafb7a). The Astrophysical Journal. 871
+(2): L24. arXiv:1809.07242 (https://arxiv.org/abs/1809.07242). Bibcode:2019ApJ...871L..24V
+(https://ui.adsabs.harvard.edu/abs/2019ApJ...871L..24V). doi:10.3847/2041-8213/aafb7a (ht
+tps://doi.org/10.3847%2F2041-8213%2Faafb7a). S2CID 119009146 (https://api.semanticsc
+holar.org/CorpusID:119009146).
+
+2. "2022 Approved Names" (https://www.nameexoworlds.iau.org/2022approved-names).
+nameexoworlds.iau.org. IAU. Retrieved 7 June 2023.
+
+3. "The Extrasolar Planet Encyclopaedia — LHS 3844 b" (https://exoplanet.eu/catalog/lhs_384
+4_b--6827/). Extrasolar Planets Encyclopaedia. 1995. Retrieved 2019-08-25.
+
+4. "LHS 3844 b" (https://exoplanetarchive.ipac.caltech.edu/cgi-bin/DisplayOverview/nph-Displa
+yOverview?objname=LHS+3844+b&type=CONFIRMED_PLANET). NASA Exoplanet
+Archive. Retrieved 23 July 2020.
+
+5. Kreidburg, Laura; et al. (August 2019). "Absence of a thick atmosphere on the terrestrial
+exoplanet LHS 3844b". Nature. 573 (7772): 87–90. arXiv:1908.06834 (https://arxiv.org/abs/1
+908.06834). Bibcode:2019Natur.573...87K (https://ui.adsabs.harvard.edu/abs/2019Natur.57
+3...87K). doi:10.1038/s41586-019-1497-4 (https://doi.org/10.1038%2Fs41586-019-1497-4).
+PMID 31427764 (https://pubmed.ncbi.nlm.nih.gov/31427764). S2CID 256819677 (https://ap
+i.semanticscholar.org/CorpusID:256819677).
+
+6. "List of ExoWorlds 2022" (https://www.nameexoworlds.iau.org/2022exoworlds).
+nameexoworlds.iau.org. IAU. 8 August 2022. Retrieved 27 August 2022.
+
+7. Greicius, Tony (2019-08-19). "NASA Gets a Rare Look at a Rocky Exoplanet's Surface" (htt
+p://www.nasa.gov/feature/jpl/nasa-gets-a-rare-look-at-a-rocky-exoplanets-surface). NASA.
+Retrieved 2019-08-25.
+
+8. Diamond-Lowe, Hannah; Charbonneau, David; Malik, Matej; Kempton, Eliza M.-R.;
+Beletsky, Yuri (2020), "Optical Transmission Spectroscopy of the Terrestrial Exoplanet LHS
+3844b from 13 Ground-based Transit Observations", The Astronomical Journal, 160 (4):
+
+
+
+188, arXiv:2008.05444 (https://arxiv.org/abs/2008.05444), Bibcode:2020AJ....160..188D (htt
+ps://ui.adsabs.harvard.edu/abs/2020AJ....160..188D), doi:10.3847/1538-3881/abaf4f (http
+s://doi.org/10.3847%2F1538-3881%2Fabaf4f), S2CID 221103928 (https://api.semanticschol
+ar.org/CorpusID:221103928)
+
+9. Kane, Stephen R.; Roettenbacher, Rachael M.; Unterborn, Cayman T.; Foley, Bradford J.;
+Hill, Michelle L. (2020-07-28). "A Volatile-poor Formation of LHS 3844b Based on Its Lack of
+Significant Atmosphere" (https://doi.org/10.3847%2FPSJ%2Fabaab5). The Planetary
+Science Journal. 1 (2): 36. arXiv:2007.14493 (https://arxiv.org/abs/2007.14493).
+Bibcode:2020PSJ.....1...36K (https://ui.adsabs.harvard.edu/abs/2020PSJ.....1...36K).
+doi:10.3847/PSJ/abaab5 (https://doi.org/10.3847%2FPSJ%2Fabaab5). S2CID 220845575
+(https://api.semanticscholar.org/CorpusID:220845575).Accepted for publication in the
+Planetary Science Journal
+
+10. Howlett, Joseph (2024-03-28). "This super-Earth is the first planet confirmed to have a
+permanent dark side" (https://www.nature.com/articles/d41586-024-00414-z). Nature.
+doi:10.1038/d41586-024-00414-z (https://doi.org/10.1038%2Fd41586-024-00414-z).
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=LHS_3844_b&oldid=1216800535"

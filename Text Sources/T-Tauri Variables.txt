@@ -1,0 +1,805 @@
+﻿Spectra of the T Tauri Stars
+
+Frederick M. Walter
+
+
+
+“We had the sky up there, all speckled with
+stars, and we used to lay on our backs and look
+up at them, and discuss about whether they
+was made or only just happened. Jim he
+allowed they was made, but I allowed they
+happened; I judged it would have took too long
+to make so many. Jim said the moon could 'a'
+laid them; well, that looked kind of reasonable,
+so I didn't say nothing against it, because I've
+seen a frog lay most as many, so of course, it
+could be done.”
+                                          Mark Twain - Adventures of Huckleberry Finn
+
+
+
+The Stars of Joy
+
+A.H. Joy, 1942, PASP, 54, 15
+
+
+
+
+
+
+
+
+
+
+
+
+Some Context
+
+
+
+Taxonomy. I.
+• Continuum Stars
+
+– Very strong Line Emission
+– No photospheric absorption
+
+• Classical T Tauri Stars (cTTS)
+– Strong Line Emission
+– Photospheric absorption lines, often weak
+
+• Naked or Weak T Tauri Stars (nTTS, wTTS)
+– Emission lines of chromospheric strength
+– Essentially normal absorption spectra
+
+
+
+Taxonomy. II.
+Based on  = d(logF)/d(log),
+               2µm<<25µm (Lada 1987)
+
+• Class 1:  0 <  <  3, 80K < Tbol < 650K
+• Class 2: -2 <  <  0   = cTTS
+• Class 3: -3 <  < -2   = nTTS
+• FSS:   -0.3 <  < 0.3  encompass class 1,2
+
+• Class 0 (André et al. 2000)
+– Tbol < 80K
+– Lsmm/Lbol > 0.005
+
+
+
+Spectral Energy Distributions
+
+Extreme cTTS cTTS
+Class 2 Class 2
+
+Bertout, Basri & Bouvier 1988
+
+
+
+Birthline
+• Protostar structure set by mass
+
+accretion rate from opaque envelope
+• Tcore reaches 106 K; D-burning initiated
+• Deuterium acts as a thermostat
+• R~M until 2D depleted
+• Quasi-static contraction starts
+
+(Stahler 1983, 1988; Palla & Stahler 1993)
+
+
+
+Palla & Stahler, 1993, ApJ, 418, 414
+
+
+
+The Hayashi Track
+• Luminosity driven by gravitational contraction
+
+(Kelvin-Kelmholtz)
+• Envelope is fully convective
+• Temperature almost independent of
+
+luminosity due to H- opacity
+• Nearly vertical evolution in H-R diagram
+• When Tcore reaches ~107K, H-burning
+
+initiated; radiative core forms and contraction
+halts (Henyey track).
+
+
+
+Taxonomy. III.
+• Class 0 and 1 protostars: pre-birthline
+• Continuum stars: close to the birthline?
+• Class 2 stars (cTTS): on the Hayashi
+
+track
+• Class 3 stars can be on the Hayashi or
+
+Henyey tracks, or on the ZAMS
+
+
+
+Spectra of the cTTS
+
+
+
+Cohen & Kuhi, 1979, ApJS, 41, 743
+
+
+
+
+
+
+Source of the cTTS Emission
+• Stellar Magnetic Activity
+
+– Dominates in the nTTS
+
+• Accretion
+– Dominates in the cTTS
+
+
+
+Three K Stars
+•  Eri, K2V
+
+– Moderately active
+– For comparison only
+
+• T Tauri, K0
+– The prototype
+– Not particularly variable
+
+• RU Lupi, K7
+– Extremely active
+
+
+
+Optical (blue)
+
+RU Lup
+
+T Tau
+
+ Eri
+
+
+
+UV (1300-1400Å)
+
+RU Lup
+
+T Tau
+
+ Eri
+
+
+
+UV Comparison
+
+
+
+Accretion
+
+Channeled by magnetic funnels from the Keplerian co-
+rotation radius
+
+
+
+Consequences of Accretion
+• Free-fall velocities to ~300 km/s
+• Emission wings if seen off star
+• Inverse P Cygni profiles if projected on
+
+star
+• Surface shock (T up to 106 K)
+• Shock continuum modelled as ~8000K
+
+slab
+
+
+
+S CrA
+• 1.3 arcsec pair
+
+(~170 AU)
+• No change in
+
+PA in 70 years
+
+WFPC2 F814W
+
+
+
+Accretion in S CrA
+
+
+
+Accretion in S CrA
+
+
+
+Accretion in S CrA: photometry
+
+
+
+Accretion in S CrA: spectroscopy
+
+
+
+Accretion flows in S CrA SE
+
+
+
+S CrA SE Model
+
+
+
+Accretion Continuum
+• UV excess ~8-10 x103 K BB with 2% ff.
+• Luminosity consistent with GM/R dm/dt
+• Modeled as an optically thick slab.
+• Formerly called the Boundary Layer
+
+• Accretion cannot explain the 107K
+corona.
+
+
+
+Veiling
+• The photospheric absorption lines often
+
+appear weak
+• Canonical interpretation: dilution by the
+
+accretion continuum (e.g., Basri & Bathala 1990)
+
+• Veiling factor VF = facc/fph
+• VF up to 10 observed
+• Predicts strong correlation between VF
+
+and magnitude
+G. Gahm, P. Petrov, E. Stempels
+
+
+
+Examples of Variable Veiling
+
+Gahm et al.
+2008, A&A
+482, L35
+
+
+
+Variable Veiling in S CrA SE
+
+
+
+Correlations of Veiling with
+Brightness - not
+
+Gahm et al.
+2008, A&A
+482, L35
+
+
+
+Dashed curves: constant emission flux, variable continuum.
+Gahm et al. 2008, A&A 482, L35
+
+
+
+Variable Veiling in S CrA SE
+
+[O I] is circumstellar. That it remains constant indicates that the
+continuum does not change as the veiling increases
+
+
+
+Explaining Veiling
+• VF<2: enhanced accretion continuum
+• VF>2: lines are diluted without an
+
+increase in the continuum
+• Line filling-in is observed
+• “chromospheric” emission RVs are in
+
+anti-phase with the absorption lines
+• Electron-scattering?
+
+
+
+Winds
+• All T Tauri stars have winds
+• Seen as P Cygni line
+
+profiles
+• Wind velocity
+   from extent of
+   optically-thick
+   trough
+• In this case,
+   Vw ~ 380 km/s
+
+
+
+
+
+
+Doppler Imaging
+
+
+
+Doppler Imaging
+
+
+
+Zeeman Doppler Imaging
+
+
+
+Zeeman Doppler Imaging
+
+
+
+V2129 Oph
+
+
+
+•Classical T Tauri star
+•Member of  Oph complex
+•K3.5V
+•m-dot ~ 10-8 M/yr
+•V=11.4
+•AV=0.6
+•Prot = 6.53d
+
+•Vsini ~ 7 km/s
+•i ~ 45-50o
+
+
+
+V2129 Oph
+A coordinated campaign to
+study the relation between
+•accretion,
+•starspots,
+•coronal structure, and
+•the stellar magnetic field
+
+C. Argiroffi , J.Bouvier, J.F. Donati, E.
+Flaccomio, S. Gregory, & others
+
+
+
+Optical Light
+Curve
+
+Folded on 6.53 day
+period
+
+Minimum:
+JD 2455012.34 +/-  0.21
+(June 29.84 UT)
+Xray =0 @ ~0.2
+
+
+
+n-IR Light
+Curve
+
+Folded on 6.53
+day period
+
+ Spot solution:
+Tspot= 3884.
+fspot= 0.1190
+
+
+
+High Dispersion - H
+
+
+
+Li Absorption Radial Velocity
+
+Mean: -7.2 km/s  (agrees with literature)
+
+
+
+H Radial Velocity
+
+Mean: -13 km/s   Amplitude: 20 km/s
+
+
+
+HARPS HARPS
+spectra
+
+Note
+P Cygni
+and
+Inverse
+P Cygni
+profiles
+
+
+
+ESPaDONs
+
+
+
+ESPaDONs
+
+
+
+ESPaDONs
+
+
+
+ESPaDONs
+
+
+
+
+
+
+ESPaDONs
+
+
+
+Magnetic Field Map
+
+Potential Field Extrapolation
+
+Simulated X-ray Corona
+
+
+
+Lightcurve
+Zero Order
+
+•Net counts: 5864
+•Background: 0.4%
+
+First Order
+
+•Net counts: 7354
+•Background: 2.7%
+
+Order 0+1
+
+•Net counts: 13217
+•Background: 1.7%
+
+
+
+Extrapolated B Field
+
+
+
+X-rays from T Tauri Stars
+• In non-accreting systems, the emission
+
+is a scaled-up solar-like magnetic
+corona
+
+• Accreting systems are more
+complicated
+
+
+
+X-rays from the cTTS
+
+• Structured emission measure diagram
+Brickhouse et al. 2010, ApJ, 710, 1835
+
+
+
+X-rays from the cTTS
+
+• High densities
+– ne = 3x1012 cm-3 (Ne IX)
+– ne = 6x1011 cm-3 (O VII)
+
+Brickhouse et al. 2010, ApJ, 710, 1835
+
+
+
+Accretion Model
+
+Brickhouse et al. 2010, ApJ, 710, 1835
+
+
+
+Molecular Hydrogen
+STIS long slit
+spectrum of
+T Tau, PA=345o
+
+On-source flux
+reduced 100x
+
+T Tau S is at -0.73
+arcsec
+
+
+
+Molecular Hydrogen
+• Off Source:
+
+–  1-2 P(5), 1-2 R(6)
+– Pumped at 12 and 96 km/s redward of the center
+
+of Ly-
+– In-situ fluorescence by narrow Ly- in shock
+– Progressions: 1-n P(5),R(3); 1-n P(8),R(6)
+
+• On Source:
+– At least 7 progressions seen
+– Pumped 1216.0 - 1219.2 Å
+– Levels lie 1-2 eV above ground  T~2000 - 3000K
+
+
+
+Ly-a pumps
+Dashed lines:
+observed pumps
+
+Herczeg et al.
+2006, ApJS, 165,
+256
+
+
+
+Lyman- Reconstruction
+TW Hya
+
+: I prediction
+
+
+
+C III Pump
+Transitions
+
+RECX 15 (left)
+HD 104237 (below)
+TW Hya (below)
+
+
+
+On-source
+H2 Location
+Close to star:
+absorbed by wind
+
+Dashed lines:
+predicted line
+strength
+
+Line widths
+suggestive of
+Keplerian rotation,
+and origin in disk
+
+
+
+Molecular Hydrogen
+
+3 STIS long slit
+spectra, superposed
+on the optical
+reflected light
+contours
+
+
+
+T Tau in H2
+Difference image
+ACS SB channel
+F140LP - F165LP
+Isolates complex of
+H2 Lyman band
+lines.
+
+Point is T Tau N.
+Dark lane is the
+edge-on disk of
+T Tau S.
+Outflow is from
+T Tau S
+
+Ref: Grady et al.
+
+
+
+T Tau in H2
+
+
+
+Class 3 Stars
+• From a spectroscopic viewpoint, they
+
+are fairly normal
+• Little or no accretion
+• No H2 seen
+• Narrow chromospheric lines
+• FX/Fbol ~ 10-3
+
+
+
+Comparison of 2 wTTS
+• RECX-1 (red dashed line) shows
+
+no evidence of accretion.
+   W(H)=1.3Å
+• RECX-11 (solid black line) is a
+
+wTTS.
+   W(H)=4Å.
+   Note the IPC absorption
+• Both stars are K5-6 members of
+
+the  Cha SFR
+
+
+
+Comparison of 2 wTTS
+
+C IV 1540.
+RECX-11 lines are broadened in the accretion shock.
+
+
+
+Comparison of 2 wTTS
+
+H2.
+Not seen in RECX-1. Circumstellar region clear of gas.
+
+
+
+Comparison of 2 wTTS
+
+NUV Continuum.
+Caution: this is not a reliable indicator of accretion.
+
+
+
+Lithium
+• The main photospheric “anomaly” is the
+
+strong Li I absorption line at 6707 Å
+• The line strength is consistent with
+
+log(NLi)~3.4
+• This line persists even in strongly veiled
+
+systems
+• Li is an age indicator because it fuses at
+
+temperatures that exist at the base of the
+convective zone.
+
+
+
+Lithium Data
+
+
+
+COS spectra
+
+
+
+Naked T Tauri star: narrow chromospheric and TR lines
+
+
+
+Classical T Tauri star: narrow H2 and broad TR lines
+mdot=-8.9
+
+
+
+Classical T Tauri star: narrow H2 and broad TR lines.
+mdot=-7.4
+
+
+
+Classical T Tauri star: narrow H2 and broad TR lines
+mdot=-6.5
+
+
+
+Herbig Ae star:
+
+•Photospheric continuum,
+•Wind absorption
+•Accretion-driven emission
+•mdot=-7.4
+
+
+
+The End
+
+
+
+The HETG data
+2 x 100 ksec
+
+N
+E
+
+
+
+Lightcurve (II)
+Zero Order
+
+•Net counts: 5864
+•Background: 0.4%
+
+First Order
+
+•Net counts: 7354
+•Background: 2.7%
+
+Order 0+1
+
+•Net counts: 13217
+•Background: 1.7%
+
+
+
+Low resolution spectra
+
+
+
+High resolution spectra
+
+
+
+
+
+
+R
+band
+
+Comps:
+VSSG 14 *
+V2059 Oph
+
+Both likely
+variable;
+used
+VSSG 14
+
+
+
+J
+band
+
+Comp:
+VSSG 13
+Background
+K5III
+
+
+
+Low Dispersion - blue
+
+
+
+Low Dispersion - blue
+
+
+
+Low Dispersion - red
+
+
+
+
+
+
+Magnetic Footprints

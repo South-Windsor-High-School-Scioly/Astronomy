@@ -1,0 +1,674 @@
+﻿K2-18b
+K2-18b, also known as EPIC 201912552 b, is an K2-18b
+exoplanet orbiting the red dwarf K2-18, located 124
+light-years (38 pc) away from Earth. The planet is a
+sub-Neptune about 2.6 times the radius of Earth, with a
+33-day orbit within the star's habitable zone. This
+means it receives about a similar amount of starlight as
+the Earth receives from the Sun. Initially discovered
+with the Kepler space telescope, it was later observed
+by the James Webb Space Telescope (JWST) in order
+to study the planet's atmosphere.
+
+Artist's impression of K2-18b (right) orbiting red
+In 2019 the presence of water vapour in K2-18b's dwarf K2-18 (left). The exoplanet K2-18c is
+atmosphere was reported, drawing attention to this shown between them.
+system. In 2023, the JWST detected carbon dioxide Discovery
+and methane in the atmosphere of exoplanet K2-18b. Discovery site Kepler space telescope
+JWST’s data has been variously interpreted as
+indicating a water ocean or a magma ocean planet with Discovery date 2015
+
+a hydrogen-rich atmosphere, and a gas-rich mini- Detection method Transit
+
+Neptune. K2-18b has been studied as a potential Orbital characteristics[1]
+
+habitable world that, temperature aside, more closely Semi-major axis +0.000 46
+0.159 10
+
+resembles a gas planet like Uranus or Neptune than −0.000 47 au
+
+Earth. 21,380,000 km
+
+Eccentricity +0.12
+0.09 [2]
+
+−0.09
+
+Host star Orbital period 32.940 045 ± 0.000 100 d
+(sidereal)
+
+K2-18 is an M dwarf of the spectral class M3V[3] in Star K2-18
+the constellation Leo,[4] 38.025 ± 0.079 parsecs Physical characteristics
+(124.02 ± 0.26 ly) away from the Sun.[1] The star is Mean radius 2.610 ± 0.087 R
+colder and smaller than the Sun, having a temperature 🜨
+
+of 3,457 K (3,184 °C; 5,763 °F) and a radius 45% of Mass 8.63 ± 1.35 M🜨
+the Sun's,[5] and is not visible to the naked eye.[6] The Mean density +0.52
+
+2.67 −0.47 g/cm3
+
+star is 2.4 ± 0.6 billion years old[7] and displays Surface gravity +2.17
+moderate stellar activity, but whether it has star 12.43 −2.07 m/s2
+
+spots,[8] which would tend to create false signals[a] Temperature 265 ± 5 K (−8 ± 5 °C)
+
+when a planet crosses them,[10] is unclear.[10][8] K2-18
+has an additional planet inside of K2-18b's orbit, K2-
+18c,[11] which may interact with K2-18b through tides.[b][13]
+
+
+
+It is estimated that up to 80% of all M dwarf stars have planets in their habitable zones,[5] including the
+stars LHS 1140, Proxima Centauri and TRAPPIST-1. The small mass, size and low temperatures of these
+stars and frequent orbits of the planets make it easier to characterize the planets. On the other hand, the
+low luminosity of the stars can make spectroscopic analysis of planets difficult,[14][5] and the stars are
+frequently active with flares and inhomogeneous stellar surfaces (faculae and starspots), which can
+produce erroneous spectral signals when investigating a planet.[9]
+
+Physical properties
+K2-18b has a radius of 2.610 ± 0.087 R🜨, a mass of 8.63 ± 1.35 ME, and orbits its star in 33 days.[5] From
+Earth, it can be seen passing in front of the star.[15] The planet is most likely tidally locked to the star,
+although considering its orbital eccentricity, a spin-orbit resonance like Mercury is also possible.[16]
+
++0.52
+The density of K2-18b is about 2.67 −0.47 g/cm3 – intermediate between Earth and Neptune – implying
+that the planet has a hydrogen-rich envelope.[c][14] The planet may either be rocky with a thick envelope
+or have a Neptune-like composition.[d][18] A pure water planet with a thin atmosphere is less likely.[19]
+
+Planets with radii of about 1.5–2 R🜨 are unexpectedly rare relative to their expected occurrence rate, a
+phenomenon known as the radius valley. Presumably, planets with intermediary radii cannot hold their
+atmospheres against the tendency of their own energy output and the stellar radiation to drive
+atmospheric escape.[20] Planets with even smaller radii are known as Super-Earths and those with larger
+radii as Sub-Neptunes.[21]
+
+The planet may have taken a few million years to form.[22][23] Tidal heating is unlikely.[11] Internal
+heating may increase temperatures at large depths, but is unlikely to significantly affect the surface
+temperature.[23] If an ocean exists, it is probably underlaid by a high-pressure ice layer on top of a rocky
+core,[24] which might destabilize the planet's climate by preventing material flows between the core and
+the ocean.[25]
+
+Possible ocean
+At temperatures exceeding the critical point, liquids and gases stop being different phases and there is no
+longer a separation between an ocean and the atmosphere.[26] It is unclear whether observations imply
+that a separate liquid ocean exists on K2-18b,[2] and detecting such an ocean is difficult from the
+outside;[27] its existence cannot be inferred or ruled out solely from the mass and radius of a planet.[28]
+
+The existence of a liquid water ocean is uncertain.[29] Before the James Webb Space Telescope
+observations, a supercritical state of the water was believed to be more likely.[30] JWST observations
+were initially considered to be more consistent with a fluid-gas interface and thus a liquid ocean[31] -
+trace gases such as hydrocarbons and ammonia can be lost from an atmosphere to an ocean if it exists;
+their presence may thus imply the absence of an ocean-atmosphere separation.[32] However, a subsequent
+work finds that a magma ocean is also capable of dissolving ammonia and explaining the observation
+
+
+
+results,[33] while another paper suggests that a gas-rich mini-Neptune model is capable of replicating the
+observed amount of methane and carbon dioxide, while a liquid water ocean model requires the presence
+of a biosphere in order to produce sufficient amount of methane.[34]
+
+Atmosphere and climate
+Observations with the Hubble Space Telescope have found that K2-18b has an atmosphere consisting of
+hydrogen.[35] The presence of water vapour is likely[36] but with uncertainty,[37] as James Webb Space
+Telescope observations indicating concentrations of less than 0.1%;[38] this may be due to the JWST
+seeing a dry stratosphere.[31] Ammonia concentrations appear to be unmeasurably low.[e][35] JWST
+observations indicate that methane and carbon dioxide make up about 1% of the atmosphere.[41] Other
+carbon oxides were not reported;[42] only an upper limit to their concentrations (a few percent) has been
+established.[43] The atmosphere makes up at most 6.2% of the planet's mass,[18] and its composition
+probably resembles that of Uranus and Neptune.[44]
+
+There is little evidence of hazes in the atmosphere,[45] while evidence for water clouds, the only kind of
+clouds likely to form at K2-18b,[46] is conflicting.[47] If they exist, the clouds are most likely icy but
+liquid water is possible.[48] Apart from water, ammonium chloride, sodium sulfide, potassium chloride
+and zinc sulfide could form clouds in the atmosphere of K2-18b, depending on the planet's properties.[49]
+
+Most computer models expect that a temperature inversion will form at high elevation, yielding a
+stratosphere.[50]
+
+Evolution
+High-energy radiation from the star, such as hard[f] UV radiation and X-rays, is expected to heat the
+upper atmosphere and fill it with hydrogen formed through the photodissociation of water, thus forming
+an extended hydrogen-rich exosphere[53] that can escape from the planet.[7] The X-ray and UV fluxes that
+K2-18b receives from K2-18 are considerably higher than the equivalent fluxes from the Sun;[7] the hard
+
++400
+UV radiation flux provides enough energy to drive this exosphere to escape at a rate of about 350 −290
+tons per second, too slow to remove the planet's atmosphere during its lifespan.[54] Observations of
+decreases of Lyman alpha radiation emissions during transits of the planet may show the presence of such
+an exosphere; this discovery requires confirmation.[55]
+
+Alternative scenarios
+Detecting atmospheres around planets is difficult, and several reported findings are controversial.[56]
+
+Barclay et al. 2021 suggested that the water vapour signal may be due to stellar activity, rather than water
+in K2-18b's atmosphere.[3] Bézard et al. 2020 proposed that methane may be a more significant
+component, making up about 3–10% while water may constitute about 5–11% of the atmosphere,[47] and
+Bézard, Charnay and Blain 2022 proposed that the evidence of water is actually due to methane,[57]
+
+although such a scenario is less probable.[58]
+
+Models
+
+
+
+Climate models have been used to simulate the climate that K2-18b might have, and an intercomparison
+of their results for K2-18b is part of the CAMEMBERT project to simulate the climates of sub-Neptune
+planets.[59] Among the climate modelling efforts made on K2-18b are:
+
+Charnay et al. 2021, assuming that the planet is tidally locked, found an atmosphere with
+weak temperature gradients and a wind system with descending air on the night side and
+ascending air on the day side. In the upper atmosphere, radiation absorption by methane
+produced an inversion layer.[60] Clouds could only form if the atmosphere had a high
+metallicity; their properties strongly depended on the size of cloud particles and the
+composition and circulation of the atmosphere. They formed mainly at the substellar point
+and the terminator. If there was rainfall, it could not reach the surface; instead it evaporated
+to form virga.[61] Simulations with a spin-orbit resonance did not substantially alter the cloud
+distribution.[62] They also simulated the appearance of the atmosphere during stellar
+transits.[63]
+
+Innes and Pierrehumbert 2022 conducted simulations assuming different rotation rates and
+concluded that except for high rotation rates, there is not a substantial temperature gradient
+between poles and equator.[64] They found the existence of jet streams above the equator
+and at high latitudes, with weaker equatorial jets at the surface.[65]
+
+Hu 2021 conducted simulations of the planet's chemistry.[46] They concluded that the
+photochemistry should not be able to completely remove ammonia from the outer
+atmosphere[66] and that carbon oxides and cyanide would form in the middle atmosphere,
+where they could be detectable.[67] The model predicts that a sulfur haze layer could form,
+extending through and above the water clouds. Such a haze layer would make
+investigations of the planet's atmosphere much more difficult.[68]
+
+Tsai et al. 2024 ran chemical and physical models.[69] They found a prograde jet stream in
+the troposphere and a retrograde one above 0.0001 bar altitude, with thermally-driven
+circulation in-between the two.[70] They found that for dimethyl sulfide to be detectable, its
+production needs to exceed Earth's by a factor of 20,[71] a rate not impossible for a plausible
+ecosystem.[72] Several hydrocarbons can mask the dimethyl sulfide signal.[73]
+
+Habitability
++114
+
+Incoming stellar radiation amounts to 1368 −107 W/m2, similar to the average insolation Earth receives.[5]
+
+K2-18b is located within or just slightly inside the habitable zone of its star,[74] – it may be close to[75]
+
+but fall short of the runaway greenhouse threshold[76] – and its equilibrium temperature is about 250 K
+(−23 °C; −10 °F) to 300 K (27 °C; 80 °F).[14] Whether the planet is actually habitable depends on the
+nature of the envelope[30] and the albedo of clouds;[69] the deeper layers of the atmosphere may be too
+hot,[40] while the water-containing layers might[25] or might not have temperatures and pressures suitable
+for the development of life.[77]
+
+
+
+Microorganisms from Earth can survive in hydrogen-rich atmospheres, illustrating that hydrogen is no
+impediment to life. However, a number of biosignature gases used to identify the presence of life are not
+reliable indicators when found in a hydrogen-rich atmosphere, thus different markers would be needed to
+identify biological activity at K2-18b.[78] According to Madhusudhan et al., several of these markers
+could be detected by the James Webb Space Telescope after a reasonable number of observations.[79]
+
+Discovery and research history
+The planet was discovered in 2015 by the Kepler space telescope,[80][81][82] and its existence was later
+confirmed with the Spitzer Space Telescope and through Doppler velocity techniques.[53] Analyses of the
+transits ruled out that they were caused by unseen companion stars,[82] by multiple planets or systematic
+errors of the observations.[83] Early estimates of the star's radius had substantial errors, which led to
+incorrect planet radius estimates and the density of the planet being overestimated.[84] The discovery of
+the spectroscopic signature of water vapour on K2-18b in 2019 was the first discovery of water vapour on
+an exoplanet that is not a Hot Jupiter[7] and drew a lot of discussion.[27]
+
+K2-18b has been used as a test case for exoplanet studies.[46] The properties of K2-18b have led to the
+definition of a "hycean planet", a type of planet that has both abundant liquid water and a hydrogen
+envelope. Planets with such compositions were previously thought to be too hot to be habitable; findings
+at K2-18b instead suggest that they might be cold enough to harbour liquid water oceans conducive to
+life. The strong greenhouse effect of the hydrogen envelope might allow them to remain habitable even at
+low instellation rates.[85] K2-18b is probably the best known "hycean" planet.[86] Other, non-hycean
+compositions are possible, both habitable and uninhabitable.[87][69]
+
+There is some evidence of dimethyl sulfide (DMS) and methyl
+chloride being present in the atmosphere. The presence of DMS is
+a potential biosignature, as the bulk of the DMS in Earth's
+atmosphere is emitted from phytoplankton in marine
+environments,[88] although further observation to confirm the
+presence of DMS and rule out a geological or chemical origin for
+the compound is required.[89][90] Some scientists have voiced
+
+K2-18b James Webb Space
+concerns about the statistical significance of the DMS signal at Telescope spectra from 2023.
+K2-18b, and how its putative detection might be understood in an Credit: NASA, CSA, ESA, J.
+environment different than Earth.[91] In 2024, Wogan et al. Olmstead, N. Madhusudhan
+suggested that the high methane concentrations might either imply
+the presence of methanogenic life[92] or upwards mixing of gases
+from the deep interior, if the planet is too hot for life.[93]
+
+A podcast on the Planetary Society's website in January 2024 featured NASA astrophysicist Knicole
+Colón describing some of the scientific results from the observations of K2-18b by JWST. Data from
+JWST's MIRI instrument was expected to be gathered in January 2024 about which Colón said: "MIRI
+will be able to see additional features, absorption features from these molecules, and validate again, the
+
+
+
+presence of what we've seen and even the abundance." Colón also talks about the lack of evidence of
+water in the atmosphere: "The fact that the JWST data basically didn't find strong evidence of water in
+the atmosphere, that could indicate a couple things".[94]
+
+See also
+Extraterrestrial liquid water – Liquid water naturally occurring outside Earth
+Habitability of natural satellites#In the Solar System – Measure of the potential of natural
+satellites to have environments hospitable to life
+Habitability of red dwarf systems – Possible factors for life around red dwarf stars
+List of potentially habitable exoplanets
+Planetary habitability – Known extent to which a planet is suitable for life
+
+Notes
+a. Observations of transiting planets rely on comparing the appearance of the planet with the
+
+appearance of the star's surface that is not covered with the planet, so variations in the
+star's appearance can be confused with the effects of the planet.[9]
+
+b. Tidal interactions are mutual interactions, mediated by gravity, between astronomical bodies
+that are in motion with respect of each other.[12]
+
+c. An envelope is an atmosphere that originated together with the planet itself from a
+protoplanetary disk. In gas giants, atmospheres make up the bulk of the planet's mass.[17]
+
+d. A Neptune-like composition implies that apart from water and rock the planet contains
+substantial amounts of hydrogen and helium.[18]
+
+e. The lack of ammonia and methane in Neptune-like exoplanet atmospheres is known as the
+"missing methane problem", and is an unresolved mystery as of 2021.[39] The unusually low
+ammonia and methane concentrations could be due to life, photochemical processes[30] or
+the freezing-out of methane.[40]
+
+f. Hard UV radiation means UV radiation with short wavelengths;[51] shorter wavelengths
+imply a higher frequency and higher energy per photon.[52]
+
+References
+1. Benneke et al. 2019, p. 4.
+2. Blain, Charnay & Bézard 2021, p. 2.
+3. Barclay et al. 2021, p. 12.
+4. Adams & Engel 2021, p. 163.
+5. Benneke et al. 2019, p. 1.
+6. Mendex 2016, p. 5-18.
+7. Guinan & Engle 2019, p. 189.
+8. Benneke et al. 2019, p. 5.
+9. Barclay et al. 2021, p. 2.
+
+10. Barclay et al. 2021, p. 10.
+11. Blain, Charnay & Bézard 2021, p. 15.
+
+
+
+12. Spohn 2015, p. 2499.
+13. Ferraz-Mello & Gomes 2020, p. 9.
+14. Madhusudhan et al. 2020, p. 1.
+15. Madhusudhan, Piette & Constantinou 2021, p. 13.
+16. Charnay et al. 2021, p. 3.
+17. Raymond 2011, p. 120.
+18. Madhusudhan et al. 2020, p. 4.
+19. Madhusudhan et al. 2020, p. 5.
+20. Benneke et al. 2019, p. 2.
+21. Innes & Pierrehumbert 2022, p. 1.
+22. Blain, Charnay & Bézard 2021, p. 5.
+23. Nixon & Madhusudhan 2021, p. 3420.
+24. Nixon & Madhusudhan 2021, pp. 3425–3426.
+25. Nixon & Madhusudhan 2021, p. 3429.
+26. Pierrehumbert 2023, p. 2.
+27. May & Rauscher 2020, p. 9.
+28. Changeat et al. 2022, p. 399.
+29. Pierrehumbert 2023, p. 6.
+30. Madhusudhan et al. 2020, p. 6.
+31. Madhusudhan et al. 2023, p. 7.
+32. Yu et al. 2021, p. 10.
+33. Shorttle et al. 2024, pp. L8.
+34. Wogan et al. 2024, pp. L7.
+35. Madhusudhan et al. 2020, p. 2.
+36. Tsai et al. 2024, p. 1.
+37. Madhusudhan et al. 2023, p. 2.
+38. Madhusudhan et al. 2023, p. 6.
+39. Madhusudhan et al. 2021.
+40. Scheucher et al. 2020, p. 16.
+41. Madhusudhan et al. 2023, p. 9.
+42. Bézard, Charnay & Blain 2022, p. 537.
+43. Cubillos & Blecic 2021, p. 2696.
+44. Blain, Charnay & Bézard 2021, p. 18.
+45. Madhusudhan et al. 2020, p. 3.
+46. Hu 2021, p. 5.
+47. Blain, Charnay & Bézard 2021, p. 1.
+48. Charnay et al. 2021, p. 2.
+49. Blain, Charnay & Bézard 2021, p. 9.
+50. Hu 2021, p. 20.
+51. Bark et al. 2000, p. 859.
+52. Quintanilla 2015, p. 2651.
+53. Santos et al. 2020, p. 1.
+54. Santos et al. 2020, p. 4.
+55. Santos et al. 2020, p. 3.
+56. Changeat et al. 2022, p. 392.
+
+
+
+57. Bézard, Charnay & Blain 2022, p. 538.
+58. Changeat et al. 2022, p. 393.
+59. Christie et al. 2022, p. 6.
+60. Charnay et al. 2021, p. 4.
+61. Charnay et al. 2021, pp. 4–7.
+62. Charnay et al. 2021, p. 8.
+63. Charnay et al. 2021, p. 12.
+64. Innes & Pierrehumbert 2022, p. 5.
+65. Innes & Pierrehumbert 2022, p. 20.
+66. Hu 2021, p. 9.
+67. Hu 2021, p. 16.
+68. Hu 2021, p. 12.
+69. Tsai et al. 2024, p. 2.
+70. Tsai et al. 2024, p. 5.
+71. Tsai et al. 2024, p. 3.
+72. Tsai et al. 2024, p. 7.
+73. Tsai et al. 2024, p. 6.
+74. Charnay et al. 2021, p. 1.
+75. Pierrehumbert 2023, p. 1.
+76. Pierrehumbert 2023, p. 7.
+77. Wogan et al. 2024, p. 2.
+78. Madhusudhan, Piette & Constantinou 2021, p. 2.
+79. Madhusudhan, Piette & Constantinou 2021, p. 17.
+80. Foreman-Mackey et al. 2015, p. 10.
+81. Montet et al. 2015, p. 5.
+82. Benneke et al. 2017, p. 1.
+83. Benneke et al. 2017, p. 8.
+84. Benneke et al. 2019, p. 3.
+85. James 2021, p. 7.
+86. Wogan et al. 2024, p. 1.
+87. Madhusudhan et al. 2023, p. 1.
+88. Madhusudhan et al. 2023, p. 11.
+89. Watties 2023.
+90. Burgess 2023.
+91. Wright 2023.
+92. Wogan et al. 2024, p. 4.
+93. Wogan et al. 2024, p. 5.
+94. Colón, Betts & Al-Ahmed 2024.
+
+Sources
+Adams, Josephine C.; Engel, Jürgen (2021). Life and Its Future (https://link.springer.com/bo
+ok/10.1007/978-3-030-59075-8). Bibcode:2021lifu.book.....A (https://ui.adsabs.harvard.edu/
+abs/2021lifu.book.....A). doi:10.1007/978-3-030-59075-8 (https://doi.org/10.1007%2F978-3-
+030-59075-8). ISBN 978-3-030-59074-1. S2CID 238774381 (https://api.semanticscholar.or
+g/CorpusID:238774381).
+
+
+
+Barclay, Thomas; Kostov, Veselin B.; Colón, Knicole D.; Quintana, Elisa V.; Schlieder,
+Joshua E.; Louie, Dana R.; Gilbert, Emily A.; Mullally, Susan E. (December 2021). "Stellar
+Surface Inhomogeneities as a Potential Source of the Atmospheric Signal Detected in the
+K2-18b Transmission Spectrum" (https://doi.org/10.3847%2F1538-3881%2Fac2824). The
+Astronomical Journal. 162 (6): 300. arXiv:2109.14608 (https://arxiv.org/abs/2109.14608).
+Bibcode:2021AJ....162..300B (https://ui.adsabs.harvard.edu/abs/2021AJ....162..300B).
+doi:10.3847/1538-3881/ac2824 (https://doi.org/10.3847%2F1538-3881%2Fac2824).
+ISSN 1538-3881 (https://search.worldcat.org/issn/1538-3881). S2CID 238215555 (https://ap
+i.semanticscholar.org/CorpusID:238215555).
+Bark, Yu B; Barkhudarov, E M; Kozlov, Yu N; Kossyi, I A; Silakov, V P; Taktakishvili, M I;
+Temchin, S M (7 April 2000). "Slipping surface discharge as a source of hard UV radiation"
+(https://iopscience.iop.org/article/10.1088/0022-3727/33/7/317/meta). Journal of Physics D:
+Applied Physics. 33 (7): 859–863. Bibcode:2000JPhD...33..859B (https://ui.adsabs.harvard.
+edu/abs/2000JPhD...33..859B). doi:10.1088/0022-3727/33/7/317 (https://doi.org/10.1088%2
+F0022-3727%2F33%2F7%2F317). S2CID 250819933 (https://api.semanticscholar.org/Corp
+usID:250819933).
+Bézard, Bruno; Charnay, Benjamin; Blain, Doriann (May 2022). "Methane as a dominant
+absorber in the habitable-zone sub-Neptune K2-18 b" (https://www.nature.com/articles/s415
+50-022-01678-z). Nature Astronomy. 6 (5): 537–540. arXiv:2011.10424 (https://arxiv.org/ab
+s/2011.10424). Bibcode:2022NatAs...6..537B (https://ui.adsabs.harvard.edu/abs/2022NatA
+s...6..537B). doi:10.1038/s41550-022-01678-z (https://doi.org/10.1038%2Fs41550-022-016
+78-z). ISSN 2397-3366 (https://search.worldcat.org/issn/2397-3366). S2CID 227118701 (htt
+ps://api.semanticscholar.org/CorpusID:227118701).
+Benneke, Björn; Werner, Michael; Petigura, Erik; Knutson, Heather; Dressing, Courtney;
+Crossfield, Ian J. M.; Schlieder, Joshua E.; Livingston, John; Beichman, Charles;
+Christiansen, Jessie; Krick, Jessica; Gorjian, Varoujan; Howard, Andrew W.; Sinukoff, Evan;
+Ciardi, David R.; Akeson, Rachel L. (January 2017). "Spitzer observations confirm and
+rescue the habitable-zone super-Earth K2-18b for future characterization" (https://doi.org/10.
+3847%2F1538-4357%2F834%2F2%2F187). The Astrophysical Journal. 834 (2): 187.
+arXiv:1610.07249 (https://arxiv.org/abs/1610.07249). Bibcode:2017ApJ...834..187B (https://
+ui.adsabs.harvard.edu/abs/2017ApJ...834..187B). doi:10.3847/1538-4357/834/2/187 (http
+s://doi.org/10.3847%2F1538-4357%2F834%2F2%2F187). ISSN 0004-637X (https://search.
+worldcat.org/issn/0004-637X). S2CID 12988198 (https://api.semanticscholar.org/CorpusID:1
+2988198).
+Benneke, Björn; Wong, Ian; Piaulet, Caroline; Knutson, Heather A.; Lothringer, Joshua;
+Morley, Caroline V.; Crossfield, Ian J. M.; Gao, Peter; Greene, Thomas P.; Dressing,
+Courtney; Dragomir, Diana; Howard, Andrew W.; McCullough, Peter R.; Kempton, Eliza M.-
+R.; Fortney, Jonathan J.; Fraine, Jonathan (December 2019). "Water Vapor and Clouds on
+the Habitable-zone Sub-Neptune Exoplanet K2-18b" (https://doi.org/10.3847%2F2041-821
+3%2Fab59dc). The Astrophysical Journal Letters. 887 (1): L14. arXiv:1909.04642 (https://ar
+xiv.org/abs/1909.04642). Bibcode:2019ApJ...887L..14B (https://ui.adsabs.harvard.edu/abs/2
+019ApJ...887L..14B). doi:10.3847/2041-8213/ab59dc (https://doi.org/10.3847%2F2041-821
+3%2Fab59dc). ISSN 2041-8205 (https://search.worldcat.org/issn/2041-8205).
+S2CID 209324670 (https://api.semanticscholar.org/CorpusID:209324670).
+Blain, D.; Charnay, B.; Bézard, B. (1 February 2021). "1D atmospheric study of the
+temperate sub-Neptune K2-18b" (https://www.aanda.org/articles/aa/abs/2021/02/aa39072-2
+0/aa39072-20.html). Astronomy & Astrophysics. 646: A15. arXiv:2011.10459 (https://arxiv.or
+g/abs/2011.10459). Bibcode:2021A&A...646A..15B (https://ui.adsabs.harvard.edu/abs/2021
+A&A...646A..15B). doi:10.1051/0004-6361/202039072 (https://doi.org/10.1051%2F0004-636
+1%2F202039072). ISSN 0004-6361 (https://search.worldcat.org/issn/0004-6361).
+S2CID 227118713 (https://api.semanticscholar.org/CorpusID:227118713).
+Burgess, Kaya (12 September 2023). "Gas on water planet 'is breakthrough in quest for
+alien life' " (https://www.thetimes.co.uk/article/gas-on-water-planet-is-breakthrough-in-quest-f
+
+
+
+or-alien-life-88t8g25xd). The Times. ISSN 0140-0460 (https://search.worldcat.org/issn/0140-
+0460). Retrieved 12 September 2023.
+Colón, Knicole; Betts, Bruce; Al-Ahmed, Sarah (10 January 2024). "JWST finds a new lead
+in the search for life on a mysterious exoplanet" (https://www.planetary.org/planetary-radio/2
+024-jwst-new-lead-in-search-for-life). Planetary Society. Archived (https://web.archive.org/w
+eb/20240113234316/https://www.planetary.org/planetary-radio/2024-jwst-new-lead-in-searc
+h-for-life) from the original on 13 January 2024. Retrieved 13 January 2024.
+Changeat, Quentin; Edwards, Billy; Al-Refaie, Ahmed F.; Tsiaras, Angelos; Waldmann, Ingo
+P.; Tinetti, Giovanna (1 April 2022). "Disentangling atmospheric compositions of K2-18 b
+with next generation facilities" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9166872).
+Experimental Astronomy. 53 (2): 391–416. arXiv:2003.01486 (https://arxiv.org/abs/2003.014
+86). Bibcode:2022ExA....53..391C (https://ui.adsabs.harvard.edu/abs/2022ExA....53..391C).
+doi:10.1007/s10686-021-09794-w (https://doi.org/10.1007%2Fs10686-021-09794-w).
+ISSN 1572-9508 (https://search.worldcat.org/issn/1572-9508). PMC 9166872 (https://www.n
+cbi.nlm.nih.gov/pmc/articles/PMC9166872). PMID 35673553 (https://pubmed.ncbi.nlm.nih.g
+ov/35673553).
+James, Chaneil (December 2021). "New class of potentially habitable ocean worlds defined"
+(https://iopscience.iop.org/article/10.1088/2058-7058/34/10/09). Physics World. 34 (10): 7ii.
+doi:10.1088/2058-7058/34/10/09 (https://doi.org/10.1088%2F2058-7058%2F34%2F10%2F0
+9). ISSN 2058-7058 (https://search.worldcat.org/issn/2058-7058).
+Charnay, B.; Blain, D.; Bézard, B.; Leconte, J.; Turbet, M.; Falco, A. (1 February 2021).
+"Formation and dynamics of water clouds on temperate sub-Neptunes: the example of K2-
+18b" (https://www.aanda.org/articles/aa/abs/2021/02/aa39525-20/aa39525-20.html).
+Astronomy & Astrophysics. 646: A171. arXiv:2011.11553 (https://arxiv.org/abs/2011.11553).
+Bibcode:2021A&A...646A.171C (https://ui.adsabs.harvard.edu/abs/2021A&A...646A.171C).
+doi:10.1051/0004-6361/202039525 (https://doi.org/10.1051%2F0004-6361%2F202039525).
+ISSN 0004-6361 (https://search.worldcat.org/issn/0004-6361). S2CID 227126636 (https://ap
+i.semanticscholar.org/CorpusID:227126636).
+Christie, Duncan A.; Lee, Elspeth K. H.; Innes, Hamish; Noti, Pascal A.; Charnay, Benjamin;
+Fauchez, Thomas J.; Mayne, Nathan J.; Deitrick, Russell; Ding, Feng; Greco, Jennifer J.;
+Hammond, Mark; Malsky, Isaac; Mandell, Avi; Rauscher, Emily; Roman, Michael T.;
+Sergeev, Denis E.; Sohl, Linda; Steinrueck, Maria E.; Turbet, Martin; Wolf, Eric T.;
+Zamyatina, Maria; Carone, Ludmila (28 November 2022). "CAMEMBERT: A Mini-Neptunes
+General Circulation Model Intercomparison, Protocol Version 1.0.A CUISINES Model
+Intercomparison Project" (https://doi.org/10.3847%2FPSJ%2Fac9dfe). The Planetary
+Science Journal. 3 (11): 261. arXiv:2211.04048 (https://arxiv.org/abs/2211.04048).
+Bibcode:2022PSJ.....3..261C (https://ui.adsabs.harvard.edu/abs/2022PSJ.....3..261C).
+doi:10.3847/PSJ/ac9dfe (https://doi.org/10.3847%2FPSJ%2Fac9dfe). ISSN 2632-3338 (http
+s://search.worldcat.org/issn/2632-3338). S2CID 254065685 (https://api.semanticscholar.org/
+CorpusID:254065685).
+Cubillos, Patricio E; Blecic, Jasmina (12 June 2021). "The pyrat bay framework for
+exoplanet atmospheric modelling: a population study of Hubble /WFC3 transmission
+spectra" (https://academic.oup.com/mnras/article/505/2/2675/6276749). Monthly Notices of
+the Royal Astronomical Society. 505 (2): 2675–2702. arXiv:2105.05598 (https://arxiv.org/ab
+s/2105.05598). doi:10.1093/mnras/stab1405 (https://doi.org/10.1093%2Fmnras%2Fstab140
+5).
+Ferraz-Mello, S.; Gomes, G. O. (2020). "Tidal evolution of exoplanetary systems hosting
+potentially habitable exoplanets. The cases of LHS-1140 b-c and K2-18 b-c" (https://academ
+ic.oup.com/mnras/article-abstract/494/4/5082/5825369). Monthly Notices of the Royal
+Astronomical Society. 494 (4): 5082–5090. arXiv:2005.10318 (https://arxiv.org/abs/2005.103
+18). doi:10.1093/mnras/staa1110 (https://doi.org/10.1093%2Fmnras%2Fstaa1110) – via
+arXiv.
+Foreman-Mackey, D.; Montet, B. T.; Hogg, D. W.; Morton, T. D.; Wang, D.; Schölkopf, B.
+(June 2015). "A Systematic Search for Transiting Planets in the K2 Data" (https://doi.org/10.
+
+
+
+1088%2F0004-637X%2F806%2F2%2F215). The Astrophysical Journal. 806 (2): 215.
+arXiv:1502.04715 (https://arxiv.org/abs/1502.04715). Bibcode:2015ApJ...806..215F (https://
+ui.adsabs.harvard.edu/abs/2015ApJ...806..215F). doi:10.1088/0004-637X/806/2/215 (http
+s://doi.org/10.1088%2F0004-637X%2F806%2F2%2F215). ISSN 0004-637X (https://search.
+worldcat.org/issn/0004-637X). S2CID 34456803 (https://api.semanticscholar.org/CorpusID:3
+4456803).
+Guinan, Edward F.; Engle, Scott G. (December 2019). "The K2-18b Planetary System:
+Estimates of the Age and X-UV Irradiances of a Habitable Zone "Wet" Sub-Neptune Planet"
+(https://doi.org/10.3847%2F2515-5172%2Fab6086). Research Notes of the AAS. 3 (12):
+189. Bibcode:2019RNAAS...3..189G (https://ui.adsabs.harvard.edu/abs/2019RNAAS...3..18
+9G). doi:10.3847/2515-5172/ab6086 (https://doi.org/10.3847%2F2515-5172%2Fab6086).
+ISSN 2515-5172 (https://search.worldcat.org/issn/2515-5172). S2CID 242743872 (https://ap
+i.semanticscholar.org/CorpusID:242743872).
+Hu, Renyu (October 2021). "Photochemistry and Spectral Characterization of Temperate
+and Gas-rich Exoplanets" (https://doi.org/10.3847%2F1538-4357%2Fac1789). The
+Astrophysical Journal. 921 (1): 27. arXiv:2108.04419 (https://arxiv.org/abs/2108.04419).
+Bibcode:2021ApJ...921...27H (https://ui.adsabs.harvard.edu/abs/2021ApJ...921...27H).
+doi:10.3847/1538-4357/ac1789 (https://doi.org/10.3847%2F1538-4357%2Fac1789).
+ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X). S2CID 236965630 (https://a
+pi.semanticscholar.org/CorpusID:236965630).
+Innes, Hamish; Pierrehumbert, Raymond T. (March 2022). "Atmospheric Dynamics of
+Temperate Sub-Neptunes. I. Dry Dynamics" (https://doi.org/10.3847%2F1538-4357%2Fac4
+887). The Astrophysical Journal. 927 (1): 38. arXiv:2112.11108 (https://arxiv.org/abs/2112.1
+1108). Bibcode:2022ApJ...927...38I (https://ui.adsabs.harvard.edu/abs/2022ApJ...927...38I).
+doi:10.3847/1538-4357/ac4887 (https://doi.org/10.3847%2F1538-4357%2Fac4887).
+ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X). S2CID 245353401 (https://a
+pi.semanticscholar.org/CorpusID:245353401).
+Madhusudhan, Nikku; Nixon, Matthew C.; Welbanks, Luis; Piette, Anjali A. A.; Booth,
+Richard A. (February 2020). "The Interior and Atmosphere of the Habitable-zone Exoplanet
+K2-18b" (https://doi.org/10.3847%2F2041-8213%2Fab7229). The Astrophysical Journal
+Letters. 891 (1): L7. arXiv:2002.11115 (https://arxiv.org/abs/2002.11115).
+Bibcode:2020ApJ...891L...7M (https://ui.adsabs.harvard.edu/abs/2020ApJ...891L...7M).
+doi:10.3847/2041-8213/ab7229 (https://doi.org/10.3847%2F2041-8213%2Fab7229).
+ISSN 2041-8205 (https://search.worldcat.org/issn/2041-8205). S2CID 211505592 (https://ap
+i.semanticscholar.org/CorpusID:211505592).
+Madhusudhan, Nikku; Piette, Anjali A. A.; Constantinou, Savvas (August 2021). "Habitability
+and Biosignatures of Hycean Worlds" (https://doi.org/10.3847%2F1538-4357%2Fabfd9c).
+The Astrophysical Journal. 918 (1): 1. arXiv:2108.10888 (https://arxiv.org/abs/2108.10888).
+Bibcode:2021ApJ...918....1M (https://ui.adsabs.harvard.edu/abs/2021ApJ...918....1M).
+doi:10.3847/1538-4357/abfd9c (https://doi.org/10.3847%2F1538-4357%2Fabfd9c).
+ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X). S2CID 237290118 (https://a
+pi.semanticscholar.org/CorpusID:237290118).
+Madhusudhan, Nikku; Constantinou, Savvas; Moses, Julianne I.; Piette, Anjali; Sarkar,
+Subhajit (1 March 2021). "Chemical Disequilibrium in a Temperate sub-Neptune" (https://ui.a
+dsabs.harvard.edu/abs/2021jwst.prop.2722M/abstract). JWST Proposal. Cycle 1: 2722.
+Bibcode:2021jwst.prop.2722M (https://ui.adsabs.harvard.edu/abs/2021jwst.prop.2722M).
+Madhusudhan, Nikku; Sarkar, Subhajit; Constantinou, Savvas; Holmberg, Måns; Piette,
+Anjali A. A.; Moses, Julianne I. (1 October 2023). "Carbon-bearing Molecules in a Possible
+Hycean Atmosphere" (https://doi.org/10.3847%2F2041-8213%2Facf577). The Astrophysical
+Journal Letters. 956 (1): L13. arXiv:2309.05566 (https://arxiv.org/abs/2309.05566).
+Bibcode:2023ApJ...956L..13M (https://ui.adsabs.harvard.edu/abs/2023ApJ...956L..13M).
+doi:10.3847/2041-8213/acf577 (https://doi.org/10.3847%2F2041-8213%2Facf577).
+Mendex, Abel (2016). Searching for Habitable Worlds An Introduction (http://iopscience.iop.
+org/book/978-1-6817-4401-8). IOP Publishing. doi:10.1088/978-1-6817-4401-8ch5 (https://d
+
+
+
+oi.org/10.1088%2F978-1-6817-4401-8ch5). ISBN 978-1-68174-401-8.
+May, E. M.; Rauscher, E. (April 2020). "From Super-Earths to Mini-Neptunes: Implications of
+a Surface on Atmospheric Circulation" (https://doi.org/10.3847%2F1538-4357%2Fab838b).
+The Astrophysical Journal. 893 (2): 161. arXiv:2003.13348 (https://arxiv.org/abs/2003.1334
+8). Bibcode:2020ApJ...893..161M (https://ui.adsabs.harvard.edu/abs/2020ApJ...893..161M).
+doi:10.3847/1538-4357/ab838b (https://doi.org/10.3847%2F1538-4357%2Fab838b).
+ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X). S2CID 214714012 (https://a
+pi.semanticscholar.org/CorpusID:214714012).
+Montet, B. T.; Morton, T. D.; Foreman-Mackey, D.; Asher Johnson, J.; Hogg, D. W.; Bowler,
+B. P.; Latham, D. W.; Bieryla, A.; Mann, A. W. (August 2015). "Stellar and Planetary
+Properties of K2 Campaign 1 Candidates and Validation of 17 Planets, Including a Planet
+Receiving Earth-Like Insolation" (https://doi.org/10.1088%2F0004-637X%2F809%2F1%2F2
+5). The Astrophysical Journal. 809 (1): 25. arXiv:1503.07866 (https://arxiv.org/abs/1503.078
+66). Bibcode:2015ApJ...809...25M (https://ui.adsabs.harvard.edu/abs/2015ApJ...809...25M).
+doi:10.1088/0004-637X/809/1/25 (https://doi.org/10.1088%2F0004-637X%2F809%2F1%2F
+25). ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X). S2CID 33348734 (http
+s://api.semanticscholar.org/CorpusID:33348734).
+Nixon, Matthew C; Madhusudhan, Nikku (17 June 2021). "How deep is the ocean?
+Exploring the phase structure of water-rich sub-Neptunes" (https://academic.oup.com/mnra
+s/article/505/3/3414/6302002#sec4-3). Monthly Notices of the Royal Astronomical Society.
+505 (3): 3414–3432. arXiv:2106.02061 (https://arxiv.org/abs/2106.02061).
+doi:10.1093/mnras/stab1500 (https://doi.org/10.1093%2Fmnras%2Fstab1500).
+Pierrehumbert, Raymond T. (February 2023). "The Runaway Greenhouse on Sub-Neptune
+Waterworlds" (https://doi.org/10.3847%2F1538-4357%2Facafdf). The Astrophysical Journal.
+944 (1): 20. arXiv:2212.02644 (https://arxiv.org/abs/2212.02644).
+Bibcode:2023ApJ...944...20P (https://ui.adsabs.harvard.edu/abs/2023ApJ...944...20P).
+doi:10.3847/1538-4357/acafdf (https://doi.org/10.3847%2F1538-4357%2Facafdf).
+ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X). S2CID 254275443 (https://a
+pi.semanticscholar.org/CorpusID:254275443).
+Quintanilla, José Cernicharo (2015). "Wavelength" (https://link.springer.com/referenceworke
+ntry/10.1007/978-3-662-44185-5_1685). Encyclopedia of Astrobiology. Springer. pp. 2651–
+2652. Bibcode:2015enas.book.2651Q (https://ui.adsabs.harvard.edu/abs/2015enas.book.26
+51Q). doi:10.1007/978-3-662-44185-5_1685 (https://doi.org/10.1007%2F978-3-662-44185-5
+_1685). ISBN 978-3-662-44184-8.
+Raymond, Sean (2011). "Atmosphere, Primitive Envelope" (https://link.springer.com/referen
+ceworkentry/10.1007/978-3-642-11274-4_131). Encyclopedia of Astrobiology. Springer.
+p. 120. doi:10.1007/978-3-642-11274-4_131 (https://doi.org/10.1007%2F978-3-642-11274-4
+_131). ISBN 978-3-642-11271-3.
+Santos, Leonardo A. dos; Ehrenreich, David; Bourrier, Vincent; Astudillo-Defru, Nicola;
+Bonfils, Xavier; Forget, François; Lovis, Christophe; Pepe, Francesco; Udry, Stéphane (1
+February 2020). "The high-energy environment and atmospheric escape of the mini-
+Neptune K2-18 b" (https://www.aanda.org/articles/aa/abs/2020/02/aa37327-19/aa37327-19.
+html). Astronomy & Astrophysics. 634: L4. arXiv:2001.04532 (https://arxiv.org/abs/2001.045
+32). Bibcode:2020A&A...634L...4D (https://ui.adsabs.harvard.edu/abs/2020A&A...634L...4
+D). doi:10.1051/0004-6361/201937327 (https://doi.org/10.1051%2F0004-6361%2F2019373
+27). ISSN 0004-6361 (https://search.worldcat.org/issn/0004-6361). S2CID 210472526 (http
+s://api.semanticscholar.org/CorpusID:210472526).
+Scheucher, Markus; Wunderlich, F.; Grenfell, J. L.; Godolt, M.; Schreier, F.; Kappel, D.;
+Haus, R.; Herbst, K.; Rauer, H. (July 2020). "Consistently Simulating a Wide Range of
+Atmospheric Scenarios for K2-18b with a Flexible Radiative Transfer Module" (https://doi.or
+g/10.3847%2F1538-4357%2Fab9084). The Astrophysical Journal. 898 (1): 44.
+arXiv:2005.02114 (https://arxiv.org/abs/2005.02114). Bibcode:2020ApJ...898...44S (https://u
+i.adsabs.harvard.edu/abs/2020ApJ...898...44S). doi:10.3847/1538-4357/ab9084 (https://doi.
+
+
+
+org/10.3847%2F1538-4357%2Fab9084). ISSN 0004-637X (https://search.worldcat.org/issn/
+0004-637X). S2CID 218502474 (https://api.semanticscholar.org/CorpusID:218502474).
+Spohn, Tilman (2015). "Tides, Planetary" (https://link.springer.com/referenceworkentry/10.10
+07/978-3-662-44185-5_1592). Encyclopedia of Astrobiology. Springer. pp. 2499–2504.
+Bibcode:2015enas.book.2841S (https://ui.adsabs.harvard.edu/abs/2015enas.book.2841S).
+doi:10.1007/978-3-662-44185-5_1592 (https://doi.org/10.1007%2F978-3-662-44185-5_159
+2). ISBN 978-3-662-44184-8.
+Shorttle, Oliver; Jordan, Sean; Nicholls, Harrison; Lichtenberg, Tim; Bower, Dan J.
+(February 2024). "Distinguishing Oceans of Water from Magma on Mini-Neptune K2-18b" (h
+ttps://doi.org/10.3847%2F2041-8213%2Fad206e). The Astrophysical Journal Letters. 962
+(1): L8. arXiv:2401.05864 (https://arxiv.org/abs/2401.05864). Bibcode:2024ApJ...962L...8S
+(https://ui.adsabs.harvard.edu/abs/2024ApJ...962L...8S). doi:10.3847/2041-8213/ad206e (ht
+tps://doi.org/10.3847%2F2041-8213%2Fad206e). ISSN 2041-8205 (https://search.worldcat.
+org/issn/2041-8205).
+Tsai, Shang-Min; Innes, Hamish; Wogan, Nicholas F.; Schwieterman, Edward W. (May
+2024). "Biogenic Sulfur Gases as Biosignatures on Temperate Sub-Neptune Waterworlds"
+(https://doi.org/10.3847%2F2041-8213%2Fad3801). The Astrophysical Journal Letters. 966
+(2): L24. arXiv:2403.14805 (https://arxiv.org/abs/2403.14805). Bibcode:2024ApJ...966L..24T
+(https://ui.adsabs.harvard.edu/abs/2024ApJ...966L..24T). doi:10.3847/2041-8213/ad3801 (h
+ttps://doi.org/10.3847%2F2041-8213%2Fad3801). ISSN 2041-8205 (https://search.worldcat.
+org/issn/2041-8205).
+Watties, Jackie (12 September 2023). "Planet in 'habitable' zone could have rare oceans
+and a possible sign of life, Webb data reveals" (https://www.cnn.com/2023/09/12/world/habit
+able-zone-exoplanet-ocean-webb-telescope-scn/index.html). CNN. Retrieved 13 September
+2023.
+Wogan, Nicholas F.; Batalha, Natasha E.; Zahnle, Kevin J.; Krissansen-Totton, Joshua; Tsai,
+Shang-Min; Hu, Renyu (February 2024). "JWST Observations of K2-18b Can Be Explained
+by a Gas-rich Mini-Neptune with No Habitable Surface" (https://doi.org/10.3847%2F2041-82
+13%2Fad2616). The Astrophysical Journal Letters. 963 (1): L7. arXiv:2401.11082 (https://ar
+xiv.org/abs/2401.11082). Bibcode:2024ApJ...963L...7W (https://ui.adsabs.harvard.edu/abs/2
+024ApJ...963L...7W). doi:10.3847/2041-8213/ad2616 (https://doi.org/10.3847%2F2041-821
+3%2Fad2616). ISSN 2041-8205 (https://search.worldcat.org/issn/2041-8205).
+Wright, Katherine (13 October 2023). "The Skinny on Detecting Life with the JWST" (https://
+physics.aps.org/articles/v16/178). Physics. 16: 178. Bibcode:2023PhyOJ..16..178W (https://
+ui.adsabs.harvard.edu/abs/2023PhyOJ..16..178W). doi:10.1103/Physics.16.178 (https://doi.
+org/10.1103%2FPhysics.16.178). S2CID 264332900 (https://api.semanticscholar.org/Corpu
+sID:264332900).
+Yu, Xinting; Moses, Julianne; Fortney, Jonathan; Zhang, Xi (1 December 2021). "How to
+identify exoplanet surfaces: without seeing them?" (https://doi.org/10.3847%2F1538-4357%
+2Fabfdc7). The Astrophysical Journal. 2021 (1): P42A–05. arXiv:2104.09843 (https://arxiv.or
+g/abs/2104.09843). doi:10.3847/1538-4357/abfdc7 (https://doi.org/10.3847%2F1538-4357%
+2Fabfdc7). S2CID 233307061 (https://api.semanticscholar.org/CorpusID:233307061).
+
+External links
+K2-18 b Confirmed Planet Overview Page (http://exoplanetarchive.ipac.caltech.edu/cgi-bin/
+DisplayOverview/nph-DisplayOverview?objname=K2-18+b&type=CONFIRMED_PLANET),
+NASA Exoplanet Archive
+NASA says distant planet could hold life after they spot signs of rare water ocean - MSN
+News (https://www.msn.com/en-us/news/technology/nasa-says-distant-planet-could-hold-life
+-after-they-spot-signs-of-rare-water-ocean/ar-AA1gOuta?rc=1&ocid=winp1taskbar&cvid=b0
+a89305eba942b8ab2a3ed18ff223b0&ei=14)
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=K2-18b&oldid=1246419608"

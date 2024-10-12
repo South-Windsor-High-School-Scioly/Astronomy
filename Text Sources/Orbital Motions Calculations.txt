@@ -1,266 +1,318 @@
-Measuring the Properties of Stars (ch. 17)
+﻿Measuring the Properties of Stars (ch. 17)
+
 Stars (and everything) are undoubtedly much more complex
-than our descriptions of them. Nevertheless, we will try to reduce
+than our descriptions of them.  Nevertheless, we will try to reduce
 the nature of stars to a fairly small number of properties that can be
 used in an attempt to answer questions like: Why do there appear
-to be different “types” of stars? How are stars born, evolve, and
-die? First we discuss how the properties of stars are measured and
-how they can be interpreted (ch. 17). Then we do the same for the
+to be different “types” of stars?  How are stars born, evolve, and
+die?  First we discuss how the properties of stars are measured and
+how they can be interpreted (ch. 17).  Then we do the same for the
 gas between the stars (the “interstellar medium,” ch. 18) and try to
-put them together to understand how stars form. Finally, in the
+put them together to understand how stars form.  Finally, in the
 next section of the course we will consider in detail how stars of
 different mass evolve from birth to death.
+
 [Not on the exam: Discover 17-1, p. 441, More Precisely 17-1, p.
 445; you should just have a basic idea of what the “magnitude
 system” means when referring to stellar brightnesses.]
+
 Basic properties
-1. Distances. The most basic method is to measure a star’s
+1. Distances.  The most basic method is to measure a star’s
+
 parallax angle, a subject we already covered early in the course.
-(See Fig. 17.1 for review.) Recall that this method gives rise to the
+(See Fig. 17.1 for review.)  Recall that this method gives rise to the
 unit of distance we will use throughout the remainder of the
 course, the parsec, which is the distance of a star with a parallax of
-one second of arc. (The nearest stars are a few parsecs distant
-from us, while our Galaxy is about 30,000 parsecs across.) A
+one second of arc.  (The nearest stars are a few parsecs distant
+from us, while our Galaxy is about 30,000 parsecs across.)  A
 parsec is about 3 x 1018 cm, or over a hundred thousand times
 larger than the distance from the Earth to the Sun (1AU).
+
 Distance (in parsecs) is equal to the inverse of the
 parallax angle (expressed in seconds of arcs).
+
 For example, a star 10 pc distant has a parallax angle of 0.1
-seconds of arc. Distant stars have such small parallax angles that
+seconds of arc.  Distant stars have such small parallax angles that
 they cannot be measured (recall our discussion of the diffraction
-and seeing limits for telescopes). So there is a distance limit for
+and seeing limits for telescopes).  So there is a distance limit for
 this method.
 
-The Hipparcos space mission revolutionized our knowledge
-of parallaxes. Read “Discovery 17-2” on p. 454 on this topic.
+
+
+The Hipparcos space mission revolutionized our knowledge
+of parallaxes.  Read “Discovery 17-2” on p. 454 on this topic.
 Planned future space missions (around 2010; SIM and GAIA) aim
 to enormously extend the distances to which parallaxes can be
 measured, covering our entire Galaxy.
+
 Important to note: Most objects we’ll encounter in astronomy
 are too far away to get distances by parallax, so we have to use
 other, less direct measurements (the idea of “standard candles” is
-the most important). But parallax is crucial because it serves as the
+the most important).  But parallax is crucial because it serves as the
 calibration of all these other methods; it is the “yardstick” upon
 which other distance measurements are based.
-2. Motions. We already know how to measure the
+
+2. Motions.   We already know how to measure the
 component of star’s motion along our line of sight, called the
-radial velocity: obtain a spectrum and measure the Doppler shift
-using spectral lines. But the star also has a component across our
-line of sight; this is called the transverse velocity. All we can
+radial velocity:  obtain a spectrum and measure the Doppler shift
+using spectral lines.  But the star also has a component across our
+line of sight; this is called the transverse velocity.  All we can
 directly measure is the angular speed across our line of sight
 (“proper motion”); in order to get the transverse velocity, we also
-need the distance. (Think about mosquito/UFO used in class.)
+need the distance.  (Think about mosquito/UFO used in class.)
 What kind of star do you expect to exhibit the largest proper
 motion?
+
 When you combine the two components of velocity, you get
 the total space velocity of the star.
+
 We won’t use this information much until we get to topics
 like the origin of our galaxy and the evidence for “dark matter.”
 But you should still know that most stars in the disk of our Galaxy
 are moving at around 5 to 50 km/ sec.
 
-3. Luminosities. This is how much energy a star is emitting
+
+
+3. Luminosities.   This is how much energy a star is emitting
 per unit time, i.e. the rate at which photon energy is being emitted.
-It is exactly the same as the power of a light bulb in Watts. You
+It is exactly the same as the power of a light bulb in Watts.  You
 can think of it as the absolute brightness of the star, to distinguish
 it from how much energy an observer is receiving from the star, its
 apparent brightness, which obviously depends on the star’s
-distance. The three quantities are related by the inverse square
+distance.   The three quantities are related by the inverse square
 law of light:
+
 apparent brightness ∝ luminosity/(distance)2
+
 Since apparent brightness is EASY to measure (if you can see
 something, you can measure how bright it appears), and we can get
 distance, at least for some stars, from parallax, we can solve this
-for L. Examples given in class should make this clear if it’s not
+for L.  Examples given in class should make this clear if it’s not
 already.
+
 [You do NOT have to know anything about “magnitude
-scales” except the basic idea. I won’t use this idea on the exam,
+scales” except the basic idea.  I won’t use this idea on the exam,
 but if you encounter it in the book, just remember that it’s just a
 handy way to assign numbers to apparent brightness and
 luminosity that have a smaller range, like the Richter scale for
 earthquakes.]
-4. Temperature. We are talking about the photospheric
-temperature, which is all we can directly observe. There are 2
+
+4. Temperature.   We are talking about the photospheric
+temperature, which is all we can directly observe.  There are 2
 ways to get T:
-a. Color—remember Wien’s law? Even though stars aren’t
+
+a. Color—remember Wien’s law?  Even though stars aren’t
 perfect blackbodies, we can get fairly accurate temperatures
-(especially in a relative sense) by colors. See p. 446-7, esp. Fig.
+(especially in a relative sense) by colors.  See p. 446-7, esp. Fig.
 17.9, so that you understand “color” as a measure of how much
 energy is being radiated in two different wavelength bands.
+
 b. Spectra and spectral classification—We’ve already
 discussed how the strengths of spectral lines of different elements
-are extremely sensitive to the temperature of the gas. E.g. if
+are extremely sensitive to the temperature of the gas.  E.g. if
 
-helium lines, star’s photosphere must be really hot, since it takes so
-much energy to excite its electron levels. Look carefully at Fig.
+
+
+helium lines, star’s photosphere must be really hot, since it takes so
+much energy to excite its electron levels.  Look carefully at Fig.
 17.10 to see how different absorption lines appear for stars of
 different temperatures.
+
 Astronomers have classified stars into spectral types that turn
 out to be a temperature sequence in the order
-O
-B
-A
-F
-G
-K
-M ⇒ memorize this
-50,000K ………………..6,000K…….3,000K
-← temperature
-HeII HeI
-H various metals molecules
-← strongest lines
-5. Sizes. Since stars only appear as points of light to even the
+
+O B A F G K M  ⇒ memorize this
+50,000K ………………..6,000K…….3,000K ← temperature
+HeII     HeI H   various metals      molecules        ← strongest lines
+
+5. Sizes.  Since stars only appear as points of light to even the
 largest telescopes (with a very few exceptions, using
 interferometry for the largest nearby stars: see Fig. 17.11 for the
-best example), we can’t get their diameters directly. Instead we
+best example), we can’t get their diameters directly.  Instead we
 use a method that is based on Stefan’s law (see ch.3 if you have
 forgotten): The rate of emission of energy of all light, at all
-wavelengths, by an object, by a unit area of its surface, per unit
+wavelengths,  by an object, by a unit area of its surface,  per unit
 time (e.g. per second), E, is proportional to the fourth power of the
-surface (photospheric) temperature T4. Writing L for the
+surface (photospheric) temperature T4.  Writing L for the
 luminosity (total energy emitted per unit time by the whole object)
 of the object (we’ll see how to measure this shortly), and noting
 that the area of a star is proportional to the square of its radius, this
 gives
-E ∝ L / R2 ∝ T4 ; or L ∝ T4 R2.
-You can see there are two ways for a star to be luminous: have a
-high temperature and/or have a large surface area. This means
+
+E ∝ L / R2 ∝ T4 ; or   L ∝ T4 R2.
+You can see there are two ways for a star to be luminous:  have a
+high temperature  and/or have a large surface area.  This means
 that if we can measure the temperature (from color, or using
 spectral lines; see below), we can get the surface area, i.e. the size
 R:
-R ∝ L1/2 / T2 .
+
+R ∝  L1/2 / T2  .
+
 Don’t worry much about the exponents, just understand the idea.
 
-If you carry this out for a large number of stars (see Fig.
+
+
+If you carry this out for a large number of stars (see Fig.
 17.12), you find that most of them have R similar to the sun (these
 are called “main sequence stars”), but a fraction of them are
 either: (a) red giants – large L (up to 106 x sun) and small T (i.e.
 red), so must have large size (up to 1000 x sun’s); (b) white
 dwarfs – T fairly large (“white”), but faint, L only a few percent of
-sun. This means they must not have much surface area, i.e. their
+sun.  This means they must not have much surface area, i.e. their
 sizes are tiny (comparable the size of the Earth!), even though their
-masses are similar to the sun’s. They must have huge densities!
+masses are similar to the sun’s.  They must have huge densities!
 (Later we’ll see what these classes represent in terms of evolution.)
-NEXT: The HR diagram (extremely important)—read sec.
+
+NEXT: The HR diagram (extremely important)—read  sec.
 17.5.
 
-The H-R diagram (sec. 17.5)
+
+
+The H-R diagram (sec. 17.5)
+
 The H-R diagram is a graph of luminosity vs.
-temperature for individual stars. This will be our basic
+temperature for individual stars.  This will be our basic
 device for describing the evolution of stars so it is
-important to be comfortable with it. [Notice that
-temperature increases from right to left. Also note that
+important to be comfortable with it.  [Notice that
+temperature increases from right to left.  Also note that
 stars evolve on timescales of at least millions of years, so
-we don’t see them move around in this diagram. We watch
-models of stars move around. More in later chapters.]
+we don’t see them move around in this diagram.  We watch
+models of stars move around.  More in later chapters.]
+
 Understand from earlier notes why stars in the upper
 right of this diagram must have large sizes (red giants)
 while those in the lower left (white dwarfs) must be small
 (white dwarfs).
+
 Also read why plotting only the stars that are
-apparently the brightest would be very misleading. We
-need to plot all the stars out to some distance. The
+apparently the brightest would be very misleading.  We
+need to plot all the stars out to some distance.  The
 textbook has some useful graphs (pp. 452, 453) illustrating
 this point.
+
 If we use a complete sample of stars we find:
 ~90% main sequence (MS) stars
-~1% red giants
-~9% white dwarfs
+~1%  red giants
+~9%  white dwarfs
+
 Why? That’s the purpose of stellar evolution theory, but
 you can already guess a couple of possible answers.
 You should be comfortable answering the “Concept
 Check” on p. 455 if you understand this.
 
-Spectroscopic Parallax
+
+
+Spectroscopic Parallax
+
 If you can establish that a star is a main sequence
 (MS) star (and you can—from its spectrum; see
 “luminosity class” in text), then the spectral type gives you
 the temperature, so you can just read off the luminosity
 from the H-R diagram.
+
 Knowing the apparent brightness (really easy to
 measure) and luminosity, this gives the distance (review
 earlier material if you don’t understand this), without
-having to get a trigonometric parallax. Distances obtained
-in this way are called “spectroscopic parallaxes.” (In
+having to get a trigonometric parallax.  Distances obtained
+in this way are called “spectroscopic parallaxes.”  (In
 “spectroscopic parallax” the word parallax is just used to
 mean “distance.”)
+
 You can get distances out to roughly 10,000 pc (10
-kiloparsecs) using this method. (Compared to about 500 pc
+kiloparsecs) using this method.  (Compared to about 500 pc
 for trigonometric parallax.)
+
 This is our first example of using a “standard
-candle”: some property of the star (in this case its
+candle”:  some property of the star (in this case its
 temperature) gives you its luminosity (hence the analogy
 with a candle or light bulb).
 
-Stellar Masses
+
+
+Stellar Masses
 The only method for directly determining the masses
+
 of stars is from binary stars, using Newton’s form of
-Kepler’s 3rd law. There are three types of binary stars,
+Kepler’s 3rd law.  There are three types of binary stars,
 which depend on how close they are to each other, their
 relative brightnesses, the distance of the binary, and other
 factors:
+
 a.Visual binaries—can see both stars, and so monitor
-orbit directly. (But must be near enough for you to resolve
-the two stars—not that many of these!) See Fig. 17.19.
+orbit directly.  (But must be near enough for you to resolve
+the two stars—not that many of these!)  See Fig. 17.19.
 Notice that you need the distance to convert the angular
 separation of the binary pair into a linear separation (i.e. in
 km or AU).
+
 b.Spectroscopic binaries—in this case you might see
 one or both stars, but the way you can tell they are in orbit
 is by observing periodic changes in the Doppler shift of
-their spectral lines. See Fig. 17.20. The period of the
-radial velocity variation is the period of the system. Using
+their spectral lines.  See Fig. 17.20.  The period of the
+radial velocity variation is the period of the system.  Using
 this, you can estimate the semimajor axis (for a circular
-orbit, the period = 2π x orbital radius/orbital velocity). So
+orbit, the period = 2π x orbital radius/orbital velocity).  So
 with period and semimajor axis, can get masses (actually
 only lower limit—inclination; see text).
+
 Recall that this is how extrasolar planets were
 discovered (the “radial velocity method”).
 
-c. Eclipsing binaries – only get eclipses if the orbit is
+
+
+c. Eclipsing binaries – only get eclipses if the orbit is
 very nearly along the observer’s line of sight, i.e. edge-on
 (so favors very small orbits), but can get lots of
 information, even the sizes of the stars, from the light
-curve. (See Fig. 17.21)
+curve.  (See Fig. 17.21)
+
 Recall that this is the basis for the “transit method”
 that we discussed in relation to extrasolar planet detection.
+
 Generally, get only limits on stars’ masses, but in
 many cases (e.g. spectroscopic eclipsing binaries) can get
-actual masses. See pp. 459-460.
+actual masses.  See pp. 459-460.
+
 Results: accurate masses for ~ 100 stars, showing that
 they span the mass range ~ 0.1 to 50-100 solar masses.
-Why this range? That is subject of future chapter, but for
+Why this range?  That is subject of future chapter, but for
 now, the most important thing we learn from this is an
 estimate of the lifetimes of stars, and how they depend on
-mass. This comes from:
+mass.  This comes from:
 
-The mass-luminosity relation for main sequence stars
-(sec. 17.8). Roughly, find from observations that L ∝ M3.
+
+
+The mass-luminosity relation for main sequence stars
+(sec. 17.8).  Roughly, find from observations that L ∝ M3.
 This tells us that the mass varies continuously along the
-main sequence. Range is roughly 50 solar masses
+main sequence.  Range is roughly 50 solar masses
 (luminous hot stars, spectral type O) to about 0.1 solar
-masses (faint cool stars, spectral type M). But notice strong
+masses (faint cool stars, spectral type M).  But notice strong
 mass-dependence of luminosity!
+
 Theory tells us that the mass a star is born with
 determines nearly everything else about its fate.
+
 Good example:
 stellar lifetime = fuel supply/rate at which it is being
 burned
-∝ stellar mass / stellar luminosity
-∝ M / M3 ∝ 1/M2
-So low mass stars live the longest. Numerically, find a
+
+      ∝ stellar mass / stellar luminosity
+      ∝ M / M3 ∝ 1/M2
+
+So low mass stars live the longest.  Numerically, find a
 lifetime of about a few million years for 50 solar masses,
 10 billion years for the sun, and about a trillion years (much
 greater than the estimated age of our universe) for the
 lowest mass stars.
+
 Now stare at Table 17.5 (Measuring the Stars) and see if
-it all makes sense to you. Try the questions at the end of the
+it all makes sense to you.  Try the questions at the end of the
 chapter before moving on!
+
 Next (ch.18): try to understand the material from which stars form
 (the interstellar medium) and how these forming stars can be
 thought of as moving along a track in the H-R diagram before they
 end up on the main sequence, where they will spend most of their
-lives. This idea of “evolutionary track” in the H-R diagram will be
+lives.  This idea of “evolutionary track” in the H-R diagram will be
 central to most of the material in the next section of the course.
-
-

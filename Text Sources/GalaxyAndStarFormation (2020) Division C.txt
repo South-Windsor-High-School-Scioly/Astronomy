@@ -1,12 +1,16 @@
-National Science Olympiad
+﻿National Science Olympiad
 Astronomy 2020 (Division C)
+
 Star and Galaxy Formation and Evolution
 
 Supported by NASA Universe of Learning STEM Literacy Network
 
 1
 
-NASA Astrophysics Division/CXC/NSO
+
+
+NASA Astrophysics Division/CXC/NSO
+
 https://www.universe-of-learning.org/
 
 https://www.universe-of-learning.org/
@@ -14,114 +18,135 @@ http://chandra.harvard.edu/index.html
 
 2
 
-Chandra X-Ray Observatory
+
+
+Chandra X-Ray Observatory
+
 http://chandra.harvard.edu/index.html
 http://chandra.si.edu/edu/olympiad.html
 
 3
 
-2020 Rules [DRAFT]
-1. DESCRIPTION: Teams will demonstrate an understanding of Star and Galaxy
+
+
+2020 Rules [DRAFT]
+1. DESCRIPTION: Teams will demonstrate an understanding of Star and Galaxy 
 Formation and Evolution
-A TEAM OF UP TO: 2
 
-APPROXIMATE TIME: 50 minutes
+A TEAM OF UP TO: 2 APPROXIMATE TIME: 50 minutes
 
-2. EVENT PARAMETERS: Each team may bring one of the following options
+2. EVENT PARAMETERS: Each team may bring one of the following options 
 containing information in any form and from any source:
-i. a computer/tablet and a three-ring binder; or,
+
+i. a computer/tablet and a three-ring binder; or, 
 ii. two computers/tablets, of any kind.
 
 4
 
-2020 Rules [DRAFT]
-b. If three ring binders are used they may be of any size and the information
-contained should be attached using the available rings. The information or
-pages may be removed during the event. Sheet protectors and laminated
+
+
+2020 Rules [DRAFT]
+b. If three ring binders are used they may be of any size and the information 
+contained should be attached using the available rings. The information or 
+pages may be removed during the event. Sheet protectors and laminated 
 sheets are allowed.
-c. Each team may bring two calculators of any type (stand alone or computer
+
+c. Each team may bring two calculators of any type (stand alone or computer 
 app)
-d. Participants using computers/tablets as a resource should have all
-information stored so that it is available to them offline. However; teams may
-be accessing a dedicated NASA image analysis website to answer JS9 questions.
-For JS9 questions, supervisors must provide an alternative (e.g. proctorsupplied computer or screen shots) for teams that did not bring a laptop/tablet.
+
+d. Participants using computers/tablets as a resource should have all 
+information stored so that it is available to them offline. However; teams may 
+be accessing a dedicated NASA image analysis website to answer JS9 questions. 
+For JS9 questions, supervisors must provide an alternative (e.g. proctor-
+supplied computer or screen shots) for teams that did not bring a laptop/tablet.
 
 5
 
-2020 Rules [DRAFT]
-3. THE COMPETITION: Using information which may include Hertzsprung-Russell
-diagrams, spectra, light curves, motions, cosmological distance equations and
-relationships, stellar magnitudes and classification, multi-wavelength images
-(gamma-ray, X-ray, UV, optical, IR, radio), charts, graphs and JS9 imaging analysis
+
+
+2020 Rules [DRAFT]
+3. THE COMPETITION: Using information which may include Hertzsprung-Russell 
+diagrams, spectra, light curves, motions, cosmological distance equations and 
+relationships, stellar magnitudes and classification, multi-wavelength images 
+(gamma-ray, X-ray, UV, optical, IR, radio), charts, graphs and JS9 imaging analysis 
 software, teams will complete activities and answer questions related to:
-a. Stellar and galactic evolution including stellar classification, spectral features
-and chemical composition, luminosity, blackbody radiation, color index and H-R
-diagram transitions, neutron stars, stellar mass and supermassive black holes,
-Type Ia supernovas, galactic structure and interactions, quasars, active galactic
-nuclei (AGNs), galaxy clusters and groups of galaxies, gravitational waves,
-gravitational lensing, dark matter and energy, warm hot intergalactic medium
-(WHIM), and the Cosmic Microwave Background (CMB).
+
+a. Stellar and galactic evolution including stellar classification, spectral features 
+and chemical composition, luminosity, blackbody radiation, color index and H-R 
+diagram transitions, neutron stars, stellar mass and supermassive black holes, 
+Type Ia supernovas, galactic structure and interactions, quasars, active galactic 
+nuclei (AGNs), galaxy clusters and groups of galaxies, gravitational waves, 
+gravitational lensing, dark matter and energy, warm hot intergalactic medium 
+(WHIM), and the Cosmic Microwave Background (CMB). 
 
 6
 
-2020 Rules [DRAFT]
-b. Use Kepler’s laws, rotation and circular motion to answer questions relating
+
+
+2020 Rules [DRAFT]
+b. Use Kepler’s laws, rotation and circular motion to answer questions relating 
 to the orbital motions of galaxies; use the distance modulus, Type Ia
-supernovas, Hubble’s law and redshift to answer questions about Hubble’s
+supernovas, Hubble’s law and redshift to answer questions about Hubble’s 
 constant and the recessional velocities and distances to galaxies.
-c. Identify and answer questions relating to the content areas outlined above
-for the following objects: SN UDS10Wil, NGC 2623, GRB 150101B, JKCS 041,
-MACS J0717.5+3745, MACS J1149.5+2223, Bullet Cluster (1E 0657-56),
-H1821+643, The 3 Quasars (152156.48+520238.5, 153714.26+271611.6,
-222256.11-094636.2), GOODS-S 29323, H2356-309, PSS 0133+0400 & PSS
+
+c. Identify and answer questions relating to the content areas outlined above 
+for the following objects: SN UDS10Wil, NGC 2623, GRB 150101B, JKCS 041, 
+MACS J0717.5+3745, MACS J1149.5+2223, Bullet Cluster (1E 0657-56), 
+H1821+643, The 3 Quasars (152156.48+520238.5, 153714.26+271611.6, 
+222256.11-094636.2), GOODS-S 29323, H2356-309, PSS 0133+0400 & PSS 
 0955+5940, GW151226, M87, 3C 273
 
 7
 
-Deep Sky Objects
-AGN/Quasars
-• 3C 273
-• NGC 2623
+
+
+Deep Sky Objects Galaxy Clusters
+• Bullet Cluster (1E 0657-56)
+
+AGN/Quasars • MACS J0717.5+3745
+• 3C 273 • MACS J1149.5+2223
+• NGC 2623 • JKCS 041
 • M87
-• The 3 Quasars
-(152156.48+520238.5,
-153714.26+271611.6,
+• The 3 Quasars Early Universe
+
+(152156.48+520238.5, • SN UDS10Wil
+153714.26+271611.6, • GOODS-S 29323
 222256.11-094636.2)
-WHIM
+
+• PSS 0133+0400 & PSS 0955+5940
+
+WHIM Gravitational Waves
 • H1821+643
+
+• GW 151226
 • H2356-309
 
-Galaxy Clusters
-• Bullet Cluster (1E 0657-56)
-• MACS J0717.5+3745
-• MACS J1149.5+2223
-• JKCS 041
-Early Universe
-• SN UDS10Wil
-• GOODS-S 29323
-• PSS 0133+0400 & PSS 0955+5940
-Gravitational Waves
-• GW 151226
 • GRB 150101B
 
 8
 
-3C 273
-• First quasar discovered, in 1959
+
+
+3C 273
+
+• First quasar discovered, in 1959 
 (quasi-stellar radio source)
 • Observable at many wavelengths
 • Brightness varies over months –
-must be smaller than light-months
+
+must be smaller than light-months 
 in size
 
 • Central supermassive black hole
 • Accretion disk
-• Jet of material ejected
+• Jet of material ejected 
+
 perpendicular to disk
 
 https://www.spacetelescope.org/images/potw1346a/
 https://earthsky.org/space/1st-close-up-look-supermassive-black-hole-3c273
 https://www.aavso.org/vsots_3c273
+
 Advanced:
 http://www.astro.caltech.edu/~george/ay21/eaa/eaa-3c273.pdf
 http://adsabs.harvard.edu/full/1964ApJ...140....1G
@@ -129,38 +154,52 @@ https://arxiv.org/pdf/astro-ph/0605530.pdf
 
 9
 
-NGC 2623
+
+
+NGC 2623
+
 • Merging galaxies
-• Star formation (seen in blue)
+• Star formation (seen in blue) 
+
 triggered by compression of gas
 • Material flung out in tidal tails
 
 • LIRG (Luminous InfraRed Galaxy)
-• Lots of star formation – bright in IR
+• Lots of star formation – bright in IR 
+
 since dust absorbs visible light
-• AGN (Active Galactic Nucleus)
+• AGN (Active Galactic Nucleus) 
+
 hidden behind dust
 
-https://www.nasa.gov/image-feature/goddard/2017/hubble-unravels-a-twistedcosmic-knot
+https://www.nasa.gov/image-feature/goddard/2017/hubble-unravels-a-twisted-
+cosmic-knot
 https://apod.nasa.gov/apod/ap180110.html
 https://www.spacetelescope.org/news/heic0912/
+
 Advanced:
 https://arxiv.org/abs/1706.01896
 https://iopscience.iop.org/article/10.1086/533499/pdf
 
 10
 
-M87 (aka Virgo A)
-• Giant elliptical galaxy in the nearby
-Virgo Cluster
-• Supermassive black hole
-surrounded by hot gas
-• Imaged by the Event Horizon
-Telescope!
 
-• Jet appears to move faster than
+
+M87 (aka Virgo A)
+
+• Giant elliptical galaxy in the nearby 
+Virgo Cluster
+
+• Supermassive black hole 
+surrounded by hot gas
+• Imaged by the Event Horizon 
+
+Telescope!
+• Jet appears to move faster than 
+
 speed of light (relativistic effect)
-• Suggests all active galaxies are the
+• Suggests all active galaxies are the 
+
 same, just viewed differently
 
 http://chandra.harvard.edu/photo/2019/black_hole/
@@ -168,47 +207,59 @@ https://www.nasa.gov/feature/goddard/2017/messier-87
 http://coolcosmos.ipac.caltech.edu/cosmic_classroom/multiwavelength_astronomy/
 multiwavelength_museum/m87.html
 https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA23122
+
 Advanced:
 https://www.messier-objects.com/messier-87-virgo-a/
 https://en.wikipedia.org/wiki/Messier_87
 
 11
 
-The 3 Quasars
+
+
+The 3 Quasars
 (152156.48+520238.5, 153714.26+271611.6, 222256.11-094636.2)
 
 • “Thick disk” quasars
-• Disk puffs up due to lots of material
-flowing towards black hole
-• Weak in UV and X-ray due to absorption
-from disk
+• Disk puffs up due to lots of material 
 
+flowing towards black hole
+• Weak in UV and X-ray due to absorption 
+
+from disk
 • Black holes growing very rapidly
-• Fast enough to explain high masses of
+
+• Fast enough to explain high masses of 
 early black holes?
 
 http://chandra.harvard.edu/press/15_releases/press_043015.html
 https://www.youtube.com/watch?v=NWqafCnDvdg
+
 Advanced:
 https://arxiv.org/abs/1503.02085
 
 12
 
-H2356-309
-• Quasar beyond the Sculptor Wall
+
+
+H2356-309
+
+• Quasar beyond the Sculptor Wall 
 of galaxies
 • Blazar – jet pointed directly at us!
 
-• Evidence for WHIM (Warm Hot
+• Evidence for WHIM (Warm Hot 
 Intergalactic Medium)
-• Possible this is the “missing matter”
+• Possible this is the “missing matter” 
+
 in the nearby universe
-• Hard to detect because it is hot and
-diffuse, but large quantities will
+• Hard to detect because it is hot and 
+
+diffuse, but large quantities will 
 absorb noticeably
 
 http://chandra.harvard.edu/photo/2010/h2356/
 https://www.space.com/8386-huge-chunk-universe-missing-matter.html
+
 Advanced:
 https://www.mpi-hd.mpg.de/hfm/HESS/pages/home/som/2006/01/
 https://dspace.mit.edu/bitstream/handle/1721.1/63603/Canizares2.pdf?sequence=1
@@ -216,21 +267,28 @@ https://dspace.mit.edu/bitstream/handle/1721.1/63603/Canizares2.pdf?sequence=1
 
 13
 
-H1821+643
-• Quasar at the center of a
+
+
+H1821+643
+
+• Quasar at the center of a 
 cooling-core galaxy cluster
-• Center is cooler than edges
-because it is denser and emits
+• Center is cooler than edges 
+
+because it is denser and emits 
 more energy
 
 • Used to detect WHIM
-• Filaments of WHIM between the
+• Filaments of WHIM between the 
+
 quasar and us absorb x-rays
-• Very weak absorption, so have to
+• Very weak absorption, so have to 
+
 stack many observations
 
 https://apod.nasa.gov/apod/ap000516.html
 http://chandra.harvard.edu/photo/2019/whim/
+
 Advanced:
 https://iopscience.iop.org/article/10.1088/2041-8205/792/2/L41/pdf
 https://arxiv.org/abs/1405.7522
@@ -238,64 +296,85 @@ https://arxiv.org/abs/1812.04625
 
 14
 
-Bullet Cluster (1E 0657-56)
+
+
+Bullet Cluster (1E 0657-56)
+
 • Galaxy cluster merger
-• X-ray emission from colliding gas
+• X-ray emission from colliding gas 
+
 (hot!)
 • Dark matter doesn’t collide though...
 
 • Evidence of dark matter
-• Mass distribution is different from
+• Mass distribution is different from 
+
 VISIBLE mass distribution
-• Gravitational lensing of background
+• Gravitational lensing of background 
+
 galaxies
 
 https://apod.nasa.gov/apod/ap170115.html
 https://heasarc.gsfc.nasa.gov/docs/objects/heapow/archive/large_scale_structure/1
 E0657-56.html
 http://chandra.harvard.edu/press/06_releases/press_082106.html
+
 Advanced:
-https://arstechnica.com/science/2017/09/science-in-progress-did-the-bullet-clusterwithstand-scrutiny/
+https://arstechnica.com/science/2017/09/science-in-progress-did-the-bullet-cluster-
+withstand-scrutiny/
 https://astrobites.org/2016/11/04/the-bullet-cluster-a-smoking-gun-for-dark-matter/
 
 15
 
-MACS J0717.5+3745
+
+
+MACS J0717.5+3745
+
 • Complex colliding galaxy cluster
-• 4 subclusters – determined by positions
+• 4 subclusters – determined by positions 
+
 of visible galaxies vs their gas
 • Lots of x-rays from superheated gas
 
-• Mass distribution determined based
+• Mass distribution determined based 
 on gravitational lensing
-• Lensing also brightens background
+• Lensing also brightens background 
+
 galaxies, allowing them to be studied
 
 https://www.spacetelescope.org/images/opo0917a/
 https://scitechdaily.com/three-datasets-produce-a-unique-new-view-of-macs-j0717/
 http://chandra.harvard.edu/photo/2016/frontier/index.html
+
 Advanced:
 https://arxiv.org/abs/1512.04527
 https://arxiv.org/abs/1510.08077
 
 16
 
-MACS J1149.5+2223
+
+
+MACS J1149.5+2223
+
 • Massive galaxy cluster
 • Powerful gravitational lens
+
 • Distant galaxy at redshift 𝑧 ≈ 9.6 –
-when universe was only 500 million
+when universe was only 500 million 
 years old
+
 • MACS J1149 Lensed Star 1 (“Icarus”) –
-furthest star ever found, distance of
+furthest star ever found, distance of 
 14.4 billion ly
-• SN Refsdal – first supernova with
+
+• SN Refsdal – first supernova with 
 multiple lensed images
 
 https://frontierfields.org/meet-the-frontier-fields/macsj1149/
 http://hubblesite.org/news_release/news/2012-31
 https://en.wikipedia.org/wiki/MACS_J1149_Lensed_Star_1
 https://en.wikipedia.org/wiki/SN_Refsdal
+
 Advanced:
 http://www.mergingclustercollaboration.org/macs-j114952223.html
 https://arxiv.org/pdf/1204.2305.pdf
@@ -303,134 +382,180 @@ https://arxiv.org/pdf/1706.10279.pdf
 
 17
 
-JKCS 041
-• Most distant (and oldest!) galaxy
-cluster
-• Redshift 𝑧 ≈ 1.9 (distance of about
-10 billion ly)
 
-• Example of early star formation in
+
+JKCS 041
+
+• Most distant (and oldest!) galaxy 
+cluster
+• Redshift 𝑧 ≈ 1.9 (distance of about 
+
+10 billion ly)
+• Example of early star formation in 
+
 the universe
-• Many massive galaxies already
+• Many massive galaxies already 
+
 stopped forming stars
-• Do galaxies grow primarily due to
+• Do galaxies grow primarily due to 
+
 collisions in clusters?
 
 https://apod.nasa.gov/apod/ap091028.html
 https://scitechdaily.com/hubble-confirms-distance-galaxy-cluster-jkcs-041/
+
 Advanced:
 https://arxiv.org/abs/1310.6754
 https://www.aanda.org/articles/aa/pdf/2014/05/aa23077-13.pdf
 
 18
 
-SN UDS10Wil
+
+
+SN UDS10Wil
+
 • Furthest Type Ia SN discovered
-• Redshift 𝑧 = 1.914 , universe was
+• Redshift 𝑧 = 1.914 , universe was 
+
+ଵ ଵ
 ≈ of current size
 
+ଵା௭ ଷ
+
 • Hubble CANDELS survey –
-searching for faint, distant
+searching for faint, distant 
 supernovae
-• Have they changed between now
+• Have they changed between now 
+
 and the early universe?
 
 https://www.nasa.gov/mission_pages/hubble/science/sn-wilson.html
 https://www.skyandtelescope.com/astronomy-news/the-oldest-loneliest-supernova/
+
 Advanced:
 https://ned.ipac.caltech.edu/level5/March18/Czerny/Czerny2.html
 https://arxiv.org/abs/1304.0768
 
 19
 
-GOODS-S 29323
-• Early supermassive black holes
-may have collapsed directly from
-large gas clouds
-• Matter can fall straight in instead of
-spiraling around in a disk
 
-• Searched Hubble surveys for
+
+GOODS-S 29323
+
+• Early supermassive black holes 
+may have collapsed directly from 
+large gas clouds
+• Matter can fall straight in instead of 
+
+spiraling around in a disk
+• Searched Hubble surveys for 
+
 objects matching predictions
-• Very “red” (infrared-bright) because
+• Very “red” (infrared-bright) because 
+
 disk absorbs and re-emits light
 
 https://www.nasa.gov/mission_pages/chandra/goods-s-29323.html
-https://arstechnica.com/science/2016/05/building-a-supermassive-black-hole-skipthe-star/
+https://arstechnica.com/science/2016/05/building-a-supermassive-black-hole-skip-
+the-star/
+
 Advanced:
-https://astrobites.org/2016/05/30/monsters-in-the-dark-first-detection-of-a-directcollapse-black-hole-candidate/
+https://astrobites.org/2016/05/30/monsters-in-the-dark-first-detection-of-a-direct-
+collapse-black-hole-candidate/
 https://arxiv.org/abs/1603.08522
 
 20
 
-PSS 0133+0400 and PSS 0955+5940
+
+
+PSS 0133+0400 and PSS 0955+5940
+
 • Quasars 10 billion ly away –
 very luminous
-• Used as “standard candles”
-based on relationship between
+• Used as “standard candles” 
+
+based on relationship between 
 UV and X-ray flux
 
-• Track expansion of the
+• Track expansion of the 
 universe over time
-• Dark energy (driving expansion)
+• Dark energy (driving expansion) 
+
 may be increasing...
 
 http://chandra.harvard.edu/press/19_releases/press_012919.html
-https://www.skyandtelescope.com/astronomy-news/what-quasar-cosmology-canteach-us-about-dark-energy/
+https://www.skyandtelescope.com/astronomy-news/what-quasar-cosmology-can-
+teach-us-about-dark-energy/
+
 Advanced:
 https://arxiv.org/abs/1811.02590
 
 21
 
-GW 151226
-• 2nd confirmed gravitational wave
+
+
+GW 151226
+
+• 2nd confirmed gravitational wave 
 event (December 26, 2015)
 • Found by LIGO (+ VIRGO)
 • General Relativity still works!
 • Location hard to constrain
 
 • Merger of two black holes
-• M_final = 20.8 Msun, less than
-combined mass before merger
+• M_final = 20.8 Msun, less than 
+
+combined mass before merger 
 (turned into energy)
 
 https://www.ligo.org/detections/GW151226.php
 https://en.wikipedia.org/wiki/GW151226
 https://www.sciencemag.org/news/2016/06/ligo-detects-another-black-hole-crash
+
 Advanced:
 https://www.ligo.org/science/Publication-GW151226/index.php
 https://arxiv.org/abs/1606.04855
 
 22
 
-GRB 150101B
+
+
+GRB 150101B
+
 • Short gamma-ray burst (< 0.1 sec!)
 • Detected by Fermi (gamma-ray)
-• Fast follow-up by Swift, Chandra,
-Hubble, and more!
+• Fast follow-up by Swift, Chandra, 
 
+Hubble, and more!
 • Similar to GW 170817
-• Known neutron star + neutron star
+
+• Known neutron star + neutron star 
 merger (kilonova)
-• Observed in gravitational waves
+
+• Observed in gravitational waves 
 (LIGO) and multiple wavelengths
 
 http://chandra.harvard.edu/photo/2018/kilonova/
 https://www.youtube.com/watch?v=NCVsx6drHrM
 https://www.space.com/42158-another-neutron-star-crash-detected.html
+
 Advanced:
 https://arxiv.org/abs/1807.02866
 https://arxiv.org/ftp/arxiv/papers/1806/1806.10624.pdf
 
 23
 
-Multi-Wavelength Observations
+
+
+Multi-Wavelength Observations
 
 http://www.atnf.csiro.au/people/lop009/multiwave.html
 
 24
 
-Spectra
+
+
+Spectra
 
 http://spiff.rit.edu/classes/phys230/lectures/spec_interp/spec_interp.html
 http://star-www.st-and.ac.uk/~spd3/Teaching/PHYS1002/phys1002_lecture6.pdf
@@ -440,13 +565,18 @@ http://spiff.rit.edu/classes/phys301/lectures/doppler/doppler.html
 
 25
 
-Type Ia Supernovae
-• From white dwarf with mass > 1.4 solar
+
+
+Type Ia Supernovae
+
+• From white dwarf with mass > 1.4 solar 
 masses (Chandrasekhar Limit)
-• “Standard candle” for measuring distance
-because they are all the same brightness
+
+• “Standard candle” for measuring distance 
+because they are all the same brightness 
 (well... maybe)
-• Slow mass transfer from binary companion,
+• Slow mass transfer from binary companion, 
+
 mass = 1.4 solar masses
 • Collision with another white dwarf, mass = ???
 
@@ -456,15 +586,21 @@ http://astronomy.swin.edu.au/cosmos/T/Type+Ia+Supernova+Progenitors
 
 26
 
-AGNs & Quasars
-• Bright across many wavelengths,
+
+
+AGNs & Quasars
+
+• Bright across many wavelengths, 
 often variable
-• Unified Model – all AGNs/quasars
-are similar, just viewed from
+
+• Unified Model – all AGNs/quasars 
+are similar, just viewed from 
 different angles
-• Disk of matter accreting onto a
+• Disk of matter accreting onto a 
+
 supermassive black hole
-• Sometimes (but not always)
+• Sometimes (but not always) 
+
 produces a narrow jet
 
 http://astronomy.swin.edu.au/cosmos/A/Active+Galactic+Nuclei
@@ -473,16 +609,21 @@ https://www.space.com/17262-quasar-definition.html
 
 27
 
-Dark Matter
-• Several times more mass than
+
+
+Dark Matter
+
+• Several times more mass than 
 “normal” matter
-• Galactic orbital velocities should
+
+• Galactic orbital velocities should 
 follow Kepler’s Law
 • Instead, rotation curves are flat
 
 • Gravitational lensing
 • Mass bends light paths
-• Strong lensing (multiple images or arcs)
+• Strong lensing (multiple images or arcs) 
+
 vs. weak lensing (shape distortion)
 
 https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy
@@ -491,16 +632,22 @@ https://frontierfields.org/2014/12/09/mapping-mass-in-a-frontier-fields-cluster/
 
 28
 
-Cosmic Microwave Background
+
+
+Cosmic Microwave Background
+
 • Era of Recombination
-• When universe was ionized, photons
-couldn’t travel far without interacting
+• When universe was ionized, photons 
+
+couldn’t travel far without interacting 
 with matter
+
 • Recombination of electrons + nuclei –
 no longer ionized, photons go free
 
 • Almost perfect blackbody
-• Temperature at recombination,
+• Temperature at recombination, 
+
 redshifted by expansion of the universe
 • Primordial fluctuations
 
@@ -511,153 +658,168 @@ rowave_background
 
 29
 
-Basic Equations & Relationships
-Distance Modulus:
 
-Small Angle Formula: 𝑑 =
 
-,
+Basic Equations & Relationships
 
-𝑚 − 𝑀 = 5 log
-Type Ia supernova: 𝑀 ≈ −19.6
+Distance Modulus: Small Angle Formula: ఈ஽
+𝑑 =
 
-Inverse Square Law:
+ଶ଴଺,ଶ଺ହ
+ௗ
 
-=
+𝑚 − 𝑀 = 5 logଵ଴ ଵ଴
 
-Circumference, Area, Surface Area,
-Astronomical Units:
-and Volume of a Sphere
-1 pc = 3.26 ly = 3.08 ∗ 10 𝑚
+Inverse Square Law: ௅భ ௥మ
+= మ
+
+Type Ia supernova: ௅
+𝑀 ≈ −19.6 మ ௥మ
+
+భ
+
+Circumference, Area, Surface Area, 
+Astronomical Units: and Volume of a Sphere
+1 pc = 3.26 ly = 3.08 ∗ 10ଵ଺ 𝑚
 1 degree = 60 arcmin = 3600 arcsec
 
 30
 
-Radiation Laws
+
+
+Radiation Laws
+
 Blackbody – described by Planck’s Law
-Wien’s Law: 𝜆
 
-=
+Wien’s Law: ଶ.ଽ∗ଵ଴ల ௡௠∗௄
+𝜆௠௔௫ =
 
-. ∗
+்
 
-∗
+Stefan-Boltzmann Law: 𝐿 = 𝐴𝜎𝑇ସ
 
-Stefan-Boltzmann Law: 𝐿 = 𝐴𝜎𝑇
-LRT:
+LRT: ௅భ ோ ଶ ସ
+= భ భ்
 
-=
+௅మ ோమ మ்
 
 http://hyperphysics.phy-astr.gsu.edu/hbase/wien.html
 http://jila.colorado.edu/~ajsh/courses/astr1120_03/text/chapter1/SBLaw.htm
 
 31
 
-Orbital Motion
-Kepler’s Third Law:
-𝑀 +𝑀
 
-=
 
-(in solar masses, AU, years)
+Orbital Motion
 
-Circular Motion:
-𝑣=
-𝑎=
-𝑃=
+Kepler’s Third Law: Circular Motion:
+௔య ௗ
 
-𝑀 +𝑀
+𝑀ଵ + 𝑀ଶ = 𝑣 =
+௉మ ௧
 
-=
+(in solar masses, AU, years) ௩
+𝑎 =
 
-(in meters, kilograms, seconds)
+௧
+ଶగ௥
 
-𝐹 = 𝑚𝑎 =
+𝑃 =
+ீ ௔య ௩
+
+𝑀ଵ + 𝑀ଶ =
+ସగమ ௉మ ௠௩మ
+
+𝐹௖ = 𝑚𝑎௖ =
+(in meters, kilograms, seconds) ௥
 
 32
 
-Hubble’s Law & Hubble’s Constant
-• All galaxies recede from us due to
+
+
+Hubble’s Law & Hubble’s Constant
+
+• All galaxies recede from us due to 
 expansion of the universe
-• For nearby galaxies, peculiar motion
+
+• For nearby galaxies, peculiar motion 
 (due to gravity, etc.) is more important
-𝑣
 
-= 𝐻 𝑑 (𝐻 ≈ 70
+௞௠⁄
+𝑣௥௘௖ = 𝐻଴𝑑 ( ௦
 
-⁄
+𝐻଴ ≈ 70 )
+ெ௣௖
 
-)
+Age of universe ଵ
+≈
 
-Age of universe ≈
+ுబ
 
 https://www.e-education.psu.edu/astro801/content/l10_p3.html
 http://hosting.astro.cornell.edu/academics/courses/astro201/hubbles_law.htm
 
 33
 
-JS9
+
+
+JS9
+
 https://js9.si.edu/
 
 https://js9.si.edu/
 
 34
 
-Resources
-National Science Olympiad
 
-http://www.soinc.org
 
-Chandra (x-ray)
-Hubble (visible)
-Spitzer (infrared)
+Resources
+National Science Olympiad http://www.soinc.org
 
-http://chandra.harvard.edu/
-http://stsci.edu/hst/
-http://www.spitzer.caltech.edu/
-
-Fermi (gamma-ray)
-Swift (x-ray/UV)
-Nat’l Radio Astronomy Observatory
-Astronomy Picture of the Day
-
-https://fermi.gsfc.nasa.gov/
-https://swift.gsfc.nasa.gov/
-https://public.nrao.edu/
-http://apod.nasa.gov/astropix.html
+Chandra (x-ray) http://chandra.harvard.edu/
+Hubble (visible) http://stsci.edu/hst/
+Spitzer (infrared) http://www.spitzer.caltech.edu/
+Fermi (gamma-ray) https://fermi.gsfc.nasa.gov/
+Swift (x-ray/UV) https://swift.gsfc.nasa.gov/
+Nat’l Radio Astronomy Observatory https://public.nrao.edu/
+Astronomy Picture of the Day http://apod.nasa.gov/astropix.html
 
 35
 
-Event Information
+
+
+Event Information
 National Event Supervisors:
 Donna L. Young (dlyoung.nso@gmail.com)
 Tad Komacek (tkomacek@gmail.com)
+
 Rules Clarifications available at soinc.org under Event Information
+
 1. Read the Event Description for content and allowable resources.
-2. Use the webinar (Chandra) and/or powerpoint (NSO) for an overview of the
+2. Use the webinar (Chandra) and/or powerpoint (NSO) for an overview of the 
+
 content topics and deep sky objects.
-3. Use the Astronomy Coaches Manual (NSO) as a guide for background
+3. Use the Astronomy Coaches Manual (NSO) as a guide for background 
+
 information.
 
 36
 
-Event Information
-4.
-5.
-6.
-7.
 
-Use the resources listed in the event description for images and content.
-Youtube has many related videos.
-Invitationals.
-Tests from invitationals and sample state tests will be posted on the NSO
+
+Event Information
+4. Use the resources listed in the event description for images and content.
+5. Youtube has many related videos.
+6. Invitationals.
+7. Tests from invitationals and sample state tests will be posted on the NSO 
+
 website for teams to use for practice.
-8. The scioly.org test exchange
+8. The scioly.org test exchange 
+
 (https://scioly.org/wiki/index.php/2019_Test_Exchange).
 9. ASTRO 101 introductory college courses.
-10. Scientific papers. Most useful parts: abstract, introduction, figures. Don’t worry
+10. Scientific papers. Most useful parts: abstract, introduction, figures. Don’t worry 
+
 if you don’t understand everything!
 
 37
-
-

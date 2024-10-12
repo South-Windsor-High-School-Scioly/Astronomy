@@ -1,425 +1,407 @@
-Looking for Exoplanets
+﻿Looking for Exoplanets
 Astrometry
+
 Direct Imaging
+
 Jim Rauf
 
-OLLI Fall 2021
+OLLI Fall 2021 1
 
-1
 
-Looking for Exoplanets-Distances
-• There are 3,600 arcseconds in one degree
 
+Looking for Exoplanets-Distances
 Inverse Square Law
 
-• One parsec is 206,265 AU (or 3.26 light-years)
-• One parsec is the distance to an object whose
+• There are 3,600 arcseconds in one degree
+• One parsec is 206,265 AU (or 3.26 light-years) 
+• One parsec is the distance to an object whose 
+
 parallax angle is one arcsecond
 • One parsec is 3.26156378 light years
 
 ~ 1,367 w/m2
 
-Looking for Exoplanets-Distances
-• Astrometry and Direct Imaging rely on capturing
-light from distant stars
-• Great distances to stars and the Inverse Square
-Law result in extremely low levels of light intensity
+
+
+Looking for Exoplanets-Distances
+
+• Astrometry and Direct Imaging rely on capturing 
+light from distant stars 
+
+• Great distances to stars and the Inverse Square 
+Law result in extremely low levels of light intensity 
 at Earth
-• At the surface of the Sun the intensity of the solar
+
+• At the surface of the Sun the intensity of the solar 
 radiation is
+
 • ~ 6.33×10 7 W/m 2 (watts, per square meter)
-• At Earth (1AU) the Sun’s intensity is ~1,367 W/m 2
-• Light year-The distance that light travels in a
-vacuum in one year, approximately 9.46 trillion
+• At Earth (1AU) the  Sun’s intensity is ~1,367 W/m 2
+• Light year-The distance that light travels in a 
+
+vacuum in one year, approximately 9.46 trillion 
 kilometers (5.88 trillion miles)
-• 1 LY =63,066 AU
+
+• 1 LY =63,066 AU 100 LY = 30.65 parsecs
+
 • 100 LY=6,306,600 AU
-• Sun’s intensity at 100 LY =0.000001592 that at
+• Sun’s intensity at 100 LY =0.000001592 that at 
+
 Earth (1.592E-6)
 
-100 LY = 30.65 parsecs
 
-Looking for Exoplanets - Astrometry
-• Astrometry consists of precisely measuring a star's position in the sky, and observing how that position
+
+Looking for Exoplanets - Astrometry
+• Astrometry consists of precisely measuring a star's position in the sky, and observing how that position 
+
 changes over time
 • Originally, this was done visually, with hand-written records
-• Late in the 19th century, the use of photographic plates greatly improving the accuracy of the
-measurements
+
+• Late in the 19th century, the use of  photographic plates greatly improving the accuracy of the 
+measurements 
 • It also created a data archive
-• If a star has a planet, then the gravitational influence of the planet will cause the star itself to move in a tiny
+
+• If a star has a planet, then the gravitational influence of the planet will cause the star itself to move in a tiny 
 circular or elliptical orbit
+
 • Effectively, star and planet each orbit around their mutual center of mass (barycenter)
-• Since the star is more massive, its orbit will be much smaller
-• The mutual center of mass (barycenter) may lie within the radius of the star
+• Since the star is  more massive, its orbit will be much smaller
+• The mutual center of mass (barycenter)  may lie within the radius of the star
 • It is easier to find high mass planets around low-mass stars, especially brown dwarfs
+
 https://en.wikipedia.org/wiki/Barycenter#/media/File:Orbit4.gif
 
-OLLI Fall 2021
+OLLI Fall 2021 4
 
-4
 
-Looking for Exoplanets - Astrometry
 
-OLLI Fall 2021
+Looking for Exoplanets - Astrometry
 
-5
+OLLI Fall 2021 5
 
-Looking for Exoplanets - Astrometry
+
+
+Looking for Exoplanets - Astrometry
 
 • Motion of the Sun over time
-• The black line shows the wobbling path of the Sun
-from 1944 to 1997 as the planets of the Solar
+• The black line shows the wobbling path of the Sun 
+
+from 1944 to 1997 as the planets of the Solar 
 System pull on it
+
 • The yellow circle indicates the Sun’s size
 
-OLLI Fall 2021
+OLLI Fall 2021 6
 
-6
 
-Looking for Exoplanets - Astrometry
+
+Looking for Exoplanets - Astrometry
 • Astrometry is the oldest search method for exoplanets
-• It was originally popular because of its success in characterizing astrometric binary star systems
+• It  was originally popular because of its success in characterizing astrometric binary star systems
 • It dates back at least to the late 18th century
-• Unfortunately, changes in stellar position are so small—and atmospheric and systematic distortions so
+• Unfortunately, changes in stellar position are so small—and atmospheric and systematic distortions so 
+
 large—that even the best ground-based telescopes cannot produce precise enough measurements
-• All claims of a planetary companion of less than 0.1 solar mass, as the mass of the planet, made before
+• All claims of a planetary companion of less than 0.1 solar mass, as the mass of the planet, made before 
+
 1996 using this method are likely spurious
-• In 2002, the Hubble Space Telescope did succeed in using astrometry to characterize a previously
+
+• In 2002, the Hubble Space Telescope did succeed in using astrometry to characterize a previously 
 discovered planet around the star Gliese 876
+
 • Atmosphere bends light chaotically, causing telescopic images to waver and smear
-• Atmosphere is responsible for poor transparency when it absorbs and scatters light, causing faint
+• Atmosphere is responsible for poor transparency when it absorbs and scatters light, causing faint 
+
 objects to appear even fainter than they really are
 
-OLLI Fall 2021
+OLLI Fall 2021 7
 
-7
 
-Looking for Exoplanets - Astrometry
-• GAIA is a European Space Agency (ESA), space
+
+Looking for Exoplanets - Astrometry
+
+• GAIA is a European Space Agency (ESA), space 
 observatory launched in 2013
 • It is expected to operate until c. 2022
-• It uses astrometry - measuring the positions,
+
+• It uses astrometry - measuring the positions, 
 distances and motions of stars with great precision
-• Its mission is to construct the largest and most
+
+• Its mission is to construct the largest and most 
 precise 3D space catalog ever made
-• Including approximately 1 billion astronomical
+
+• Including approximately 1 billion astronomical 
 objects
 • Stars, planets, comets, asteroids and quasars, etc
 
-• The spacecraft monitors each of its target objects
-about 70 times over the first five years of the
-mission to study the precise position and motion
-of each target
-• GAIA is expected to detect thousands to tens of
-thousands of Jupiter-sized exoplanets beyond the
-Solar System!
+• The spacecraft monitors each of its target objects • GAIA data  is released in stages
+about 70 times over the first five years of the • The first data release, GAIA DR1 was in 2016
+mission to study the precise position and motion 
+of each target • It was  based on 14 months of observations made 
 
-• GAIA data is released in stages
-• The first data release, GAIA DR1 was in 2016
-• It was based on 14 months of observations made
 through September 2015
+• GAIA is expected to detect thousands to tens of 
 
-OLLI Fall 2021
+thousands of Jupiter-sized exoplanets beyond the 
+Solar System! 
 
-8
+OLLI Fall 2021 8
 
-Looking for Exoplanets - Astrometry
-• Planets are far less massive than stars, but they still
-exert a gravitational pull on them
-• The gravitational forces between a planet and its
-star causes the pair to orbit a shared center of
-mass that is often within the star itself, although
-not right in the middle
-• The result is that the star appears to wobble as it
-moves in a tiny orbit around the shared center of
-mass
-• The pull of Jupiter on the Sun, for example, causes
-the Sun to wobble with an average velocity of 12
-m/s as it orbits a center of mass close to its surface
 
-• The astrometric method relies on detecting this
-almost imperceptibly small wobble in stars situated
-many light years away- high demands on the
-sensitivity of instruments
-• A Sun-sized star 42 light years away (ten times
-further than our closest neighboring star, Proxima
-Centauri) would wobble by only a fifth of a
-millionth of a degree under the influence of a
-planet like Jupiter
-• This is equivalent to seeing the International Space
-Station from the Earth moving 1.5 mm in its orbit
-• The effect of an Earth-sized planet would be some
+
+Looking for Exoplanets - Astrometry
+
+• Planets are far less massive than stars, but they still • The astrometric method relies on detecting this 
+exert a gravitational pull on them almost imperceptibly small wobble in stars situated 
+
+• The gravitational forces between a planet and its many light years away- high demands on the 
+star causes the pair to orbit a shared center of sensitivity of instruments
+mass that is often within the star itself, although • A Sun-sized star 42 light years away (ten times 
+not right in the middle further than our closest neighboring star, Proxima 
+
+• The result is that the star appears to wobble as it Centauri) would wobble by only a fifth of a 
+moves in a tiny orbit around the shared center of millionth of a degree under the influence of a 
+mass planet like Jupiter
+
+• The pull of Jupiter on the Sun, for example, causes • This is equivalent to seeing the International Space 
+the Sun to wobble with an average velocity of 12 Station from the Earth moving 1.5 mm in its orbit
+m/s as it orbits a center of mass close to its surface • The effect of an Earth-sized planet would be some 
+
 1600 times smaller
-• Very few of known exoplanets have been found
+• Very few of known exoplanets have been found 
+
 using the astrometric method
 
-OLLI Fall 2021
+OLLI Fall 2021 9
 
-9
 
-Looking for Exoplanets – Direct Imaging
-• So far, only a handful of planets have been
-discovered by Direct Imaging
 
-• Direct Imaging consists of capturing images of
-exoplanets directly by searching for the light
+Looking for Exoplanets – Direct Imaging
+
+• Direct Imaging consists of capturing images of • So far, only a handful of planets have been 
+exoplanets directly by searching for the light discovered by Direct Imaging
 reflected from a planet’s atmosphere at infrared
-wavelengths
+wavelengths • While challenging compared to indirect methods, 
 
-• While challenging compared to indirect methods,
-this method is the most promising when it comes
-to characterizing the atmospheres of exoplanets
+this method is the most promising when it comes 
+• At infrared wavelengths, a star is only likely to be to characterizing the atmospheres of exoplanets
 
-• At infrared wavelengths, a star is only likely to be
-about 1 million times brighter than a planet
-reflecting light
+about 1 million times brighter than a planet 
+reflecting light • Chemical composition via spectroscopy
 
-• Chemical composition via spectroscopy
+• At visible light wavelengths,  a star is typically a • So far, 100 planets have been confirmed in 82 
+billion times brighter than a planet’s reflected light planetary systems using this method
 
-• At visible light wavelengths, a star is typically a
-billion times brighter than a planet’s reflected light
-
-• So far, 100 planets have been confirmed in 82
-planetary systems using this method
-• Many more are expected to be found in the near
+• Many more are expected to be found in the near 
 future
 
-OLLI Fall 2021
+OLLI Fall 2021 10
 
-10
 
-Looking for Exoplanets – Direct Imaging
+
+Looking for Exoplanets – Direct Imaging
 • Direct Imaging is is less prone to false positives
-• The Transit Method is prone to false positives in up to 40% of cases involving a single planet system
+• The Transit Method is prone to false positives in up to 40% of cases involving a single planet system 
+
 (necessitating follow-up observations)
-• Planets detected using the Radial Velocity Method require confirmation
+• Planets detected using the Radial Velocity Method require confirmation 
+
 • Why it is usually paired with the Transit Method
 • Direct Imaging allows astronomers to actually see the planets they are searching for
-• By examining the spectra reflected from a planet’s atmosphere, astronomers are able to obtain vital
+• By examining the spectra reflected from a planet’s atmosphere, astronomers are able to obtain vital 
+
 information about its composition
 • This information is intrinsic to exoplanet characterization and determining if it is potentially habitable
 
-OLLI Fall 2021
+OLLI Fall 2021 11
 
-11
 
-Looking for Exoplanets – Direct Imaging
+
+Looking for Exoplanets – Direct Imaging
 • Direct Imaging works best for planets that have wide orbits and are particularly massive (such as gas giants)
-• It is also very useful for detecting planets that are positioned “face-on”, meaning that they do not transit in
+• It is also very useful for detecting planets that are positioned “face-on”, meaning that they do not transit in 
+
 front of the star relative to the observer
-• This makes it complimentary to radial velocity, which is most effective for detecting planets that are “edgeon”,
+• This makes it complimentary to radial velocity, which is most effective for detecting planets that are “edge-
+
+on”, 
+
 Orbital motion of the HR8799 system
+
 • https://www.youtube.com/watch?v=gcHXGZaS_6Mre planets make transits of their star
 
-OLLI Fall 2021
+OLLI Fall 2021 12
 
-12
 
-Looking for Exoplanets – Direct Imaging
+
+Looking for Exoplanets – Direct Imaging
 • Direct Imaging is rather difficult because of the obscuring effect light from a star has
-• It is very difficult to detect the light being reflected from a planet’s atmosphere when its parent star is so
+• It is very difficult to detect the light being reflected from a planet’s atmosphere when its parent star is so 
+
 much brighter
 • Opportunities for Direct Imaging are very rare using current technology
-• For the most part, planets can only be detected using this method when they orbit at great distances from
+• For the most part, planets can only be detected using this method when they orbit at great distances from 
+
 their stars or are particularly massive
-• This makes it very limited when it comes to searching for terrestrial (aka. “Earth-like”) planets that orbit
-closer to their stars
+• This makes it very limited when it comes to searching for terrestrial (aka. “Earth-like”) planets that orbit 
+
+closer to their stars 
 • Direct Imaging method is not particularly useful for searching for potentially-habitable exoplanets
 
-OLLI Fall 2021
+OLLI Fall 2021 13
 
-13
 
-Looking for Exoplanets – Direct Imaging
 
-OLLI Fall 2021
+Looking for Exoplanets – Direct Imaging
 
-14
+OLLI Fall 2021 14
 
-Looking for Exoplanets – Direct Imaging
-• The first exoplanet detection made using this
-technique occurred in July of 2004, when a group
-of astronomers used the European Southern
-Observatory’s (ESO) Very Large Telescope Array
+
+
+Looking for Exoplanets – Direct Imaging
+
+• The first exoplanet detection made using this 
+technique occurred in July of 2004, when a  group 
+of astronomers used the European Southern 
+Observatory’s (ESO) Very Large Telescope Array 
 (VLTA)
-• They imaged a planet several times the mass of
-Jupiter in close proximity to 2M1207 – a brown
+
+• They imaged a planet several times the mass of 
+Jupiter in close proximity to 2M1207 – a brown 
 dwarf located about 200 light years from Earth
-• A brown dwarf is a star like object that is not
-massive enough to sustain nuclear fusion in its
+
+• A brown dwarf is a star like object that is not 
+massive enough to sustain nuclear fusion in  its 
 hydrogen core
-• Image of a planetary-mass object in orbit around
-brown dwarf 2M1207, taken by a group of
+
+• It does not have high surface temperature or • Image of a planetary-mass object in orbit around 
+luminosity like a “real” star brown dwarf 2M1207, taken by a group of 
+
 astronomers led by Gael Chauvin in July of 2004
 
-• It does not have high surface temperature or
-luminosity like a “real” star
+OLLI Fall 2021 15
 
-OLLI Fall 2021
 
-15
 
-Looking for Exoplanets – Direct Imaging
-• In 2005, further observations confirmed
-this exoplanet’s orbit around 2M1207
-• However, some have remained skeptical
-that this was the first case of “Direct
-Imaging”, since the low luminosity of the
-brown dwarf was what made the detection
-of the planet possible
-• In addition, because it orbits a brown dwarf
-has led some to argue that the gas giant is
-not a proper planet
+Looking for Exoplanets – Direct Imaging
 
-• In September of 2008, an object was imaged with a
-separation of 330 AU around its host star, 1RXS J160929.1210524 – which is located 470 light-years away in the
-Scorpius constellation
-• However, it was not until 2010 that it was confirmed to be a
-planet and a companion to the star
-• The planet , 1RXS J160929.1-210524 b , is about 8 times
-mass of Jupiter
-• Orbital radius is 330 AU
-• It take 6505.9 years to complete one orbit of the star
+• In 2005, further observations confirmed • In September of 2008, an object was imaged with a 
+this exoplanet’s orbit around 2M1207 separation of 330 AU  around its host star, 1RXS J160929.1-
 
-OLLI Fall 2021
+• However, some have remained skeptical 210524 – which is located 470 light-years away in the 
+that this was the first case of “Direct Scorpius constellation
+Imaging”, since the low luminosity of the • However, it was not until 2010 that it was confirmed to be a 
+brown dwarf was what made the detection planet and a companion to the star
+of the planet possible • The planet , 1RXS J160929.1-210524 b , is about 8 times 
 
-16
+• In addition, because it orbits a brown dwarf mass of Jupiter 
+has led some to argue that the gas giant is 
+not a proper planet • Orbital radius is 330 AU
 
-Looking for Exoplanets – Direct Imaging
-• On November 13th, 2008, a team of astronomers
-announced that they captured images of an
-exoplanet orbiting the star Fomalhaut using the
+• It take 6505.9 years to complete one orbit of the star 
+
+OLLI Fall 2021 16
+
+
+
+Looking for Exoplanets – Direct Imaging
+
+• On November 13th, 2008, a team of astronomers 
+announced that they captured images of an 
+exoplanet orbiting the star Fomalhaut using the 
 Hubble Space Telescope
-• The discovery was made possible thanks to the
-thick disk of gas and dust surrounding Fomalhaut,
-and the sharp inner edge which suggests that a
+
+• The discovery was made possible thanks to the 
+thick disk of gas and dust surrounding Fomalhaut, 
+and the sharp inner edge which suggests that a 
 planet had cleared debris out of its path
-• Follow-up observations with Hubble produced
-images of the disk, which allowed astronomers to
+
+• Follow-up observations with Hubble produced 
+images of the disk, which allowed astronomers to 
 locate the planet
-• Another contributing factor is the fact that this
-planet, which is twice the mass of Jupiter, is
-surrounded by a ring system that is several times
-thicker than Saturn’s rings, which caused the
-planet to glow quite brightly in visual light
 
-• HST was launched into low Earth orbit in 1990
-• It features a 7 ft 10 in mirror
-• Its five main instruments observe in the ultraviolet,
-visible, and near-infrared
-• HST's orbit outside the distortion of atmosphere
-allows it to capture extremely high-resolution images
-with substantially lower background light than
+• Another contributing factor is the fact that this • HST was launched into low Earth orbit in 1990
+planet, which is twice the mass of Jupiter, is • It features a 7 ft 10 in mirror
+surrounded by a ring system that is several times • Its five main instruments observe in the ultraviolet, 
+thicker than Saturn’s rings, which caused the visible, and near-infrared
+planet to glow quite brightly in visual light • HST's orbit outside the distortion of atmosphere 
+
+allows it to capture extremely high-resolution images 
+with substantially lower background light than 
 ground-based telescopes
-OLLI Fall 2021
 
-17
+OLLI Fall 2021 17
 
-Looking for Exoplanets – Direct Imaging
-• Fomalhaut was the first stellar system with an
-extrasolar planet candidate (designated Fomalhaut
-b, later named Dagon) imaged at visible
+
+
+Looking for Exoplanets – Direct Imaging
+
+• Fomalhaut was the first stellar system with an 
+extrasolar planet candidate (designated Fomalhaut 
+b, later named Dagon) imaged at visible 
 wavelengths
-• Analysis of existing and new data suggests
-Fomalhaut b is not a planet, rather an expanding
+
+• Analysis of existing and new data suggests 
+Fomalhaut b is not a planet, rather an expanding 
 dust disk resulting from a former collision
-• The image was published in Science in November
+
+• The image was published in Science in November 
 2008
 
 DSS image of Fomalhaut
-OLLI Fall 2021
 
-18
+OLLI Fall 2021 18
 
-Looking for Exoplanets – Direct Imaging
-• Advantages
 
-• Disadvantages
 
-• For humans "Seeing is believing"
+Looking for Exoplanets – Direct Imaging
 
-• With current observation technology, direct
-imaging is possible on very rare occasions
+• Advantages • Disadvantages
+• For humans "Seeing is believing" • With current observation technology, direct 
+• Direct imaging can provide scientists with valuable imaging is possible on very rare occasions
 
-• Direct imaging can provide scientists with valuable
-information about the planet
-• Direct imaging works best for planets that orbit at
-a great distance from their stars so that they are
-not lost in the star's glare
-• It also works best for planetary systems that are
-positioned face-on when observed from Earth
+information about the planet • It is most likely to succeed when conditions are just 
+• Direct imaging works best for planets that orbit at right, namely when a bright planet orbits at a 
 
-• It is most likely to succeed when conditions are just
-right, namely when a bright planet orbits at a
-great distance from a nearby star
-• Because of these strict limitations, direct imaging is
-not a good candidate for large-scale surveys
-searching for new exoplanets
+a great distance from their stars so that they are great distance from a nearby star
+not lost in the star's glare • Because of these strict limitations, direct imaging is 
 
-• This makes it complementary to the radial velocity
-method, which is most effective for planetary
-systems positioned edge-on to Earth and planets
+• It also works best for planetary systems that are not a good candidate for large-scale surveys 
+positioned face-on when observed from Earth searching for new exoplanets
+
+• This makes it complementary to the radial velocity 
+method, which is most effective for planetary 
+systems positioned edge-on to Earth and planets 
 orbiting close to their parent star
 
-OLLI Fall 2021
+OLLI Fall 2021 19
 
-19
 
-Looking for Exoplanets - Status
 
-NASA data (10-6-21)
+Looking for Exoplanets - Status 
 
-Planet Types
+NASA data (10-6-21) Planet Types
 
-• 4525 confirmed exoplanets
+• 4525 confirmed exoplanets • Gas Giant (1433)
+• 7761 candidate exoplanets • Neptune-like (1532)
+• 3357 planetary systems • Super Earth (1389)
 
-•
+• Terrestrial (166)
+Discovery Methods • Unknown (5)
+• Astrometry 1
+• Direct Imaging 54
 
-Gas Giant
 
-• 7761 candidate exoplanets
 
-•
 
-Neptune-like (1532)
 
-• 3357 planetary systems
 
-•
+Looking for Exoplanets
 
-Super Earth (1389)
-
-•
-
-Terrestrial
-
-(166)
-
-•
-
-Unknown
-
-(5)
-
-Discovery Methods
-• Astrometry
-
-1
-
-• Direct Imaging
-
-54
-
-(1433)
-
-Looking for Exoplanets
 Next session
 • Search Methods
+
 • Radial Velocity method
 • Transit method
 
-OLLI Fall 2021
-
-22
-
-
+OLLI Fall 2021 22

@@ -1,0 +1,162 @@
+﻿TOI-270
+TOI-270, also known as L 231-32, is a red dwarf star TOI-270
+73.3 light-years (22.5 parsecs) away in the
+constellation Pictor. It has about 39% the mass and Observation data
+38% the radius of the Sun, and a temperature of about Epoch J2000      Equinox J2000
+3,506 K (3,233 °C; 5,851 °F). TOI-270 hosts a system Constellation Pictor[1]
+
+of three known exoplanets. Right ascension 04h 33m 39.72001s[2]
+
+Declination −51° 57′ 22.4354″[2]
+
+Planetary system Apparent magnitude (V) 12.617[3]
+
+Characteristics
+The three planets of TOI-270 were discovered in Evolutionary stage Main sequence
+2019 by the transit method with TESS.[4] Their
+masses have since been measured by both Doppler Spectral type M3.0V[4]
+
+spectroscopy[5] and transit-timing variations.[6] The Apparent magnitude (V) 12.617 ± 0.03[3]
+
+innermost planet, TOI-270 b, is a rocky super-Earth, Apparent magnitude (R) 12.147 ± 0.05[3]
+
+while the two outer planets are mini-Neptunes.[5]
+Apparent magnitude (G) 11.621 ± 0.003[2]
+
+TOI-270 b & c orbit near a 5:3 resonance, while TOI-
+Apparent magnitude (J) 9.099 ± 0.032[3]
+
+270 c & d orbit near a 2:1 resonance.[4]
+Apparent magnitude (H) 8.531 ± 0.073[3]
+
+Observations of the outermost planet, TOI-270 d, by Apparent magnitude (K) 8.251 ± 0.029[3]
+
+the Hubble Space Telescope suggest a hydrogen-rich Astrometry
+atmosphere with signs of water vapor.[7] TOI-270 c &
+d are good targets for atmospheric detection with the Radial velocity (Rv) 25.90 ± 0.37[2] km/s
+
+James Webb Space Telescope.[8] Proper motion (μ) RA: +83.082 mas/yr[2]
+
+Dec.: −269.803 mas/yr[2]
+
+The James Webb Space Telescope detected methane
+Parallax (π) 44.4899 ± 0.0147 mas[2]
+
+(CH4), carbon dioxide (CO2) and water vapor in the
+atmosphere of TOI-270 d.[9] The atmosphere of this Distance 73.31 ± 0.02 ly
+
+planet was also found to be metal-rich, with a mean (22.477 ± 0.007 pc)
+
++1.25
+molecular weight of 5.47 Details[5]
+
+−1.14 and an atmospheric
+metal mass fraction (percentage of the mass of metals Mass 0.386 ± 0.008 M☉
+
+in the atmosphere) of 58% +8%
+−12%.[9] Possible Radius 0.378 ± 0.011 R☉
+
+signatures of sulfur dioxide (SO2) and carbon Luminosity (bolometric) 0.0194 ± 0.0019 L
+disulfide (CS2) were also found.[9] ☉
+
+Surface gravity (log g) 4.872 ± 0.026 cgs
+
+Temperature 3506 ± 70 K
+
+Metallicity [Fe/H] −0.20 ± 0.12 dex
+
+Other designations
+L 231-32, PM J04336-5157, TOI-270,
+TIC 259377017,
+2MASS J04333970-5157222[3]
+
+Database references
+
+
+
+SIMBAD data (https://simbad.cds.
+unistra.fr/simbad/sim-id?
+Ident=TOI-270)
+
+The TOI-270 planetary system[5][6]
+
+Companion Semimajor
+(in order Mass axis Orbital period
+
+(days) Eccentricity Inclination Radius
+from star) (AU)
+
+b 1.48 ± 0.18 M🜨 0.031 97(22) 3.360 1538(48) 0.0167(84) 89.39 ± 0.37° 1.206 ± 0.039 R🜨
+c 6.20 ± 0.31 M🜨 0.045 26(31) 5.660 5731(31) 0.0044(6) 89.36 ± 0.24° 2.355 ± 0.064 R🜨
+d 4.20 ± 0.16 M🜨 0.072 10(50) 11.379 573(13) 0.0066(20) 89.73 ± 0.16° 2.133 ± 0.058 R🜨
+
+Comparison of the TOI-270 planetary system to Jupiter's moon system[10]
+
+References
+1. "Finding the constellation which contains given sky
+
+coordinates" (http://djm.cc/constellation.html). djm.cc. 2
+August 2008. Artist's impression of the three
+
+known planets in the TOI-270
+2. Vallenari, A.; et al. (Gaia collaboration) (2023). "Gaia Data system and their size comparison
+
+Release 3. Summary of the content and survey properties" with Earth
+(https://doi.org/10.1051%2F0004-6361%2F202243940).
+Astronomy and Astrophysics. 674: A1. arXiv:2208.00211 (h
+ttps://arxiv.org/abs/2208.00211). Bibcode:2023A&A...674A...1G (https://ui.adsabs.harvard.edu/
+abs/2023A&A...674A...1G). doi:10.1051/0004-6361/202243940 (https://doi.org/10.1051%2F00
+04-6361%2F202243940). S2CID 244398875 (https://api.semanticscholar.org/CorpusID:24439
+8875). Gaia DR3 record for this source (https://vizier.u-strasbg.fr/viz-bin/VizieR-S?Gaia%20DR
+3%204781196115469953024) at VizieR.
+
+3. "L 231-32" (http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=L+231-32). SIMBAD. Centre de
+données astronomiques de Strasbourg. Retrieved 18 October 2023.
+
+4. Günther, Maximilian N.; Pozuelos, Francisco J.; et al. (July 2019). "A super-Earth and two sub-
+Neptunes transiting the nearby and quiet M dwarf TOI-270". Nature Astronomy. 3 (12): 1099–
+1108. arXiv:1903.06107 (https://arxiv.org/abs/1903.06107). Bibcode:2019NatAs...3.1099G (htt
+ps://ui.adsabs.harvard.edu/abs/2019NatAs...3.1099G). doi:10.1038/s41550-019-0845-5 (http
+s://doi.org/10.1038%2Fs41550-019-0845-5). S2CID 256707535 (https://api.semanticscholar.or
+g/CorpusID:256707535).
+
+5. Van Eylen, V.; Astudillo-Defru, N.; et al. (October 2021). "Masses and compositions of three
+small planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf radius valley" (ht
+tps://doi.org/10.1093%2Fmnras%2Fstab2143). Monthly Notices of the Royal Astronomical
+Society. 507 (2): 2154–2173. arXiv:2101.01593 (https://arxiv.org/abs/2101.01593).
+Bibcode:2021MNRAS.507.2154V (https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154
+V). doi:10.1093/mnras/stab2143 (https://doi.org/10.1093%2Fmnras%2Fstab2143).
+
+
+
+6. Kaye, Laurel; Vissapragada, Shreyas; et al. (March 2022). "Transit Timing Variations in the
+three-planet system: TOI-270" (https://doi.org/10.1093%2Fmnras%2Fstab3483). Monthly
+Notices of the Royal Astronomical Society. 510 (4): 5464–5485. arXiv:2308.10763 (https://arxi
+v.org/abs/2308.10763). Bibcode:2022MNRAS.510.5464K (https://ui.adsabs.harvard.edu/abs/2
+022MNRAS.510.5464K). doi:10.1093/mnras/stab3483 (https://doi.org/10.1093%2Fmnras%2Fs
+tab3483).
+
+7. Mikal-Evans, Thomas; Madhusudhan, Nikku; et al. (March 2023). "Hubble Space Telescope
+Transmission Spectroscopy for the Temperate Sub-Neptune TOI-270 d: A Possible Hydrogen-
+rich Atmosphere Containing Water Vapor" (https://doi.org/10.3847%2F1538-3881%2Faca90b).
+The Astronomical Journal. 165 (3): 84. arXiv:2211.15576 (https://arxiv.org/abs/2211.15576).
+Bibcode:2023AJ....165...84M (https://ui.adsabs.harvard.edu/abs/2023AJ....165...84M).
+doi:10.3847/1538-3881/aca90b (https://doi.org/10.3847%2F1538-3881%2Faca90b).
+
+8. Chouqar, J.; Benkhaldoun, Z.; et al. (June 2020). "Properties of sub-Neptune atmospheres:
+TOI-270 system" (https://doi.org/10.1093%2Fmnras%2Fstaa1198). Monthly Notices of the
+Royal Astronomical Society. 495 (1): 962–970. arXiv:2004.12475 (https://arxiv.org/abs/2004.12
+475). Bibcode:2020MNRAS.495..962C (https://ui.adsabs.harvard.edu/abs/2020MNRAS.495..9
+62C). doi:10.1093/mnras/staa1198 (https://doi.org/10.1093%2Fmnras%2Fstaa1198).
+
+9. Benneke, Björn; Roy, Pierre-Alexis; Coulombe, Louis-Philippe; Radica, Michael; Piaulet,
+Caroline; Ahrer, Eva-Maria; Pierrehumbert, Raymond; Krissansen-Totton, Joshua; Schlichting,
+Hilke E. (2024-03-05), JWST Reveals CH$_4$, CO$_2$, and H$_2$O in a Metal-rich Miscible
+Atmosphere on a Two-Earth-Radius Exoplanet, arXiv:2403.03325 (https://arxiv.org/abs/2403.0
+3325)
+
+10. Reddy, Francis (29 July 2019). "NASA's TESS Mission Scores 'Hat Trick' With 3 New Worlds"
+(https://www.nasa.gov/universe/nasas-tess-mission-scores-hat-trick-with-3-new-worlds/).
+NASA. Retrieved 18 October 2023.
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=TOI-270&oldid=1242635309"

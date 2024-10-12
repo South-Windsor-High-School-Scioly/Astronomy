@@ -1,0 +1,1939 @@
+﻿Hubble's law
+Hubble's law, also known as the Hubble–Lemaître law,[1] is the observation in
+physical cosmology that galaxies are moving away from Earth at speeds proportional
+to their distance. In other words, the farther they are, the faster they are moving away
+from Earth. The velocity of the galaxies has been determined by their redshift, a shift
+of the light they emit toward the red end of the visible light spectrum. The discovery
+of Hubble's law is attributed to Edwin Hubble's work published in 1929.[2]
+
+Hubble's law is considered the first observational basis for the expansion of the
+universe, and today it serves as one of the pieces of evidence most often cited in
+support of the Big Bang model.[3][4] The motion of astronomical objects due solely
+to this expansion is known as the Hubble flow.[5] It is described by the equation
+v = H0D, with H0 the constant of proportionality—the Hubble constant—between An analogy for explaining Hubble's law,
+the "proper distance" D to a galaxy (which can change over time, unlike the using raisins in a rising loaf of bread in
+comoving distance) and its speed of separation v, i.e. the derivative of proper place of galaxies. If a raisin is twice as far
+
+distance with respect to the cosmic time coordinate. (See Comoving and proper away from a place as another raisin, then
+
+distances § Uses of the proper distance for discussion of the subtleties of this the farther raisin would move away from
+that place twice as quickly.
+
+definition of velocity.)
+
+The Hubble constant is most frequently quoted in (km/s)/Mpc, thus giving the speed in km/s of a galaxy 1 megaparsec
+(3.09 × 1019 km) away, and its value is about 70 (km/s)/Mpc. However, crossing out units reveals that H0 is a unit of frequency
+(SI unit: s−1) and the reciprocal of H0 is known as the Hubble time. The Hubble constant can also be interpreted as the relative
+rate of expansion. In this form H0 = 7%/Gyr, meaning that at the current rate of expansion it takes a billion years for an unbound
+structure to grow by 7%.
+
+Although widely attributed to Edwin Hubble,[6][7][8] the notion of the universe expanding at a calculable rate was first derived
+from general relativity equations in 1922 by Alexander Friedmann. Friedmann published a set of equations, now known as the
+Friedmann equations, showing that the universe might be expanding, and presenting the expansion speed if that were the case.[9]
+
+Before Hubble, German astronomer Carl Wilhelm Wirtz had, in two publications dating 1922 [10] and 1924,[11] already deduced
+with his own data that galaxies that appeared smaller and dimmer had larger redshifts and thus that more distant galaxies recede
+faster from the observer. Then Georges Lemaître, in a 1927 article, independently derived that the universe might be expanding,
+observed the proportionality between recessional velocity of, and distance to, distant bodies, and suggested an estimated value for
+the proportionality constant; this constant, when Edwin Hubble confirmed the existence of cosmic expansion and determined a
+more accurate value for it two years later, came to be known by his name as the Hubble constant.[3][12][13][14][2] Hubble inferred
+the recession velocity of the objects from their redshifts, many of which were earlier measured and related to velocity by Vesto
+Slipher in 1917.[15][16][17] Combining Slipher's velocities with Henrietta Swan Leavitt's intergalactic distance calculations and
+methodology allowed Hubble to better calculate an expansion rate for the universe.[18]
+
+Though the Hubble constant H0 is constant at any given moment in time, the Hubble parameter H, of which the Hubble
+constant is the current value, varies with time, so the term constant is sometimes thought of as somewhat of a misnomer.[19][20]
+
+Discovery
+A decade before Hubble made his observations, a number of physicists and mathematicians had established a consistent theory of
+an expanding universe by using Einstein field equations of general relativity. Applying the most general principles to the nature of
+the universe yielded a dynamic solution that conflicted with the then-prevalent notion of a static universe.
+
+Slipher's observations
+
+
+
+In 1912, Vesto M. Slipher measured the first
+Doppler shift of a "spiral nebula" (the obsolete
+term for spiral galaxies) and soon discovered that
+almost all such nebulae were receding from Earth.
+He did not grasp the cosmological implications of
+this fact, and indeed at the time it was highly
+controversial whether or not these nebulae were
+"island universes" outside the Milky Way
+galaxy.[22][23]
+
+FLRW equations
+In 1922, Alexander Friedmann derived his
+Friedmann equations from Einstein field
+equations, showing that the universe might expand
+at a rate calculable by the equations.[24] The
+parameter used by Friedmann is known today as
+the scale factor and can be considered as a scale
+invariant form of the proportionality constant of
+Hubble's law. Georges Lemaître independently
+found a similar solution in his 1927 paper Three steps to the Hubble constant[21]
+
+discussed in the following section. The Friedmann
+equations are derived by inserting the metric for a
+homogeneous and isotropic universe into Einstein's field equations for a fluid with a given density and pressure. This idea of an
+expanding spacetime would eventually lead to the Big Bang and Steady State theories of cosmology.
+
+Lemaître's equation
+In 1927, two years before Hubble published his own article, the Belgian priest and astronomer Georges Lemaître was the first to
+publish research deriving what is now known as Hubble's law. According to the Canadian astronomer Sidney van den Bergh, "the
+1927 discovery of the expansion of the universe by Lemaître was published in French in a low-impact journal. In the 1931 high-
+impact English translation of this article, a critical equation was changed by omitting reference to what is now known as the
+Hubble constant."[25] It is now known that the alterations in the translated paper were carried out by Lemaître himself.[13][26]
+
+Shape of the universe
+Before the advent of modern cosmology, there was considerable talk about the size and shape of the universe. In 1920, the
+Shapley–Curtis debate took place between Harlow Shapley and Heber D. Curtis over this issue. Shapley argued for a small
+universe the size of the Milky Way galaxy, and Curtis argued that the universe was much larger. The issue was resolved in the
+coming decade with Hubble's improved observations.
+
+Cepheid variable stars outside the Milky Way
+Edwin Hubble did most of his professional astronomical observing work at Mount Wilson Observatory,[27] home to the world's
+most powerful telescope at the time. His observations of Cepheid variable stars in "spiral nebulae" enabled him to calculate the
+distances to these objects. Surprisingly, these objects were discovered to be at distances which placed them well outside the Milky
+Way. They continued to be called nebulae, and it was only gradually that the term galaxies replaced it.
+
+Combining redshifts with distance measurements
+The parameters that appear in Hubble's law, velocities and distances, are not directly measured. In reality we determine, say, a
+supernova brightness, which provides information about its distance, and the redshift z = ∆λ/λ of its spectrum of radiation.
+Hubble correlated brightness and parameter z.
+
+Combining his measurements of galaxy distances with Vesto Slipher and Milton Humason's measurements of the redshifts
+associated with the galaxies, Hubble discovered a rough proportionality between redshift of an object and its distance. Though
+there was considerable scatter (now known to be caused by peculiar velocities—the 'Hubble flow' is used to refer to the region of
+
+
+
+space far enough out that the recession velocity is larger than local peculiar velocities),
+Hubble was able to plot a trend line from the 46 galaxies he studied and obtain a value
+for the Hubble constant of 500 (km/s)/Mpc (much higher than the currently accepted
+value due to errors in his distance calibrations; see cosmic distance ladder for
+details).[31]
+
+Hubble diagram
+Hubble's law can be easily depicted in a "Hubble diagram" in which the velocity
+(assumed approximately proportional to the redshift) of an object is plotted with respect Fit of redshift velocities to Hubble's
+to its distance from the observer.[32] A straight line of positive slope on this diagram is law.[28] Various estimates for the
+the visual depiction of Hubble's law. Hubble constant exist. The HST Key H0
+
+Group fitted type Ia supernovae for
+redshifts between 0.01 and 0.1 to find
+
+Cosmological constant abandoned that H0 = 71 ± 2 (statistical) ±
+After Hubble's discovery was published, Albert Einstein abandoned his work on the 6 (systematic) km⋅s−1
+
+⋅Mpc−1,[29] while
+cosmological constant, which he had designed to modify his equations of general Sandage et al. find H0 = 62.3 ±
+
+relativity to allow them to produce a static solution, which he thought was the correct 1.3 (statistical) ±
+
+state of the universe. The Einstein equations in their simplest form model either an 5 (systematic) km⋅s−1
+⋅Mpc−1.[30]
+
+expanding or contracting universe, so Einstein's cosmological constant was artificially
+created to counter the expansion or contraction to get a perfect static and flat universe.[33] After Hubble's discovery that the
+universe was, in fact, expanding, Einstein called his faulty assumption that the universe is static his "biggest mistake".[33] On its
+own, general relativity could predict the expansion of the universe, which (through observations such as the bending of light by
+large masses, or the precession of the orbit of Mercury) could be experimentally observed and compared to his theoretical
+calculations using particular solutions of the equations he had originally formulated.
+
+In 1931, Einstein went to Mount Wilson Observatory to thank Hubble for providing the observational basis for modern
+cosmology.[34]
+
+The cosmological constant has regained attention in recent decades as a hypothetical explanation for dark energy.[35]
+
+Interpretation
+The discovery of the linear relationship between redshift and distance, coupled with a
+supposed linear relation between recessional velocity and redshift, yields a straightforward
+mathematical expression for Hubble's law as follows:
+
+where
+
+v is the recessional velocity, typically expressed in km/s.
+H0 is Hubble's constant and corresponds to the value of H (often termed the A variety of possible recessional
+
+Hubble parameter which is a value that is time dependent and which can be velocity vs. redshift functions
+
+expressed in terms of the scale factor) in the Friedmann equations taken at the including the simple linear relation
+
+time of observation denoted by the subscript 0. This value is the same v = cz; a variety of possible shapes
+
+throughout the universe for a given comoving time. from theories related to general
+
+D relativity; and a curve that does not
+ is the proper distance (which can change over time, unlike the comoving permit speeds faster than light in
+
+distance, which is constant) from the galaxy to the observer, measured in mega accordance with special relativity. All
+parsecs (Mpc), in the 3-space defined by given cosmological time. (Recession
+
+curves are linear at low redshifts.[36]
+velocity is just v = dD/dt).
+
+Hubble's law is considered a fundamental relation between recessional velocity and
+distance. However, the relation between recessional velocity and redshift depends on the cosmological model adopted and is not
+established except for small redshifts.
+
+For distances D larger than the radius of the Hubble sphere rHS, objects recede at a rate faster than the speed of light (See Uses of
+the proper distance for a discussion of the significance of this):
+
+
+
+Since the Hubble "constant" is a constant only in space, not in time, the radius of the Hubble sphere may increase or decrease over
+various time intervals. The subscript '0' indicates the value of the Hubble constant today.[28] Current evidence suggests that the
+expansion of the universe is accelerating (see Accelerating universe), meaning that for any given galaxy, the recession velocity
+dD/dt is increasing over time as the galaxy moves to greater and greater distances; however, the Hubble parameter is actually
+thought to be decreasing with time, meaning that if we were to look at some fixed distance D and watch a series of different
+galaxies pass that distance, later galaxies would pass that distance at a smaller velocity than earlier ones.[37]
+
+Redshift velocity and recessional velocity
+Redshift can be measured by determining the wavelength of a known transition, such as hydrogen α-lines for distant quasars, and
+finding the fractional shift compared to a stationary reference. Thus, redshift is a quantity unambiguous for experimental
+observation. The relation of redshift to recessional velocity is another matter.[38]
+
+Redshift velocity
+The redshift z is often described as a redshift velocity, which is the recessional velocity that would produce the same redshift if it
+were caused by a linear Doppler effect (which, however, is not the case, as the shift is caused in part by a cosmological expansion
+of space, and because the velocities involved are too large to use a non-relativistic formula for Doppler shift). This redshift
+velocity can easily exceed the speed of light.[39] In other words, to determine the redshift velocity vrs, the relation:
+
+is used.[40][41] That is, there is no fundamental difference between redshift velocity and redshift: they are rigidly proportional, and
+not related by any theoretical reasoning. The motivation behind the "redshift velocity" terminology is that the redshift velocity
+agrees with the velocity from a low-velocity simplification of the so-called Fizeau–Doppler formula[42]
+
+Here, λo, λe are the observed and emitted wavelengths respectively. The "redshift velocity" vrs is not so simply related to real
+velocity at larger velocities, however, and this terminology leads to confusion if interpreted as a real velocity. Next, the connection
+between redshift or redshift velocity and recessional velocity is discussed.[43]
+
+Recessional velocity
+Suppose R(t) is called the scale factor of the universe, and increases as the universe expands in a manner that depends upon the
+cosmological model selected. Its meaning is that all measured proper distances D(t) between co-moving points increase
+proportionally to R. (The co-moving points are not moving relative to each other except as a result of the expansion of space.) In
+other words:
+
+where t0 is some reference time.[44] If light is emitted from a galaxy at time te and received by us at t0, it is redshifted due to the
+expansion of space, and this redshift z is simply:
+
+Suppose a galaxy is at distance D, and this distance changes with time at a rate dtD. We call this rate of recession the "recession
+velocity" vr:
+
+
+
+We now define the Hubble constant as
+
+and discover the Hubble law:
+
+From this perspective, Hubble's law is a fundamental relation between (i) the recessional velocity contributed by the expansion of
+space and (ii) the distance to an object; the connection between redshift and distance is a crutch used to connect Hubble's law with
+observations. This law can be related to redshift z approximately by making a Taylor series expansion:
+
+If the distance is not too large, all other complications of the model become small corrections, and the time interval is simply the
+distance divided by the speed of light:
+
+or
+
+According to this approach, the relation cz = vr is an approximation valid at low redshifts, to be replaced by a relation at large
+redshifts that is model-dependent. See velocity-redshift figure.
+
+Observability of parameters
+Strictly speaking, neither v nor D in the formula are directly observable, because they are properties now of a galaxy, whereas our
+observations refer to the galaxy in the past, at the time that the light we currently see left it.
+
+For relatively nearby galaxies (redshift z much less than one), v and D will not have changed much, and v can be estimated using
+the formula v = zc where c is the speed of light. This gives the empirical relation found by Hubble.
+
+For distant galaxies, v (or D) cannot be calculated from z without specifying a detailed model for how H changes with time. The
+redshift is not even directly related to the recession velocity at the time the light set out, but it does have a simple interpretation:
+(1 + z) is the factor by which the universe has expanded while the photon was traveling towards the observer.
+
+Expansion velocity vs. peculiar velocity
+In using Hubble's law to determine distances, only the velocity due to the expansion of the universe can be used. Since
+gravitationally interacting galaxies move relative to each other independent of the expansion of the universe,[45] these relative
+velocities, called peculiar velocities, need to be accounted for in the application of Hubble's law. Such peculiar velocities give rise
+to redshift-space distortions.
+
+Time-dependence of Hubble parameter
+The parameter H is commonly called the "Hubble constant", but that is a misnomer since it is constant in space only at a fixed
+time; it varies with time in nearly all cosmological models, and all observations of far distant objects are also observations into the
+distant past, when the "constant" had a different value. "Hubble parameter" is a more correct term, with H0 denoting the present-
+day value.
+
+Another common source of confusion is that the accelerating universe does not imply that the Hubble parameter is actually
+increasing with time; since , in most accelerating models  increases relatively faster than , so H decreases
+with time. (The recession velocity of one chosen galaxy does increase, but different galaxies passing a sphere of fixed radius cross
+the sphere more slowly at later times.)
+
+
+
+On defining the dimensionless deceleration parameter , it follows that
+
+From this it is seen that the Hubble parameter is decreasing with time, unless q < -1; the latter can only occur if the universe
+contains phantom energy, regarded as theoretically somewhat improbable.
+
+However, in the standard Lambda cold dark matter model (Lambda-CDM or ΛCDM model), q will tend to −1 from above in the
+distant future as the cosmological constant becomes increasingly dominant over matter; this implies that H will approach from
+above to a constant value of ≈ 57 (km/s)/Mpc, and the scale factor of the universe will then grow exponentially in time.
+
+Idealized Hubble's law
+The mathematical derivation of an idealized Hubble's law for a uniformly expanding universe is a fairly elementary theorem of
+geometry in 3-dimensional Cartesian/Newtonian coordinate space, which, considered as a metric space, is entirely homogeneous
+and isotropic (properties do not vary with location or direction). Simply stated, the theorem is this:
+
+Any two points which are moving away from the origin, each along straight lines and with speed proportional to
+distance from the origin, will be moving away from each other with a speed proportional to their distance apart.
+
+In fact, this applies to non-Cartesian spaces as long as they are locally homogeneous and isotropic, specifically to the negatively
+and positively curved spaces frequently considered as cosmological models (see shape of the universe).
+
+An observation stemming from this theorem is that seeing objects recede from us on Earth is not an indication that Earth is near to
+a center from which the expansion is occurring, but rather that every observer in an expanding universe will see objects receding
+from them.
+
+Ultimate fate and age of the universe
+The value of the Hubble parameter changes over time, either
+increasing or decreasing depending on the value of the so-
+called deceleration parameter q, which is defined by
+
+In a universe with a deceleration parameter equal to zero, it
+follows that H = 1/t, where t is the time since the Big Bang. A
+non-zero, time-dependent value of q simply requires
+integration of the Friedmann equations backwards from the
+present time to the time when the comoving horizon size was
+zero.
+
+It was long thought that q was positive, indicating that the
+expansion is slowing down due to gravitational attraction. This The age and ultimate fate of the universe can be determined by
+would imply an age of the universe less than 1/H (which is measuring the Hubble constant today and extrapolating with the
+about 14 billion years). For instance, a value for q of 1/2 (once observed value of the deceleration parameter, uniquely
+favoured by most theorists) would give the age of the universe characterized by values of density parameters (ΩM for matter and
+as 2/(3H). The discovery in 1998 that q is apparently negative ΩΛ for dark energy). A "closed universe" with ΩM > 1 and ΩΛ = 0
+means that the universe could actually be older than 1/H. comes to an end in a Big Crunch and is considerably younger than
+
+However, estimates of the age of the universe are very close to its Hubble age. An "open universe" with ΩM ≤ 1 and ΩΛ = 0
+1/H expands forever and has an age that is closer to its Hubble age.
+
+. For the accelerating universe with nonzero ΩΛ that we inhabit, the
+age of the universe is coincidentally very close to the Hubble age.
+
+Olbers' paradox
+
+
+
+The expansion of space summarized by the Big Bang interpretation of Hubble's law is relevant to the old conundrum known as
+Olbers' paradox: If the universe were infinite in size, static, and filled with a uniform distribution of stars, then every line of sight
+in the sky would end on a star, and the sky would be as bright as the surface of a star. However, the night sky is largely
+dark.[46][47]
+
+Since the 17th century, astronomers and other thinkers have proposed many possible ways to resolve this paradox, but the
+currently accepted resolution depends in part on the Big Bang theory, and in part on the Hubble expansion: in a universe that
+existed for a finite amount of time, only the light of a finite number of stars has had enough time to reach us, and the paradox is
+resolved. Additionally, in an expanding universe, distant objects recede from us, which causes the light emanated from them to be
+redshifted and diminished in brightness by the time we see it.[46][47]
+
+Dimensionless Hubble constant
+Instead of working with Hubble's constant, a common practice is to introduce the dimensionless Hubble constant, usually
+denoted by h and commonly referred to as "little h",[31] then to write Hubble's constant H0 as h × 100 km⋅s−1
+
+⋅Mpc−1, all the
+relative uncertainty of the true value of H0 being then relegated to h.[48] The dimensionless Hubble constant is often used when
+
+giving distances that are calculated from redshift z using the formula d ≈  c
+H  × z. Since H0 is not precisely known, the distance is
+
+0
+expressed as:
+
+In other words, one calculates 2998 × z and one gives the units as Mpc h-1 or h-1 Mpc.
+
+Occasionally a reference value other than 100 may be chosen, in which case a subscript is presented after h to avoid confusion;
+e.g. h70 denotes H0 = 70 h70 (km/s-1)/Mpc, which implies h70 = h / 0.7.
+
+This should not be confused with the dimensionless value of Hubble's constant, usually expressed in terms of Planck units,
+obtained by multiplying H0 by 1.75 × 10−63 (from definitions of parsec and tP), for example for H0 = 70, a Planck unit version
+of 1.2 × 10−61 is obtained.
+
+Acceleration of the expansion
+A value for q measured from standard candle observations of Type Ia supernovae, which was determined in 1998 to be negative,
+surprised many astronomers with the implication that the expansion of the universe is currently "accelerating"[49] (although the
+Hubble factor is still decreasing with time, as mentioned above in the Interpretation section; see the articles on dark energy and the
+ΛCDM model).
+
+Derivation of the Hubble parameter
+Start with the Friedmann equation:
+
+where H is the Hubble parameter, a is the scale factor, G is the gravitational constant, k is the normalised spatial curvature of the
+universe and equal to −1, 0, or 1, and Λ is the cosmological constant.
+
+Matter-dominated universe (with a cosmological constant)
+If the universe is matter-dominated, then the mass density of the universe ρ can be taken to include just matter so
+
+
+
+where ρm  is the density of matter today. From the Friedmann equation and thermodynamic principles we know for non-
+0
+
+relativistic particles that their mass density decreases proportional to the inverse volume of the universe, so the equation above
+must be true. We can also define (see density parameter for Ωm)
+
+therefore:
+
+Also, by definition,
+
+where the subscript 0 refers to the values today, and a0 = 1. Substituting all of this into the Friedmann equation at the start of this
+section and replacing a with a = 1/(1+z) gives
+
+Matter- and dark energy-dominated universe
+If the universe is both matter-dominated and dark energy-dominated, then the above equation for the Hubble parameter will also
+be a function of the equation of state of dark energy. So now:
+
+where ρde is the mass density of the dark energy. By definition, an equation of state in cosmology is P = wρc2, and if this is
+substituted into the fluid equation, which describes how the mass density of the universe evolves with time, then
+
+If w is constant, then
+
+implying:
+
+Therefore, for dark energy with a constant equation of state w, . If this is substituted into the Friedman
+equation in a similar way as before, but this time set k = 0, which assumes a spatially flat universe, then (see shape of the
+universe)
+
+
+
+If the dark energy derives from a cosmological constant such as that introduced by Einstein, it can be shown that w = −1. The
+equation then reduces to the last equation in the matter-dominated universe section, with Ωk set to zero. In that case the initial
+dark energy density ρde0 is given by[50]
+
+If dark energy does not have a constant equation-of-state w, then
+
+and to solve this, w(a) must be parametrized, for example if w(a) = w0 + wa(1−a), giving[51]
+
+Other ingredients have been formulated.[52][53][54]
+
+Units derived from the Hubble constant
+
+Hubble time
+The Hubble constant H0 has units of inverse time; the Hubble time tH is simply defined as the inverse of the Hubble constant,[55]
+
+i.e.
+
+This is slightly different from the age of the universe, which is approximately 13.8 billion years. The Hubble time is the age it
+would have had if the expansion had been linear,[56] and it is different from the real age of the universe because the expansion is
+not linear; it depends on the energy content of the universe (see § Derivation of the Hubble parameter).
+
+We currently appear to be approaching a period where the expansion of the universe is exponential due to the increasing
+dominance of vacuum energy. In this regime, the Hubble parameter is constant, and the universe grows by a factor e each Hubble
+time:
+
+Likewise, the generally accepted value of 2.27 Es−1 means that (at the current rate) the universe would grow by a factor of e2.27 in
+one exasecond.
+
+Over long periods of time, the dynamics are complicated by general relativity, dark energy, inflation, etc., as explained above.
+
+Hubble length
+The Hubble length or Hubble distance is a unit of distance in cosmology, defined as cH−1 — the speed of light multiplied by the
+Hubble time. It is equivalent to 4,420 million parsecs or 14.4 billion light years. (The numerical value of the Hubble length in light
+years is, by definition, equal to that of the Hubble time in years.) The Hubble distance would be the distance between the Earth
+and the galaxies which are currently receding from us at the speed of light, as can be seen by substituting D = cH−1 into the
+equation for Hubble's law, v = H0D.
+
+Hubble volume
+
+
+
+The Hubble volume is sometimes defined as a volume of the universe with a comoving size of cH−1. The exact definition varies:
+it is sometimes defined as the volume of a sphere with radius cH−1, or alternatively, a cube of side cH−1. Some cosmologists
+even use the term Hubble volume to refer to the volume of the observable universe, although this has a radius approximately three
+times larger.
+
+Determining the Hubble constant
+The value of the Hubble constant, H0, tells the rate at which the universe is expanding. In
+1929, Edwin Hubble determined for the first time this constant to be 500 km/s per million
+parsecs. Since then, Hubble constant has been actively measured using various methods. In
+the early days, Hubble, for example, used bright stars and the light of the "nebula" to
+estimate the redshift and determined the constant. Later, after type Ia supernova was found
+to be a better "standard candle" of distant galaxies, supernova were used to determine the
+redshift. These measurements need to determine the distance of the target stars or galaxies
+first. Uncertainties in the physical assumptions used to determine these distances have
+caused varying estimates of the Hubble constant.[3]
+
+More recently, scientists use CMB measurements (such as Planck's data) to determine the
+Hubble constant. The challenge of using this method is that its result varies depending on
+the cosmology models used. Due to the different values of Hubble constant estimated using
+different techniques, the determination of Hubble constant is an active research field
+(Hubble tension). The high accuracy measurement using James Webb Space Telescope in
+2023 has confirmed the earlier observation of the Hubble Space Telescope, which gave a
+Hubble constant about H0 = 74 (km/s)/Mpc.[58][59]
+
+The value of the Hubble constant in
+
+Earlier measurement and discussion approaches (km/s)/Mpc, including measurement
+uncertainty, for recent surveys[57]
+
+Hubble's original estimate of the constant now bearing his name, based on observations of
+Cepheid variable stars as "standard candles" to measure distance,[60] was 500 (km/s)/Mpc
+(much larger than the value astronomers currently calculate). Later observations by astronomer Walter Baade led him to realize
+that there were distinct "populations" for stars (Population I and Population II) in a galaxy. The same observations led him to
+discover that there are two types of Cepheid variable stars with different luminosities. Using this discovery, he recalculated
+Hubble constant and the size of the known universe, doubling the previous calculation made by Hubble in 1929.[61][62][60] He
+announced this finding to considerable astonishment at the 1952 meeting of the International Astronomical Union in Rome.
+
+For most of the second half of the 20th century, the value of H0 was estimated to be between 50 and 90 (km/s)/Mpc.
+
+The value of the Hubble constant was the topic of a long and rather bitter controversy between Gérard de Vaucouleurs, who
+claimed the value was around 100, and Allan Sandage, who claimed the value was near 50.[63] In one demonstration of vitriol
+shared between the parties, when Sandage and Gustav Andreas Tammann (Sandage's research colleague) formally acknowledged
+the shortcomings of confirming the systematic error of their method in 1975, Vaucouleurs responded "It is unfortunate that this
+sober warning was so soon forgotten and ignored by most astronomers and textbook writers".[64] In 1996, a debate moderated by
+John Bahcall between Sidney van den Bergh and Gustav Tammann was held in similar fashion to the earlier Shapley–Curtis
+debate over these two competing values.
+
+This previously wide variance in estimates was partially resolved with the introduction of the ΛCDM model of the universe in the
+late 1990s. Incorporating the ΛCDM model, observations of high-redshift clusters at X-ray and microwave wavelengths using the
+Sunyaev–Zel'dovich effect, measurements of anisotropies in the cosmic microwave background radiation, and optical surveys all
+gave a value of around 50–70 km/s/Mpc for the constant.[65]
+
+Hubble tension
+In the 21st century, multiple methods have been used to determine the Hubble constant. "Late universe" measurements using
+calibrated distance ladder techniques have converged on a value of approximately 73 (km/s)/Mpc. Since 2000, "early universe"
+techniques based on measurements of the cosmic microwave background have become available, and these agree on a value near
+67.7 (km/s)/Mpc.[66] (This is accounting for the change in the expansion rate since the early universe, so is comparable to the first
+
+
+
+number.) Initially, this discrepancy was within the estimated measurement uncertainties and thus no cause for concern. However,
+as techniques have improved the estimated measurement uncertainties have shrunk, but the discrepancies have not, to the point
+that the disagreement is now highly statistically significant. This discrepancy is called the "Hubble tension".[67][68]
+
+The cause of the Hubble tension is unknown,[69] and there are many possible proposed solutions. The most conservative is that
+there is an unknown systematic error affecting either early-universe or late-universe observations. Although intuitively appealing,
+this explanation requires multiple unrelated effects regardless of whether early-universe or late-universe observations are
+incorrect, and there are no obvious candidates.[68] Furthermore, any such systematic error would need to affect multiple different
+instruments, since both the early-universe and late-universe observations come from several different telescopes.[a][b]
+
+Alternatively, it could be that the observations are correct, but some unaccounted-for effect is causing the discrepancy. If the
+cosmological principle fails (see Lambda-CDM model § Violations of the cosmological principle), then the existing interpretations
+of the Hubble constant and the Hubble tension have to be revised, which might resolve the Hubble tension.[71] In particular, we
+would need to be located within a very large void, up to about a redshift of 0.5, for such an explanation to not be in tension with
+supernovae and baryon acoustic oscillation observations.[68] Yet another possibility is that the uncertainties in the measurements
+could have been underestimated.[72]
+
+Finally, another possibility is new physics beyond the currently accepted cosmological model of the universe, the ΛCDM
+model.[68][73] There are very many theories in this category, for example, replacing general relativity with a modified theory of
+gravity could potentially resolve the tension,[74][75] as can a dark energy component in the early universe,[c][76] dark energy with a
+time-varying equation of state,[d][77] or dark matter that decays into dark radiation.[78] A problem faced by all these theories is that
+both early-universe and late-universe measurements rely on multiple independent lines of physics, and it is difficult to modify any
+of those lines while preserving their successes elsewhere. The scale of the challenge can be seen from how some authors have
+argued that new early-universe physics alone is not sufficient;[79][80] while other authors argue that new late-universe physics
+alone is also not sufficient.[81] Nonetheless, astronomers are trying, with interest in the Hubble tension growing strongly since the
+mid 2010s.[68]
+
+21st century measurements
+More recent measurements from the Planck mission published in 2018 indicate a lower value of 67.66 ± 0.42 (km/s)/Mpc,
+although, even more recently, in March 2019, a higher value of 74.03 ± 1.42 (km/s)/Mpc has been determined using an improved
+procedure involving the Hubble Space Telescope.[82] The two measurements disagree at the 4.4σ level, beyond a plausible level of
+chance.[83] The resolution to this disagreement is an ongoing area of active research.[84]
+
+In October 2018, scientists presented a new third way (two earlier methods, one based on redshifts and another on the cosmic
+distance ladder, gave results that do not agree), using information from gravitational wave events (especially those involving the
+merger of neutron stars, like GW170817), of determining the Hubble constant.[85][86]
+
+In July 2019, astronomers reported that a new method to determine the Hubble constant, and resolve the discrepancy of earlier
+methods, has been proposed based on the mergers of pairs of neutron stars, following the detection of the neutron star merger of
+
++5.3
+GW170817, an event known as a dark siren.[87][88] Their measurement of the Hubble constant is 73.3 −5.0 (km/s)/Mpc.[89]
+
+Also in July 2019, astronomers reported another new method, using data from the Hubble Space Telescope and based on distances
+to red giant stars calculated using the tip of the red-giant branch (TRGB) distance indicator. Their measurement of the Hubble
+constant is 69.8 +1.9
+
+−1.9 (km/s)/Mpc.[90][91][92]
+
+In February 2020, the Megamaser Cosmology Project published independent results that confirmed the distance ladder results and
+differed from the early-universe results at a statistical significance level of 95%.[93] In July 2020, measurements of the cosmic
+background radiation by the Atacama Cosmology Telescope predict that the Universe should be expanding more slowly than is
+currently observed.[94]
+
+In July 2023, an independent estimate of the Hubble constant was derived from the optical counterpart of a neutron-star merger, a
+so-called kilonova.[95] Due to the blackbody nature of early kilonova spectra,[96] such systems provide strongly constraining
+estimators of cosmic distance. Using the kilonova AT2017gfo, these measurements indicate a local-estimate of the Hubble
+constant of 67.0 ± 3.6 (km/s)/Mpc.[97][95]
+
+In August, 2024. Wendy Freedman et al. prepublished a meaurement of the Hubble constant using data from the James Webb
+Space Telescope to re-measure the second rung of the cosmic distance ladder, using standard candle stars to measure the distances
+to ten nearby galaxies which have hosted type Ia supernovae, the standard candle used for the third rung. They used three different
+
+
+
+types of standard candle: tip of the red-giant
+branch stars, J-region asymptotic giant branch
+stars (carbon stars particularly bright in the J
+band), and the traditional Cepheid variable
+stars.[98][99][100] The TRGB amd JAGB
+distances agreed with each other within 1%,
+while the Cepheid-measured distances are a
+few percent shorter, resulting in computed
+Hubble constant values of 69.85 ± 2.33,
+67.96 ± 2.65, and 72.05 ± 3.62 km/s/Mpc,
+respectively. While not yet conclusive, this
+hints at the possibility that the lower H0
+values may be correct and that higher
+measurements could be due to some unknown
+systematic error in the measurement of
+Cepheid variable stars.
+
+The landscape of H0 measurements around 2021, with the Planck (2018) and
+SH0ES (2020) values highlighted in pink and cyan respectively.[68]
+
+Estimated values of the Hubble constant, 2001–2020. Estimates in black represent calibrated distance ladder measurements which tend to
+cluster around 73 (km/s)/Mpc; red represents early universe CMB/BAO measurements with ΛCDM parameters which show good agreement
+on a figure near 67 (km/s)/Mpc, while blue are other techniques, whose uncertainties are not yet small enough to decide between the two.
+
+
+
+Measurement of the Hubble constant
+
+Date Hubble
+published constant Observer Citation Remarks / methodology
+
+(km/s)/Mpc
+
+Due to the blackbody spectra of the optical
+2023-07- ounterpart of neutron-star mergers, these
+19 67.0 ± 3.6 Sneppen et al. [97][95] c
+
+systems provide strongly constraining
+estimators of cosmic distance.
+
+2023-07-
+13 68.3 ± 1.5 SPT-3G [101] CMB TT/TE/EE power spectrum. Less than
+
+1σ discrepancy with Planck.
+
+2023-05- Timing delay of gravitationally lensed images
++4.1
+
+11 66.6 P. L. Kelly et al. [102] of Supernova Refsdal. Independent of
+−3.3 cosmic distance ladder or the CMB.
+
+2022-12- +10.0 f cosmic voids using BOSS DR12
+14 67.3 S. Contarini et al. [103] Statistics o
+
+−9.1 data set.[104]
+
+2022-02- +0.99
+08 73.4 Pantheon+ [105] SN Ia distance ladder (+SH0ES)
+
+−1.22
+
+Use Type II supernovae as standardisable
+candles to obtain an independent
+
+2022-06- measurement of the Hubble constant—13
++3.8
+
+17 75.4 T. de Jaeger et al. [106] SNe II with host-galaxy distances measured
+−3.7 from Cepheid variables, the tip of the red
+
+giant branch, and geometric distance (NGC
+4258).
+
+2021-12- Cepheids-SN Ia distance ladder (HST+Gaia
+08 73.04 ± 1.04 SH0ES [107] EDR3+"Pantheon+"). 5σ discrepancy with
+
+planck.
+
+2021-09-
+17 69.8 ± 1.7 W. Freedman [108] Tip of the red-giant branch (TRGB) distance
+
+indicator (HST+Gaia EDR3)
+
+Combining earlier work on red giant stars,
+2020-12- Hubble Space using the tip of the red-giant branch (TRGB)
+16 72.1 ± 2.0 Telescope and Gaia [109] distance indicator, with parallax
+
+EDR3 measurements of Omega Centauri from Gaia
+EDR3.
+
+Combination of HST photometry and Gaia
+EDR3 parallaxes for Milky Way Cepheids,
+reducing the uncertainty in calibration of
+Cepheid luminosities to 1.0%. Overall
+
+e Space uncertainty in the value for H0 is 1.8%, which
+2020-12- Hubbl
+15 73.2 ± 1.3 Telescope and Gaia [110] is expected to be reduced to 1.3% with a
+
+EDR3 larger sample of type Ia supernovae in
+galaxies that are known Cepheid hosts.
+Continuation of a collaboration known as
+Supernovae, H0, for the Equation of State of
+Dark Energy (SHoES).
+
+Gravitational lensing in the CMB is used to
+2020-12- , B. D. [111] estimate H0 without referring to the sound
+04 73.5 ± 5.3 E. J. Baxter
+
+Sherwin horizon scale, providing an alternative
+method to analyze the Planck data.
+
+Eight quadruply lensed galaxy systems are
+used to determine H0 to a precision of 5%, in
+
+2020-11- +3.9
+25 71.8 P. Denzel et al. [112] agreement with both "early" and "late"
+
+−3.3 universe estimates. Independent of distance
+ladders and the cosmic microwave
+background.
+
+
+
+Derived from 88 0.02 < z < 0.05 Type Ia
+supernovae used as standard candle
+distance indicators. The H0 estimate is
+
+2020-11- corrected for the effects of peculiar velocities
+07 67.4 ± 1.0 T. Sedgwick et al. [113] in the supernova environments, as estimated
+
+from the galaxy density field. The result
+assumes Ωm = 0.3, ΩΛ = 0.7 and a sound
+horizon of 149.3 Mpc, a value taken from
+Anderson et al. (2014).[114]
+
+Gravitational waves, assuming that the
+2020-09- transient ZTF19abanrh found by the Zwicky
+
++4.3
+29 67.6 S. Mukherjee et al. [115] Transient Facility is the optical counterpart to
+
+−4.2 GW190521. Independent of distance ladders
+and the cosmic microwave background.
+
+Use Type II supernovae as standardisable
+candles to obtain an independent
+
+2020-06- +5.2 f the Hubble constant—7
+18 75.8 T. de Jaeger et al. [116] measurement o
+
+−4.9 SNe II with host-galaxy distances measured
+from Cepheid variables or the tip of the red
+giant branch.
+
+Geometric distance measurements to
+2020-02- Megamaser [93] megamaser-hosting galaxies. Independent of
+26 73.9 ± 3.0 Cosmology Project distance ladders and the cosmic microwave
+
+background.
+
+2019-10- +2.7
+14 74.2 STRIDES [117] Modelling the mass distribution & time delay
+
+−3.0 of the lensed quasar DES J0408-5354.
+
+Modelling three galactically lensed objects
+2019-09- using ground-based
+12 76.8 ± 2.6 SHARP/H0LiCOW [118] and their lenses 
+
+adaptive optics and the Hubble Space
+Telescope.
+
+This  is obtained analysing low-redshift
+cosmological data within ΛCDM model. The
+datasets used are type-Ia supernovae,
+
+2019-08- +1.36 baryon acoustic oscillations, time-delay
+20 73.3 K. Dutta et al. [119]
+
+−1.35 measurements using strong-lensing, H(z)
+measurements using cosmic chronometers
+and growth measurements from large scale
+structure observations.
+
+Measuring the distance to Messier 106 using
+2019-08- [120] its supermassive black hole, combined with
+15 73.5 ± 1.4 M. J. Reid, D. W.
+
+Pesce, A. G. Riess measurements of eclipsing binaries in the
+Large Magellanic Cloud.
+
+2019-07- ce Distances to red giant stars are calculated
+[90][91][92]
+
+16 69.8 ± 1.9 Hubble Spa
+Telescope using the tip of the red-giant branch (TRGB)
+
+distance indicator.
+
+Updated observations of multiply imaged
+2019-07- quasars, now using six quasars, independent
+
++1.7 H0LiCOW [121]
+10 73.3 of the cosmic distance ladder and
+
+−1.8 collaboration independent of the cosmic microwave
+background measurements.
+
+The LIGO Scientific
+2019-07- +5.3 Collaboration and Uses radio counterpart of GW170817,
+
+[89]
+08 70.3 −5.0 The Virgo combined with earlier gravitational wave
+
+Collaboration (GW) and electromagnetic (EM) data.
+
+Gamma ray attenuation due to extragalactic
+2019-03- +4.2 122] light. Independent of the cosmic distance
+28 68.0 Fermi-LAT [
+
+−4.1 ladder and the cosmic microwave
+background.
+
+
+
+Precision HST photometry of Cepheids in the
+Large Magellanic Cloud (LMC) reduce the
+uncertainty in the distance to the LMC from
+2.5% to 1.3%. The revision increases the
+tension with CMB measurements to the 4.4σ
+
+2019-03- level (P=99.999% for Gaussian errors),
+18 74.03 ± 1.42 Hubble Space [83]
+
+Telescope raising the discrepancy beyond a plausible
+level of chance. Continuation of a
+collaboration known as Supernovae, H0, for
+the Equation of State of Dark Energy
+(SHoES).
+
+Quasar angular size and baryon acoustic
+2019-02- oscillations, assuming a flat ΛCDM model.
+
++0.91
+08 67.78 Joseph Ryan et al. [123] Alternative models result in different
+
+−0.87 (generally lower) values for the Hubble
+constant.
+
+2018-11- Supernova measurements using the inverse
+06 67.77 ± 1.30 Dark Energy Survey [124] distance ladder method based on baryon
+
+acoustic oscillations.
+
+Observations of multiply imaged quasars,
+2018-09- +2.1 H0LiCOW independent of the cosmic distance ladder
+05 72.5 [125]
+
+−2.3 collaboration and independent of the cosmic microwave
+background measurements.
+
+2018-07-
+18 67.66 ± 0.42 Planck Mission [126] Final Planck 2018 results.
+
+Additional HST photometry of galactic
+Cepheids with early Gaia parallax
+
+2018-04- [127][128] measurements. The revised value increases
+27 73.52 ± 1.62 Hubble Space
+
+Telescope and Gaia tension with CMB measurements at the 3.8σ
+level. Continuation of the SHoES
+collaboration.
+
+Parallax measurements of galactic Cepheids
+for enhanced calibration of the distance
+
+2018-02- ladder; the value suggests a discrepancy
+22 73.45 ± 1.66 Hubble Space [129][130]
+
+Telescope with CMB measurements at the 3.7σ level.
+The uncertainty is expected to be reduced to
+below 1% with the final release of the Gaia
+catalog. SHoES collaboration.
+
+Standard siren measurement independent of
+normal "standard candle" techniques; the
+gravitational wave analysis of a binary
+neutron star (BNS) merger GW170817
+
+The LIGO Scientific directly estimated the luminosity distance out
+2017-10- +12.0 Collaboration and
+16 70.0 [131] to cosmological scales. An estimate of fifty
+
+−8.0 The Virgo similar detections in the next decade may
+Collaboration arbitrate tension of other methodologies.[132]
+
+Detection and analysis of a neutron star-
+black hole merger (NSBH) may provide
+greater precision than BNS could allow.[133]
+
+Uses time delays between multiple images of
+distant variable sources produced by strong
+
+2016-11- +2.4 Hubble Space
+22 71.9 [134] gravitational lensing. Collaboration known as
+
+−3.0 Telescope H0 Lenses in COSMOGRAIL's Wellspring
+(H0LiCOW).
+
+Comparing redshift to other distance
+2016-08- methods, including Tully–Fisher, Cepheid
+
++3.4
+04 76.2 Cosmicflows-3 [135] variable, and Type Ia supernovae. A
+
+−2.7 restrictive estimate from the data implies a
+more precise value of 75 ± 2.
+
+
+
+Baryon acoustic oscillations. An extended
+survey (eBOSS) began in 2014 and is
+
+SDSS-III Baryon expected to run through 2020. The extended
+2016-07- +0.7 Oscillation
+13 67.6 [136] survey is designed to explore the time when
+
+−0.6 Spectroscopic the universe was transitioning away from the
+Survey (BOSS) deceleration effects of gravity from 3 to 8
+
+billion years after the Big Bang.[137]
+
+Type Ia supernova, the uncertainty is
+2016-05- [138] expected to go down by a factor of more than
+17 73.24 ± 1.74 Hubble Space
+
+Telescope two with upcoming Gaia measurements and
+other improvements. SHoES collaboration.
+
+Results from an analysis of Planck 's full
+mission were made public on 1 December
+
+2015-02 67.74 ± 0.46 Planck Mission [139][140] 2014 at a conference in Ferrara, Italy. A full
+set of papers detailing the mission results
+were released in February 2015.
+
+2013-10- Comparing redshift to other distance
+01 74.4 ± 3.0 Cosmicflows-2 [141] methods, including Tully–Fisher, Cepheid
+
+variable, and Type Ia supernovae.
+
+The ESA Planck Surveyor was launched in
+May 2009. Over a four-year period, it
+performed a significantly more detailed
+investigation of cosmic microwave radiation
+than earlier investigations using HEMT
+
+2013-03-
+21 67.80 ± 0.77 Planck Mission [57][142][143][144][145] radiometers and bolometer technology to
+
+measure the CMB at a smaller scale than
+WMAP. On 21 March 2013, the European-led
+research team behind the Planck cosmology
+probe released the mission's data including a
+new CMB all-sky map and their
+determination of the Hubble constant.
+
+2012-12- WMAP (9 years),
+20 69.32 ± 0.80 combined with other [146]
+
+measurements
+
+These values arise from fitting a combination
+of WMAP and other cosmological data to the
+simplest version of the ΛCDM model. If the
+
+WMAP (7 years), data are fit with more general versions, H
+2010 +1.3 0
+
+70.4 combined with other [147]
+−1.4 measurements tends to be smaller and more uncertain:
+
+typically around 67 ± 4 (km/s)/Mpc although
+some models allow values near
+63 (km/s)/Mpc.[148]
+
+2010 71.0 ± 2.5 WMAP only (7 [147]
+years).
+
+WMAP (5 years),
+2009-02 70.5 ± 1.3 combined with other [149]
+
+measurements
+
+2009-02 +2.6 WMAP only (5
+71.9 [149]
+
+−2.7 years)
+
+WMAP (3 years),
+2007 +1.5
+
+70.4 combined with other [150]
+−1.6 measurements
+
+Combined Sunyaev–Zeldovich effect and
+Chandra X-ray observations of galaxy
+
+2006-08 +10.7 Chandra X-ray
+76.9 [151]
+
+−8.7 Observatory clusters. Adjusted uncertainty in table from
+Planck Collaboration 2013.[152]
+
+2003 72 ± 5 WMAP (First year)
+only .[153]
+
+
+
+This project established the most precise
+Hubble Space optical determination, consistent with a
+
+2001-05 72 ± 8 Telescope Key [29] measurement of H0 based upon Sunyaev–
+Project Zel'dovich effect observations of many
+
+galaxy clusters having a similar accuracy.
+
+before 50 — 90 [63]
+1996 (est.)
+
+Determined relationship between luminosity
+ova 1a Light of SN 1a's and their Light Curve Shapes.
+
+1994 67 ± 7 Supern [154]
+Curve Shapes Riess et al. used this ratio of the light curve
+
+of SN 1972E and the Cepheid distance to
+NGC 5253 to determine the constant.
+
+De Vaucouleurs believed he had improved
+the accuracy of Hubble's constant from
+
+mid 1970's 100 ± 10 Gérard de [64] Sandage's because he used 5x more primary
+Vaucouleurs indicators, 10× more calibration methods, 2×
+
+more secondary indicators, and 3× as many
+galaxy data points to derive his 100 ± 10.
+
+early e and [155]
+1970s 55 (est.) Allan Sandag
+
+Gustav Tammann
+
+This was the first good estimate of H0, but it
+1958 75 (est.) Allan Sandage [156] would be decades before a consensus was
+
+achieved.
+
+1956 180 Humason, Mayall [155]
+and Sandage
+
+1929 500 Edwin Hubble, [157][155][158]
+Hooker telescope
+
+1927 625 Georges Lemaître [159] First measurement and interpretation as a
+sign of the expansion of the universe.
+
+Notes
+a. For example, the South Pole Telescope, Atacama Cosmology Telescope and Planck (spacecraft) all provide
+
+independent measurements of the Hubble parameter during the early universe.
+b. The latest data from the James Webb Space Telescope support earlier results from the Hubble Space Telescope,
+
+suggesting that systematic errors in Hubble's Cepheid photometry are not significant enough to cause the Hubble
+tension.[70]
+
+c. In standard ΛCDM, dark energy only comes into play in the late universe – its effect in the early universe is too
+small to have an effect.
+
+d. In standard ΛCDM, dark energy has a constant equation of state w = −1.
+
+See also
+Accelerating expansion of the universe – Cosmological phenomenon
+Cosmology – Scientific study of the origin, evolution, and eventual fate of the universe
+Dark matter – Concept in cosmology
+List of scientists whose names are used in physical constants
+Tests of general relativity
+S8 tension- a similar problem from another parameter of the ΛCDM model.
+
+References
+1. "IAU members vote to recommend renaming the Hubble law as the Hubble–Lemaître law" (https://www.iau.org/ne
+
+ws/pressreleases/detail/iau1812/?lang) (Press release). IAU. 29 October 2018. Retrieved 2018-10-29.
+
+
+
+2. Hubble, E. (1929). "A relation between distance and radial velocity among extra-galactic nebulae" (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC522427). Proceedings of the National Academy of Sciences. 15 (3): 168–173.
+Bibcode:1929PNAS...15..168H (https://ui.adsabs.harvard.edu/abs/1929PNAS...15..168H).
+doi:10.1073/pnas.15.3.168 (https://doi.org/10.1073%2Fpnas.15.3.168). PMC 522427 (https://www.ncbi.nlm.nih.go
+v/pmc/articles/PMC522427). PMID 16577160 (https://pubmed.ncbi.nlm.nih.gov/16577160).
+
+3. Overbye, Dennis (20 February 2017). "Cosmos Controversy: The Universe Is Expanding, but How Fast?" (https://w
+ww.nytimes.com/2017/02/20/science/hubble-constant-universe-expanding-speed.html). New York Times.
+Retrieved 21 February 2017.
+
+4. Coles, P., ed. (2001). Routledge Critical Dictionary of the New Cosmology (https://books.google.com/books?id=Bg
+NGWVr5yhIC&pg=PA202). Routledge. p. 202. ISBN 978-0-203-16457-0.
+
+5. "Hubble Flow" (http://astronomy.swin.edu.au/cosmos/h/hubble+flow). The Swinburne Astronomy Online
+Encyclopedia of Astronomy. Swinburne University of Technology. Retrieved 2013-05-14.
+
+6. van den Bergh, S. (August 2011). "The Curious Case of Lemaitre's Equation No. 24" (https://www.rasc.ca/jrasc-20
+11-08). Journal of the Royal Astronomical Society of Canada. 105 (4): 151. arXiv:1106.1195 (https://arxiv.org/abs/1
+106.1195). Bibcode:2011JRASC.105..151V (https://ui.adsabs.harvard.edu/abs/2011JRASC.105..151V).
+
+7. Nussbaumer, H.; Bieri, L. (2011). "Who discovered the expanding universe?". The Observatory. 131 (6): 394–398.
+arXiv:1107.2281 (https://arxiv.org/abs/1107.2281). Bibcode:2011Obs...131..394N (https://ui.adsabs.harvard.edu/ab
+s/2011Obs...131..394N).
+
+8. Way, M.J. (2013). "Dismantling Hubble's Legacy?" (https://www.aspbooks.org/publications/471/097.pdf) (PDF). In
+Michael J. Way; Deidre Hunter (eds.). Origins of the Expanding Universe: 1912-1932. ASP Conference Series.
+Vol. 471. Astronomical Society of the Pacific. pp. 97–132. arXiv:1301.7294 (https://arxiv.org/abs/1301.7294).
+Bibcode:2013ASPC..471...97W (https://ui.adsabs.harvard.edu/abs/2013ASPC..471...97W).
+
+9. Friedman, A. (December 1922). "Über die Krümmung des Raumes". Zeitschrift für Physik (in German). 10 (1):
+377–386. Bibcode:1922ZPhy...10..377F (https://ui.adsabs.harvard.edu/abs/1922ZPhy...10..377F).
+doi:10.1007/BF01332580 (https://doi.org/10.1007%2FBF01332580). S2CID 125190902 (https://api.semanticschol
+ar.org/CorpusID:125190902).. (English translation in Friedman, A. (December 1999). "On the Curvature of Space".
+General Relativity and Gravitation. 31 (12): 1991–2000. Bibcode:1999GReGr..31.1991F (https://ui.adsabs.harvard.
+edu/abs/1999GReGr..31.1991F). doi:10.1023/A:1026751225741 (https://doi.org/10.1023%2FA%3A102675122574
+1). S2CID 122950995 (https://api.semanticscholar.org/CorpusID:122950995).)
+
+10. Wirtz, C. W. (April 1922). "Einiges zur Statistik der Radialbewegungen von Spiralnebeln und Kugelsternhaufen" (ht
+tps://zenodo.org/record/1424934). Astronomische Nachrichten. 215 (17): 349–354. Bibcode:1922AN....215..349W
+(https://ui.adsabs.harvard.edu/abs/1922AN....215..349W). doi:10.1002/asna.19212151703 (https://doi.org/10.100
+2%2Fasna.19212151703).
+
+11. Wirtz, C. W. (1924). "De Sitters Kosmologie und die Radialbewegungen der Spiralnebel". Astronomische
+Nachrichten. 222 (5306): 21–26. Bibcode:1924AN....222...21W (https://ui.adsabs.harvard.edu/abs/1924AN....222...
+21W). doi:10.1002/asna.19242220203 (https://doi.org/10.1002%2Fasna.19242220203).
+
+12. Lemaître, G. (1927). "Un univers homogène de masse constante et de rayon croissant rendant compte de la
+vitesse radiale des nébuleuses extra-galactiques". Annales de la Société Scientifique de Bruxelles A (in French).
+47: 49–59. Bibcode:1927ASSB...47...49L (https://ui.adsabs.harvard.edu/abs/1927ASSB...47...49L). Partially
+translated to English in Lemaître, G. (1931). "Expansion of the universe, A homogeneous universe of constant
+mass and increasing radius accounting for the radial velocity of extra-galactic nebulae" (https://doi.org/10.1093%2
+Fmnras%2F91.5.483). Monthly Notices of the Royal Astronomical Society. 91 (5): 483–490.
+Bibcode:1931MNRAS..91..483L (https://ui.adsabs.harvard.edu/abs/1931MNRAS..91..483L).
+doi:10.1093/mnras/91.5.483 (https://doi.org/10.1093%2Fmnras%2F91.5.483).
+
+13. Livio, M. (2011). "Lost in translation: Mystery of the missing text solved" (https://doi.org/10.1038%2F479171a).
+Nature. 479 (7372): 171–173. Bibcode:2011Natur.479..171L (https://ui.adsabs.harvard.edu/abs/2011Natur.479..17
+1L). doi:10.1038/479171a (https://doi.org/10.1038%2F479171a). PMID 22071745 (https://pubmed.ncbi.nlm.nih.go
+v/22071745). S2CID 203468083 (https://api.semanticscholar.org/CorpusID:203468083).
+
+14. Livio, M.; Riess, A. (2013). "Measuring the Hubble constant". Physics Today. 66 (10): 41–47.
+Bibcode:2013PhT....66j..41L (https://ui.adsabs.harvard.edu/abs/2013PhT....66j..41L). doi:10.1063/PT.3.2148 (http
+s://doi.org/10.1063%2FPT.3.2148).
+
+15. Slipher, V.M. (1917). "Radial velocity observations of spiral nebulae". The Observatory. 40: 304–306.
+Bibcode:1917Obs....40..304S (https://ui.adsabs.harvard.edu/abs/1917Obs....40..304S).
+
+16. Longair, M. S. (2006). The Cosmic Century (https://archive.org/details/cosmiccenturyhis0000long). Cambridge
+University Press. p. 109 (https://archive.org/details/cosmiccenturyhis0000long/page/109). ISBN 978-0-521-47436-
+8.
+
+17. Nussbaumer, Harry (2013). "Slipher's redshifts as support for de Sitter's model and the discovery of the dynamic
+universe" (https://www.aspbooks.org/publications/471/025.pdf) (PDF). In Michael J. Way; Deidre Hunter (eds.).
+Origins of the Expanding Universe: 1912–1932. ASP Conference Series. Vol. 471. Astronomical Society of the
+Pacific. pp. 25–38. arXiv:1303.1814 (https://arxiv.org/abs/1303.1814).
+
+18. "1912: Henrietta Leavitt Discovers the Distance Key" (https://cosmology.carnegiescience.edu/timeline/1912.html#:
+~:text=Henrietta%20Swan%20Leavitt.,are%20far%20beyond%20that%20distance.). Everyday Cosmology.
+Retrieved 18 February 2024.
+
+
+
+19. Overbye, Dennis (25 February 2019). "Have Dark Forces Been Messing With the Cosmos? – Axions? Phantom
+energy? Astrophysicists scramble to patch a hole in the universe, rewriting cosmic history in the process" (https://w
+ww.nytimes.com/2019/02/25/science/cosmos-hubble-dark-energy.html). The New York Times. Retrieved
+26 February 2019.
+
+20. O'Raifeartaigh, Cormac (2013). "The Contribution of V.M. Slipher to the discovery of the expanding universe" (http
+s://www.aspbooks.org/publications/471/049.pdf) (PDF). Origins of the Expanding Universe: 1912-1932. ASP
+Conference Series. Vol. 471. Astronomical Society of the Pacific. pp. 49–62. arXiv:1212.5499 (https://arxiv.org/abs/
+1212.5499).
+
+21. "Three steps to the Hubble constant" (https://www.spacetelescope.org/images/opo1812a/).
+www.spacetelescope.org. Retrieved 26 February 2018.
+
+22. Slipher, V. M. (1913). "The Radial Velocity of the Andromeda Nebula". Lowell Observatory Bulletin. 1 (8): 56–57.
+Bibcode:1913LowOB...2...56S (https://ui.adsabs.harvard.edu/abs/1913LowOB...2...56S).
+
+23. Slipher, V. M. (1915). "Spectrographic Observations of Nebulae". Popular Astronomy. 23: 21–24.
+Bibcode:1915PA.....23...21S (https://ui.adsabs.harvard.edu/abs/1915PA.....23...21S).
+
+24. Friedman, A. (1922). "Über die Krümmung des Raumes". Zeitschrift für Physik (in German). 10 (1): 377–386.
+Bibcode:1922ZPhy...10..377F (https://ui.adsabs.harvard.edu/abs/1922ZPhy...10..377F). doi:10.1007/BF01332580
+(https://doi.org/10.1007%2FBF01332580). S2CID 125190902 (https://api.semanticscholar.org/CorpusID:12519090
+2). Translated to English in Friedmann, A. (1999). "On the Curvature of Space". General Relativity and Gravitation.
+31 (12): 1991–2000. Bibcode:1999GReGr..31.1991F (https://ui.adsabs.harvard.edu/abs/1999GReGr..31.1991F).
+doi:10.1023/A:1026751225741 (https://doi.org/10.1023%2FA%3A1026751225741). S2CID 122950995 (https://api.
+semanticscholar.org/CorpusID:122950995).
+
+25. van den Bergh, Sydney (2011). "The Curious Case of Lemaître's Equation No. 24". Journal of the Royal
+Astronomical Society of Canada. 105 (4): 151. arXiv:1106.1195 (https://arxiv.org/abs/1106.1195).
+Bibcode:2011JRASC.105..151V (https://ui.adsabs.harvard.edu/abs/2011JRASC.105..151V).
+
+26. Block, David (2012). 'Georges Lemaitre and Stigler's law of eponymy' in Georges Lemaître: Life, Science and
+Legacy (Holder and Mitton ed.). Springer. pp. 89–96.
+
+27. Sandage, Allan (December 1989). "Edwin Hubble 1889–1953". Journal of the Royal Astronomical Society of
+Canada. 83 (6): 351–362. Bibcode:1989JRASC..83..351S (https://ui.adsabs.harvard.edu/abs/1989JRASC..83..351
+S).
+
+28. Keel, W. C. (2007). The Road to Galaxy Formation (https://books.google.com/books?id=BUgJGypUYF0C&pg=PA
+7) (2nd ed.). Springer. pp. 7–8. ISBN 978-3-540-72534-3.
+
+29. Freedman, W. L.; et al. (2001). "Final results from the Hubble Space Telescope Key Project to measure the Hubble
+constant". The Astrophysical Journal. 553 (1): 47–72. arXiv:astro-ph/0012376 (https://arxiv.org/abs/astro-ph/00123
+76). Bibcode:2001ApJ...553...47F (https://ui.adsabs.harvard.edu/abs/2001ApJ...553...47F). doi:10.1086/320638 (ht
+tps://doi.org/10.1086%2F320638). S2CID 119097691 (https://api.semanticscholar.org/CorpusID:119097691).
+
+30. Weinberg, S. (2008). Cosmology (https://books.google.com/books?id=nqQZdg020fsC&pg=PA28). Oxford
+University Press. p. 28. ISBN 978-0-19-852682-7.
+
+31. Croton, Darren J. (14 October 2013). "Damn You, Little h! (Or, Real-World Applications of the Hubble Constant
+Using Observed and Simulated Data)" (https://www.cambridge.org/core/journals/publications-of-the-astronomical-s
+ociety-of-australia/article/damn-you-little-h-or-real-world-applications-of-the-hubble-constant-using-observed-and-si
+mulated-data/EB4B786F4500F897A589C3ED980C17F5). Publications of the Astronomical Society of Australia.
+30. arXiv:1308.4150 (https://arxiv.org/abs/1308.4150). Bibcode:2013PASA...30...52C (https://ui.adsabs.harvard.ed
+u/abs/2013PASA...30...52C). doi:10.1017/pasa.2013.31 (https://doi.org/10.1017%2Fpasa.2013.31).
+S2CID 119257465 (https://api.semanticscholar.org/CorpusID:119257465). Retrieved 8 December 2021.
+
+32. Kirshner, R. P. (2003). "Hubble's diagram and cosmic expansion" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3
+14128). Proceedings of the National Academy of Sciences. 101 (1): 8–13. Bibcode:2004PNAS..101....8K (https://u
+i.adsabs.harvard.edu/abs/2004PNAS..101....8K). doi:10.1073/pnas.2536799100 (https://doi.org/10.1073%2Fpnas.
+2536799100). PMC 314128 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC314128). PMID 14695886 (https://pub
+med.ncbi.nlm.nih.gov/14695886).
+
+33. "What is a Cosmological Constant?" (http://map.gsfc.nasa.gov/universe/uni_accel.html). Goddard Space Flight
+Center. Retrieved 2013-10-17.
+
+34. Isaacson, W. (2007). Einstein: His Life and Universe (https://archive.org/details/einsteinhislifeu0000isaa). Simon &
+Schuster. p. 354 (https://archive.org/details/einsteinhislifeu0000isaa/page/n395). ISBN 978-0-7432-6473-0.
+
+35. "Einstein's Biggest Blunder? Dark Energy May Be Consistent With Cosmological Constant" (https://www.scienceda
+ily.com/releases/2007/11/071127142128.htm). Science Daily. 28 November 2007. Retrieved 2013-06-02.
+
+36. Davis, T. M.; Lineweaver, C. H. (2001). "Superluminal Recessional Velocities". AIP Conference Proceedings. 555:
+348–351. arXiv:astro-ph/0011070 (https://arxiv.org/abs/astro-ph/0011070). Bibcode:2001AIPC..555..348D (https://
+ui.adsabs.harvard.edu/abs/2001AIPC..555..348D). CiteSeerX 10.1.1.254.1810 (https://citeseerx.ist.psu.edu/viewd
+oc/summary?doi=10.1.1.254.1810). doi:10.1063/1.1363540 (https://doi.org/10.1063%2F1.1363540).
+S2CID 118876362 (https://api.semanticscholar.org/CorpusID:118876362).
+
+37. "Is the universe expanding faster than the speed of light?" (https://web.archive.org/web/20031123150109/http://cur
+ious.astro.cornell.edu/question.php?number=575). Ask an Astronomer at Cornell University. Archived from the
+original (http://curious.astro.cornell.edu/question.php?number=575) on 23 November 2003. Retrieved 5 June
+2015.
+
+
+
+38. Harrison, E. (1992). "The redshift-distance and velocity-distance laws" (https://doi.org/10.1086%2F172179). The
+Astrophysical Journal. 403: 28–31. Bibcode:1993ApJ...403...28H (https://ui.adsabs.harvard.edu/abs/1993ApJ...40
+3...28H). doi:10.1086/172179 (https://doi.org/10.1086%2F172179).
+
+39. Madsen, M. S. (1995). The Dynamic Cosmos (https://books.google.com/books?id=_2GeJxVvyFMC&pg=PA35).
+CRC Press. p. 35. ISBN 978-0-412-62300-4.
+
+40. Dekel, A.; Ostriker, J. P. (1999). Formation of Structure in the Universe (https://books.google.com/books?id=yAroX
+6tx-l0C&pg=PA164). Cambridge University Press. p. 164. ISBN 978-0-521-58632-0.
+
+41. Padmanabhan, T. (1993). Structure formation in the universe (https://books.google.com/books?id=AJlOVBRZJtIC&
+pg=PA58). Cambridge University Press. p. 58. ISBN 978-0-521-42486-8.
+
+42. Sartori, L. (1996). Understanding Relativity. University of California Press. p. 163, Appendix 5B. ISBN 978-0-520-
+20029-6.
+
+43. Sartori, L. (1996). Understanding Relativity. University of California Press. pp. 304–305. ISBN 978-0-520-20029-6.
+44. Matts Roos, Introduction to Cosmology
+45. Scharping, Nathaniel (18 October 2017). "Gravitational Waves Show How Fast The Universe is Expanding" (http://
+
+www.astronomy.com/news/2017/10/gravitational-waves-show-how-fast-the-universe-is-expanding). Astronomy.
+Retrieved 18 October 2017.
+
+46. Chase, S. I.; Baez, J. C. (2004). "Olbers' Paradox" (http://math.ucr.edu/home/baez/physics/Relativity/GR/olbers.ht
+ml). The Original Usenet Physics FAQ. Retrieved 2013-10-17.
+
+47. Asimov, I. (1974). "The Black of Night" (https://archive.org/details/asimovonastronom00isaa). Asimov on
+Astronomy (https://archive.org/details/asimovonastronom00isaa). Doubleday. ISBN 978-0-385-04111-9.
+
+48. Peebles, P. J. E. (1993). Principles of Physical Cosmology. Princeton University Press.
+49. Perlmutter, S. (2003). "Supernovae, Dark Energy, and the Accelerating Universe" (http://www.supernova.lbl.gov/Ph
+
+ysicsTodayArticle.pdf) (PDF). Physics Today. 56 (4): 53–60. Bibcode:2003PhT....56d..53P (https://ui.adsabs.harvar
+d.edu/abs/2003PhT....56d..53P). CiteSeerX 10.1.1.77.7990 (https://citeseerx.ist.psu.edu/viewdoc/summary?doi=1
+0.1.1.77.7990). doi:10.1063/1.1580050 (https://doi.org/10.1063%2F1.1580050). Archived (https://ghostarchive.org/
+archive/20221009/http://www.supernova.lbl.gov/PhysicsTodayArticle.pdf) (PDF) from the original on 2022-10-09.
+
+50. Carroll, Sean (2004). Spacetime and Geometry: An Introduction to General Relativity (https://books.google.com/bo
+oks?id=1SKFQgAACAAJ) (illustrated ed.). San Francisco: Addison-Wesley. p. 328. ISBN 978-0-8053-8732-2.
+
+51. Heneka, C.; Amendola, L. (2018). "General modified gravity with 21cm intensity mapping: simulations and
+forecast". Journal of Cosmology and Astroparticle Physics. 2018 (10): 004. arXiv:1805.03629 (https://arxiv.org/abs/
+1805.03629). Bibcode:2018JCAP...10..004H (https://ui.adsabs.harvard.edu/abs/2018JCAP...10..004H).
+doi:10.1088/1475-7516/2018/10/004 (https://doi.org/10.1088%2F1475-7516%2F2018%2F10%2F004).
+S2CID 119224326 (https://api.semanticscholar.org/CorpusID:119224326).
+
+52. Tawfik, A.; Harko, T. (2012). "Quark-hadron phase transitions in the viscous early universe". Physical Review D. 85
+(8) 084032. arXiv:1108.5697 (https://arxiv.org/abs/1108.5697). Bibcode:2012PhRvD..85h4032T (https://ui.adsabs.
+harvard.edu/abs/2012PhRvD..85h4032T). doi:10.1103/PhysRevD.85.084032 (https://doi.org/10.1103%2FPhysRev
+D.85.084032). S2CID 73716828 (https://api.semanticscholar.org/CorpusID:73716828).
+
+53. Tawfik, A. (2011). "The Hubble parameter in the early universe with viscous QCD matter and finite cosmological
+constant". Annalen der Physik. 523 (5): 423–434. arXiv:1102.2626 (https://arxiv.org/abs/1102.2626).
+Bibcode:2011AnP...523..423T (https://ui.adsabs.harvard.edu/abs/2011AnP...523..423T).
+doi:10.1002/andp.201100038 (https://doi.org/10.1002%2Fandp.201100038). S2CID 118500485 (https://api.semant
+icscholar.org/CorpusID:118500485).
+
+54. Tawfik, A.; Wahba, M.; Mansour, H.; Harko, T. (2011). "Viscous quark-gluon plasma in the early universe". Annalen
+der Physik. 523 (3): 194–207. arXiv:1001.2814 (https://arxiv.org/abs/1001.2814). Bibcode:2011AnP...523..194T (htt
+ps://ui.adsabs.harvard.edu/abs/2011AnP...523..194T). doi:10.1002/andp.201000052 (https://doi.org/10.1002%2Fa
+ndp.201000052). S2CID 119271582 (https://api.semanticscholar.org/CorpusID:119271582).
+
+55. Hawley, John F.; Holcomb, Katherine A. (2005). Foundations of modern cosmology (2nd ed.). Oxford [u.a.]: Oxford
+University Press. p. 304. ISBN 978-0-19-853096-1.
+
+56. Ridpath, Ian (2012). A Dictionary of Astronomy (2nd ed.). Oxford University Press. p. 225.
+doi:10.1093/acref/9780199609055.001.0001 (https://doi.org/10.1093%2Facref%2F9780199609055.001.0001).
+ISBN 9780199609055.
+
+57. Bucher, P. A. R.; et al. (Planck Collaboration) (2013). "Planck 2013 results. I. Overview of products and scientific
+Results". Astronomy & Astrophysics. 571: A1. arXiv:1303.5062 (https://arxiv.org/abs/1303.5062).
+Bibcode:2014A&A...571A...1P (https://ui.adsabs.harvard.edu/abs/2014A&A...571A...1P). doi:10.1051/0004-
+6361/201321529 (https://doi.org/10.1051%2F0004-6361%2F201321529). S2CID 218716838 (https://api.semantic
+scholar.org/CorpusID:218716838).
+
+58. Riess, Adam G.; Anand, Gagandeep S.; Yuan, Wenlong; Casertano, Stefano; Dolphin, Andrew; Macri, Lucas M.;
+Breuval, Louise; Scolnic, Dan; Perrin, Marshall (2023-07-28), "Crowded No More: The Accuracy of the Hubble
+Constant Tested with High Resolution Observations of Cepheids by JWST", The Astrophysical Journal, 956 (1)
+L18, arXiv:2307.15806 (https://arxiv.org/abs/2307.15806), Bibcode:2023ApJ...956L..18R (https://ui.adsabs.harvar
+d.edu/abs/2023ApJ...956L..18R), doi:10.3847/2041-8213/acf769 (https://doi.org/10.3847%2F2041-8213%2Facf76
+9)
+
+
+
+59. "Webb Confirms Accuracy of Universe's Expansion Rate Measured by Hubble, Deepens Mystery of Hubble
+Constant Tension – James Webb Space Telescope" (https://blogs.nasa.gov/webb/2023/09/12/webb-confirms-accur
+acy-of-universes-expansion-rate-measured-by-hubble-deepens-mystery-of-hubble-constant-tension/).
+blogs.nasa.gov. 2023-09-12. Retrieved 2024-02-15.
+
+60. Allen, Nick. "Section 2: The Great Debate and the Great Mistake: Shapley, Hubble, Baade" (https://web.archive.or
+g/web/20071210105344/http://www.institute-of-brilliant-failures.com/section2.htm). The Cepheid Distance Scale: A
+History. Archived from the original (http://www.institute-of-brilliant-failures.com/section2.htm) on 10 December
+2007. Retrieved 19 November 2011.
+
+61. Baade, W. (1944) The resolution of Messier 32, NGC 205, and the central region of the Andromeda nebula. ApJ
+100 137–146
+
+62. Baade, W. (1956) The period-luminosity relation of the Cepheids. PASP 68 5–16
+63. Overbye, D. (1999). "Prologue". Lonely Hearts of the Cosmos (2nd ed.). HarperCollins. p. 1ff. ISBN 978-0-316-
+
+64896-7.
+64. de Vaucouleurs, G. (1982). The cosmic distance scale and the Hubble constant. Mount Stromlo and Siding Spring
+
+Observatories, Australian National University.
+65. Myers, S. T. (1999). "Scaling the universe: Gravitational lenses and the Hubble constant" (https://www.ncbi.nlm.nih.
+
+gov/pmc/articles/PMC33560). Proceedings of the National Academy of Sciences of the United States of America.
+96 (8): 4236–4239. Bibcode:1999PNAS...96.4236M (https://ui.adsabs.harvard.edu/abs/1999PNAS...96.4236M).
+doi:10.1073/pnas.96.8.4236 (https://doi.org/10.1073%2Fpnas.96.8.4236). PMC 33560 (https://www.ncbi.nlm.nih.g
+ov/pmc/articles/PMC33560). PMID 10200245 (https://pubmed.ncbi.nlm.nih.gov/10200245).
+
+66. Freedman, Wendy L.; Madore, Barry F. (2023-11-01). "Progress in direct measurements of the Hubble constant" (h
+ttps://doi.org/10.1088/1475-7516/2023/11/050). Journal of Cosmology and Astroparticle Physics. 2023 (11) 050.
+arXiv:2309.05618 (https://arxiv.org/abs/2309.05618). Bibcode:2023JCAP...11..050F (https://ui.adsabs.harvard.edu/
+abs/2023JCAP...11..050F). doi:10.1088/1475-7516/2023/11/050 (https://doi.org/10.1088%2F1475-7516%2F202
+3%2F11%2F050). ISSN 1475-7516 (https://search.worldcat.org/issn/1475-7516).
+
+67. Mann, Adam (26 August 2019). "One Number Shows Something Is Fundamentally Wrong with Our Conception of
+the Universe – This fight has universal implications" (https://www.livescience.com/hubble-constant-discrepancy-ex
+plained.html). Live Science. Retrieved 26 August 2019.
+
+68. di Valentino, Eleonora; et al. (2021). "In the realm of the Hubble tension—a review of solutions" (https://doi.org/10.
+1088%2F1361-6382%2Fac086d). Classical and Quantum Gravity. 38 (15) 153001. arXiv:2103.01183 (https://arxiv.
+org/abs/2103.01183). Bibcode:2021CQGra..38o3001D (https://ui.adsabs.harvard.edu/abs/2021CQGra..38o3001
+D). doi:10.1088/1361-6382/ac086d (https://doi.org/10.1088%2F1361-6382%2Fac086d). S2CID 232092525 (http
+s://api.semanticscholar.org/CorpusID:232092525).
+
+69. Gresko, Michael (17 December 2021). "The universe is expanding faster than it should be" (https://web.archive.or
+g/web/20211217160427/https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than
+-it-should-be). National Geographic. Archived from the original (https://www.nationalgeographic.com/science/articl
+e/the-universe-is-expanding-faster-than-it-should-be) on December 17, 2021. Retrieved 21 December 2021.
+
+70. Starr, Michelle (14 September 2023). "JWST Just Measured The Expansion Rate of The Universe. Astronomers
+Are Stumped" (https://www.sciencealert.com/jwst-just-measured-the-expansion-rate-of-the-universe-astronomers-
+are-stumped). ScienceAlert. Archived (https://archive.today/20230916211757/https://www.sciencealert.com/jwst-ju
+st-measured-the-expansion-rate-of-the-universe-astronomers-are-stumped) from the original on 16 September
+2023. Retrieved 16 September 2023.
+
+71. Abdalla, Elcio; Abellán, Guillermo Franco; Aboubrahim, Amin (11 Mar 2022), "Cosmology Intertwined: A Review of
+the Particle Physics, Astrophysics, and Cosmology Associated with the Cosmological Tensions and Anomalies",
+Journal of High Energy Astrophysics, 34: 49, arXiv:2203.06142 (https://arxiv.org/abs/2203.06142),
+Bibcode:2022JHEAp..34...49A (https://ui.adsabs.harvard.edu/abs/2022JHEAp..34...49A),
+doi:10.1016/j.jheap.2022.04.002 (https://doi.org/10.1016%2Fj.jheap.2022.04.002), S2CID 247411131 (https://api.s
+emanticscholar.org/CorpusID:247411131)
+
+72. Rameez, Mohamed; Sarkar, Subir (15 July 2021). "Is there really a Hubble tension?" (https://iopscience.iop.org/arti
+cle/10.1088/1361-6382/ac0f39). Classical and Quantum Gravity. 38 (15) 154005. arXiv:1911.06456 (https://arxiv.or
+g/abs/1911.06456). Bibcode:2021CQGra..38o4005R (https://ui.adsabs.harvard.edu/abs/2021CQGra..38o4005R).
+doi:10.1088/1361-6382/ac0f39 (https://doi.org/10.1088%2F1361-6382%2Fac0f39). ISSN 0264-9381 (https://searc
+h.worldcat.org/issn/0264-9381). S2CID 208075753 (https://api.semanticscholar.org/CorpusID:208075753).
+
+73. Vagnozzi, Sunny (2020-07-10). "New physics in light of the H0 tension: An alternative view" (https://link.aps.org/doi/
+10.1103/PhysRevD.102.023518). Physical Review D. 102 (2) 023518. arXiv:1907.07569 (https://arxiv.org/abs/190
+7.07569). Bibcode:2020PhRvD.102b3518V (https://ui.adsabs.harvard.edu/abs/2020PhRvD.102b3518V).
+doi:10.1103/PhysRevD.102.023518 (https://doi.org/10.1103%2FPhysRevD.102.023518). S2CID 197430820 (http
+s://api.semanticscholar.org/CorpusID:197430820).
+
+74. Haslbauer, M.; Banik, I.; Kroupa, P. (2020-12-21). "The KBC void and Hubble tension contradict LCDM on a Gpc
+scale – Milgromian dynamics as a possible solution" (https://doi.org/10.1093%2Fmnras%2Fstaa2348). Monthly
+Notices of the Royal Astronomical Society. 499 (2): 2845–2883. arXiv:2009.11292 (https://arxiv.org/abs/2009.1129
+2). Bibcode:2020MNRAS.499.2845H (https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.2845H).
+doi:10.1093/mnras/staa2348 (https://doi.org/10.1093%2Fmnras%2Fstaa2348). ISSN 0035-8711 (https://search.wo
+rldcat.org/issn/0035-8711).
+
+
+
+75. Mazurenko, S.; Banik, I.; Kroupa, P.; Haslbauer, M. (2024-01-21). "A simultaneous solution to the Hubble tension
+and observed bulk flow within 250/h Mpc" (https://doi.org/10.1093%2Fmnras%2Fstad3357). Monthly Notices of the
+Royal Astronomical Society. 527 (3): 4388–4396. arXiv:2311.17988 (https://arxiv.org/abs/2311.17988).
+Bibcode:2024MNRAS.527.4388M (https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.4388M).
+doi:10.1093/mnras/stad3357 (https://doi.org/10.1093%2Fmnras%2Fstad3357). ISSN 0035-8711 (https://search.wo
+rldcat.org/issn/0035-8711).
+
+76. Poulin, Vivian; Smith, Tristan L.; Karwal, Tanvi; Kamionkowski, Marc (2019-06-04). "Early Dark Energy can
+Resolve the Hubble Tension". Physical Review Letters. 122 (22) 221301. arXiv:1811.04083 (https://arxiv.org/abs/1
+811.04083). Bibcode:2019PhRvL.122v1301P (https://ui.adsabs.harvard.edu/abs/2019PhRvL.122v1301P).
+doi:10.1103/PhysRevLett.122.221301 (https://doi.org/10.1103%2FPhysRevLett.122.221301). PMID 31283280 (htt
+ps://pubmed.ncbi.nlm.nih.gov/31283280). S2CID 119233243 (https://api.semanticscholar.org/CorpusID:11923324
+3).
+
+77. Zhao, Gong-Bo; Raveri, Marco; Pogosian, Levon; Wang, Yuting; Crittenden, Robert G.; Handley, Will J.; Percival,
+Will J.; Beutler, Florian; Brinkmann, Jonathan; Chuang, Chia-Hsun; Cuesta, Antonio J.; Eisenstein, Daniel J.;
+Kitaura, Francisco-Shu; Koyama, Kazuya; l'Huillier, Benjamin; Nichol, Robert C.; Pieri, Matthew M.; Rodriguez-
+Torres, Sergio; Ross, Ashley J.; Rossi, Graziano; Sánchez, Ariel G.; Shafieloo, Arman; Tinker, Jeremy L.; Tojeiro,
+Rita; Vazquez, Jose A.; Zhang, Hanyu (2017). "Dynamical dark energy in light of the latest observations" (https://w
+ww.nature.com/articles/s41550-017-0216-z). Nature Astronomy. 1 (9): 627–632. arXiv:1701.08165 (https://arxiv.or
+g/abs/1701.08165). Bibcode:2017NatAs...1..627Z (https://ui.adsabs.harvard.edu/abs/2017NatAs...1..627Z).
+doi:10.1038/s41550-017-0216-z (https://doi.org/10.1038%2Fs41550-017-0216-z). S2CID 256705070 (https://api.s
+emanticscholar.org/CorpusID:256705070).
+
+78. Berezhiani, Zurab; Dolgov, A. D.; Tkachev, I. I. (2015). "Reconciling Planck results with low redshift astronomical
+measurements" (https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.061303). Physical Review D. 92 (6)
+061303. arXiv:1505.03644 (https://arxiv.org/abs/1505.03644). Bibcode:2015PhRvD..92f1303B (https://ui.adsabs.h
+arvard.edu/abs/2015PhRvD..92f1303B). doi:10.1103/PhysRevD.92.061303 (https://doi.org/10.1103%2FPhysRev
+D.92.061303). S2CID 118169478 (https://api.semanticscholar.org/CorpusID:118169478).
+
+79. Laila Linke (17 May 2021). "Solving the Hubble tension might require more than changing the early Universe" (http
+s://astrobites.org/2021/05/17/template-post-5/). Astrobites.
+
+80. Vagnozzi, Sunny (2023-08-30). "Seven Hints That Early-Time New Physics Alone Is Not Sufficient to Solve the
+Hubble Tension" (https://doi.org/10.3390%2Funiverse9090393). Universe. 9 (9) 393. arXiv:2308.16628 (https://arxi
+v.org/abs/2308.16628). Bibcode:2023Univ....9..393V (https://ui.adsabs.harvard.edu/abs/2023Univ....9..393V).
+doi:10.3390/universe9090393 (https://doi.org/10.3390%2Funiverse9090393).
+
+81. Ryan E. Keeley and Arman Shafieloo (August 2023). "Ruling Out New Physics at Low Redshift as a Solution to the
+H0 Tension". Physical Review Letters. 131 (11) 111002. arXiv:2206.08440 (https://arxiv.org/abs/2206.08440).
+Bibcode:2023PhRvL.131k1002K (https://ui.adsabs.harvard.edu/abs/2023PhRvL.131k1002K).
+doi:10.1103/PhysRevLett.131.111002 (https://doi.org/10.1103%2FPhysRevLett.131.111002). PMID 37774270 (htt
+ps://pubmed.ncbi.nlm.nih.gov/37774270). S2CID 249848075 (https://api.semanticscholar.org/CorpusID:24984807
+5).
+
+82. Ananthaswamy, Anil (22 March 2019). "Best-Yet Measurements Deepen Cosmological Crisis" (https://www.scientifi
+camerican.com/article/best-yet-measurements-deepen-cosmological-crisis/). Scientific American. Retrieved
+23 March 2019.
+
+83. Riess, Adam G.; Casertano, Stefano; Yuan, Wenlong; Macri, Lucas M.; Scolnic, Dan (18 March 2019). "Large
+Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant and
+Stronger Evidence for Physics Beyond LambdaCDM" (https://doi.org/10.3847%2F1538-4357%2Fab1422). The
+Astrophysical Journal. 876 (1) 85. arXiv:1903.07603 (https://arxiv.org/abs/1903.07603).
+Bibcode:2019ApJ...876...85R (https://ui.adsabs.harvard.edu/abs/2019ApJ...876...85R). doi:10.3847/1538-
+4357/ab1422 (https://doi.org/10.3847%2F1538-4357%2Fab1422). S2CID 85528549 (https://api.semanticscholar.or
+g/CorpusID:85528549).
+
+84. Millea, Marius; Knox, Lloyd (2019-08-10). "Hubble constant hunter's guide". Physical Review D. 101 (4): 043533.
+arXiv:1908.03663 (https://arxiv.org/abs/1908.03663). doi:10.1103/PhysRevD.101.043533 (https://doi.org/10.110
+3%2FPhysRevD.101.043533).
+
+85. Lerner, Louise (22 October 2018). "Gravitational waves could soon provide measure of universe's expansion" (http
+s://phys.org/news/2018-10-gravitational-universe-expansion.html). Phys.org. Retrieved 22 October 2018.
+
+86. Chen, Hsin-Yu; Fishbach, Maya; Holz, Daniel E. (17 October 2018). "A two per cent Hubble constant measurement
+from standard sirens within five years". Nature. 562 (7728): 545–547. arXiv:1712.06531 (https://arxiv.org/abs/1712.
+06531). Bibcode:2018Natur.562..545C (https://ui.adsabs.harvard.edu/abs/2018Natur.562..545C).
+doi:10.1038/s41586-018-0606-0 (https://doi.org/10.1038%2Fs41586-018-0606-0). PMID 30333628 (https://pubme
+d.ncbi.nlm.nih.gov/30333628). S2CID 52987203 (https://api.semanticscholar.org/CorpusID:52987203).
+
+87. National Radio Astronomy Observatory (8 July 2019). "New method may resolve difficulty in measuring universe's
+expansion – Neutron star mergers can provide new 'cosmic ruler' " (https://www.eurekalert.org/pub_releases/2019-
+07/nrao-nmm070819.php). EurekAlert!. Retrieved 8 July 2019.
+
+88. Finley, Dave (8 July 2019). "New Method May Resolve Difficulty in Measuring Universe's Expansion" (https://publi
+c.nrao.edu/news/new-method-measuring-universe-expansion/). National Radio Astronomy Observatory. Retrieved
+8 July 2019.
+
+
+
+89. Hotokezaka, K.; et al. (8 July 2019). "A Hubble constant measurement from superluminal motion of the jet in
+GW170817". Nature Astronomy. 3 (10): 940–944. arXiv:1806.10596 (https://arxiv.org/abs/1806.10596).
+Bibcode:2019NatAs...3..940H (https://ui.adsabs.harvard.edu/abs/2019NatAs...3..940H). doi:10.1038/s41550-019-
+0820-1 (https://doi.org/10.1038%2Fs41550-019-0820-1). S2CID 119547153 (https://api.semanticscholar.org/Corpu
+sID:119547153).
+
+90. Carnegie Institution of Science (16 July 2019). "New measurement of universe's expansion rate is 'stuck in the
+middle' – Red giant stars observed by Hubble Space Telescope used to make an entirely new measurement of
+how fast the universe is expanding" (https://www.eurekalert.org/pub_releases/2019-07/cifs-nmo071619.php).
+EurekAlert!. Retrieved 16 July 2019.
+
+91. Sokol, Joshua (19 July 2019). "Debate intensifies over speed of expanding universe" (https://www.science.org/cont
+ent/article/debate-intensifies-over-speed-expanding-universe). Science. doi:10.1126/science.aay8123 (https://doi.o
+rg/10.1126%2Fscience.aay8123). S2CID 200021863 (https://api.semanticscholar.org/CorpusID:200021863).
+Retrieved 20 July 2019.
+
+92. Freedman, Wendy L.; Madore, Barry F.; Hatt, Dylan; Hoyt, Taylor J.; Jang, In-Sung; Beaton, Rachael L.; et al.
+(2019). "The Carnegie-Chicago Hubble Program. VIII. An Independent Determination of the Hubble Constant
+Based on the Tip of the Red Giant Branch" (https://doi.org/10.3847%2F1538-4357%2Fab2f73). The Astrophysical
+Journal. 882 (1) 34. arXiv:1907.05922 (https://arxiv.org/abs/1907.05922). Bibcode:2019ApJ...882...34F (https://ui.a
+dsabs.harvard.edu/abs/2019ApJ...882...34F). doi:10.3847/1538-4357/ab2f73 (https://doi.org/10.3847%2F1538-43
+57%2Fab2f73). S2CID 196623652 (https://api.semanticscholar.org/CorpusID:196623652).
+
+93. Pesce, D. W.; Braatz, J. A.; Reid, M. J.; Riess, A. G.; et al. (26 February 2020). "The Megamaser Cosmology
+Project. XIII. Combined Hubble Constant Constraints" (https://doi.org/10.3847%2F2041-8213%2Fab75f0). The
+Astrophysical Journal. 891 (1) L1. arXiv:2001.09213 (https://arxiv.org/abs/2001.09213).
+Bibcode:2020ApJ...891L...1P (https://ui.adsabs.harvard.edu/abs/2020ApJ...891L...1P). doi:10.3847/2041-
+8213/ab75f0 (https://doi.org/10.3847%2F2041-8213%2Fab75f0). S2CID 210920444 (https://api.semanticscholar.or
+g/CorpusID:210920444).
+
+94. Castelvecchi, Davide (2020-07-15). "Mystery over Universe's expansion deepens with fresh data". Nature. 583
+(7817): 500–501. Bibcode:2020Natur.583..500C (https://ui.adsabs.harvard.edu/abs/2020Natur.583..500C).
+doi:10.1038/d41586-020-02126-6 (https://doi.org/10.1038%2Fd41586-020-02126-6). PMID 32669728 (https://pub
+med.ncbi.nlm.nih.gov/32669728). S2CID 220583383 (https://api.semanticscholar.org/CorpusID:220583383).
+
+95. Sneppen, Albert; Watson, Darach; Poznanski, Dovi; Just, Oliver; Bauswein, Andreas; Wojtak, Radosław (2023-10-
+01). "Measuring the Hubble constant with kilonovae using the expanding photosphere method" (https://www.aand
+a.org/articles/aa/abs/2023/10/aa46306-23/aa46306-23.html). Astronomy & Astrophysics. 678 A14.
+arXiv:2306.12468 (https://arxiv.org/abs/2306.12468). Bibcode:2023A&A...678A..14S (https://ui.adsabs.harvard.ed
+u/abs/2023A&A...678A..14S). doi:10.1051/0004-6361/202346306 (https://doi.org/10.1051%2F0004-6361%2F2023
+46306). ISSN 0004-6361 (https://search.worldcat.org/issn/0004-6361).
+
+96. Sneppen, Albert (2023-09-01). "On the Blackbody Spectrum of Kilonovae" (https://doi.org/10.3847%2F1538-435
+7%2Facf200). The Astrophysical Journal. 955 (1) 44. arXiv:2306.05452 (https://arxiv.org/abs/2306.05452).
+Bibcode:2023ApJ...955...44S (https://ui.adsabs.harvard.edu/abs/2023ApJ...955...44S). doi:10.3847/1538-
+4357/acf200 (https://doi.org/10.3847%2F1538-4357%2Facf200). ISSN 0004-637X (https://search.worldcat.org/iss
+n/0004-637X).
+
+97. Sneppen, Albert; Watson, Darach; Bauswein, Andreas; Just, Oliver; Kotak, Rubina; Nakar, Ehud; Poznanski, Dovi;
+Sim, Stuart (February 2023). "Spherical symmetry in the kilonova AT2017gfo/GW170817" (https://www.nature.com/
+articles/s41586-022-05616-x). Nature. 614 (7948): 436–439. arXiv:2302.06621 (https://arxiv.org/abs/2302.06621).
+Bibcode:2023Natur.614..436S (https://ui.adsabs.harvard.edu/abs/2023Natur.614..436S). doi:10.1038/s41586-022-
+05616-x (https://doi.org/10.1038%2Fs41586-022-05616-x). ISSN 1476-4687 (https://search.worldcat.org/issn/1476
+-4687). PMID 36792736 (https://pubmed.ncbi.nlm.nih.gov/36792736). S2CID 256846834 (https://api.semanticscho
+lar.org/CorpusID:256846834).
+
+98. Clery, Daniel (13 August 2024). "Space telescope data reignite debate over how fast universe is expanding—and
+whether 'new physics' is needed" (https://www.science.org/content/article/space-telescope-data-reignite-debate-ov
+er-how-fast-universe-expanding-and-whether-new). Science. 385 (6710): 698–699. doi:10.1126/science.ads4465
+(https://doi.org/10.1126%2Fscience.ads4465). PMID 39146431 (https://pubmed.ncbi.nlm.nih.gov/39146431).
+"Triple measurement of the Hubble constant using JWST suggests unidentified biases may account for disparate
+results"
+
+99. Hotchkiss, Shaun (16 August 2024). The Status of the Chicago-Carnegie Hubble Program (with JWST data) -
+Wendy Freedman & Barry Madore (https://www.youtube.com/watch?v=OkGUoKukwk8). Cosmology talks – via
+YouTube. Freeman & Madore make the point that Cepheid variable stars are young stars, necessarily located
+close to star-forming regions deep inside galaxies, where nearby stars complicate their observation. TRGB and
+JAGB stars are old stars which have had time to migrate to the stellar halo, where their relative isolation makes
+them much easier to ovserve.
+
+100. Freedman, Wendy L.; Madore, Barry F.; Jang, In Sung; Hoyt, Taylor J.; Lee, Abigail J.; Owens, Kayla A. (12 August
+2024). "Status Report on the Chicago-Carnegie Hubble Program (CCHP): Three Independent Astrophysical
+Determinations of the Hubble Constant Using the James Webb Space Telescope". arXiv:2408.06153 (https://arxiv.
+org/abs/2408.06153) [astro-ph.CO (https://arxiv.org/archive/astro-ph.CO)]. "We find three independent values of
+H0 = 69.85 ± 1.75 (stat) ± 1.54 (sys) for the TRGB, H0 = 67.96 ± 1.85 (stat) ± 1.90 (sys) for the JAGB, and H0 =
+72.05 ± 1.86 (stat) ± 3.10 (sys) km/s/Mpc for Cepheids."
+
+
+
+101. SPT-3G Collaboration; Balkenhol, L.; Dutcher, D.; Spurio Mancini, A.; Doussot, A.; Benabed, K.; Galli, S.; Ade, P.
+A. R.; Anderson, A. J.; Ansarinejad, B.; Archipley, M.; Bender, A. N.; Benson, B. A.; Bianchini, F.; Bleem, L. E.
+(2023-07-13). "Measurement of the CMB temperature power spectrum and constraints on cosmology from the
+SPT-3G 2018 TT, TE, and EE dataset" (https://link.aps.org/doi/10.1103/PhysRevD.108.023510). Physical Review
+D. 108 (2) 023510. arXiv:2212.05642 (https://arxiv.org/abs/2212.05642). Bibcode:2023PhRvD.108b3510B (https://
+ui.adsabs.harvard.edu/abs/2023PhRvD.108b3510B). doi:10.1103/PhysRevD.108.023510 (https://doi.org/10.110
+3%2FPhysRevD.108.023510). S2CID 259887685 (https://api.semanticscholar.org/CorpusID:259887685).
+
+102. Kelly, P. L.; Rodney, S.; Treu, T.; Oguri, M.; Chen, W.; Zitri, A.; et al. (2023-05-11). "Constraints on the Hubble
+constant from Supernova Refsdal's reappearance". Science. 380 (6649) eabh1322. arXiv:2305.06367 (https://arxi
+v.org/abs/2305.06367). Bibcode:2023Sci...380.1322K (https://ui.adsabs.harvard.edu/abs/2023Sci...380.1322K).
+doi:10.1126/science.abh1322 (https://doi.org/10.1126%2Fscience.abh1322). PMID 37167351 (https://pubmed.ncb
+i.nlm.nih.gov/37167351). S2CID 258615332 (https://api.semanticscholar.org/CorpusID:258615332).
+
+103. Contarini, Sofia; Pisani, Alice; Hamaus, Nico; Marulli, Federico; Moscardini, Lauro; Baldi, Marco (2024). "The
+perspective of voids on rising cosmology tensions". Astronomy & Astrophysics. 682 A20. arXiv:2212.07438 (https://
+arxiv.org/abs/2212.07438). Bibcode:2024A&A...682A..20C (https://ui.adsabs.harvard.edu/abs/2024A&A...682A..20
+C). doi:10.1051/0004-6361/202347572 (https://doi.org/10.1051%2F0004-6361%2F202347572).
+
+104. Chiou, Lyndie (2023-07-25). "How (Nearly) Nothing Might Solve Cosmology's Biggest Questions" (https://www.qua
+ntamagazine.org/how-nearly-nothing-might-solve-cosmologys-biggest-questions-20230725/). Quanta Magazine.
+Retrieved 2023-07-31.
+
+105. Brout, Dillon; Scolnic, Dan; Popovic, Brodie; Riess, Adam G.; Carr, Anthony; Zuntz, Joe; Kessler, Rick; Davis,
+Tamara M.; Hinton, Samuel; Jones, David; Kenworthy, W. D'Arcy; Peterson, Erik R.; Said, Khaled; Taylor, Georgie;
+Ali, Noor; Armstrong, Patrick; Charvu, Pranav; Dwomoh, Arianna; Meldorf, Cole; Palmese, Antonella; Qu, Helen;
+Rose, Benjamin M.; Sanchez, Bruno; Stubbs, Christopher W.; Vincenzi, Maria; Wood, Charlotte M.; Brown, Peter
+J.; Chen, Rebecca; Chambers, Ken; Coulter, David A.; Dai, Mi; Dimitriadis, Georgios; Filippenko, Alexi V.; Foley,
+Ryan J.; Jha, Saurabh W.; Kelsey, Lisa; Kirshner, Robert P.; Möller, Anais; Muir, Jessie; Nadathur, Seshadri; Pan,
+Yen-Chen; Rest, Armin; Rojas-Bravo, Cesar; Sako, Masao; Siebert, Matthew R.; Smith, Mat; Stahl, Benjamin E.;
+Wiseman, Phil (2022-02-08). "The Pantheon+ Analysis: Cosmological Constraints" (https://doi.org/10.3847%2F153
+8-4357%2Fac8e04). The Astrophysical Journal. 938 (2): 110. arXiv:2202.04077 (https://arxiv.org/abs/2202.04077).
+Bibcode:2022ApJ...938..110B (https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B). doi:10.3847/1538-
+4357/ac8e04 (https://doi.org/10.3847%2F1538-4357%2Fac8e04). S2CID 246679941 (https://api.semanticscholar.
+org/CorpusID:246679941).
+
+106. de Jaeger, T.; Galbany, L.; Riess, A. G.; Stahl, Ben E.; et al. (17 June 2022). "A 5 per cent measurement of the
+Hubble–Lemaître constant from Type II supernovae" (https://doi.org/10.1093%2Fmnras%2Fstac1661). MNRAS.
+514 (3): 4620–4628. arXiv:2203.08974 (https://arxiv.org/abs/2203.08974). doi:10.1093/mnras/stac1661 (https://doi.
+org/10.1093%2Fmnras%2Fstac1661).
+
+107. Riess, Adam G.; Yuan, Wenlong; Macri, Lucas M.; Scolnic, Dan; Brout, Dillon; Casertano, Stefano; Jones, David
+O.; Murakami, Yukei; Breuval, Louise; Brink, Thomas G.; Filippenko, Alexei V. (2021-12-08). "A Comprehensive
+Measurement of the Local Value of the Hubble Constant with 1 km/s/Mpc Uncertainty from the Hubble Space
+Telescope and the SH0ES Team" (https://doi.org/10.3847%2F2041-8213%2Fac5c5b). The Astrophysical Journal.
+934 (1). arXiv:2112.04510 (https://arxiv.org/abs/2112.04510). Bibcode:2022ApJ...934L...7R (https://ui.adsabs.harv
+ard.edu/abs/2022ApJ...934L...7R). doi:10.3847/2041-8213/ac5c5b (https://doi.org/10.3847%2F2041-8213%2Fac5
+c5b). S2CID 245005861 (https://api.semanticscholar.org/CorpusID:245005861).
+
+108. Freedman, Wendy L. (2021-09-01). "Measurements of the Hubble Constant: Tensions in Perspective*" (https://doi.
+org/10.3847%2F1538-4357%2Fac0e95). The Astrophysical Journal. 919 (1) 16. arXiv:2106.15656 (https://arxiv.or
+g/abs/2106.15656). Bibcode:2021ApJ...919...16F (https://ui.adsabs.harvard.edu/abs/2021ApJ...919...16F).
+doi:10.3847/1538-4357/ac0e95 (https://doi.org/10.3847%2F1538-4357%2Fac0e95). ISSN 0004-637X (https://sear
+ch.worldcat.org/issn/0004-637X). S2CID 235683396 (https://api.semanticscholar.org/CorpusID:235683396).
+
+109. Soltis, J.; Casertano, S.; Riess, A. G. (2021). "The Parallax of Omega Centauri Measured from Gaia EDR3 and a
+Direct, Geometric Calibration of the Tip of the Red Giant Branch and the Hubble Constant" (https://doi.org/10.384
+7%2F2041-8213%2Fabdbad). The Astrophysical Journal. 908 (1) L5. arXiv:2012.09196 (https://arxiv.org/abs/2012.
+09196). Bibcode:2021ApJ...908L...5S (https://ui.adsabs.harvard.edu/abs/2021ApJ...908L...5S). doi:10.3847/2041-
+8213/abdbad (https://doi.org/10.3847%2F2041-8213%2Fabdbad). S2CID 229297709 (https://api.semanticscholar.
+org/CorpusID:229297709).
+
+110. Riess, A. G.; Casertano, S.; Yuan, W.; Bowers, J. B.; et al. (2021). "Cosmic Distances Calibrated to 1% Precision
+with Gaia EDR3 Parallaxes and Hubble Space Telescope Photometry of 75 Milky Way Cepheids Confirm Tension
+with LambdaCDM" (https://doi.org/10.3847%2F2041-8213%2Fabdbaf). The Astrophysical Journal. 908 (1) L6.
+arXiv:2012.08534 (https://arxiv.org/abs/2012.08534). Bibcode:2021ApJ...908L...6R (https://ui.adsabs.harvard.edu/
+abs/2021ApJ...908L...6R). doi:10.3847/2041-8213/abdbaf (https://doi.org/10.3847%2F2041-8213%2Fabdbaf).
+S2CID 229213131 (https://api.semanticscholar.org/CorpusID:229213131).
+
+111. Baxter, E. J.; Sherwin, B. D. (February 2021). "Determining the Hubble constant without the sound horizon scale:
+measurements from CMB lensing" (https://doi.org/10.1093%2Fmnras%2Fstaa3706). Monthly Notices of the Royal
+Astronomical Society. 501 (2): 1823–1835. arXiv:2007.04007 (https://arxiv.org/abs/2007.04007).
+Bibcode:2021MNRAS.501.1823B (https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.1823B).
+doi:10.1093/mnras/staa3706 (https://doi.org/10.1093%2Fmnras%2Fstaa3706). S2CID 220404332 (https://api.sem
+anticscholar.org/CorpusID:220404332).
+
+
+
+112. Denzel, P.; Coles, J. P.; Saha, P.; Williams, L. L. R. (February 2021). "The Hubble constant from eight time-delay
+galaxy lenses" (https://doi.org/10.1093%2Fmnras%2Fstaa3603). Monthly Notices of the Royal Astronomical
+Society. 501 (1): 784–801. arXiv:2007.14398 (https://arxiv.org/abs/2007.14398). Bibcode:2021MNRAS.501..784D
+(https://ui.adsabs.harvard.edu/abs/2021MNRAS.501..784D). doi:10.1093/mnras/staa3603 (https://doi.org/10.109
+3%2Fmnras%2Fstaa3603). S2CID 220845622 (https://api.semanticscholar.org/CorpusID:220845622).
+
+113. Sedgwick, Thomas M; Collins, Chris A; Baldry, Ivan K; James, Philip A (2020-11-07). "The effects of peculiar
+velocities in SN Ia environments on the local H0 measurement" (https://doi.org/10.1093%2Fmnras%2Fstaa3456).
+Monthly Notices of the Royal Astronomical Society. 500 (3): 3728–3742. arXiv:1911.03155 (https://arxiv.org/abs/19
+11.03155). doi:10.1093/mnras/staa3456 (https://doi.org/10.1093%2Fmnras%2Fstaa3456). ISSN 0035-8711 (http
+s://search.worldcat.org/issn/0035-8711).
+
+114. Anderson, Lauren; Aubourg, Éric; Bailey, Stephen; Beutler, Florian; Bhardwaj, Vaishali; Blanton, Michael; Bolton,
+Adam S.; Brinkmann, J.; Brownstein, Joel R.; Burden, Angela; Chuang, Chia-Hsun (2014-04-21). "The clustering of
+galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: baryon acoustic oscillations in the Data
+Releases 10 and 11 Galaxy samples" (https://doi.org/10.1093%2Fmnras%2Fstu523). Monthly Notices of the Royal
+Astronomical Society. 441 (1): 24–62. doi:10.1093/mnras/stu523 (https://doi.org/10.1093%2Fmnras%2Fstu523).
+hdl:2445/101758 (https://hdl.handle.net/2445%2F101758). ISSN 1365-2966 (https://search.worldcat.org/issn/1365-
+2966).
+
+115. Mukherjee, S.; Ghosh, A.; Graham, M. J.; Karathanasis, C.; et al. (29 September 2020). "First measurement of the
+Hubble parameter from bright binary black hole GW190521". arXiv:2009.14199 (https://arxiv.org/abs/2009.14199)
+[astro-ph.CO (https://arxiv.org/archive/astro-ph.CO)].
+
+116. de Jaeger, T.; Stahl, B.; Zheng, W.; Filippenko, A.V.; et al. (18 June 2020). "A measurement of the Hubble constant
+from Type II supernovae" (https://doi.org/10.1093%2Fmnras%2Fstaa1801). MNRAS. 496 (3): 3402–3411.
+arXiv:2006.03412 (https://arxiv.org/abs/2006.03412). doi:10.1093/mnras/staa1801 (https://doi.org/10.1093%2Fmnr
+as%2Fstaa1801).
+
+117. Shajib, A. J.; Birrer, S.; Treu, T.; Agnello, A.; et al. (14 October 2019). "STRIDES: A 3.9 per cent measurement of
+the Hubble constant from the strongly lensed system DES J0408-5354" (https://doi.org/10.1093%2Fmnras%2Fsta
+a828). Monthly Notices of the Royal Astronomical Society. 494 (4). arXiv:1910.06306 (https://arxiv.org/abs/1910.06
+306). doi:10.1093/mnras/staa828 (https://doi.org/10.1093%2Fmnras%2Fstaa828). S2CID 204509190 (https://api.s
+emanticscholar.org/CorpusID:204509190).
+
+118. Chen, G.C.-F.; Fassnacht, C.D.; Suyu, S.H.; Rusu, C.E.; et al. (12 September 2019). "A SHARP view of H0LiCOW:
+H0 from three time-delay gravitational lens systems with adaptive optics imaging" (https://doi.org/10.1093%2Fmnra
+s%2Fstz2547). Monthly Notices of the Royal Astronomical Society. 490 (2): 1743–1773. arXiv:1907.02533 (https://
+arxiv.org/abs/1907.02533). Bibcode:2019MNRAS.490.1743C (https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.
+1743C). doi:10.1093/mnras/stz2547 (https://doi.org/10.1093%2Fmnras%2Fstz2547). S2CID 195820422 (https://ap
+i.semanticscholar.org/CorpusID:195820422).
+
+119. Dutta, Koushik; Roy, Anirban; Ruchika, Ruchika; Sen, Anjan A.; Sheikh-Jabbari, M. M. (20 August 2019).
+"Cosmology With Low-Redshift Observations: No Signal For New Physics". Phys. Rev. D. 100 (10) 103501.
+arXiv:1908.07267 (https://arxiv.org/abs/1908.07267). Bibcode:2019PhRvD.100j3501D (https://ui.adsabs.harvard.e
+du/abs/2019PhRvD.100j3501D). doi:10.1103/PhysRevD.100.103501 (https://doi.org/10.1103%2FPhysRevD.100.1
+03501). S2CID 201107151 (https://api.semanticscholar.org/CorpusID:201107151).
+
+120. Reid, M. J.; Pesce, D. W.; Riess, A. G. (15 August 2019). "An Improved Distance to NGC 4258 and its Implications
+for the Hubble Constant" (https://doi.org/10.3847%2F2041-8213%2Fab552d). The Astrophysical Journal. 886 (2)
+L27. arXiv:1908.05625 (https://arxiv.org/abs/1908.05625). Bibcode:2019ApJ...886L..27R (https://ui.adsabs.harvar
+d.edu/abs/2019ApJ...886L..27R). doi:10.3847/2041-8213/ab552d (https://doi.org/10.3847%2F2041-8213%2Fab55
+2d). S2CID 199668809 (https://api.semanticscholar.org/CorpusID:199668809).
+
+121. Kenneth C. Wong (2020). "H0LiCOW XIII. A 2.4% measurement of H0 from lensed quasars: 5.3σ tension between
+early and late-Universe probes" (https://doi.org/10.1093%2Fmnras%2Fstz3094). Monthly Notices of the Royal
+Astronomical Society. 498 (1). arXiv:1907.04869 (https://arxiv.org/abs/1907.04869). doi:10.1093/mnras/stz3094 (ht
+tps://doi.org/10.1093%2Fmnras%2Fstz3094). S2CID 195886279 (https://api.semanticscholar.org/CorpusID:19588
+6279).
+
+122. Domínguez, Alberto; et al. (28 March 2019). "A new measurement of the Hubble constant and matter content of
+the Universe using extragalactic background light γ-ray attenuation" (https://doi.org/10.3847%2F1538-4357%2Fab
+4a0e). The Astrophysical Journal. 885 (2) 137. arXiv:1903.12097 (https://arxiv.org/abs/1903.12097).
+Bibcode:2019ApJ...885..137D (https://ui.adsabs.harvard.edu/abs/2019ApJ...885..137D). doi:10.3847/1538-
+4357/ab4a0e (https://doi.org/10.3847%2F1538-4357%2Fab4a0e). S2CID 85543845 (https://api.semanticscholar.or
+g/CorpusID:85543845).
+
+123. Ryan, Joseph; Chen, Yun; Ratra, Bharat (8 February 2019). "Baryon acoustic oscillation, Hubble parameter, and
+angular size measurement constraints on the Hubble constant, dark energy dynamics, and spatial curvature" (http
+s://doi.org/10.1093%2Fmnras%2Fstz1966). Monthly Notices of the Royal Astronomical Society. 488 (3): 3844–
+3856. arXiv:1902.03196 (https://arxiv.org/abs/1902.03196). Bibcode:2019MNRAS.488.3844R (https://ui.adsabs.ha
+rvard.edu/abs/2019MNRAS.488.3844R). doi:10.1093/mnras/stz1966 (https://doi.org/10.1093%2Fmnras%2Fstz196
+6). S2CID 119226802 (https://api.semanticscholar.org/CorpusID:119226802).
+
+
+
+124. Macaulay, E; et al. (DES collaboration) (2018). "First Cosmological Results using Type Ia Supernovae from the
+Dark Energy Survey: Measurement of the Hubble Constant" (https://doi.org/10.1093%2Fmnras%2Fstz978).
+Monthly Notices of the Royal Astronomical Society. 486 (2): 2184–2196. arXiv:1811.02376 (https://arxiv.org/abs/18
+11.02376). doi:10.1093/mnras/stz978 (https://doi.org/10.1093%2Fmnras%2Fstz978). S2CID 119310644 (https://a
+pi.semanticscholar.org/CorpusID:119310644).
+
+125. Birrer, S.; Treu, T.; Rusu, C. E.; Bonvin, V.; Fassnacht, C. D.; Chan, J. H. H.; et al. (2018). "H0LiCOW – IX.
+Cosmographic analysis of the doubly imaged quasar SDSS 1206+4332 and a new measurement of the Hubble
+constant" (https://doi.org/10.1093%2Fmnras%2Fstz200). Monthly Notices of the Royal Astronomical Society. 484
+(4): 4726–4753. arXiv:1809.01274 (https://arxiv.org/abs/1809.01274). Bibcode:2019MNRAS.484.4726B (https://ui.
+adsabs.harvard.edu/abs/2019MNRAS.484.4726B). doi:10.1093/mnras/stz200 (https://doi.org/10.1093%2Fmnras%
+2Fstz200). S2CID 119053798 (https://api.semanticscholar.org/CorpusID:119053798).
+
+126. Planck Collaboration; Aghanim, N.; et al. (2018). "Planck 2018 results. VI. Cosmological parameters". Astronomy
+and Astrophysics. 641 A6. arXiv:1807.06209 (https://arxiv.org/abs/1807.06209). Bibcode:2020A&A...641A...6P (htt
+ps://ui.adsabs.harvard.edu/abs/2020A&A...641A...6P). doi:10.1051/0004-6361/201833910 (https://doi.org/10.105
+1%2F0004-6361%2F201833910).
+
+127. Riess, Adam G.; Casertano, Stefano; Yuan, Wenlong; Macri, Lucas; et al. (2018). "Milky Way Cepheid Standards
+for Measuring Cosmic Distances and Application to Gaia DR2: Implications for the Hubble Constant" (https://doi.or
+g/10.3847%2F1538-4357%2Faac82e). The Astrophysical Journal. 861 (2) 126. arXiv:1804.10655 (https://arxiv.org/
+abs/1804.10655). Bibcode:2018ApJ...861..126R (https://ui.adsabs.harvard.edu/abs/2018ApJ...861..126R).
+doi:10.3847/1538-4357/aac82e (https://doi.org/10.3847%2F1538-4357%2Faac82e). ISSN 0004-637X (https://sear
+ch.worldcat.org/issn/0004-637X). S2CID 55643027 (https://api.semanticscholar.org/CorpusID:55643027).
+
+128. Devlin, Hannah (10 May 2018). "The answer to life, the universe and everything might be 73. Or 67" (https://www.t
+heguardian.com/science/2018/may/10/the-answer-to-life-the-universe-and-everything-might-be-73-or-67). the
+Guardian. Retrieved 13 May 2018.
+
+129. Riess, Adam G.; Casertano, Stefano; Yuan, Wenlong; Macri, Lucas; et al. (22 February 2018). "New parallaxes of
+galactic Cepheids from spatially scanning the Hubble Space Telescope: Implications for the Hubble constant" (http
+s://doi.org/10.3847%2F1538-4357%2Faaadb7). The Astrophysical Journal. 855 (2) 136. arXiv:1801.01120 (https://
+arxiv.org/abs/1801.01120). Bibcode:2018ApJ...855..136R (https://ui.adsabs.harvard.edu/abs/2018ApJ...855..136
+R). doi:10.3847/1538-4357/aaadb7 (https://doi.org/10.3847%2F1538-4357%2Faaadb7). S2CID 67808349 (https://
+api.semanticscholar.org/CorpusID:67808349).
+
+130. Weaver, Donna; Villard, Ray; Hille, Karl (22 February 2018). "Improved Hubble Yardstick Gives Fresh Evidence for
+New Physics in the Universe" (https://www.nasa.gov/feature/goddard/2018/improved-hubble-yardstick-gives-fresh-
+evidence-for-new-physics-in-the-universe). NASA. Retrieved 24 February 2018.
+
+131. The LIGO Scientific Collaboration and The Virgo Collaboration; The 1M2H Collaboration; The Dark Energy
+Camera GW-EM Collaboration and the DES Collaboration; The DLT40 Collaboration; et al. (2017-10-16). "A
+gravitational-wave standard siren measurement of the Hubble constant" (http://www.physics.ufl.edu/~tanner/PDFS/
+Abbott17Nat-HubbleSiren.pdf) (PDF). Nature. 551 (7678): 85–88. arXiv:1710.05835 (https://arxiv.org/abs/1710.058
+35). Bibcode:2017Natur.551...85A (https://ui.adsabs.harvard.edu/abs/2017Natur.551...85A).
+doi:10.1038/nature24471 (https://doi.org/10.1038%2Fnature24471). ISSN 1476-4687 (https://search.worldcat.org/i
+ssn/1476-4687). PMID 29094696 (https://pubmed.ncbi.nlm.nih.gov/29094696). S2CID 205261622 (https://api.sem
+anticscholar.org/CorpusID:205261622). Archived (https://ghostarchive.org/archive/20221009/http://www.physics.uf
+l.edu/~tanner/PDFS/Abbott17Nat-HubbleSiren.pdf) (PDF) from the original on 2022-10-09.
+
+132. Feeney, Stephen M; Peiris, Hiranya V; Williamson, Andrew R; Nissanke, Samaya M; et al. (2019). "Prospects for
+resolving the Hubble constant tension with standard sirens" (https://repository.ubn.ru.nl/handle/2066/201510).
+Physical Review Letters. 122 (6) 061105. arXiv:1802.03404 (https://arxiv.org/abs/1802.03404).
+Bibcode:2019PhRvL.122f1105F (https://ui.adsabs.harvard.edu/abs/2019PhRvL.122f1105F).
+doi:10.1103/PhysRevLett.122.061105 (https://doi.org/10.1103%2FPhysRevLett.122.061105). hdl:2066/201510 (htt
+ps://hdl.handle.net/2066%2F201510). PMID 30822066 (https://pubmed.ncbi.nlm.nih.gov/30822066).
+S2CID 73493934 (https://api.semanticscholar.org/CorpusID:73493934).
+
+133. Vitale, Salvatore; Chen, Hsin-Yu (12 July 2018). "Measuring the Hubble Constant with Neutron Star Black Hole
+Mergers". Physical Review Letters. 121 (2) 021303. arXiv:1804.07337 (https://arxiv.org/abs/1804.07337).
+Bibcode:2018PhRvL.121b1303V (https://ui.adsabs.harvard.edu/abs/2018PhRvL.121b1303V).
+doi:10.1103/PhysRevLett.121.021303 (https://doi.org/10.1103%2FPhysRevLett.121.021303). hdl:1721.1/117110
+(https://hdl.handle.net/1721.1%2F117110). PMID 30085719 (https://pubmed.ncbi.nlm.nih.gov/30085719).
+S2CID 51940146 (https://api.semanticscholar.org/CorpusID:51940146).
+
+134. Bonvin, Vivien; Courbin, Frédéric; Suyu, Sherry H.; et al. (2016-11-22). "H0LiCOW – V. New COSMOGRAIL time
+delays of HE 0435−1223: H0 to 3.8 per cent precision from strong lensing in a flat ΛCDM model" (https://doi.org/1
+0.1093%2Fmnras%2Fstw3006). MNRAS. 465 (4): 4914–4930. arXiv:1607.01790 (https://arxiv.org/abs/1607.0179
+0). Bibcode:2017MNRAS.465.4914B (https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.4914B).
+doi:10.1093/mnras/stw3006 (https://doi.org/10.1093%2Fmnras%2Fstw3006). S2CID 109934944 (https://api.sema
+nticscholar.org/CorpusID:109934944).
+
+
+
+135. Tully, R. Brent; Courtois, Hélène M.; Sorce, Jenny G. (3 August 2016). "COSMICFLOWS-3" (https://doi.org/10.384
+7%2F0004-6256%2F152%2F2%2F50). The Astronomical Journal. 152 (2) 50. arXiv:1605.01765 (https://arxiv.org/
+abs/1605.01765). Bibcode:2016AJ....152...50T (https://ui.adsabs.harvard.edu/abs/2016AJ....152...50T).
+doi:10.3847/0004-6256/152/2/50 (https://doi.org/10.3847%2F0004-6256%2F152%2F2%2F50). S2CID 250737862
+(https://api.semanticscholar.org/CorpusID:250737862).
+
+136. Grieb, Jan N.; Sánchez, Ariel G.; Salazar-Albornoz, Salvador (2016-07-13). "The clustering of galaxies in the
+completed SDSS-III Baryon Oscillation Spectroscopic Survey: Cosmological implications of the Fourier space
+wedges of the final sample" (https://doi.org/10.1093%2Fmnras%2Fstw3384). Monthly Notices of the Royal
+Astronomical Society. 467 (2): 2085–2112. arXiv:1607.03143 (https://arxiv.org/abs/1607.03143).
+Bibcode:2017MNRAS.467.2085G (https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.2085G).
+doi:10.1093/mnras/stw3384 (https://doi.org/10.1093%2Fmnras%2Fstw3384). S2CID 55888085 (https://api.semanti
+cscholar.org/CorpusID:55888085).
+
+137. "The Extended Baryon Oscillation Spectroscopic Survey (eBOSS)" (http://www.sdss.org/surveys/eboss/). SDSS.
+Retrieved 13 May 2018.
+
+138. Riess, Adam G.; Macri, Lucas M.; Hoffmann, Samantha L.; Scolnic, Dan; et al. (2016-04-05). "A 2.4%
+Determination of the Local Value of the Hubble Constant" (https://doi.org/10.3847%2F0004-637X%2F826%2F1%2
+F56). The Astrophysical Journal. 826 (1): 56. arXiv:1604.01424 (https://arxiv.org/abs/1604.01424).
+Bibcode:2016ApJ...826...56R (https://ui.adsabs.harvard.edu/abs/2016ApJ...826...56R). doi:10.3847/0004-
+637X/826/1/56 (https://doi.org/10.3847%2F0004-637X%2F826%2F1%2F56). S2CID 118630031 (https://api.sema
+nticscholar.org/CorpusID:118630031).
+
+139. "Planck Publications: Planck 2015 Results" (http://www.cosmos.esa.int/web/planck/publications). European Space
+Agency. February 2015. Retrieved 9 February 2015.
+
+140. Cowen, Ron; Castelvecchi, Davide (2 December 2014). "European probe shoots down dark-matter claims" (http://
+www.nature.com/news/european-probe-shoots-down-dark-matter-claims-1.16462). Nature.
+doi:10.1038/nature.2014.16462 (https://doi.org/10.1038%2Fnature.2014.16462). Retrieved 6 December 2014.
+
+141. Tully, R. Brent; Courtois, Helene M.; Dolphin, Andrew E.; Fisher, J. Richard; et al. (5 September 2013).
+"Cosmicflows-2: The Data". The Astronomical Journal. 146 (4) 86. arXiv:1307.7213 (https://arxiv.org/abs/1307.721
+3). Bibcode:2013AJ....146...86T (https://ui.adsabs.harvard.edu/abs/2013AJ....146...86T). doi:10.1088/0004-
+6256/146/4/86 (https://doi.org/10.1088%2F0004-6256%2F146%2F4%2F86). ISSN 0004-6256 (https://search.worl
+dcat.org/issn/0004-6256). S2CID 118494842 (https://api.semanticscholar.org/CorpusID:118494842).
+
+142. "Planck reveals an almost perfect universe" (http://www.esa.int/Our_Activities/Space_Science/Planck/Planck_reve
+als_an_almost_perfect_Universe). ESA. 21 March 2013. Retrieved 2013-03-21.
+
+143. "Planck Mission Brings Universe Into Sharp Focus" (http://www.jpl.nasa.gov/news/news.php?release=2013-109&r
+n=news.xml&rst=3739). JPL. 21 March 2013. Retrieved 2013-03-21.
+
+144. Overbye, D. (21 March 2013). "An infant universe, born before we knew" (https://www.nytimes.com/2013/03/22/sci
+ence/space/planck-satellite-shows-image-of-infant-universe.html). New York Times. Retrieved 2013-03-21.
+
+145. Boyle, A. (21 March 2013). "Planck probe's cosmic 'baby picture' revises universe's vital statistics" (https://web.arc
+hive.org/web/20130323235242/http://cosmiclog.nbcnews.com/_news/2013/03/21/17397298-planck-probes-cosmic
+-baby-picture-revises-universes-vital-statistics). NBC News. Archived from the original (http://cosmiclog.nbcnews.c
+om/_news/2013/03/21/17397298-planck-probes-cosmic-baby-picture-revises-universes-vital-statistics) on 2013-
+03-23. Retrieved 2013-03-21.
+
+146. Bennett, C. L.; et al. (2013). "Nine-year Wilkinson Microwave Anisotropy Probe (WMAP) observations: Final maps
+and results". The Astrophysical Journal Supplement Series. 208 (2) 20. arXiv:1212.5225 (https://arxiv.org/abs/121
+2.5225). Bibcode:2013ApJS..208...20B (https://ui.adsabs.harvard.edu/abs/2013ApJS..208...20B).
+doi:10.1088/0067-0049/208/2/20 (https://doi.org/10.1088%2F0067-0049%2F208%2F2%2F20). S2CID 119271232
+(https://api.semanticscholar.org/CorpusID:119271232).
+
+147. Jarosik, N.; et al. (2011). "Seven-year Wilkinson Microwave Anisotropy Probe (WMAP) observations: Sky maps,
+systematic errors, and basic results". The Astrophysical Journal Supplement Series. 192 (2) 14. arXiv:1001.4744
+(https://arxiv.org/abs/1001.4744). Bibcode:2011ApJS..192...14J (https://ui.adsabs.harvard.edu/abs/2011ApJS..19
+2...14J). doi:10.1088/0067-0049/192/2/14 (https://doi.org/10.1088%2F0067-0049%2F192%2F2%2F14).
+S2CID 46171526 (https://api.semanticscholar.org/CorpusID:46171526).
+
+148. Results for H0 and other cosmological parameters obtained by fitting a variety of models to several combinations
+of WMAP and other data are available at the NASA's LAMBDA website (http://lambda.gsfc.nasa.gov/product/map/
+current/parameters.cfm) Archived (https://web.archive.org/web/20140709010232/http://lambda.gsfc.nasa.gov/prod
+uct/map/current/parameters.cfm) 2014-07-09 at the Wayback Machine.
+
+149. Hinshaw, G.; et al. (WMAP Collaboration) (2009). "Five-year Wilkinson Microwave Anisotropy Probe observations:
+Data processing, sky maps, and basic results". The Astrophysical Journal Supplement. 180 (2): 225–245.
+arXiv:0803.0732 (https://arxiv.org/abs/0803.0732). Bibcode:2009ApJS..180..225H (https://ui.adsabs.harvard.edu/a
+bs/2009ApJS..180..225H). doi:10.1088/0067-0049/180/2/225 (https://doi.org/10.1088%2F0067-0049%2F180%2F
+2%2F225). S2CID 3629998 (https://api.semanticscholar.org/CorpusID:3629998).
+
+
+
+150. Spergel, D. N.; et al. (WMAP Collaboration) (2007). "Three-year Wilkinson Microwave Anisotropy Probe (WMAP)
+Observations: Implications for cosmology". The Astrophysical Journal Supplement Series. 170 (2): 377–408.
+arXiv:astro-ph/0603449 (https://arxiv.org/abs/astro-ph/0603449). Bibcode:2007ApJS..170..377S (https://ui.adsabs.
+harvard.edu/abs/2007ApJS..170..377S). doi:10.1086/513700 (https://doi.org/10.1086%2F513700).
+S2CID 1386346 (https://api.semanticscholar.org/CorpusID:1386346).
+
+151. Bonamente, M.; Joy, M. K.; Laroque, S. J.; Carlstrom, J. E.; et al. (2006). "Determination of the cosmic distance
+scale from Sunyaev–Zel'dovich effect and Chandra X-ray measurements of high-redshift galaxy clusters". The
+Astrophysical Journal. 647 (1) 25. arXiv:astro-ph/0512349 (https://arxiv.org/abs/astro-ph/0512349).
+Bibcode:2006ApJ...647...25B (https://ui.adsabs.harvard.edu/abs/2006ApJ...647...25B). doi:10.1086/505291 (http
+s://doi.org/10.1086%2F505291). S2CID 15723115 (https://api.semanticscholar.org/CorpusID:15723115).
+
+152. Planck Collaboration (2013). "Planck 2013 results. XVI. Cosmological parameters". Astronomy & Astrophysics.
+571: A16. arXiv:1303.5076 (https://arxiv.org/abs/1303.5076). Bibcode:2014A&A...571A..16P (https://ui.adsabs.harv
+ard.edu/abs/2014A&A...571A..16P). doi:10.1051/0004-6361/201321591 (https://doi.org/10.1051%2F0004-6361%2
+F201321591). S2CID 118349591 (https://api.semanticscholar.org/CorpusID:118349591).
+
+153. Spergel, D.N. (September 2003). "First-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations:
+Determination of Cosmological Parameters" (https://iopscience.iop.org/article/10.1086/377226/meta). The
+Astrophysical Journal Supplement Series. 148 (1): 175–194. arXiv:astro-ph/0302209 (https://arxiv.org/abs/astro-p
+h/0302209). Bibcode:2003ApJS..148..175S (https://ui.adsabs.harvard.edu/abs/2003ApJS..148..175S).
+doi:10.1086/377226 (https://doi.org/10.1086%2F377226). S2CID 10794058 (https://api.semanticscholar.org/Corpu
+sID:10794058).
+
+154. Riess, Adam G. (January 1995). "Using SN Ia Light Curve Shapes to Measure The Hubble Constant". The
+Astrophysical Journal. 438 (L17). arXiv:astro-ph/9410054 (https://arxiv.org/abs/astro-ph/9410054).
+Bibcode:1995ApJ...438L..17R (https://ui.adsabs.harvard.edu/abs/1995ApJ...438L..17R). doi:10.1086/187704 (http
+s://doi.org/10.1086%2F187704). S2CID 118938423 (https://api.semanticscholar.org/CorpusID:118938423).
+
+155. John P. Huchra (2008). "The Hubble Constant" (https://www.cfa.harvard.edu/~dfabricant/huchra/hubble). Harvard
+Center for Astrophysics.
+
+156. Sandage, A. R. (1958). "Current problems in the extragalactic distance scale". The Astrophysical Journal. 127 (3):
+513–526. Bibcode:1958ApJ...127..513S (https://ui.adsabs.harvard.edu/abs/1958ApJ...127..513S).
+doi:10.1086/146483 (https://doi.org/10.1086%2F146483).
+
+157. Edwin Hubble, A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae, Proceedings of
+the National Academy of Sciences, vol. 15, no. 3, pp. 168-173, March 1929
+
+158. "Hubble's Constant" (https://www.wwu.edu/depts/skywise/hubble_constant.html). Skywise Unlimited – Western
+Washington University.
+
+159. Lemaître, Georges (1927). "Un Univers homogène de masse constante et de rayon croissant rendant compte de
+la vitesse radiale des nébuleuses extra-galactiques". Annales de la Société Scientifique de Bruxelles (in French).
+A47: 49–59. Bibcode:1927ASSB...47...49L (https://ui.adsabs.harvard.edu/abs/1927ASSB...47...49L).
+
+Bibliography
+Hubble, E. P. (1937). The Observational Approach to Cosmology. Clarendon Press. LCCN 38011865 (https://lccn.l
+oc.gov/38011865).
+Kutner, M. (2003). Astronomy: A Physical Perspective (https://archive.org/details/astronomyphysica00kutn).
+Cambridge University Press. ISBN 978-0-521-52927-3.
+Liddle, A. R. (2003). An Introduction to Modern Cosmology (2nd ed.). John Wiley & Sons. ISBN 978-0-470-84835-
+7.
+
+Further reading
+Freedman, W. L.; Madore, B. F. (2010). "The Hubble Constant". Annual Review of Astronomy and Astrophysics. 48
+(1): 673–710. arXiv:1004.1856 (https://arxiv.org/abs/1004.1856). Bibcode:2010ARA&A..48..673F (https://ui.adsab
+s.harvard.edu/abs/2010ARA&A..48..673F). doi:10.1146/annurev-astro-082708-101829 (https://doi.org/10.1146%2
+Fannurev-astro-082708-101829). S2CID 119263173 (https://api.semanticscholar.org/CorpusID:119263173).
+
+External links
+NASA's WMAP B ig Bang Expansion: the Hubble Constant (http://map.gsfc.nasa.gov/universe/bb_tests_exp.html)
+The Hubble Key Project (http://www.ipac.caltech.edu/H0kp/H0KeyProj.html)
+The Hubble Diagram Project (http://cas.sdss.org/dr3/en/proj/advanced/hubble/)
+Coming to terms with different Hubble Constants (https://www.forbes.com/sites/startswithabang/2019/05/03/cosmo
+logys-biggest-conundrum-is-a-clue-not-a-controversy/) (Forbes; 3 May 2019)
+
+
+
+Merrifield, Michael (2009). "Hubble Constant" (http://www.sixtysymbols.com/videos/hubble.htm). Sixty Symbols.
+Brady Haran for the University of Nottingham.
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hubble%27s_law&oldid=1247843292"

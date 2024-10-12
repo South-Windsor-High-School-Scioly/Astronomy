@@ -1,0 +1,315 @@
+﻿GJ 1214 b
+GJ 1214 b (sometimes Gliese 1214 b,[6] also named GJ 1214 b / Enaiposha
+Enaiposha since 2023[2]) is an exoplanet that orbits
+the star GJ 1214, and was discovered in
+December 2009. Its parent star is 48 light-years from
+the Sun, in the constellation Ophiuchus. As of 2017,
+GJ 1214 b is the most likely known candidate for being
+an ocean planet.[1][7] For that reason, scientists often
+call the planet a "waterworld".[8]
+
+Size comparison of Enaiposha with Earth (left)
+It is a super-Earth, meaning it is larger than Earth but is
+
+and Neptune (right). The actual color of
+significantly smaller (in mass and radius) than the gas
+
+Enaiposha is not yet known.
+giants of the Solar System. After CoRoT-7b, it was the
+second super-Earth to have both its mass and radius Discovery[1]
+
+measured[1] and is the first of a new class of planets Discovered by David Charbonneau, et al.
+with small size and relatively low density.[9] GJ 1214 b Discovery site Fred Lawrence Whipple
+is also significant because its parent star is relatively Observatory
+near the Sun and because it transits that parent star, Discovery date December 16, 2009
+which allows the planet's atmosphere to be studied
+
+Detection Transit (MEarth Project)
+using spectroscopic methods.[1]
+
+method
+
+In December 2013, NASA reported that clouds may Designations
+have been detected in the atmosphere of Alternative Enaiposha[2]
+
+GJ 1214 b.[10][11][12][13] names
+Orbital characteristics[3]
+
+Semi-major axis 0.014 90 ± 0.000 26 AU
+Name Eccentricity <0.063
+
+In August 2022, this planet and its host star were Orbital period 1.580 404 571(42) d[4]
+
+(sidereal)
+included among 20 systems to be named by the third
+NameExoWorlds project.[14] The approved names, Inclination 88.7° ± 0.1°
+
+proposed by a team from Kenya, were announced in Semi-amplitude 14.36 ± 0.53 m/s
+June 2023. GJ 1214 b is named Enaiposha and its host Star Orkaria
+star is named Orkaria, after the Maa words for a large Physical characteristics
+body of water and for red ochre, alluding to the likely
+
+Mean radius +0.050
+2.742 [3]
+
+composition of the planet and color of the star.[2] −0.053 R🜨
+Mass 8.17 ± 0.43 M [3]
+
+🜨
+Mean density +0.17
+
+Physical characteristics 2.20 −0.16 g/cm3[3]
+
+Surface gravity +0.71
+10.65 −0.67 m/s2[3] (1.09 g)
+
+Escape velocity +0.53
+19.31
+
+Mass, radius and temperature −0.54 km/s[3]
+
+Albedo 0.51 ± 0.06 (Bond)[5]
+
+
+
+The radius of Temperature 553 ± 9 K (280 °C; 536 °F,
+GJ 1214 b can dayside)[5]
+
+be inferred 437 ± 19 K (164 °C; 327 °F,
+from the nightside)[5]
+
+amount of
+dimming seen
+when the planet crosses in front of its parent star as viewed from
+
+Artist's impression of the planet with +0.050
+a hazy steam atmosphere[15] Earth, yielding a radius of 2.742 −0.053 R🜨.[3] The mass of the
+
+planet can be inferred from sensitive observations of the parent
+star's radial velocity, measured through small shifts in stellar
+spectral lines due to the Doppler effect,[1] yielding a mass of
+8.17 ± 0.43 M🜨.[3] Given the planet's mass and radius, its density
+can be calculated. Through a comparison with theoretical models,
+the density in turn provides limited but highly useful information
+about the composition and structure of the planet.[1]
+
+GJ 1214 b may be cooler than any other known transiting planet
+prior to the discovery of Kepler-16b in 2011 by the Kepler
+
+Artist's impression of GJ 1214 b mission. Its equilibrium temperature is believed to be in the range
+(foreground), illuminated by the red of 393–555 K (120–282 °C; 248–539 °F), depending on how
+light of its parent star (center)
+
+much of the star's radiation is reflected into space.[1][16]
+
+Atmosphere
+Due to the relatively small size of GJ 1214 b's parent star, it is
+feasible to perform spectroscopic observations during planetary
+transits. By comparing the observed spectrum before and during
+transits, the spectrum of the planetary atmosphere can be inferred.
+In December 2010, a study was published showing the spectrum
+to be largely featureless over the wavelength range of 750–
+
+This artist's impression shows how 1000 nm. Because a thick and cloud-free hydrogen-rich
+GJ 1214 b may look as it transits its atmosphere would have produced detectable spectral features,
+parent star. It is the second super- such an atmosphere appears to be ruled out. Although no clear
+Earth for which astronomers have signs were observed of water vapor or any other molecule, the
+determined the mass and radius, authors of the study believe the planet may have an atmosphere
+giving vital clues about its structure. composed mainly of water vapor. Another possibility is that there
+
+may be a thick layer of high clouds, which absorbs the
+starlight.[17] Because of the estimated old age of the planetary system and the calculated hydrodynamic
+escape (loss of gasses that tends to deplete an atmosphere of higher molecular-weight constituents) rate of
+900 tonnes per second, scientists conclude that there has been a significant atmospheric loss during the
+lifetime of the planet and any current atmosphere cannot be primordial.[1] The loss of primordial
+atmosphere was indirectly confirmed in 2020 as no helium was detected at GJ 1214 b.[18] Helium was
+detected in the atmosphere of GJ 1214 b by 2022 though.[19]
+
+Possible compositions
+
+
+
+While very little is known about GJ 1214 b, there has been speculation as to its specific nature and
+composition. On the basis of planetary models[20] it has been suggested that GJ 1214 b has a relatively
+thick gaseous envelope,[9] totaling about 5% of planetary mass.[3] It is possible to propose structures by
+assuming different compositions, guided by scenarios for the formation and evolution of the planet.[9]
+
+GJ 1214 b could be a rocky planet with an outgassed hydrogen-rich atmosphere, a mini-Neptune, or an
+ocean planet.[9] If it is a waterworld, it could possibly be thought of as a bigger and hotter version of
+Jupiter's Galilean moon Europa.[9] While no scientist has stated to believe GJ 1214 b is an ocean planet, if
+GJ 1214 b is assumed to be an ocean planet,[20] i.e. the interior is assumed to be composed primarily of a
+water core surrounded by more water, proportions of the total mass consistent with the mass and radius
+are about 25% rock and 75% water, covered by a thick envelope of gases such as hydrogen and helium
+(c. 0.05%).[1][16] Water planets could result from inward planetary migration and originate as protoplanets
+that formed from volatile ice-rich material beyond the snow-line but that never attained masses sufficient
+to accrete large amounts of H/He nebular gas.[9] Because of the varying pressure at depth, models of a
+water world include "steam, liquid, superfluid, high-pressure ices, and plasma phases" of water.[9] Some
+of the solid-phase water could be in the form of ice VII.[16]
+
+Discovery
+GJ 1214 b was first detected by the MEarth Project, which searches for the small drops in brightness that
+can occur when an orbiting planet briefly passes in front of its parent star. In early 2009, the astronomers
+running the project noticed that the star GJ 1214 appeared to show drops in brightness of that sort. They
+then observed the star more closely and confirmed that it dimmed by roughly 1.5% every 1.58 days.
+Follow-up radial-velocity measurements were then made with the HARPS spectrograph on the ESO's
+3.6-meter telescope at La Silla, Chile; those measurements succeeded in providing independent evidence
+for the reality of the planet. A paper was then published in Nature announcing the planet and giving
+estimates of its mass, radius, and orbital parameters.[1]
+
+See also
+CoRoT-7b
+Gliese 581 c
+Gliese 581 d
+Gliese 876 d
+HD 149026 b
+Lists of astronomical objects
+MOA-2007-BLG-192Lb
+
+References
+1. Charbonneau, David; et al. (2009). "A super-Earth transiting a nearby low-mass star" (http
+
+s://wwelsh.sdsu.edu/~wwelsh/CLASSES/ASTR510/PAPERS/GJ1214_Charbonneau.pdf)
+(PDF). Nature. 462 (7275): 891–894. arXiv:0912.3229 (https://arxiv.org/abs/0912.3229).
+Bibcode:2009Natur.462..891C (https://ui.adsabs.harvard.edu/abs/2009Natur.462..891C).
+doi:10.1038/nature08679 (https://doi.org/10.1038%2Fnature08679). S2CID 4360404 (http
+s://api.semanticscholar.org/CorpusID:4360404).
+
+
+
+2. "2022 Approved Names" (https://www.nameexoworlds.iau.org/2022approved-names).
+nameexoworlds.iau.org. IAU. Retrieved 7 June 2023.
+
+3. Cloutier, Ryan; Charbonneau, David; Deming, Drake; Bonfils, Xavier; Astudillo-Defru, Nicola
+(2021). "A more precise mass for GJ 1214 b and the frequency of multiplanet systems
+around mid-M dwarfs" (https://doi.org/10.3847%2F1538-3881%2Fac1584). The
+Astronomical Journal. 162 (5): 174. arXiv:2107.14732 (https://arxiv.org/abs/2107.14732).
+Bibcode:2021AJ....162..174C (https://ui.adsabs.harvard.edu/abs/2021AJ....162..174C).
+doi:10.3847/1538-3881/ac1584 (https://doi.org/10.3847%2F1538-3881%2Fac1584).
+S2CID 236635146 (https://api.semanticscholar.org/CorpusID:236635146).
+
+4. Kokori, A.; et al. (14 February 2023). "ExoClock Project. III. 450 New Exoplanet
+Ephemerides from Ground and Space Observations" (https://doi.org/10.3847%2F1538-436
+5%2Fac9da4). The Astrophysical Journal Supplement Series. 265 (1) 4. arXiv:2209.09673
+(https://arxiv.org/abs/2209.09673). Bibcode:2023ApJS..265....4K (https://ui.adsabs.harvard.
+edu/abs/2023ApJS..265....4K). doi:10.3847/1538-4365/ac9da4 (https://doi.org/10.3847%2F
+1538-4365%2Fac9da4). Vizier catalog entry (https://vizier.cds.unistra.fr/viz-bin/VizieR-5?-ou
+t.add=.&-source=J/ApJS/265/4/table7&recno=9)
+
+5. Kempton, Eliza M.-R.; Zhang, Michael; et al. (May 2023). "A reflective, metal-rich
+atmosphere for GJ 1214b from its JWST phase curve". Nature. 620 (7972): 67–71.
+arXiv:2305.06240 (https://arxiv.org/abs/2305.06240). doi:10.1038/s41586-023-06159-5 (http
+s://doi.org/10.1038%2Fs41586-023-06159-5).
+
+6. Rein, Hanno; et al. "Open Exoplanet Catalogue – Gliese 1214 b" (http://www.openexoplanet
+catalogue.com/system.html?id=Gliese+1214+b). Open Exoplanet Catalogue. Retrieved
+2 January 2014.
+
+7. Kuchner, Seager; Hier-Majumder, M.; Militzer, C.A. (2007). "Mass–radius relationships for
+solid exoplanets" (http://www.iop.org/EJ/abstract/0004-637X/669/2/1279/). The
+Astrophysical Journal. 669 (2): 1279–1297. arXiv:0707.2895 (https://arxiv.org/abs/0707.289
+5). Bibcode:2007ApJ...669.1279S (https://ui.adsabs.harvard.edu/abs/2007ApJ...669.1279
+S). doi:10.1086/521346 (https://doi.org/10.1086%2F521346). S2CID 8369390 (https://api.se
+manticscholar.org/CorpusID:8369390).
+
+8. "10 real planets that are stranger than science fiction" (https://www.iflscience.com/space/10-
+real-planets-are-stranger-science-fiction). iflscience.com. Retrieved 2015-06-13.
+
+9. Rogers, L.A.; Seager, S. (2010). "Three possible origins for the gas layer on GJ 1214 b".
+The Astrophysical Journal (abstract). 716 (2): 1208–1216. arXiv:0912.3243 (https://arxiv.org/
+abs/0912.3243). Bibcode:2010ApJ...716.1208R (https://ui.adsabs.harvard.edu/abs/2010Ap
+J...716.1208R). doi:10.1088/0004-637X/716/2/1208 (https://doi.org/10.1088%2F0004-637
+X%2F716%2F2%2F1208). S2CID 15288792 (https://api.semanticscholar.org/CorpusID:152
+88792).
+
+10. Harrington, J.D.; Weaver, Donna; Villard, Ray (December 31, 2013). "Release 13-383 –
+NASA's Hubble Sees Cloudy Super-Worlds With Chance for More Clouds" (http://www.nas
+a.gov/press/2013/december/nasas-hubble-sees-cloudy-super-worlds-with-chance-for-more-
+clouds/). NASA. Retrieved January 1, 2014.
+
+11. Moses, Julianne (January 1, 2014). "Extrasolar planets: Cloudy with a chance of dustballs".
+Nature. 505 (7481): 31–32. Bibcode:2014Natur.505...31M (https://ui.adsabs.harvard.edu/ab
+s/2014Natur.505...31M). doi:10.1038/505031a (https://doi.org/10.1038%2F505031a).
+PMID 24380949 (https://pubmed.ncbi.nlm.nih.gov/24380949). S2CID 4408861 (https://api.s
+emanticscholar.org/CorpusID:4408861).
+
+12. Knutson, Heather; et al. (January 1, 2014). "A featureless transmission spectrum for the
+Neptune-mass exoplanet GJ 436b". Nature. 505 (7481): 66–68. arXiv:1401.3350 (https://arx
+iv.org/abs/1401.3350). Bibcode:2014Natur.505...66K (https://ui.adsabs.harvard.edu/abs/201
+4Natur.505...66K). doi:10.1038/nature12887 (https://doi.org/10.1038%2Fnature12887).
+PMID 24380953 (https://pubmed.ncbi.nlm.nih.gov/24380953). S2CID 4454617 (https://api.s
+emanticscholar.org/CorpusID:4454617).
+
+
+
+13. Kreidberg, Laura; et al. (January 1, 2014). "Clouds in the atmosphere of the super-Earth
+exoplanet GJ 1214 b". Nature. 505 (7481): 69–72. arXiv:1401.0022 (https://arxiv.org/abs/14
+01.0022). Bibcode:2014Natur.505...69K (https://ui.adsabs.harvard.edu/abs/2014Natur.505...
+69K). doi:10.1038/nature12888 (https://doi.org/10.1038%2Fnature12888). PMID 24380954
+(https://pubmed.ncbi.nlm.nih.gov/24380954). S2CID 4447642 (https://api.semanticscholar.or
+g/CorpusID:4447642).
+
+14. "List of ExoWorlds 2022" (https://www.nameexoworlds.iau.org/2022exoworlds).
+nameexoworlds.iau.org. IAU. 8 August 2022. Retrieved 27 August 2022.
+
+15. Brennan, Pat (10 May 2023). "NASA's Webb Takes Closest Look Yet at Mysterious Planet"
+(https://www.jpl.nasa.gov/news/nasas-webb-takes-closest-look-yet-at-mysterious-planet).
+NASA. Retrieved 10 May 2023.
+
+16. Aguilar, David A. (2009-12-16). "Astronomers find super-Earth using amateur, off-the-shelf
+technology" (http://www.cfa.harvard.edu/news/2009/pr200924.html). Harvard-Smithsonian
+Center for Astrophysics. Retrieved December 16, 2009.
+
+17. Bean, Jacob L.; Kempton, Eliza Miller-Ricci; Homeier, Derek (2010). "A ground-based
+transmission spectrum of the super-Earth exoplanet GJ 1214 b". Nature. 468 (7324): 669–
+672. arXiv:1012.0331 (https://arxiv.org/abs/1012.0331). Bibcode:2010Natur.468..669B (http
+s://ui.adsabs.harvard.edu/abs/2010Natur.468..669B). doi:10.1038/nature09596 (https://doi.o
+rg/10.1038%2Fnature09596). PMID 21124452 (https://pubmed.ncbi.nlm.nih.gov/21124452).
+S2CID 4412196 (https://api.semanticscholar.org/CorpusID:4412196).
+
+18. Kasper, David; Bean, Jacob L.; Oklopčić, Antonija; Malsky, Isaac; Kempton, Eliza M.-R.;
+Désert, Jean-Michel; Rogers, Leslie A.; Mansfield, Megan (2020). "Nondetection of helium in
+the upper atmospheres of three sub-Neptune exoplanets" (https://doi.org/10.3847%2F1538-
+3881%2Fabbee6). The Astronomical Journal. 160 (6): 258. arXiv:2007.12968 (https://arxiv.o
+rg/abs/2007.12968). doi:10.3847/1538-3881/abbee6 (https://doi.org/10.3847%2F1538-388
+1%2Fabbee6). S2CID 220793801 (https://api.semanticscholar.org/CorpusID:220793801).
+
+19. Orell-Miquel, J.; Murgas, F.; Pallé, E.; Lampón, M.; López-Puertas, M.; Sanz-Forcada, J.;
+Nagel, E.; Kaminski, A.; Casasayas-Barris, N.; Nortmann, L.; Luque, R.; Molaverdikhani, K.;
+Sedaghati, E.; Caballero, J.A.; Amado, P.J.; Bergond, G.; Czesla, S.; Hatzes, A. P.; Henning,
+Th.; Khalafinejad, S.; Montes, D.; Morello, G.; Quirrenbach, A.; Reiners, A.; Ribas, I.;
+Sánchez-López, A.; Schweitzer, A.; Stangret, M.; Yan, F.; Zapatero Osorio, M.R. (2022). "A
+tentative detection of He I in the atmosphere of GJ 1214 b". Astronomy & Astrophysics. 659:
+A55. arXiv:2201.11120 (https://arxiv.org/abs/2201.11120). doi:10.1051/0004-
+6361/202142455 (https://doi.org/10.1051%2F0004-6361%2F202142455).
+S2CID 246285597 (https://api.semanticscholar.org/CorpusID:246285597).
+
+20. Seager, S.; Kuchner, M.; Hier-Majumder, C.A.; Militzer, B. (2007). "Mass–radius
+relationships for solid exoplanets" (http://www.iop.org/EJ/abstract/0004-637X/669/2/1279/).
+The Astrophysical Journal. 669 (2): 1279–1297. arXiv:0707.2895 (https://arxiv.org/abs/0707.
+2895). Bibcode:2007ApJ...669.1279S (https://ui.adsabs.harvard.edu/abs/2007ApJ...669.127
+9S). doi:10.1086/521346 (https://doi.org/10.1086%2F521346). S2CID 8369390 (https://api.s
+emanticscholar.org/CorpusID:8369390).
+
+External links
+ Media related to GJ 1214 b at Wikimedia Commons
+
+"Astronomers find world with thick, inhospitable atmosphere and an icy heart" (http://www.es
+o.org/public/news/eso0950/) (Press release). European Southern Observatory (ESO). 16
+December 2009. Retrieved 10 May 2023.
+"MEarth Project" (https://web.archive.org/web/20120407062743/https://www.cfa.harvard.ed
+u/~zberta/mearth/). Archived from the original (https://www.cfa.harvard.edu/~zberta/mearth/)
+on 7 April 2012.
+
+
+
+"Hubble reveals a new class of planet" (http://www.spacetelescope.org/news/heic1204/)
+(Press release). Baltimore, MD: Space Telescope Science Institute (STScI).
+"Astronomers have claimed the existence of a new class of planet: A "water-world" with a
+thick, steamy atmosphere" (https://www.bbc.co.uk/news/science-environment-17117030).
+BBC News. British Broadcasting Corporation.
+"An update on the atmosphere of super-Earth GJ 1214 b" (https://web.archive.org/web/2012
+0517204636/http://astrobites.com/2011/11/28/an-update-on-the-atmosphere-of-super-earth-
+gj1214b/). Astrobites. 28 November 2011. Archived from the original (http://astrobites.com/2
+011/11/28/an-update-on-the-atmosphere-of-super-earth-gj1214b/) on 17 May 2012.
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=GJ_1214_b&oldid=1241176336"
