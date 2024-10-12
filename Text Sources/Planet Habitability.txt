@@ -1,354 +1,462 @@
-Planetary Habitability
+﻿Planetary Habitability
 
 Don Brownlee
 Heliophysics Summer School
+
 Boulder 2009
 
-What are the limits of “habitability”
-The actual limits of habitability in the Universe are unknown
-And surely unknowable
-Unless et-life visits or sends messages:
+
+
+What are the limits of “habitability”
+
+The actual limits of habitability in the Universe are unknown 
+
+And surely unknowable 
+
+Unless et-life visits or sends messages: 
 we will never know about life outside our local stellar neighborhood
 
 Future knowledge about life
 is probably limited to life around
 the nearest few thousand stars
 
-Planet Making Machine
 
-Planets are a diverse set of bodies
+
+Planet Making Machine
+
+Planets are a diverse set of bodies 
 that have complex evolutionary processes
 
-Habitability - best estimates
+
+
+Habitability - best estimates
+
 Necessarily based on Earth-life
-Habitability issues usually focus on
-environmental requirements that
-that plausibly might support life that is
+
+Habitability issues usually focus on 
+environmental requirements that  
+
+that plausibly might support life that is 
 analogous to Earth life
 
-Standard habitability needs
-Animals (multi-cellular air-breathing)
+
+
+Standard habitability needs
+
+Animals  (multi-cellular air-breathing)
+
 • Restricted environmental needs
 0<T<50 ºC
+
 • Not well adapted to change
-• Species short-lived - easy to extinct
+• Species short-lived - easy to extinct 
 • Need oxygen
 • Took 2.2 by to have O2 in atmosphere
-• Took ~ 4 billion years for animals to become
+• Took ~ 4 billion years for animals to become 
 abundant in the fossil record
-• Difficult to evolve?
 
-Standard habitability needs
+•Difficult to evolve?
+
+
+
+Standard habitability needs
 Microbial organisms
-• Less restricted environmental needs
+
+• Less restricted environmental needs 
+
 -15ºC<T<122 ºC (probably much higher)
 
 • Specific organisms adapted to extreme environments
+
 • Very difficult to extinct, species may last billions of years
+
 • Microscopic, numerous, can remain dormant for long times
+
 • Appear early in Earth history >3.5 AE, easy to evolve?
+
 • Most common life on Earth
 
 • Probably the most common life in the Universe
 
-Habitability of planets involves many
+
+
+Habitability of  planets involves many 
 potential factors
-•
-•
-•
-•
-•
-•
-•
-•
-•
 
-Planet mass
-Planet C, H20 & K content
-Continent/ocean ratio
-Salinity
-Solar, stellar activity
-Planet history
-Magnetic field
-Orbital stability and eccentricity
-Spin rate, obliquity
+• Planet mass
+• Planet C, H20 & K content
+• Continent/ocean ratio
+• Salinity
+• Solar, stellar activity
+• Planet history
+• Magnetic field
+• Orbital stability and eccentricity
+• Spin rate, obliquity
 
-Water
+
+
+Water
+
 a fundamental need for life (as we know it)
-• Surface water - sets restricted environmental
-limits
-• Sub-surface water- wide range of
-occurrences probably in Pluto, certainly in
-Europa, apparently in 500 km Enceladus, in
-many asteroids for millions of years. Interiors
-warmed by accretional heat, radiogenic and
-tidal heat.
 
-Habitable Zone Concept
+• Surface water - sets restricted environmental 
+limits
+
+• Sub-surface water- wide range of 
+occurrences probably in Pluto, certainly in 
+Europa, apparently in 500 km Enceladus, in 
+many asteroids for millions of years. Interiors 
+warmed by accretional heat, radiogenic and 
+tidal heat. 
+
+
+
+Habitable Zone Concept
 An increasingly used & increasingly loosely used concept
 
-The range of distances around a central star
-at which Earth-like planets maintain conditions
-sufficient for the existence of life at the surface.
-First publications:
+The range of distances around a central star 
+at which Earth-like planets maintain conditions 
+sufficient for the existence of life at the surface. 
+
+First publications: 
+
 Huang (1959, 1960), Dole (1964), Shklovski & Sagan (1966)
 
-Most Common Habitable Zone Concept
-The range of distances
+
+
+Most Common Habitable Zone Concept
+
+The range of distances 
 from a star where an Earth-like planet
+
 can have surface water (oceans!)
 
-Too close to star - oceans lost to space
+Too close to star - oceans lost to space 
 (~.95AU for Sun)
-Too far from star - oceans
+
+Too far from star - oceans 
 freeze
 
-Planet surface temperatures
-Teq
+( ~when CO2 ice clouds 
+form)
 
-S(1 A)
-f
+
+
+Planet surface temperatures
 
 1
-4
+
+S(1 A) 4
+
+Teq
+f
 
 A-albedo
+
 S-energy flux
+
 f -redistribution factor
-uniform f 4 (rapid spinner)
+
+uniform f 4 (rapid spinner) 
+
 starlite side only f 2 (slow spinner)
+
 local equilibrium temp f 1 / cos (lunar noon)
 
-Ts ≠ Teq
+
+
+Ts ≠ Teq
+
 Due to greenhouse warming
 
-Venus
+Venus Earth Mars
 
-Earth
+albedo .75 .29 .22
 
-Mars
+Teq (f=4) 231K 255 K 213K
 
-albedo
+Ts mean 737 K 288K 218 K
 
-.75
 
-.29
 
-.22
-
-Teq (f=4)
-
-231K
-
-255 K
-
-213K
-
-Ts mean
-
-737 K
-
-288K
-
-218 K
-
-Inner edge of HZ - steep rise in Ts
+Inner edge of HZ - steep rise in Ts
 
 373 K at .95 AU
 
 273 K at 1 AU
 
-(CO2 free atmosphere )
+(CO2 free atmosphere )             Selsis et al.  2007
 
-Selsis et al. 2007
 
-The rapid rise of surface temperature
+
+The rapid rise of surface temperature 
 Is due to increased water vapor
 
 with atm
+
 no atm
 
 Increased water vapor- more greenhouse
 more Raleigh backscatter
 
-Inner edge of the HZ
+
+
+Inner edge of the HZ
+
 Extreme inner edge
+
 Runaway greenhouse (4 ) emission threshold ~300 Wm-2
-(“solar constant” = 1360 wm-2)
+
+(“solar constant” =  1360 wm-2)
 
 In a runaway -- positive feedback due to water vapor
-Greenhouse drives the surface temperature
+Greenhouse drives the surface temperature 
 > the critical point of water
 
-For Earth & Sun
-Occurs when
+
+
+
+
+
+For Earth & Sun
+Occurs when 
 Seff >1.4
 
-A lesson from Venus
 
-High D/H (100X Earth)- consistent with ocean loss
+
+A lesson from Venus
+
+High D/H  (100X Earth)- consistent with ocean loss 
+
 Loss occurred >1by ago when Sun was >8% fainter
 
-This implies an evidence-based estimate of the
+This implies an evidence-based estimate  of the 
 HZ inner edge of 0.75AU
 
-Moist Greenhouse
-•
-•
-•
-•
-•
 
-Begins ~ 0.95 AU, Ts ~ 340K
-Hi water vapor abundance >20%
-Tropopause lifts
-Stratospheric PH2O increases
-Tropopause “cold- trap” ceases to limit water
-loss
+
+
+
+
+Moist Greenhouse
+
+• Begins ~ 0.95 AU,    Ts ~ 340K
+
+• Hi water vapor abundance >20%
+
+• Tropopause lifts
+
+• Stratospheric PH2O increases
+
+• Tropopause “cold- trap” ceases to limit water 
+loss 
+
 • H2O photolyzed- H is lost to space
+
 • Depletes ocean <109 yrs
 
-Water mixing into the upper atmosphere & space
+
+
+Water mixing into the upper atmosphere & space
 
 Kasting et al
 
-Apollo 16
 
-Earth’s ocean-free
+
+Apollo 16
+
+
+
+
+
+
+Earth’s ocean-free 
 future
 
-Outer edge of the HZ
+
+
+Outer edge of the HZ
+
 Formation of CO2 clouds leads to “Snowball Earth”
+
 Ts > 273 K to prevent ice-albedo positive feedback
-(when ice cap reaches a critical latitude
-increased albedo causes global freeze-over)
+(when ice cap reaches a critical latitude 
+increased albedo causes global freeze-over) 
 
 Estimates
 1.37 AU for CO2 cloud formation
 1.67 AU max greenhouse for cloud-free Earth
-2.4 AU optimized warming by CO2 clouds
+2.4 AU optimized warming by CO2 clouds 
 
-A detailed HZ estimation for planets around Gliese 581
+
+
+A detailed HZ estimation for planets around Gliese 581
 Three super-Earth mass planets around 0.4MSun M star
 
 QuickTime™ and a
-decompressor
-are needed to see this picture.
+ decompressor
 
-Selsis et al. 2007
+are needed to see this picture. L Teff(k)
 
-L
+Sun 1 5600
 
-Teff(k)
+Gl581 .01 3200
 
-Sun
+Selsis et al. 2007 
 
-1
 
-5600
 
-Gl581
-
-.01
-
-3200
-
-HZ complexities for different types of stars
+HZ complexities for different types of stars
 
 QuickTime™ and a
-decompressor
+ decompressor
+
 are needed to see this picture.
 
 Effects of central star temperature
 
-Ts assumed to remain constant
+
+
+
+
+
+Ts assumed to remain constant
 due to carbonate-silicate cycle
 
-stabilizes Ts
-widens the HZ
 
-Long-term effects due to the slow brightening
+
+stabilizes Ts
+
+widens the  HZ
+
+
+
+Long-term effects due to the slow brightening of the Sun
 
 dL
-dt
-
 10% / billion years
 
-The loss of CO2 ends the age of planets and
+dt
+
+The loss of CO2 ends the age of planets and 
 animals
 
-The Photosynthetic “Habitable Zone” (pHZ)
+
+
+
+
+
+The Photosynthetic “Habitable Zone” (pHZ)
 
 pHZ definition
 H20 on surface
 CO2 in the air
 
-Biological Productivity
+
+
+Biological Productivity
+a function of surface temperature & CO2 partial pressure
 
 Biological Productivity
 
-a function of surface temperature & CO2 partial pressure
 
-The Sun’s last 300 million years
-tip of RGB
+
+
+
+
+The Sun’s last 300 million years
+tip of RGB tip of AGB
 
 Earth’s orbit
+
 Sun’s mass
 
 Schroder & Smith 2008
+
 Schroder & Cuntz 2007
 
-tip of AGB
 
-Earth’s last 3 million years
-Doomsday just before the tip of the
+
+Earth’s last 3 million years
+Doomsday just before the tip of the 
 RGB
 
 Sun’s mass
 
-Schroder & Smith 2008, Schroder & Cuntz 2007
+Schroder & Smith 2008,  Schroder & Cuntz 2007
 
-The ultimate fate of all stars with planets
+
+
+The ultimate fate of all stars with planets
 
 Lifetime = f (star mass)
 
-What is an earth-like planet ?
 
-Other habitability issues
 
-Stellar activity - “burning off” atmospheres
+What is an earth-like planet ?
+
+
+
+Other habitability issues
+
+
+
+Stellar activity - “burning off” atmospheres
 
 QuickTime™ and a
-decompressor
+ decompressor
+
 are needed to see this picture.
 
 Probably most important for low mass planets - like Mars
-Earth may also have lost appreciable early water & volatiles
-129I (t
-40K decay product retained
-1/2 - 17my) decay product lost,
 
-HZ is “descreened when solar wind bow shock pushed to HZ
+Earth may also have lost appreciable early water & volatiles
+129I (t1/2 - 17my) decay product lost, 40K decay product retained
+
+
+
+HZ is “descreened when solar wind bow shock pushed to HZ
 Allows GCRs + IS dust and gas to impact HZ planets
 
 QuickTime™ and a
-decompressor
+ decompressor
+
 are needed to see this picture.
 
-Happens every 1-10Gy for Solar like stars Smith & Scalo 2009
+Happens every 1-10Gy for Solar like stars   Smith & Scalo 2009
 Injected H reacts with O2 to form H2O depleting ozone layer
 
-Zahnle et al.
 
-THE CONTINENTAL GROWTH MODEL
 
-Plate Tectonics (unique to Earth)
+
+
+
+
+
+
+
+
+
+Zahnle et al. 
+
+
+
+THE CONTINENTAL GROWTH MODEL
+
+
+
+Plate Tectonics  (unique to Earth)   
 CO to atmosphere - stabilizes atmosphere - source of land
+
 2
 
-250 my ago
-Permo-Triassic
+
+
+250 my ago
+Permo-Triassic 
+
 Extinction
+
 “The Great Dying”
 
 Today
@@ -356,74 +464,85 @@ Today
 250 my
 from now
 
-The remarkable effects of tilt (obliquity)
-tilt angle
+
+
+
+
+
+The remarkable effects of tilt (obliquity)
 
 energy at pole
-energy at equator
+tilt angle energy at equator
 
-0˚
+0˚ 0
 
-0
+22.5˚ .4
 
-22.5˚
+45˚ .9
 
-.4
+60˚ 1.1
 
-45˚
+90˚ 1.6
 
-.9
 
-60˚
 
-1.1
-
-90˚
-
-1.6
-
-Mars tilt angle (obliquity) over time
-
-Tilt angle
-(degrees)
+Mars tilt angle (obliquity) over time
 
 Mars is highly unstable
 
-numerical simulations
+numerical simulations 
 Armstrong et al. 2003
 
-Earth’s tilt angle is very
+Earth’s tilt angle is very 
 stable
-Stabilized by our large
 
-QuickTime™ and a
-decompressor
+Stabilized by our large 
+Moon
+
+Tilt angle 
+(degrees)
+
+
+
+QuickTime™ and a
+ decompressor
+
 are needed to see this picture.
 
 Earth mass
 
-Hot Jupiters
+
+
+Hot Jupiters
 
 Jupiter
 
 Earth
 
-Number of habitable planets vs time for Milky Way
+
+
+
+
+
+Number of habitable planets vs time for Milky Way
 
 Bloh 2002
 
-Galactic Habitable Zone
+
+
+Galactic Habitable Zone 
 good stars in good places & times
 
 Lineweaver
 
-Kepler - Planet Transit Telescope
+
+
+Kepler - Planet Transit Telescope
 
 QuickTime™ and a
 TIFF (LZW) decompressor
+
 are needed to see this picture.
 
 Determine the frequency of terrestrial and larger planets in or near
 the habitable zone of a wide variety of spectral types of stars
-
-

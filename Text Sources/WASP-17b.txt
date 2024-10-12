@@ -1,0 +1,232 @@
+﻿WASP-17b
+WASP-17b, officially named Ditsö,̀ is an exoplanet in WASP-17b / Ditsö̀
+the constellation Scorpius that is orbiting the star
+WASP-17. Its discovery was announced on 11 August
+2009.[1] It is the first planet discovered to have a
+retrograde orbit, meaning it orbits in a direction
+counter to the rotation of its host star.[1] This discovery
+challenged traditional planetary formation theory.[4] In
+terms of diameter, WASP-17b is one of the largest
+exoplanets discovered and at half Jupiter's mass, this Size comparison of
+made it the most puffy planet known in 2010.[5] On 3 Jupiter with Ditsö̀
+December 2013, scientists working with the Hubble Discovery[1]
+Space Telescope reported detecting water in the
+exoplanet's atmosphere.[6][7] Discovered by David R. Anderson et al
+
+Discovery date 11 August 2009
+WASP-17b's name was selected in the Detection Transit (including secondary
+NameExoWorlds campaign by Costa Rica, during the method eclipse)
+100th anniversary of the International Astronomical
+Union. Ditsö ̀is the name that the god Sibö ̀gave to the Orbital characteristics[2]
+
+first Bribri people in Talamancan mythology.[8][9] Semi-major axis 0.051 51 ± 0.000 35 AU
+
+Eccentricity <0.020
+
+Orbital period 3.735 4845 ± 0.000 0019 d
+Discovery (sidereal)
+
+Inclination +0.68°
+86.83°
+
+A team of researchers led by David Anderson of Keele −0.53°
+
+University in Staffordshire, England, discovered the Argument of −70
+periastron
+
+gas giant, which is about 1,000 light-years (310
+parsecs) from Earth, by observing it transiting its host Semi-amplitude +4.1
+
+56.0 −4.0 m/s
+star WASP-17. Such photometric observations also Star WASP-17
+reveal the planet's size. The discovery was made with a Physical characteristics[2]
+telescope array at the South African Astronomical
+Observatory. Due to the involvement of the Wide Mean radius 1.991 ± 0.081 RJ
+
+Angle Search for Planets SuperWASP consortium of Mass 0.512 ± 0.037 MJ
+universities, the exoplanet, as the 17th found to date by Mean density +0.013
+
+0.080 −0.011 g/cm3
+this group, was given its present name.[10]
+
+Temperature +170
+1,550 −200 K[3]
+
+Astronomers at the Observatory of Geneva were then
+able to use characteristic redshifts and blueshifts in the
+host star's spectrum as its radial velocity varied over the course of the planet's orbit to measure the
+
+
+
+planet's mass and obtain an indication of its orbital eccentricity.[1] Careful examination of the Doppler
+shifts during transits also allowed them to determine the direction of the planet's orbital motion relative to
+its parent star's rotation via the Rossiter–McLaughlin effect.[1]
+
+Orbit
+WASP-17b is thought to have a retrograde orbit (with a sky-projected inclination of the orbit normal
+against the stellar spin axis of about 149°,[11] not to be confused with the line-of-sight inclination of the
+orbit, given in the table, which is near 90° for all transiting planets), which would make it the first planet
+discovered to have such an orbital motion. It was found by measuring the Rossiter–McLaughlin effect of
+the planet on the star's Doppler signal as it transited, in which whichever of the star's hemispheres is
+turning toward or away from Earth will show a slight blueshift or redshift which is dampened by the
+transiting planet. Scientists are not yet sure why the planet orbits opposite to the star's rotation. Theories
+include a gravitational slingshot resulting from a near-collision with another planet, or the intervention of
+a smaller planet-like body working to gradually change WASP-17b's orbit by tilting it via the Kozai
+mechanism.[12] Spin-orbit angle measurement was updated in 2012 to −148.7+7.7
+
+−6.7°.[13]
+
+Physical properties
+WASP-17b has a radius between 1.5 and 2 times that of Jupiter and about half the mass.[1] Thus its mean
+density is between 0.08 and 0.19 g/cm3,[1] compared with Jupiter's 1.326 g/cm3[14] and Earth's 5.515
+g/cm3 (the density of water is 1 g/cm3). The unusually low density is thought to be a consequence of a
+combination of the planet's orbital eccentricity and its proximity to its parent star (less than one seventh
+of the distance between Mercury and the Sun), leading to tidal flexing and heating of its interior.[1] The
+same mechanism is behind the intense volcanic activity of Jupiter's moon Io. WASP-39b has a similarly
+low estimated density.
+
+Exoplanetary sodium in the atmosphere of the WASP-17 has been detected in 2018,[3] but was not
+confirmed by 2021. Instead, the spectral signatures of water, aluminium oxide (AlO) and titanium hydride
+(TiH) were detected.[15] The water signature was confirmed in 2022, together with carbon dioxide
+absorption.[16] In 2023, evidence of clouds made of quartz was detected on the planet by the James Webb
+Space Telescope.[17][18]
+
+
+
+Comparison of "hot Jupiter" exoplanets (artist concept)
+
+From top left to lower right: WASP-12b, WASP-6b, WASP-31b,
+WASP-39b, HD 189733 b, HAT-P-12b, WASP-17b, WASP-19b,
+HAT-P-1b and HD 209458 b
+
+This is a transmission spectrum of the hot gas giant exoplanet
+WASP-17 b captured by Webb's Mid-Infrared Instrument (MIRI) on
+12–13 March 2023. It reveals the first evidence for quartz
+(crystalline silica, SiO2) in the clouds of an exoplanet.[19]
+
+See also
+HAT-P-7b, another exoplanet announced to have a retrograde orbit the day after the WASP-
+17b announcement
+TrES-4b, another large exoplanet with a low density
+List of exoplanet extremes
+
+References
+1. Anderson, D. R.; et al. (2010). "WASP-17b: An Ultra-Low Density Planet in a Probable
+
+Retrograde Orbit". The Astrophysical Journal. 709 (1): 159–167. arXiv:0908.1553 (https://ar
+xiv.org/abs/0908.1553). Bibcode:2010ApJ...709..159A (https://ui.adsabs.harvard.edu/abs/20
+
+
+
+10ApJ...709..159A). doi:10.1088/0004-637X/709/1/159 (https://doi.org/10.1088%2F0004-63
+7X%2F709%2F1%2F159). S2CID 53628741 (https://api.semanticscholar.org/CorpusID:536
+28741).
+
+2. Bonomo, A. S.; Desidera, S.; et al. (June 2017). "The GAPS Programme with HARPS-N at
+TNG. XIV. Investigating giant planet migration history via improved eccentricity and mass
+determination for 231 transiting planets". Astronomy & Astrophysics. 602: A107.
+arXiv:1704.00373 (https://arxiv.org/abs/1704.00373). Bibcode:2017A&A...602A.107B (http
+s://ui.adsabs.harvard.edu/abs/2017A&A...602A.107B). doi:10.1051/0004-6361/201629882
+(https://doi.org/10.1051%2F0004-6361%2F201629882). S2CID 118923163 (https://api.sem
+anticscholar.org/CorpusID:118923163).
+
+3. Khalafinejad, Sara; Salz, Michael; et al. (October 2018). "The atmosphere of WASP-17b:
+Optical high-resolution transmission spectroscopy" (https://doi.org/10.1051%2F0004-6361%
+2F201732029). Astronomy & Astrophysics. 618: A98. arXiv:1807.10621 (https://arxiv.org/ab
+s/1807.10621). Bibcode:2018A&A...618A..98K (https://ui.adsabs.harvard.edu/abs/2018A&
+A...618A..98K). doi:10.1051/0004-6361/201732029 (https://doi.org/10.1051%2F0004-636
+1%2F201732029). S2CID 119007114 (https://api.semanticscholar.org/CorpusID:11900711
+4).
+
+4. "A planet going the wrong way" (http://www.physorg.com/news/2011-06-planet-wrong.html),
+Phys Org. June 7, 2011. Accessed June 10, 2011
+
+5. Kaufman, Rachel (17 August 2009). " "Backward" Planet Has Density of Foam Coffee Cups"
+(https://web.archive.org/web/20090820034615/http://news.nationalgeographic.com/news/20
+09/08/090817-new-planet-orbits-backward.html). National Geographic. National Geographic
+Society. Archived from the original (http://news.nationalgeographic.com/news/2009/08/0908
+17-new-planet-orbits-backward.html) on August 20, 2009. Retrieved 6 February 2011.
+
+6. "Hubble Traces Subtle Signals of Water on Hazy Worlds" (http://www.nasa.gov/content/godd
+ard/hubble-traces-subtle-signals-of-water-on-hazy-worlds/). NASA. 3 December 2013.
+Retrieved 4 December 2013.
+
+7. Mandell, Avi M.; Haynes, Korey; Sinukoff, Evan; Madhusudhan, Nikku; Burrows, Adam;
+Deming, Drake (3 December 2013). "Exoplanet Transit Spectroscopy Using WFC3: WASP-
+12 b, WASP-17 b, and WASP-19 b". Astrophysical Journal. 779 (2): 128. arXiv:1310.2949 (h
+ttps://arxiv.org/abs/1310.2949). Bibcode:2013ApJ...779..128M (https://ui.adsabs.harvard.ed
+u/abs/2013ApJ...779..128M). doi:10.1088/0004-637X/779/2/128 (https://doi.org/10.1088%2
+F0004-637X%2F779%2F2%2F128). S2CID 52997396 (https://api.semanticscholar.org/Corp
+usID:52997396).
+
+8. "Approved names" (http://www.nameexoworlds.iau.org/final-results). NameExoworlds.
+Retrieved 2020-01-02.
+
+9. "100 000s of People from 112 Countries Select Names for Exoplanet Systems In
+Celebration of IAU's 100th Anniversary" (https://www.iau.org/news/pressreleases/detail/iau1
+912/). International Astronomical Union. Retrieved 2020-01-02.
+
+10. Rincon, Paul (August 13, 2009). "New planet displays exotic orbit" (http://news.bbc.co.uk/2/
+hi/science/nature/8197683.stm). BBC News. Retrieved 2009-08-13.
+
+11. Amaury H.M.J. Triaud et al. Spin-orbit angle measurements for six southern transiting
+planets. Accepted for publication in A&A 2010. arXiv preprint (https://arxiv.org/abs/1008.235
+3)
+
+12. Grossman, Lisa (August 13, 2009). "Planet found orbiting its star backwards" (https://www.n
+ewscientist.com/article/dn17603-planet-found-orbiting-its-star-backwards-for-first-time.html?f
+ull=true). New Scientist. Retrieved 2009-08-13.
+
+
+
+13. Albrecht, Simon; Winn, Joshua N.; Johnson, John A.; Howard, Andrew W.; Marcy, Geoffrey
+W.; Butler, R. Paul; Arriagada, Pamela; Crane, Jeffrey D.; Shectman, Stephen A.;
+Thompson, Ian B.; Hirano, Teruyuki; Bakos, Gaspar; Hartman, Joel D. (2012), "Obliquities of
+Hot Jupiter Host Stars: Evidence for Tidal Interactions and Primordial Misalignments", The
+Astrophysical Journal, 757 (1): 18, arXiv:1206.6105 (https://arxiv.org/abs/1206.6105),
+Bibcode:2012ApJ...757...18A (https://ui.adsabs.harvard.edu/abs/2012ApJ...757...18A),
+doi:10.1088/0004-637X/757/1/18 (https://doi.org/10.1088%2F0004-637X%2F757%2F1%2F
+18), S2CID 17174530 (https://api.semanticscholar.org/CorpusID:17174530)
+
+14. "Jupiter Fact Sheet" (http://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html).
+Retrieved 2009-08-13.
+
+15. Saba, Arianna; Tsiaras, Angelos; Morvan, Mario; Thompson, Alexandra; Changeat, Quentin;
+Edwards, Billy; Jolly, Andrew; Waldmann, Ingo; Tinetti, Giovanna (2022), "The Transmission
+Spectrum of WASP-17 b from the Optical to the Near-infrared Wavelengths: Combining
+STIS, WFC3, and IRAC Data Sets", The Astronomical Journal, 164 (1): 2, arXiv:2108.13721
+(https://arxiv.org/abs/2108.13721), Bibcode:2022AJ....164....2S (https://ui.adsabs.harvard.ed
+u/abs/2022AJ....164....2S), doi:10.3847/1538-3881/ac6c01 (https://doi.org/10.3847%2F1538
+-3881%2Fac6c01), S2CID 237363318 (https://api.semanticscholar.org/CorpusID:23736331
+8)
+
+16. Alderson, L.; Wakeford, H. R.; MacDonald, R. J.; Lewis, N. K.; May, E. M.; Grant, D.; Sing,
+D. K.; Stevenson, K. B.; Fowler, J.; Goyal, J.; Batalha, N. E.; Kataria, T. (2022), "A
+comprehensive analysis of WASP-17b's transmission spectrum from space-based
+observations", Monthly Notices of the Royal Astronomical Society, 512 (3): 4185–4209,
+arXiv:2203.02434 (https://arxiv.org/abs/2203.02434), doi:10.1093/mnras/stac661 (https://do
+i.org/10.1093%2Fmnras%2Fstac661)
+
+17. Grant, David; Lewis, Nikole K.; et al. (October 2023). "WST-TST DREAMS: Quartz Clouds
+in the Atmosphere of WASP-17b" (https://doi.org/10.3847%2F2041-8213%2Facfc3b). The
+Astrophysical Journal Letters. 956 (2): L29. arXiv:2310.08637 (https://arxiv.org/abs/2310.08
+637). Bibcode:2023ApJ...956L..32G (https://ui.adsabs.harvard.edu/abs/2023ApJ...956L..32
+G). doi:10.3847/2041-8213/acfc3b (https://doi.org/10.3847%2F2041-8213%2Facfc3b).
+
+18. "NASA's Webb Detects Tiny Quartz Crystals in Clouds of Hot Gas Giant" (https://webbtelesc
+ope.org/contents/news-releases/2023/news-2023-140). webbtelescope.org. STScI. 16
+October 2023. Retrieved 16 October 2023.
+
+19. "Composition of cloud particles - hot gas giant exoplanet WASP-17b" (https://esawebb.org/i
+mages/WASP17b/). October 20, 2023.
+
+External links
+ Media related to WASP-17b at Wikimedia Commons
+
+Alexander, Amir. Scientists Detect "Wrong-Way" Planet. [1] (http://www.planetary.org/news/2
+009/0812_Scientists_Detect_WrongWay_Planet.html) Archived (https://web.archive.org/we
+b/20090816085545/http://www.planetary.org/news/2009/0812_Scientists_Detect_WrongWa
+y_Planet.html) 2009-08-16 at the Wayback Machine The Planetary Society, August 12,
+2009. Accessed August 14, 2009.
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=WASP-17b&oldid=1243541722"

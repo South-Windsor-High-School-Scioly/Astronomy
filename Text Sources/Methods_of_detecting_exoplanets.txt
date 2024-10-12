@@ -1,0 +1,1517 @@
+﻿Methods of detecting exoplanets
+Any planet is an extremely faint light source compared to its parent star. For
+example, a star like the Sun is about a billion times as bright as the reflected light
+from any of the planets orbiting it. In addition to the intrinsic difficulty of detecting
+such a faint light source, the light from the parent star causes a glare that washes it
+out. For those reasons, very few of the exoplanets reported as of January 2024 have
+been observed directly, with even fewer being resolved from their host star.
+
+Instead, astronomers have generally had to resort to indirect methods to detect
+extrasolar planets. As of 2016, several different indirect methods have yielded
+success.
+
+Established detection methods
+Number of extrasolar planet discoveries per year through 2022,
+
+The following methods have at least once proved successful for discovering a new with colors indicating method of detection:
+planet or detecting an already discovered planet:
+
+  Direct imaging
+  Microlensing
+
+Radial velocity   Transit
+  Radial velocity
+
+A star with a planet will move in its own small orbit in response to the planet's   Timing
+gravity. This leads to variations in the speed with which the star moves toward or
+away from Earth, i.e. the variations are in the radial velocity of the star with respect
+to Earth. The radial velocity can be deduced from the displacement in the parent star's spectral lines due to the
+Doppler effect.[1] The radial-velocity method measures these variations in order to confirm the presence of the
+planet using the binary mass function.
+
+The speed of the star around the system's center of mass is much smaller than that of the planet, because the
+radius of its orbit around the center of mass is so small. (For example, the Sun moves by about 13 m/s due to
+Jupiter, but only about 9 cm/s due to Earth). However, velocity variations down to 3 m/s or even somewhat less
+can be detected with modern spectrometers, such as the HARPS (High Accuracy Radial Velocity Planet Searcher)
+spectrometer at the ESO 3.6 meter telescope in La Silla Observatory, Chile, the HIRES spectrometer at the Keck Radial velocity graph of 18 Delphini
+telescopes or EXPRES at the Lowell Discovery Telescope. An especially simple and inexpensive method for b.
+
+measuring radial velocity is "externally dispersed interferometry".[2]
+
+Until around 2012, the radial-velocity method (also known as Doppler spectroscopy) was by far the most productive technique used by planet hunters.
+(After 2012, the transit method from the Kepler space telescope overtook it in number.) The radial velocity signal is distance independent, but requires
+high signal-to-noise ratio spectra to achieve high precision, and so is generally used only for relatively nearby stars, out to about 160 light-years from
+Earth, to find lower-mass planets. It is also not possible to simultaneously observe many target stars at a time with a single telescope. Planets of Jovian
+mass can be detectable around stars up to a few thousand light years away. This method easily finds massive planets that are close to stars. Modern
+spectrographs can also easily detect Jupiter-mass planets orbiting 10 astronomical units away from the parent star, but detection of those planets requires
+many years of observation. Earth-mass planets are currently detectable only in very small orbits around low-mass stars, e.g. Proxima b.
+
+It is easier to detect planets around low-mass stars, for two reasons: First, these stars are more affected by gravitational tug from planets. The second
+reason is that low-mass main-sequence stars generally rotate relatively slowly. Fast rotation makes spectral-line data less clear because half of the star
+quickly rotates away from observer's viewpoint while the other half approaches. Detecting planets around more massive stars is easier if the star has left
+the main sequence, because leaving the main sequence slows down the star's rotation.
+
+Sometimes Doppler spectrography produces false signals, especially in multi-planet and multi-star systems. Magnetic fields and certain types of stellar
+activity can also give false signals. When the host star has multiple planets, false signals can also arise from having insufficient data, so that multiple
+solutions can fit the data, as stars are not generally observed continuously.[3] Some of the false signals can be eliminated by analyzing the stability of the
+planetary system, conducting photometry analysis on the host star and knowing its rotation period and stellar activity cycle periods.
+
+Planets with orbits highly inclined to the line of sight from Earth produce smaller visible wobbles, and are thus more difficult to detect. One of the
+advantages of the radial velocity method is that eccentricity of the planet's orbit can be measured directly. One of the main disadvantages of the radial-
+velocity method is that it can only estimate a planet's minimum mass ( ). The posterior distribution of the inclination angle i depends on the
+true mass distribution of the planets.[4] However, when there are multiple planets in the system that orbit relatively close to each other and have
+sufficient mass, orbital stability analysis allows one to constrain the maximum mass of these planets. The radial-velocity method can be used to confirm
+findings made by the transit method. When both methods are used in combination, then the planet's true mass can be estimated.
+
+
+
+Although radial velocity of the star only gives a planet's minimum mass, if the planet's spectral lines can be distinguished from the star's spectral lines
+then the radial velocity of the planet itself can be found, and this gives the inclination of the planet's orbit. This enables measurement of the planet's
+actual mass. This also rules out false positives, and also provides data about the composition of the planet. The main issue is that such detection is
+possible only if the planet orbits around a relatively bright star and if the planet reflects or emits a lot of light.[5]
+
+Transit photometry
+
+Technique, advantages, and disadvantages
+While the radial velocity method provides information about a planet's mass, the photometric method can
+determine the planet's radius. If a planet crosses (transits) in front of its parent star's disk, then the observed
+visual brightness of the star drops by a small amount, depending on the relative sizes of the star and the planet.[6]
+
+For example, in the case of HD 209458, the star dims by 1.7%. However, most transit signals are considerably
+smaller; for example, an Earth-size planet transiting a Sun-like star produces a dimming of only 80 parts per
+million (0.008 percent).
+
+A theoretical transiting exoplanet light curve model predicts the following characteristics of an observed
+planetary system: transit depth (δ), transit duration (T), the ingress/egress duration (τ), and period of the Graph showing dips in brightness in
+exoplanet (P). However, these observed quantities are based on several assumptions. For convenience in the TRAPPIST-1 star by the planet's
+
+calculations, we assume that the planet and star are spherical, the stellar disk is uniform, and the orbit is circular. transits or obstruction of starlight.
+
+Depending on the relative position that an observed transiting exoplanet is while transiting a star, the observed Larger planets create deeper dips
+and further planets create longer
+
+physical parameters of the light curve will change. The transit depth (δ) of a transiting light curve describes the dips.
+decrease in the normalized flux of the star during a transit. This details the radius of an exoplanet compared to the
+radius of the star. For example, if an exoplanet transits a solar radius size star, a planet with a larger radius would
+increase the transit depth and a planet with a smaller radius would decrease the transit depth. The transit duration (T) of an exoplanet is the length of
+time that a planet spends transiting a star. This observed parameter changes relative to how fast or slow a planet is moving in its orbit as it transits the
+star. The ingress/egress duration (τ) of a transiting light curve describes the length of time the planet takes to fully cover the star (ingress) and fully
+uncover the star (egress). If a planet transits from the one end of the diameter of the star to the other end, the ingress/egress duration is shorter because it
+takes less time for a planet to fully cover the star. If a planet transits a star relative to any other point other than the diameter, the ingress/egress duration
+lengthens as you move further away from the diameter because the planet spends a longer time partially covering the star during its transit.[7] From these
+observable parameters, a number of different physical parameters (semi-major axis, star mass, star radius, planet radius, eccentricity, and inclination) are
+determined through calculations. With the combination of radial velocity measurements of the star, the mass of the planet is also determined.
+
+This method has two major disadvantages. First, planetary transits are observable only when the planet's orbit
+happens to be perfectly aligned from the astronomers' vantage point. The probability of a planetary orbital plane
+being directly on the line-of-sight to a star is the ratio of the diameter of the star to the diameter of the orbit (in
+small stars, the radius of the planet is also an important factor). About 10% of planets with small orbits have such
+an alignment, and the fraction decreases for planets with larger orbits. For a planet orbiting a Sun-sized star at 1
+AU, the probability of a random alignment producing a transit is 0.47%. Therefore, the method cannot guarantee
+that any particular star is not a host to planets. However, by scanning large areas of the sky containing thousands
+or even hundreds of thousands of stars at once, transit surveys can find more extrasolar planets than the radial-
+velocity method.[9] Several surveys have taken that approach, such as the ground-based MEarth Project,
+SuperWASP, KELT, and HATNet, as well as the space-based COROT, Kepler and TESS missions. The transit
+method has also the advantage of detecting planets around stars that are located a few thousand light years away.
+The most distant planets detected by Sagittarius Window Eclipsing Extrasolar Planet Search are located near the Theoretical transiting exoplanet light
+galactic center. However, reliable follow-up observations of these stars are nearly impossible with current curve.[8] This image shows the
+technology. transit depth (δ), transit duration (T),
+
+and ingress/egress duration (τ) of a
+The second disadvantage of this method is a high rate of false detections. A 2012 study found that the rate of transiting exoplanet relative to the
+
+false positives for transits observed by the Kepler mission could be as high as 40% in single-planet systems.[10] position that the exoplanet is to the
+
+For this reason, a star with a single transit detection requires additional confirmation, typically from the radial- star.
+
+velocity method or orbital brightness modulation method. The radial velocity method is especially necessary for
+Jupiter-sized or larger planets, as objects of that size encompass not only planets, but also brown dwarfs and even small stars. As the false positive rate is
+very low in stars with two or more planet candidates, such detections often can be validated without extensive follow-up observations. Some can also be
+confirmed through the transit timing variation method.[11][12][13]
+
+Many points of light in the sky have brightness variations that may appear as transiting planets by flux measurements. False-positives in the transit
+photometry method arise in three common forms: blended eclipsing binary systems, grazing eclipsing binary systems, and transits by planet sized stars.
+Eclipsing binary systems usually produce deep eclipses that distinguish them from exoplanet transits, since planets are usually smaller than about
+2R [14]
+
+J,  but eclipses are shallower for blended or grazing eclipsing binary systems.
+
+Blended eclipsing binary systems consist of a normal eclipsing binary blended with a third (usually brighter) star along the same line of sight, usually at
+a different distance. The constant light of the third star dilutes the measured eclipse depth, so the light-curve may resemble that for a transiting
+exoplanet. In these cases, the target most often contains a large main sequence primary with a small main sequence secondary or a giant star with a main
+sequence secondary.[15]
+
+
+
+Grazing eclipsing binary systems are systems in which one object will just barely graze the limb of the other. In these cases, the maximum transit depth
+of the light curve will not be proportional to the ratio of the squares of the radii of the two stars, but will instead depend solely on the small fraction of
+the primary that is blocked by the secondary. The small measured dip in flux can mimic that of an exoplanet transit. Some of the false positive cases of
+this category can be easily found if the eclipsing binary system has a circular orbit, with the two companions having different masses. Due to the cyclic
+nature of the orbit, there would be two eclipsing events, one of the primary occulting the secondary and vice versa. If the two stars have significantly
+different masses, and this different radii and luminosities, then these two eclipses would have different depths. This repetition of a shallow and deep
+transit event can easily be detected and thus allow the system to be recognized as a grazing eclipsing binary system. However, if the two stellar
+companions are approximately the same mass, then these two eclipses would be indistinguishable, thus making it impossible to demonstrate that a
+grazing eclipsing binary system is being observed using only the transit photometry measurements.
+
+Finally, there are two types of stars that are approximately the same size as gas giant planets, white dwarfs and
+brown dwarfs. This is due to the fact that gas giant planets, white dwarfs, and brown dwarfs, are all supported by
+degenerate electron pressure. The light curve does not discriminate between masses as it only depends on the size
+of the transiting object. When possible, radial velocity measurements are used to verify that the transiting or
+eclipsing body is of planetary mass, meaning less than 13MJ. Transit Time Variations can also determine MP.
+Doppler Tomography with a known radial velocity orbit can obtain minimum MP and projected sing-orbit
+alignment.
+
+Red giant branch stars have another issue for detecting planets around them: while planets around these stars are
+This image shows the relative sizes
+
+much more likely to transit due to the larger star size, these transit signals are hard to separate from the main of brown dwarfs and large planets.
+star's brightness light curve as red giants have frequent pulsations in brightness with a period of a few hours to
+days. This is especially notable with subgiants. In addition, these stars are much more luminous, and transiting
+planets block a much smaller percentage of light coming from these stars. In contrast, planets can completely occult a very small star such as a neutron
+star or white dwarf, an event which would be easily detectable from Earth. However, due to the small star sizes, the chance of a planet aligning with
+such a stellar remnant is extremely small.
+
+The main advantage of the transit method is that the size of the planet can be
+determined from the light curve. When combined with the radial-velocity method
+(which determines the planet's mass), one can determine the density of the planet,
+and hence learn something about the planet's physical structure. The planets that have
+been studied by both methods are by far the best-characterized of all known
+exoplanets.[16]
+
+The transit method also makes it possible to study the atmosphere of the transiting
+planet. When the planet transits the star, light from the star passes through the upper
+atmosphere of the planet. By studying the high-resolution stellar spectrum carefully,
+one can detect elements present in the planet's atmosphere. A planetary atmosphere,
+and planet for that matter, could also be detected by measuring the polarization of the
+starlight as it passed through or is reflected off the planet's atmosphere.[17]
+
+Additionally, the secondary eclipse (when the planet is blocked by its star) allows
+direct measurement of the planet's radiation and helps to constrain the planet's orbital
+eccentricity without needing the presence of other planets. If the star's photometric
+intensity during the secondary eclipse is subtracted from its intensity before or after,
+only the signal caused by the planet remains. It is then possible to measure the
+planet's temperature and even to detect possible signs of cloud formations on it. In
+March 2005, two groups of scientists carried out measurements using this technique
+with the Spitzer Space Telescope. The two teams, from the Harvard-Smithsonian
+Center for Astrophysics, led by David Charbonneau, and the Goddard Space Flight
+Center, led by L. D. Deming, studied the planets TrES-1 and HD 209458b Properties (mass and radius) of planets discovered using the
+respectively. The measurements revealed the planets' temperatures: 1,060 K (790°C) transit method, compared with the distribution, n (light gray bar
+for TrES-1 and about 1,130 K (860 °C) for HD 209458b.[18][19] In addition, the hot chart), of minimum masses of transiting and non-transiting
+Neptune Gliese 436 b is known to enter secondary eclipse. However, some transiting exoplanets. Super-Earths are black.
+planets orbit such that they do not enter secondary eclipse relative to Earth; HD
+17156 b is over 90% likely to be one of the latter.
+
+History
+The first exoplanet for which transits were observed for HD 209458 b, which was discovered using radial velocity technique. These transits were
+observed in 1999 by two teams led David Charbonneau and Gregory W. Henry.[20][21][22] The first exoplanet to be discovered with the transit method
+was OGLE-TR-56b in 2002 by the OGLE project.[23][24][25]
+
+A French Space Agency mission, CoRoT, began in 2006 to search for planetary transits from orbit, where the absence of atmospheric scintillation allows
+improved accuracy. This mission was designed to be able to detect planets "a few times to several times larger than Earth" and performed "better than
+expected", with two exoplanet discoveries[26] (both of the "hot Jupiter" type) as of early 2008. In June 2013, CoRoT's exoplanet count was 32 with
+several still to be confirmed. The satellite unexpectedly stopped transmitting data in November 2012 (after its mission had twice been extended), and
+was retired in June 2013.[27]
+
+
+
+In March 2009, NASA mission Kepler was launched to scan a large number of stars in the constellation Cygnus with a measurement precision expected
+to detect and characterize Earth-sized planets. The NASA Kepler Mission uses the transit method to scan a hundred thousand stars for planets. It was
+hoped that by the end of its mission of 3.5 years, the satellite would have collected enough data to reveal planets even smaller than Earth. By scanning a
+hundred thousand stars simultaneously, it was not only able to detect Earth-sized planets, it was able to collect statistics on the numbers of such planets
+around Sun-like stars.[28]
+
+On 2 February 2011, the Kepler team released a list of 1,235 extrasolar planet candidates, including 54 that may be in the habitable zone. On 5
+December 2011, the Kepler team announced that they had discovered 2,326 planetary candidates, of which 207 are similar in size to Earth, 680 are
+super-Earth-size, 1,181 are Neptune-size, 203 are Jupiter-size and 55 are larger than Jupiter. Compared to the February 2011 figures, the number of
+Earth-size and super-Earth-size planets increased by 200% and 140% respectively. Moreover, 48 planet candidates were found in the habitable zones of
+surveyed stars, marking a decrease from the February figure; this was due to the more stringent criteria in use in the December data. By June 2013, the
+number of planet candidates was increased to 3,278 and some confirmed planets were smaller than Earth, some even Mars-sized (such as Kepler-62c)
+and one even smaller than Mercury (Kepler-37b).[29]
+
+The Transiting Exoplanet Survey Satellite launched in April 2018.
+
+Reflection and emission modulations
+Short-period planets in close orbits around their stars will undergo reflected light variations because, like the Moon, they will go through phases from
+full to new and back again. In addition, as these planets receive a lot of starlight, it heats them, making thermal emissions potentially detectable. Since
+telescopes cannot resolve the planet from the star, they see only the combined light, and the brightness of the host star seems to change over each orbit
+in a periodic manner. Although the effect is small — the photometric precision required is about the same as to detect an Earth-sized planet in transit
+across a solar-type star – such Jupiter-sized planets with an orbital period of a few days are detectable by space telescopes such as the Kepler Space
+Observatory. Like with the transit method, it is easier to detect large planets orbiting close to their parent star than other planets as these planets catch
+more light from their parent star. When a planet has a high albedo and is situated around a relatively luminous star, its light variations are easier to detect
+in visible light while darker planets or planets around low-temperature stars are more easily detectable with infrared light with this method. In the long
+run, this method may find the most planets that will be discovered by that mission because the reflected light variation with orbital phase is largely
+independent of orbital inclination and does not require the planet to pass in front of the disk of the star. It still cannot detect planets with circular face-on
+orbits from Earth's viewpoint as the amount of reflected light does not change during its orbit.
+
+The phase function of the giant planet is also a function of its thermal properties and atmosphere, if any. Therefore, the phase curve may constrain other
+planet properties, such as the size distribution of atmospheric particles. When a planet is found transiting and its size is known, the phase variations
+curve helps calculate or constrain the planet's albedo. It is more difficult with very hot planets as the glow of the planet can interfere when trying to
+calculate albedo. In theory, albedo can also be found in non-transiting planets when observing the light variations with multiple wavelengths. This
+allows scientists to find the size of the planet even if the planet is not transiting the star.[30]
+
+The first-ever direct detection of the spectrum of visible light reflected from an exoplanet was made in 2015 by an international team of astronomers.
+The astronomers studied light from 51 Pegasi b – the first exoplanet discovered orbiting a main-sequence star (a Sunlike star), using the High Accuracy
+Radial velocity Planet Searcher (HARPS) instrument at the European Southern Observatory's La Silla Observatory in Chile.[31][32]
+
+Both CoRoT[33] and Kepler[34] have measured the reflected light from planets. However, these planets were already known since they transit their host
+star. The first planets discovered by this method are Kepler-70b and Kepler-70c, found by Kepler.[35]
+
+Relativistic beaming
+A separate novel method to detect exoplanets from light variations uses relativistic beaming of the observed flux from the star due to its motion. It is
+also known as Doppler beaming or Doppler boosting. The method was first proposed by Abraham Loeb and Scott Gaudi in 2003.[36] As the planet tugs
+the star with its gravitation, the density of photons and therefore the apparent brightness of the star changes from observer's viewpoint. Like the radial
+velocity method, it can be used to determine the orbital eccentricity and the minimum mass of the planet. With this method, it is easier to detect massive
+planets close to their stars as these factors increase the star's motion. Unlike the radial velocity method, it does not require an accurate spectrum of a star,
+and therefore can be used more easily to find planets around fast-rotating stars and more distant stars.
+
+One of the biggest disadvantages of this method is that the light variation effect is very small. A Jovian-mass planet orbiting 0.025 AU away from a Sun-
+like star is barely detectable even when the orbit is edge-on. This is not an ideal method for discovering new planets, as the amount of emitted and
+reflected starlight from the planet is usually much larger than light variations due to relativistic beaming. This method is still useful, however, as it
+allows for measurement of the planet's mass without the need for follow-up data collection from radial velocity observations.
+
+The first discovery of a planet using this method (Kepler-76b) was announced in 2013.[37][38]
+
+Ellipsoidal variations
+Massive planets can cause slight tidal distortions to their host stars. When a star has a slightly ellipsoidal shape, its apparent brightness varies, depending
+if the oblate part of the star is facing the observer's viewpoint. Like with the relativistic beaming method, it helps to determine the minimum mass of the
+planet, and its sensitivity depends on the planet's orbital inclination. The extent of the effect on a star's apparent brightness can be much larger than with
+
+
+
+the relativistic beaming method, but the brightness changing cycle is twice as fast. In addition, the planet distorts the shape of the star more if it has a
+low semi-major axis to stellar radius ratio and the density of the star is low. This makes this method suitable for finding planets around stars that have
+left the main sequence.[39]
+
+Pulsar timing
+A pulsar is a neutron star: the small, ultradense remnant of a star that has exploded as a supernova. Pulsars emit
+radio waves extremely regularly as they rotate. Because the intrinsic rotation of a pulsar is so regular, slight
+anomalies in the timing of its observed radio pulses can be used to track the pulsar's motion. Like an ordinary
+star, a pulsar will move in its own small orbit if it has a planet. Calculations based on pulse-timing observations
+can then reveal the parameters of that orbit.[40]
+
+This method was not originally designed for the detection of planets, but is so sensitive that it is capable of
+detecting planets far smaller than any other method can, down to less than a tenth the mass of Earth. It is also
+capable of detecting mutual gravitational perturbations between the various members of a planetary system,
+thereby revealing further information about those planets and their orbital parameters. In addition, it can easily Artist's impression of the pulsar PSR
+detect planets which are relatively far away from the pulsar. 1257+12's planetary system.
+
+There are two main drawbacks to the pulsar timing method: pulsars are relatively rare, and special circumstances
+are required for a planet to form around a pulsar. Therefore, it is unlikely that a large number of planets will be found this way.[41] Additionally, life
+would likely not survive on planets orbiting pulsars due to the high intensity of ambient radiation.
+
+In 1992, Aleksander Wolszczan and Dale Frail used this method to discover planets around the pulsar PSR 1257+12.[42] Their discovery was confirmed
+by 1994, making it the first confirmation of planets outside the Solar System.[43]
+
+Variable star timing
+Like pulsars, some other types of pulsating variable stars are regular enough that radial velocity could be determined purely photometrically from the
+Doppler shift of the pulsation frequency, without needing spectroscopy.[44][45] This method is not as sensitive as the pulsar timing variation method, due
+to the periodic activity being longer and less regular. The ease of detecting planets around a variable star depends on the pulsation period of the star, the
+regularity of pulsations, the mass of the planet, and its distance from the host star.
+
+The first success with this method came in 2007, when V391 Pegasi b was discovered around a pulsating subdwarf star.[46]
+
+Transit timing
+The transit timing variation method considers whether transits occur with strict periodicity, or if there is a
+variation. When multiple transiting planets are detected, they can often be confirmed with the transit timing
+variation method. This is useful in planetary systems far from the Sun, where radial velocity methods cannot
+detect them due to the low signal-to-noise ratio. If a planet has been detected by the transit method, then
+variations in the timing of the transit provide an extremely sensitive method of detecting additional non- 0:00
+transiting planets in the system with masses comparable to Earth's. It is easier to detect transit-timing
+variations if planets have relatively close orbits, and when at least one of the planets is more massive,
+causing the orbital period of a less massive planet to be more perturbed.[47][48][49] Animation showing difference between
+
+planet transit timing of 1-planet and 2-
+The main drawback of the transit timing method is that usually not much can be learnt about the planet itself. planet systems. Credit: NASA/Kepler
+Transit timing variation can help to determine the maximum mass of a planet. In most cases, it can confirm Mission.
+if an object has a planetary mass, but it does not put narrow constraints on its mass. There are exceptions
+though, as planets in the Kepler-36 and Kepler-88 systems orbit close enough to accurately determine their
+masses.
+
+The first significant detection of a non-transiting planet using TTV was carried out with NASA's Kepler
+space telescope. The transiting planet Kepler-19b shows TTV with an amplitude of five minutes and a period
+of about 300 days, indicating the presence of a second planet, Kepler-19c, which has a period which is a
+near-rational multiple of the period of the transiting planet.[50][51]
+
+In circumbinary planets, variations of transit timing are mainly caused by the orbital motion of the stars,
+instead of gravitational perturbations by other planets. These variations make it harder to detect these planets The Kepler Mission, A NASA mission
+through automated methods. However, it makes these planets easy to confirm once they are detected. which is able to detect extrasolar planets
+
+Transit duration variation
+"Duration variation" refers to changes in how long the transit takes. Duration variations may be caused by an exomoon, apsidal precession for eccentric
+planets due to another planet in the same system, or general relativity.[52][53]
+
+
+
+When a circumbinary planet is found through the transit method, it can be easily confirmed with the transit duration variation method.[54] In close binary
+systems, the stars significantly alter the motion of the companion, meaning that any transiting planet has significant variation in transit duration. The
+first such confirmation came from Kepler-16b.[54]
+
+Eclipsing binary minima timing
+When a binary star system is aligned such that – from the Earth's point of view – the stars pass in front of each other in their orbits, the system is called
+an "eclipsing binary" star system. The time of minimum light, when the star with the brighter surface is at least partially obscured by the disc of the
+other star, is called the primary eclipse, and approximately half an orbit later, the secondary eclipse occurs when the brighter surface area star obscures
+some portion of the other star. These times of minimum light, or central eclipses, constitute a time stamp on the system, much like the pulses from a
+pulsar (except that rather than a flash, they are a dip in brightness). If there is a planet in circumbinary orbit around the binary stars, the stars will be
+offset around a binary-planet center of mass. As the stars in the binary are displaced back and forth by the planet, the times of the eclipse minima will
+vary. The periodicity of this offset may be the most reliable way to detect extrasolar planets around close binary systems.[55][56][57] With this method,
+planets are more easily detectable if they are more massive, orbit relatively closely around the system, and if the stars have low masses.
+
+The eclipsing timing method allows the detection of planets further away from the host star than the transit method. However, signals around
+cataclysmic variable stars hinting for planets tend to match with unstable orbits.[58] In 2011, Kepler-16b became the first planet to be definitely
+characterized via eclipsing binary timing variations.[59]
+
+Gravitational microlensing
+Gravitational microlensing occurs when the gravitational field of a star acts like a lens, magnifying the light
+of a distant background star. This effect occurs only when the two stars are almost exactly aligned. Lensing
+events are brief, lasting for weeks or days, as the two stars and Earth are all moving relative to each other.
+More than a thousand such events have been observed over the past ten years.
+
+If the foreground lensing star has a planet, then that planet's own gravitational field can make a detectable
+contribution to the lensing effect. Since that requires a highly improbable alignment, a very large number of Gravitational microlensing.
+distant stars must be continuously monitored in order to detect planetary microlensing contributions at a
+reasonable rate. This method is most fruitful for planets between Earth and the center of the galaxy, as the
+galactic center provides a large number of background stars.
+
+In 1991, astronomers Shude Mao and Bohdan Paczyński proposed using gravitational microlensing to look for binary companions to stars, and their
+proposal was refined by Andy Gould and Abraham Loeb in 1992 as a method to detect exoplanets. Successes with the method date back to 2002, when a
+group of Polish astronomers (Andrzej Udalski, Marcin Kubiak and Michał Szymański from Warsaw, and Bohdan Paczyński) during project OGLE (the
+Optical Gravitational Lensing Experiment) developed a workable technique. During one month, they found several possible planets, though limitations
+in the observations prevented clear confirmation. Since then, several confirmed extrasolar planets have been detected using microlensing. This was the
+first method capable of detecting planets of Earth-like mass around ordinary main-sequence stars.[60]
+
+Unlike most other methods, which have detection bias towards planets with small (or for resolved imaging, large) orbits, the microlensing method is
+most sensitive to detecting planets around 1-10 astronomical units away from Sun-like stars.
+
+A notable disadvantage of the method is that the lensing cannot be repeated, because the chance alignment never occurs again. Also, the detected planets
+will tend to be several kiloparsecs away, so follow-up observations with other methods are usually impossible. In addition, the only physical
+characteristic that can be determined by microlensing is the mass of the planet, within loose constraints. Orbital properties also tend to be unclear, as the
+only orbital characteristic that can be directly determined is its current semi-major axis from the parent star, which can be misleading if the planet
+follows an eccentric orbit. When the planet is far away from its star, it spends only a tiny portion of its orbit in a state where it is detectable with this
+method, so the orbital period of the planet cannot be easily determined. It is also easier to detect planets around low-mass stars, as the gravitational
+microlensing effect increases with the planet-to-star mass ratio.
+
+The main advantages of the gravitational microlensing method are that it can detect low-mass planets (in principle down to Mars mass with future space
+projects such as Roman Space Telescope); it can detect planets in wide orbits comparable to Saturn and Uranus, which have orbital periods too long for
+the radial velocity or transit methods; and it can detect planets around very distant stars. When enough background stars can be observed with enough
+accuracy, then the method should eventually reveal how common Earth-like planets are in the galaxy.
+
+Observations are usually performed using networks of robotic telescopes. In addition to the European Research Council-funded OGLE, the
+Microlensing Observations in Astrophysics (MOA) group is working to perfect this approach.
+
+The PLANET (Probing Lensing Anomalies NETwork)/RoboNet project is even more ambitious. It allows nearly continuous round-the-clock coverage
+by a world-spanning telescope network, providing the opportunity to pick up microlensing contributions from planets with masses as low as Earth's.
+This strategy was successful in detecting the first low-mass planet on a wide orbit, designated OGLE-2005-BLG-390Lb.[60]
+
+The NASA Roman Space Telescope scheduled for launch in 2027 includes a microlensing planet survey as one of its three core projects.
+
+Direct imaging
+Planets are extremely faint light sources compared to stars, and what little light comes from them tends to be lost in the glare from their parent star. So in
+general, it is very difficult to detect and resolve them directly from their host star. Planets orbiting far enough from stars to be resolved reflect very little
+starlight, so planets are detected through their thermal emission instead. It is easier to obtain images when the planetary system is relatively near to the
+
+
+
+Sun, and when the planet is especially large (considerably larger than Jupiter), widely separated from its
+parent star, and hot so that it emits intense infrared radiation; images have then been made in the infrared,
+where the planet is brighter than it is at visible wavelengths. Coronagraphs are used to block light from the
+star, while leaving the planet visible. Direct imaging of an Earth-like exoplanet requires extreme optothermal
+stability.[61] During the accretion phase of planetary formation, the star-planet contrast may be even better in
+H alpha than it is in infrared – an H alpha survey is currently underway.[62]
+
+Direct imaging can give only loose constraints of the planet's mass, which is derived from the age of the star
+and the temperature of the planet. Mass can vary considerably, as planets can form several million years
+after the star has formed. The cooler the planet is, the less the planet's mass needs to be. In some cases it is
+possible to give reasonable constraints to the radius of a planet based on planet's temperature, its apparent Direct image of exoplanets around the
+
+brightness, and its distance from Earth. The spectra emitted from planets do not have to be separated from star HR 8799 using a Vortex coronagraph
+on a 1.5m portion of the Hale Telescope
+
+the star, which eases determining the chemical composition of planets.
+
+Sometimes observations at multiple wavelengths are needed to rule
+out the planet being a brown dwarf. Direct imaging can be used to
+accurately measure the planet's orbit around the star. Unlike the
+majority of other methods, direct imaging works better with planets
+with face-on orbits rather than edge-on orbits, as a planet in a face-on
+orbit is observable during the entirety of the planet's orbit, while
+planets with edge-on orbits are most easily observable during their
+period of largest apparent separation from the parent star.
+
+The ExTrA telescopes at La Silla
+observes at infrared wavelengths The planets detected through direct imaging currently fall into two
+and adds spectral information to the
+usual photometric categories. First, planets are found around stars more massive than
+measurements.[63] the Sun which are young enough to have protoplanetary disks. The
+
+second category consists of possible sub-brown dwarfs found around
+ESO image of a planet near Beta Pictoris
+
+very dim stars, or brown dwarfs which are at least 100 AU away from
+their parent stars.
+
+Planetary-mass objects not gravitationally bound to a star are found through direct imaging as well.
+
+Early discoveries
+In 2004, a group of astronomers used the European Southern Observatory's Very Large Telescope array in Chile
+to produce an image of 2M1207b, a companion to the brown dwarf 2M1207.[65] In the following year, the
+planetary status of the companion was confirmed.[66] The planet is estimated to be several times more massive
+than Jupiter, and to have an orbital radius greater than 40 AU.
+
+On 6 November 2008[67] an object was published that was imaged first in April 2008 at a separation of 330 AU
+from the star 1RXS J160929.1−210524, already announced on 8 September 2008.[68] But it was not until 2010,
+that it was confirmed to be a companion planet to the star and not just a chance alignment.[69] It is not confirmed,
+yet, whether the mass of the companion is above or below the deuterium-burning limit.
+
+The first multiplanet system, announced on 13 November 2008, first seen in images of October 2007, using
+telescopes at both the Keck Observatory and Gemini Observatory. Three planets were directly observed orbiting The large central object is the star
+HR 8799, whose masses are approximately ten, ten, and seven times that of Jupiter.[70][71] On the same day, 13 CVSO 30; the small dot up and to
+November 2008, it was announced that the Hubble Space Telescope directly observed an exoplanet orbiting the left is exoplanet CVSO 30c. This
+Fomalhaut, with a mass no more than 3 MJ.
+
+[72] Both systems are surrounded by disks not unlike the Kuiper belt. image was made using astrometry
+data from VLT's NACO and
+
+On 21 November 2008, three days after acceptance of a letter to the editor published online on 11 December SINFONI instruments.[64]
+
+2008,[73] it was announced that analysis of images dating back to 2003, revealed a planet orbiting Beta
+Pictoris.[74]
+
+In 2012, it was announced that a "Super-Jupiter" planet with a mass about 12.8 MJ orbiting Kappa Andromedae was directly imaged using the Subaru
+Telescope in Hawaii.[75][76] It orbits its parent star at a distance of about 55 AU, or nearly twice the distance of Neptune from the sun.
+
+An additional system, GJ 758, was imaged in November 2009, by a team using the HiCIAO instrument of the Subaru Telescope, but it was a brown
+dwarf.[77]
+
+Other possible exoplanets to have been directly imaged include GQ Lupi b, AB Pictoris b, and SCR 1845 b.[78] As of March 2006, none have been
+confirmed as planets; instead, they might themselves be small brown dwarfs.[79][80]
+
+Imaging instruments
+Several planet-imaging-capable instruments are installed on large ground-based telescope, such as Gemini Planet Imager, VLT-SPHERE, the Subaru
+Coronagraphic Extreme Adaptive Optics (SCExAO) instrument, or Palomar Project 1640. In space, there are currently no dedicated exoplanet imaging
+instrument. Although the JWST does have some exoplanet imaging capabilities, it has not specifically been designed and optimised for that purpose.
+
+
+
+The RST will be the first space observatory to include a dedicated exoplanet imaging instrument. This instrument
+is designed JPL as a demonstrator for a future large observatory in space that will have the imaging of Earth-like
+exoplanets as one of its primary science goals. Concepts such as the LUVOIR or the HabEx have been proposed
+in preparation of the 2020 Astronomy and Astrophysics Decadal Survey.
+
+In 2010, a team from NASA's Jet Propulsion Laboratory demonstrated that a vortex coronagraph could enable
+small scopes to directly image planets.[82] They did this by imaging the previously imaged HR 8799 planets,
+using just a 1.5 meter-wide portion of the Hale Telescope.
+
+ESO VLT image of exoplanet HD Another promising approach is nulling interferometry.[83]
+
+95086 b[81]
+It has also been proposed that space-telescopes that focus light using zone plates instead of mirrors would
+provide higher-contrast imaging, and be cheaper to launch into space due to being able to fold up the lightweight
+
+foil zone plate.[84] Another possibility would be to use a large occulter in space designed to block the light of nearby stars in order to observe their
+orbiting planets, such as the New Worlds Mission.
+
+Data Reduction Techniques
+Post-processing of observational data to enhance signal strength of off-axial bodies (i.e. exoplanets) can be accomplished in a variety of ways. All
+methods are based on the presence of diversity in the data between the central star and the exoplanet companions: this diversity can originate from
+differences in the spectrum, the angular position, the orbital motion, the polarisation, or the coherence of the light. The most popular technique is
+Angular Differential Imaging (ADI), where exposures are acquired at different parallactic angle positions and the sky is left to rotate around the
+observed central star. The exposures are averaged, each exposure undergoes subtraction by the average, and then they are (de-)rotated to stack the faint
+planetary signal all in one place.
+
+Specral Differential Imaging (SDI) performs an analogous procedure, but for radial changes in brightness (as a function of spectra or wavelength)
+instead of angular changes.
+
+Combinations of the two are possible (ASDI, SADI, or Combined Differential Imaging "CODI").[85]
+
+Polarimetry
+Light given off by a star is un-polarized, i.e. the direction of oscillation of the light wave is random. However, when the light is reflected off the
+atmosphere of a planet, the light waves interact with the molecules in the atmosphere and become polarized.[86]
+
+By analyzing the polarization in the combined light of the planet and star (about one part in a million), these measurements can in principle be made
+with very high sensitivity, as polarimetry is not limited by the stability of the Earth's atmosphere. Another main advantage is that polarimetry allows for
+determination of the composition of the planet's atmosphere. The main disadvantage is that it will not be able to detect planets without atmospheres.
+Larger planets and planets with higher albedo are easier to detect through polarimetry, as they reflect more light.
+
+Astronomical devices used for polarimetry, called polarimeters, are capable of detecting polarized light and rejecting unpolarized beams. Groups such as
+ZIMPOL/CHEOPS[87] and PlanetPol[88] are currently using polarimeters to search for extrasolar planets. The first successful detection of an extrasolar
+planet using this method came in 2008, when HD 189733 b, a planet discovered three years earlier, was detected using polarimetry.[89] However, no new
+planets have yet been discovered using this method.
+
+Astrometry
+This method consists of precisely measuring a star's position in the sky, and observing how that position changes
+over time. Originally, this was done visually, with hand-written records. By the end of the 19th century, this method
+used photographic plates, greatly improving the accuracy of the measurements as well as creating a data archive. If a
+star has a planet, then the gravitational influence of the planet will cause the star itself to move in a tiny circular or
+elliptical orbit. Effectively, star and planet each orbit around their mutual centre of mass (barycenter), as explained
+by solutions to the two-body problem. Since the star is much more massive, its orbit will be much smaller.[90]
+
+Frequently, the mutual centre of mass will lie within the radius of the larger body. Consequently, it is easier to find
+planets around low-mass stars, especially brown dwarfs.
+
+Astrometry is the oldest search method for extrasolar planets, and was originally popular because of its success in
+characterizing astrometric binary star systems. It dates back at least to statements made by William Herschel in the In this diagram a planet (smaller
+late 18th century. He claimed that an unseen companion was affecting the position of the star he cataloged as 70 object) orbits a star, which itself
+Ophiuchi. The first known formal astrometric calculation for an extrasolar planet was made by William Stephen moves in a small orbit. The
+
+Jacob in 1855 for this star.[91] Similar calculations were repeated by others for another half-century[92] until finally system's center of mass is
+shown with a red plus sign. (In
+
+refuted in the early 20th century.[93][94] For two centuries claims circulated of the discovery of unseen companions this case, it always lies within the
+in orbit around nearby star systems that all were reportedly found using this method,[92] culminating in the star.)
+prominent 1996 announcement, of multiple planets orbiting the nearby star Lalande 21185 by George
+Gatewood.[95][96] None of these claims survived scrutiny by other astronomers, and the technique fell into
+disrepute.[97] Unfortunately, changes in stellar position are so small—and atmospheric and systematic distortions so large—that even the best ground-
+
+
+
+based telescopes cannot produce precise enough measurements. All claims of a planetary companion of less than 0.1
+solar mass, as the mass of the planet, made before 1996 using this method are likely spurious. In 2002, the Hubble
+Space Telescope did succeed in using astrometry to characterize a previously discovered planet around the star
+Gliese 876.[98]
+
+The space-based observatory Gaia, launched in 2013, is expected to find thousands of planets via astrometry, but
+prior to the launch of Gaia, no planet detected by astrometry had been confirmed. SIM PlanetQuest was a US
+project (cancelled in 2010) that would have had similar exoplanet finding capabilities to Gaia.
+
+One potential advantage of the astrometric method is that it is most sensitive to planets with large orbits. This makes
+it complementary to other methods that are most sensitive to planets with small orbits. However, very long Motion of the center of mass
+observation times will be required — years, and possibly decades, as planets far enough from their star to allow (barycenter) of the Solar System
+detection via astrometry also take a long time to complete an orbit. Planets orbiting around one of the stars in binary relative to the Sun
+systems are more easily detectable, as they cause perturbations in the orbits of stars themselves. However, with this
+method, follow-up observations are needed to determine which star the planet orbits around.
+
+In 2009, the discovery of VB 10b by astrometry was announced. This planetary object, orbiting the low mass red dwarf star VB 10, was reported to have
+a mass seven times that of Jupiter. If confirmed, this would be the first exoplanet discovered by astrometry, of the many that have been claimed through
+the years.[99][100] However recent radial velocity independent studies rule out the existence of the claimed planet.[101] [102]
+
+In 2010, six binary stars were astrometrically measured. One of the star systems, called HD 176051, was found with "high confidence" to have a
+planet.[103]
+
+In 2018, a study comparing observations from the Gaia spacecraft to Hipparcos data for the Beta Pictoris system was able to measure the mass of Beta
+Pictoris b, constraining it to 11 ± 2 Jupiter masses.[104] This is in good agreement with previous mass estimations of roughly 13 Jupiter masses.
+
+In 2019, data from the Gaia spacecraft and its predecessor Hipparcos was complemented with HARPS data enabling a better description of ε Indi Ab as
+the second-closest Jupiter-like exoplanet with a mass of 3 Jupiters on a slightly eccentric orbit with an orbital period of 45 years.[105]
+
+As of 2022, especially thanks to Gaia, the combination of radial velocity and astrometry has been used to detect and characterize numerous Jovian
+planets,[106][107][108][109] including the nearest Jupiter analogues ε Eridani b and ε Indi Ab.[110][105] In addition, radio astrometry using the VLBA has
+been used to discover planets in orbit around TVLM 513-46546 and EQ Pegasi A.[111][112]
+
+X-ray eclipse
+In September 2020, the detection of a candidate planet orbiting the high-mass X-ray binary M51-ULS-1 in the Whirlpool Galaxy was announced. The
+planet was detected by eclipses of the X-ray source, which consists of a stellar remnant (either a neutron star or a black hole) and a massive star, likely a
+B-type supergiant. This is the only method capable of detecting a planet in another galaxy.[113]
+
+Disc kinematics
+Planets can be detected by the gaps they produce in protoplanetary discs,[114][115] such as the one in orbit around the young variable star HD 97048.[116]
+
+Disk thermal instability
+[117]
+
+Other possible methods
+
+Flare and variability echo detection
+Non-periodic variability events, such as flares, can produce extremely faint echoes in the light curve if they reflect off an exoplanet or other scattering
+medium in the star system.[118][119][120][121] More recently, motivated by advances in instrumentation and signal processing technologies, echoes from
+exoplanets are predicted to be recoverable from high-cadence photometric and spectroscopic measurements of active star systems, such as M
+dwarfs.[122][123][124] These echoes are theoretically observable in all orbital inclinations.
+
+Transit imaging
+An optical/infrared interferometer array (e.g, a 16 interferometer-array of the Big Fringe Telescope[125]) doesn't collect as much light as a single
+telescope of equivalent size, but has the resolution of a single telescope the size of the array. For bright stars, this resolving power could be used to
+image a star's surface during a transit event and observe the shadow of the planet transiting. This could provide a direct measurement of the planet's
+angular radius and, via parallax, its actual radius. This is more accurate than radius estimates based on transit photometry, which are dependent on stellar
+radius estimates which in turn depend on models of star characteristics. Imaging also provides more accurate determination of the inclination than
+photometry does.[126]
+
+Magnetospheric (auroral) radio emissions
+
+
+
+Auroral radio emissions from exoplanet magnetospheres could be detected with radio telescopes. The emission may be caused by the exoplanet's
+magnetic field interacting with a stellar wind, adjacent plasma sources (such as Jupiter's volcanic moon Io travelling through its magnetosphere) or the
+interaction of the magnetic field with the interstellar medium. Although several discoveries have been claimed, thus far, none have been verified. The
+most sensitive searches for direct radio emissions from exoplanet magnetic fields, or from exoplanet magnetic fields interacting with those from their
+host stars, have been conducted with the Arecibo radio telescope.[127][128]
+
+In addition to allowing for a study of exoplanet magnetic fields, radio emissions may be used to measure the interior rotation rate of an exoplanet.[129]
+
+Optical interferometry
+In March 2019, ESO astronomers, employing the GRAVITY instrument on their Very Large Telescope Interferometer (VLTI), announced the first direct
+detection of an exoplanet, HR 8799 e, using optical interferometry.[130]
+
+Modified interferometry
+By looking at the wiggles of an interferogram using a Fourier-Transform-Spectrometer, enhanced sensitivity could be obtained in order to detect faint
+signals from Earth-like planets.[131]
+
+Detection of dust trapping around Lagrangian points
+Identification of dust clumps along a protoplanetary disk demonstrate trace accumulation around Lagrangian points. From the detection of this dust, it
+can be inferred that a planet exists such that it has created those accumulations.[132]
+
+Gravitational waves
+The Laser Interferometer Space Antenna (LISA) for observing gravitational waves is expected to detect the presence of large planets and brown dwarfs
+orbiting white dwarf binaries. The number of such detections in the Milky Way is estimated to range from 17 in a pessimistic scenario to more than 2000
+in an optimistic scenario, and even extragalactic detections in the Magellanic Clouds might be possible, far beyond the current capabilities of other
+detection methods.[133][134][135]
+
+Detection of extrasolar asteroids and debris disks
+
+Circumstellar disks
+Disks of space dust (debris disks) surround many stars. The dust can be detected because it absorbs ordinary
+starlight and re-emits it as infrared radiation. Even if the dust particles have a total mass well less than that
+of Earth, they can still have a large enough total surface area that they outshine their parent star in infrared
+wavelengths.[136]
+
+The Hubble Space Telescope is capable of observing dust disks with its NICMOS (Near Infrared Camera
+and Multi-Object Spectrometer) instrument. Even better images have now been taken by its sister
+instrument, the Spitzer Space Telescope, and by the European Space Agency's Herschel Space Observatory,
+which can see far deeper into infrared wavelengths than the Hubble can. Dust disks have now been found
+around more than 15% of nearby sunlike stars.[137]
+
+An artist's conception of two Pluto-sized
+The dust is thought to be generated by collisions among comets and asteroids. Radiation pressure from the dwarf planets in a collision around Vega
+star will push the dust particles away into interstellar space over a relatively short timescale. Therefore, the
+detection of dust indicates continual replenishment by new collisions, and provides strong indirect evidence
+of the presence of small bodies like comets and asteroids that orbit the parent star.[137] For example, the dust disk around the star Tau Ceti indicates that
+that star has a population of objects analogous to our own Solar System's Kuiper Belt, but at least ten times thicker.[136]
+
+More speculatively, features in dust disks sometimes suggest the presence of full-sized planets. Some disks have a central cavity, meaning that they are
+really ring-shaped. The central cavity may be caused by a planet "clearing out" the dust inside its orbit. Other disks contain clumps that may be caused
+by the gravitational influence of a planet. Both these kinds of features are present in the dust disk around Epsilon Eridani, hinting at the presence of a
+planet with an orbital radius of around 40 AU (in addition to the inner planet detected through the radial-velocity method).[138] These kinds of planet-
+disk interactions can be modeled numerically using collisional grooming techniques.[139]
+
+Contamination of stellar atmospheres
+Spectral analysis of white dwarfs' atmospheres often finds contamination of heavier elements like magnesium and calcium. These elements cannot
+originate from the stars' core, and it is probable that the contamination comes from asteroids that got too close (within the Roche limit) to these stars by
+gravitational interaction with larger planets and were torn apart by star's tidal forces. Up to 50% of young white dwarfs may be contaminated in this
+manner.[140]
+
+Additionally, the dust responsible for the atmospheric pollution may be detected by infrared radiation if it exists in sufficient quantity, similar to the
+detection of debris discs around main sequence stars. Data from the Spitzer Space Telescope suggests that 1-3% of white dwarfs possess detectable
+circumstellar dust.[141]
+
+
+
+In 2015, minor planets were discovered transiting the white dwarf WD 1145+017.[142] This material orbits with a period of around 4.5 hours, and the
+shapes of the transit light curves suggest that the larger bodies are disintegrating, contributing to the contamination in the white dwarf's atmosphere.
+
+Space telescopes
+Most confirmed extrasolar planets have been found using space-based telescopes (as of 01/2015).[143] Many of the detection methods can work more
+effectively with space-based telescopes that avoid atmospheric haze and turbulence. COROT (2007-2012) and Kepler were space missions dedicated to
+searching for extrasolar planets using transits. COROT discovered about 30 new exoplanets. Kepler (2009-2013) and K2 (2013- ) have discovered over
+2000 verified exoplanets.[144] Hubble Space Telescope and MOST have also found or confirmed a few planets. The infrared Spitzer Space Telescope has
+been used to detect transits of extrasolar planets, as well as occultations of the planets by their host star and phase curves.[18][19][145]
+
+The Gaia mission, launched in December 2013,[146] will use astrometry to determine the true masses of 1000 nearby exoplanets.[147][148] TESS,
+launched in 2018, CHEOPS launched in 2019 and PLATO in 2026 will use the transit method.
+
+Primary and secondary detection
+
+Method Primary Secondary
+
+Transit Primary eclipse. Planet passes in front of
+star. Secondary eclipse. Star passes in front of planet.
+
+Radial
+velocity Radial velocity of star Radial velocity of planet.[149] This has been done for Tau Boötis b.
+
+Astrometry Astrometry of star. Position of star moves Astrometry of planet. Color-differential astrometry.[150] Position of planet moves quicker for planets
+more for large planets with large orbits. with small orbits. Theoretical method—has been proposed for use for the SPICA spacecraft.
+
+Verification and falsification methods
+Verification by multiplicity[151]
+
+Transit color signature[152]
+
+Doppler tomography[153]
+
+Dynamical stability testing[154]
+
+Distinguishing between planets and stellar activity[155]
+
+Transit offset[156]
+
+Characterization methods
+Transmission spectroscopy
+Emission spectroscopy,[157] phase-resolved[158]
+
+Speckle imaging[159] / Lucky imaging[160] to detect companion stars that the planets could be orbiting instead of the primary star, which
+would alter planet parameters that are derived from stellar parameters.
+Photoeccentric Effect[161]
+
+Rossiter–McLaughlin effect
+
+See also
+List of exoplanets
+Exomoon
+
+References
+1. Lindegren, Lennart; Dravins, Dainis (31 January 2003). "The 2. "Externally Dispersed Interferometry" (http://www.spectralfringe.
+
+fundamental definition of "radial velocity" " (https://doi.org/10.10 org/EDI/). SpectralFringe.org. LLNL/SSL. June 2006. Retrieved
+51%2F0004-6361%3A20030181). Astronomy & Astrophysics. 6 December 2009.
+401 (3): 1185–1201. arXiv:astro-ph/0302522 (https://arxiv.org/ab
+s/astro-ph/0302522). Bibcode:2003A&A...401.1185L (https://ui.a D.J. Erskine; J. Edelstein; D. Harbeck & J. Lloyd (2005).
+dsabs.harvard.edu/abs/2003A&A...401.1185L). "Externally Dispersed Interferometry for Planetary Studies"
+doi:10.1051/0004-6361:20030181 (https://doi.org/10.1051%2F0 (https://e-reports-ext.llnl.gov/pdf/322047.pdf) (PDF). In
+004-6361%3A20030181). Daniel R. Coulter (ed.). Proceedings of SPIE: Techniques
+
+and Instrumentation for Detection of Exoplanets II.
+Vol. 5905. pp. 249–260.
+
+
+
+3. Auriere, Michel; Konstantinova-Antova, Renada; Espagnet, 14. Haswell, Carole (2010). Transiting Exoplanets. Cambridge:
+Olivier; Petit, Pascal; Roudier, Thierry; Charbonnel, Corinne; Cambridge University Press. p. 79. ISBN 978-0-521-13938-0.
+Donati, Jean-Francois; Wade, Gregg A. (2013). "Pollux: A stable 15. Collins, Karen (20 September 2018). "The KELT Follow-Up
+weak dipolar magnetic field but no planet ?". Proceedings of the Network and Transit False Positive Catalog: Pre-vetted False
+International Astronomical Union. 9: 359–362. arXiv:1310.6907 Positives for TESS" (https://doi.org/10.3847%2F1538-3881%2F
+(https://arxiv.org/abs/1310.6907). Bibcode:2014IAUS..302..359A aae582). Astrophysical Journal. 156 (5): 234. arXiv:1803.01869
+(https://ui.adsabs.harvard.edu/abs/2014IAUS..302..359A). (https://arxiv.org/abs/1803.01869). Bibcode:2018AJ....156..234C
+doi:10.1017/S1743921314002476 (https://doi.org/10.1017%2FS (https://ui.adsabs.harvard.edu/abs/2018AJ....156..234C).
+1743921314002476). S2CID 85549247 (https://api.semanticsch doi:10.3847/1538-3881/aae582 (https://doi.org/10.3847%2F153
+olar.org/CorpusID:85549247). 8-3881%2Faae582). S2CID 119217050 (https://api.semanticsch
+
+4. Stevens, Daniel J.; Gaudi, B. Scott (2013). "A Posteriori Transit olar.org/CorpusID:119217050).
+Probabilities". Publications of the Astronomical Society of the 16. Charbonneau, D.; T. Brown; A. Burrows; G. Laughlin (2006).
+Pacific. 125 (930): 933–950. arXiv:1305.1298 (https://arxiv.org/a "When Extrasolar Planets Transit Their Parent Stars". Protostars
+bs/1305.1298). Bibcode:2013PASP..125..933S (https://ui.adsab and Planets V. University of Arizona Press. arXiv:astro-
+s.harvard.edu/abs/2013PASP..125..933S). doi:10.1086/672572 ph/0603376 (https://arxiv.org/abs/astro-ph/0603376).
+(https://doi.org/10.1086%2F672572). S2CID 118494470 (https:// Bibcode:2007prpl.conf..701C (https://ui.adsabs.harvard.edu/ab
+api.semanticscholar.org/CorpusID:118494470). s/2007prpl.conf..701C).
+
+5. Rodler, Florian; Lopez-Morales, Mercedes; Ribas, Ignasi (2012). 17. Burrows, Adam S. (September 2014). "Highlights in the study of
+"Weighing the Non-Transiting Hot Jupiter Tau BOO b". The exoplanet atmospheres". Nature. 513 (7518): 345–352.
+Astrophysical Journal. 753 (1): L25. arXiv:1206.6197 (https://arx arXiv:1409.7320 (https://arxiv.org/abs/1409.7320).
+iv.org/abs/1206.6197). Bibcode:2012ApJ...753L..25R (https://ui. Bibcode:2014Natur.513..345B (https://ui.adsabs.harvard.edu/ab
+adsabs.harvard.edu/abs/2012ApJ...753L..25R). s/2014Natur.513..345B). doi:10.1038/nature13782 (https://doi.or
+doi:10.1088/2041-8205/753/1/L25 (https://doi.org/10.1088%2F2 g/10.1038%2Fnature13782). ISSN 0028-0836 (https://search.w
+041-8205%2F753%2F1%2FL25). S2CID 119177983 (https://ap orldcat.org/issn/0028-0836). PMID 25230656 (https://pubmed.n
+i.semanticscholar.org/CorpusID:119177983). cbi.nlm.nih.gov/25230656). S2CID 4469063 (https://api.semanti
+
+6. "5 Ways to Find a Planet" (https://exoplanets.nasa.gov/5-ways-t cscholar.org/CorpusID:4469063).
+o-find-a-planet/#/2). exoplanets.nasa.gov. Retrieved 18. Charbonneau; et al. (2005). "Detection of Thermal Emission
+20 November 2018. from an Extrasolar Planet". The Astrophysical Journal. 626 (1):
+
+7. Johnson, John (2015). How Do You Find an Exoplanet?. 523–529. arXiv:astro-ph/0503457 (https://arxiv.org/abs/astro-ph/
+Princeton, NJ: Princeton University Press. pp. 60–68. ISBN 978- 0503457). Bibcode:2005ApJ...626..523C (https://ui.adsabs.harv
+0-691-15681-1. ard.edu/abs/2005ApJ...626..523C). doi:10.1086/429991 (https://
+
+8. Johnson, John (2015). How Do You Find an Exoplanet?. doi.org/10.1086%2F429991). S2CID 13296966 (https://api.sem
+Princeton, NJ: Princeton University Press. p. 65. ISBN 978-0- anticscholar.org/CorpusID:13296966).
+691-15681-1. 19. Deming, D.; Seager, S.; Richardson, J.; Harrington, J. (2005).
+
+9. Hidas, M. G.; Ashley, M. C. B.; Webb, J. K.; et al. (2005). "The "Infrared radiation from an extrasolar planet" (https://web.archiv
+University of New South Wales Extrasolar Planet Search: e.org/web/20060927012051/http://www.obspm.fr/encycl/papers/
+methods and first results from a field centred on NGC 6633" (htt nature03507.pdf) (PDF). Nature. 434 (7034): 740–743.
+ps://doi.org/10.1111%2Fj.1365-2966.2005.09061.x). Monthly arXiv:astro-ph/0503554 (https://arxiv.org/abs/astro-ph/0503554).
+Notices of the Royal Astronomical Society. 360 (2): 703–717. Bibcode:2005Natur.434..740D (https://ui.adsabs.harvard.edu/ab
+arXiv:astro-ph/0501269 (https://arxiv.org/abs/astro-ph/0501269). s/2005Natur.434..740D). doi:10.1038/nature03507 (https://doi.or
+Bibcode:2005MNRAS.360..703H (https://ui.adsabs.harvard.edu/ g/10.1038%2Fnature03507). PMID 15785769 (https://pubmed.n
+abs/2005MNRAS.360..703H). doi:10.1111/j.1365- cbi.nlm.nih.gov/15785769). S2CID 4404769 (https://api.semanti
+2966.2005.09061.x (https://doi.org/10.1111%2Fj.1365-2966.200 cscholar.org/CorpusID:4404769). Archived from the original (htt
+5.09061.x). S2CID 197527136 (https://api.semanticscholar.org/ p://www.obspm.fr/encycl/papers/nature03507.pdf) (PDF) on 27
+CorpusID:197527136). September 2006.
+
+10. Santerne, A.; Díaz, R. F.; Moutou, C.; Bouchy, F.; Hébrard, G.; 20. Charbonneau, David; et al. (2000). "Detection of Planetary
+Almenara, J. -M.; Bonomo, A. S.; Deleuil, M.; Santos, N. C. Transits Across a Sun-like Star" (https://ui.adsabs.harvard.edu/a
+(2012). "SOPHIE velocimetry of Kepler transit candidates". bs/2000ApJ...529L..45C/abstract). Astrophysical Journal
+Astronomy & Astrophysics. 545: A76. arXiv:1206.0601 (https://ar Letters. 529 (1): 45–48. arXiv:astro-ph/9911436 (https://arxiv.or
+xiv.org/abs/1206.0601). Bibcode:2012A&A...545A..76S (https://u g/abs/astro-ph/9911436). Bibcode:2000ApJ...529L..45C (https://
+i.adsabs.harvard.edu/abs/2012A&A...545A..76S). ui.adsabs.harvard.edu/abs/2000ApJ...529L..45C).
+doi:10.1051/0004-6361/201219608 (https://doi.org/10.1051%2F doi:10.1086/312457 (https://doi.org/10.1086%2F312457).
+0004-6361%2F201219608). S2CID 119117782 (https://api.sem PMID 10615033 (https://pubmed.ncbi.nlm.nih.gov/10615033).
+anticscholar.org/CorpusID:119117782). S2CID 16152423 (https://api.semanticscholar.org/CorpusID:161
+
+11. O'Donovan; et al. (2006). "Rejecting Astrophysical False 52423).
+Positives from the TrES Transiting Planet Survey: The Example 21. Henry, Gregory W.; et al. (2000). "A Transiting 51 Peg-like
+of GSC 03885-00829". The Astrophysical Journal. 644 (2): Planet" (https://doi.org/10.1086%2F312458). Astrophysical
+1237–1245. arXiv:astro-ph/0603005 (https://arxiv.org/abs/astro- Journal Letters. 529 (1): 41–44. Bibcode:2000ApJ...529L..41H
+ph/0603005). Bibcode:2006ApJ...644.1237O (https://ui.adsabs. (https://ui.adsabs.harvard.edu/abs/2000ApJ...529L..41H).
+harvard.edu/abs/2006ApJ...644.1237O). doi:10.1086/503740 (ht doi:10.1086/312458 (https://doi.org/10.1086%2F312458).
+tps://doi.org/10.1086%2F503740). S2CID 119428457 (https://ap PMID 10615032 (https://pubmed.ncbi.nlm.nih.gov/10615032).
+i.semanticscholar.org/CorpusID:119428457). S2CID 18193299 (https://api.semanticscholar.org/CorpusID:181
+
+12. [NULL] (31 March 2015). "Kepler: The Transit Timing Variation 93299).
+(TTV) Planet-finding Technique Begins to Flower" (https://web.ar 22. "Historic timeline" (https://exoplanets.nasa.gov/alien-worlds/hist
+chive.org/web/20130128110114/http://kepler.nasa.gov/news/na oric-timeline/#first-transiting-exoplanet-observed)
+sakeplernews/index.cfm?FuseAction=ShowNews&NewsID=22 23. Udalski, A.; et al. (2002). "The Optical Gravitational Lensing
+6). Archived from the original (http://kepler.nasa.gov/news/nasak Experiment. Search for Planetary and Low-Luminosity Object
+eplernews/index.cfm?FuseAction=ShowNews&NewsID=226) on Transits in the Galactic Disk. Results of 2001 Campaign -
+28 January 2013. Supplement" (http://acta.astrouw.edu.pl/Vol52/n2/a_52_2_1.htm
+
+13. "NASA's Kepler Mission Announces a Planet Bonanza, 715 l). Acta Astronomica. 52 (2): 115–128. arXiv:astro-ph/0207133
+New Worlds" (https://web.archive.org/web/20140226202703/htt (https://arxiv.org/abs/astro-ph/0207133).
+p://www.nasa.gov/ames/kepler/nasas-kepler-mission-announce Bibcode:2002AcA....52..115U (https://ui.adsabs.harvard.edu/ab
+s-a-planet-bonanza/). NASA. 13 April 2015. Archived from the s/2002AcA....52..115U).
+original (http://www.nasa.gov/ames/kepler/nasas-kepler-mission
+-announces-a-planet-bonanza/) on 26 February 2014. Retrieved
+28 February 2014.
+
+
+
+24. Harvard University and Smithsonian Institution (8 January 37. Faigler, Simchon; Tal-Or, Lev; Mazeh, Tsevi; Latham, Dave W.;
+2003). "New World of Iron Rain" (https://web.archive.org/web/20 Buchhave, Lars A. (2013). "BEER analysis of Kepler and CoRoT
+100110135215/http://www.astrobio.net/pressrelease/352/new-w light curves: I. Discovery of Kepler-76b: A hot Jupiter with
+orld-of-iron-rain). Astrobiology Magazine. Archived from the evidence for superrotation". The Astrophysical Journal. 771 (1):
+original on 10 January 2010. Retrieved 25 January 2010. 26. arXiv:1304.6841 (https://arxiv.org/abs/1304.6841).
+
+25. Cromie, William J. (16 January 2003). "New, far-out planet is Bibcode:2013ApJ...771...26F (https://ui.adsabs.harvard.edu/ab
+discovered" (https://web.archive.org/web/20090827072608/htt s/2013ApJ...771...26F). doi:10.1088/0004-637X/771/1/26 (http
+p://www.news.harvard.edu/gazette/2003/01.16/01-ogle.html). s://doi.org/10.1088%2F0004-637X%2F771%2F1%2F26).
+Harvard Gazette. Harvard University. Archived from the original S2CID 119247392 (https://api.semanticscholar.org/CorpusID:11
+(http://www.news.harvard.edu/gazette/2003/01.16/01-ogle.html) 9247392).
+on 27 August 2009. Retrieved 21 July 2010. 38. New method of finding planets scores its first discovery (http://p
+
+26. "COROT surprises a year after launch", ESA press release 20 hys.org/news/2013-05-method-planets-scores-discovery.html),
+December 2007 (http://www.esa.int/SPECIALS/COROT/SEMF0 phys.org, May 2013
+C2MDAF_0.html) 39. "Using the Theory of Relativity and BEER to Find Exoplanets -
+
+27. "01/2014 – CoRoT: collision evading and decommissioning", Universe Today" (http://www.universetoday.com/102112/using-t
+CNES CoRoT News (http://smsc.cnes.fr/COROT/GP_actualite.h he-theory-of-relativity-and-beer-to-find-exoplanets/). Universe
+tm#112012) Today. 13 May 2013.
+
+28. Kepler Mission page (https://web.archive.org/web/20051118033 40. Townsend, Rich (27 January 2003). "The Search for Extrasolar
+324/http://kepler.nasa.gov/about/) Planets" (https://web.archive.org/web/20050915080856/http://w
+
+29. "NASA Exoplanet Archive" (http://exoplanetarchive.ipac.caltech. ww.star.ucl.ac.uk/~rhdt/diploma/lecture_2/). University College
+edu/). London (Lecture). Archived from the original (http://www.star.ucl.
+
+ac.uk/~rhdt/diploma/lecture_2/) on 15 September 2005.
+30. Jenkins, J.M.; Laurance R. Doyle (20 September 2003). Retrieved 10 September 2006.
+
+"Detecting reflected light from close-in giant planets using
+space-based photometers". Astrophysical Journal. 1 (595): 429– 41. Sinukoff, E.; Fulton, B.; Scuderi, L.; Gaidos, E. (2013). "Below
+445. arXiv:astro-ph/0305473 (https://arxiv.org/abs/astro-ph/0305 One Earth Mass: The Detection, Formation, and Properties of
+473). Bibcode:2003ApJ...595..429J (https://ui.adsabs.harvard.e Subterrestrial Worlds". Space Science Reviews. 180 (1–4): 71.
+du/abs/2003ApJ...595..429J). doi:10.1086/377165 (https://doi.or arXiv:1308.6308 (https://arxiv.org/abs/1308.6308).
+g/10.1086%2F377165). S2CID 17773111 (https://api.semantics Bibcode:2013SSRv..180...71S (https://ui.adsabs.harvard.edu/ab
+cholar.org/CorpusID:17773111). s/2013SSRv..180...71S). doi:10.1007/s11214-013-0019-1 (http
+
+s://doi.org/10.1007%2Fs11214-013-0019-1). S2CID 118597064
+31. physicsworld.com 2015-04-22 First visible light detected directly (https://api.semanticscholar.org/CorpusID:118597064).
+
+from an exoplanet (http://physicsworld.com/cws/article/news/20
+15/apr/22/first-visible-light-detected-directly-from-an-exoplanet) 42. A. Wolszczan and D. A. Frail; Frail (9 January 1992). "A
+
+planetary system around the millisecond pulsar PSR1257+12"
+32. Martins, J. H. C.; Santos, N. C.; Figueira, P.; Faria, J. P.; (http://www.nature.com/physics/looking-back/wolszczan/index.ht
+
+Montalto, M.; et al. (2015). "Evidence for a spectroscopic direct ml). Nature. 355 (6356): 145–147.
+detection of reflected light from 51 Pegasi b". Astronomy & Bibcode:1992Natur.355..145W (https://ui.adsabs.harvard.edu/a
+Astrophysics. 576: A134. arXiv:1504.05962 (https://arxiv.org/ab bs/1992Natur.355..145W). doi:10.1038/355145a0 (https://doi.or
+s/1504.05962). Bibcode:2015A&A...576A.134M (https://ui.adsab g/10.1038%2F355145a0). S2CID 4260368 (https://api.semantic
+s.harvard.edu/abs/2015A&A...576A.134M). doi:10.1051/0004- scholar.org/CorpusID:4260368). Retrieved 30 April 2007.
+6361/201425298 (https://doi.org/10.1051%2F0004-6361%2F20
+1425298). S2CID 119224213 (https://api.semanticscholar.org/C 43. Wolszczan, A. (1994). "Confirmation of Earth Mass Planets
+orpusID:119224213). Orbiting the Millisecond Pulsar PSR B1257+12" (https://web.arc
+
+hive.org/web/20110720034147/http://www2.astro.psu.edu/~niel/
+33. Snellen, I.A.G.; De Mooij, E.J.W. & Albrecht, S. (2009). "The astro550/week07-wolszczan-pulsar-planets.pdf) (PDF).
+
+changing phases of extrasolar planet CoRoT-1b". Nature. 459 Science. 264 (5158): 538–542. Bibcode:1994Sci...264..538W (h
+(7246): 543–545. arXiv:0904.1208 (https://arxiv.org/abs/0904.12 ttps://ui.adsabs.harvard.edu/abs/1994Sci...264..538W).
+08). Bibcode:2009Natur.459..543S (https://ui.adsabs.harvard.ed doi:10.1126/science.264.5158.538 (https://doi.org/10.1126%2Fs
+u/abs/2009Natur.459..543S). doi:10.1038/nature08045 (https://d cience.264.5158.538). PMID 17732735 (https://pubmed.ncbi.nl
+oi.org/10.1038%2Fnature08045). PMID 19478779 (https://pubm m.nih.gov/17732735). S2CID 19621191 (https://api.semanticsch
+ed.ncbi.nlm.nih.gov/19478779). S2CID 4347612 (https://api.sem olar.org/CorpusID:19621191). Archived from the original (http://
+anticscholar.org/CorpusID:4347612). www.astro.psu.edu/~niel/astro550/week07-wolszczan-pulsar-pla
+
+34. Borucki, W.J.; et al. (2009). "Kepler's Optical Phase Curve of the nets.pdf) (PDF) on 20 July 2011.
+Exoplanet HAT-P-7b" (https://zenodo.org/record/1230908). 44. Shibahashi, Hiromoto; Kurtz, Donald W. (2012). "FM stars: A
+Science (Submitted manuscript). 325 (5941): 709. Fourier view of pulsating binary stars, a new technique for
+Bibcode:2009Sci...325..709B (https://ui.adsabs.harvard.edu/ab measuring radial velocities photometrically" (https://doi.org/10.1
+s/2009Sci...325..709B). doi:10.1126/science.1178312 (https://do 111%2Fj.1365-2966.2012.20654.x). Monthly Notices of the
+i.org/10.1126%2Fscience.1178312). PMID 19661420 (https://pu Royal Astronomical Society. 422 (1): 738. arXiv:1202.0105 (http
+bmed.ncbi.nlm.nih.gov/19661420). S2CID 206522122 (https://a s://arxiv.org/abs/1202.0105). Bibcode:2012MNRAS.422..738S
+pi.semanticscholar.org/CorpusID:206522122). (https://ui.adsabs.harvard.edu/abs/2012MNRAS.422..738S).
+
+35. Charpinet, S.; Fontaine, G.; Brassard, P.; Green, E.M.; et al. doi:10.1111/j.1365-2966.2012.20654.x (https://doi.org/10.111
+(2011). "A compact system of small planets around a former 1%2Fj.1365-2966.2012.20654.x). S2CID 54949889 (https://api.
+red-giant star". Nature. 480 (7378): 496–499. semanticscholar.org/CorpusID:54949889).
+Bibcode:2011Natur.480..496C (https://ui.adsabs.harvard.edu/ab 45. "NASA - Mission Manager Update" (https://web.archive.org/web/
+s/2011Natur.480..496C). doi:10.1038/nature10631 (https://doi.or 20200808070113/https://www.nasa.gov/mission_pages/kepler/n
+g/10.1038%2Fnature10631). PMID 22193103 (https://pubmed.n ews/keplerm-20120710_prt.htm). Archived from the original (htt
+cbi.nlm.nih.gov/22193103). S2CID 2213885 (https://api.semanti p://www.nasa.gov/mission_pages/kepler/news/keplerm-2012071
+cscholar.org/CorpusID:2213885). 0_prt.htm) on 8 August 2020. Retrieved 25 July 2012.
+
+36. Loeb, Abraham; Gaudi, B. Scott (2003). "Periodic Flux Variability 46. Silvotti, R. (2007). "A giant planet orbiting the /'extreme
+of Stars due to the Reflex Doppler Effect Induced by Planetary horizontal branch/' star V 391 Pegasi" (https://authors.library.calt
+Companions". The Astrophysical Journal. 588 (2): L117. ech.edu/17168/2/Silvotti2007p5743Nature_supp.pdf) (PDF).
+arXiv:astro-ph/0303212 (https://arxiv.org/abs/astro-ph/0303212). Nature. 449 (7159): 189–191. Bibcode:2007Natur.449..189S (htt
+Bibcode:2003ApJ...588L.117L (https://ui.adsabs.harvard.edu/ab ps://ui.adsabs.harvard.edu/abs/2007Natur.449..189S).
+s/2003ApJ...588L.117L). doi:10.1086/375551 (https://doi.org/10. doi:10.1038/nature06143 (https://doi.org/10.1038%2Fnature061
+1086%2F375551). S2CID 10066891 (https://api.semanticschola 43). PMID 17851517 (https://pubmed.ncbi.nlm.nih.gov/1785151
+r.org/CorpusID:10066891). 7). S2CID 4342338 (https://api.semanticscholar.org/CorpusID:4
+
+342338).
+
+
+
+47. Miralda-Escude (2001). "Orbital perturbations on transiting 56. Deeg, Hans-Jorg; Doyle, Laurance R.; Kozhevnikov, V. P.; Blue,
+planets: A possible method to measure stellar quadrupoles and J. Ellen; Martín, L.; Schneider, J. (2000). "A search for Jovian-
+to detect Earth-mass planets". The Astrophysical Journal. 564 mass planets around CM Draconis using eclipse minima timing"
+(2): 1019–1023. arXiv:astro-ph/0104034 (https://arxiv.org/abs/as (http://citeseer.ist.psu.edu/379779.html). Astronomy &
+tro-ph/0104034). Bibcode:2002ApJ...564.1019M (https://ui.adsa Astrophysics. 358 (358): L5–L8. arXiv:astro-ph/0003391 (https://
+bs.harvard.edu/abs/2002ApJ...564.1019M). doi:10.1086/324279 arxiv.org/abs/astro-ph/0003391). Bibcode:2000A&A...358L...5D
+(https://doi.org/10.1086%2F324279). S2CID 7536842 (https://ap (https://ui.adsabs.harvard.edu/abs/2000A&A...358L...5D).
+i.semanticscholar.org/CorpusID:7536842). 57. Doyle, Laurance R., Hans-Jorg Deeg, J.M. Jenkins, J.
+
+48. Holman; Murray (2005). "The Use of Transit Timing to Detect Schneider, Z. Ninkov, R. P.S. Stone, J.E. Blue, H. Götzger, B,
+Extrasolar Planets with Masses as Small as Earth". Science. Friedman, and M.F. Doyle (1998). "Detectability of Jupiter-to-
+307 (5713): 1288–1291. arXiv:astro-ph/0412028 (https://arxiv.or brown-dwarf-mass companions around small eclipsing binary
+g/abs/astro-ph/0412028). Bibcode:2005Sci...307.1288H (https:// systems" (http://citeseer.ist.psu.edu/doyle97detectability.html).
+ui.adsabs.harvard.edu/abs/2005Sci...307.1288H). Brown Dwarfs and Extrasolar Planets, A.S.P. Conference
+doi:10.1126/science.1107822 (https://doi.org/10.1126%2Fscien Proceedings, in Brown Dwarfs and Extrasolar Planets, R.
+ce.1107822). PMID 15731449 (https://pubmed.ncbi.nlm.nih.gov/ Rebolo, E. L. Martin, and M.R.Z. Osorio (eds.), A.S.P.
+15731449). S2CID 41861725 (https://api.semanticscholar.org/C Conference Series 134, San Francisco, California, 224–231.
+orpusID:41861725). 58. Horner, Jonathan; Wittenmyer, Robert A.; Tinney, Chris G.;
+
+49. Agol; Sari; Steffen; Clarkson (2005). "On detecting terrestrial Robertson, Paul; Hinse, Tobias C.; Marshall, Jonathan P.
+planets with timing of giant planet transits" (https://doi.org/10.11 (2013). "Dynamical Constraints on Multi-Planet Exoplanetary
+11%2Fj.1365-2966.2005.08922.x). Monthly Notices of the Royal Systems". arXiv:1302.5247 (https://arxiv.org/abs/1302.5247)
+Astronomical Society. 359 (2): 567–579. arXiv:astro-ph/0412032 [astro-ph.EP (https://arxiv.org/archive/astro-ph.EP)].
+(https://arxiv.org/abs/astro-ph/0412032). 59. Doyle, Laurance R.; Carter, Joshua A.; Fabrycky, Daniel C.;
+Bibcode:2005MNRAS.359..567A (https://ui.adsabs.harvard.edu/ Slawson, Robert W.; Howell, Steve B.; Winn, Joshua N.; Orosz,
+abs/2005MNRAS.359..567A). doi:10.1111/j.1365- Jerome A.; Přsa, Andrej; Welsh, William F.; Quinn, Samuel N.;
+2966.2005.08922.x (https://doi.org/10.1111%2Fj.1365-2966.200 Latham, David; Torres, Guillermo; Buchhave, Lars A.; Marcy,
+5.08922.x). S2CID 16196696 (https://api.semanticscholar.org/C Geoffrey W.; Fortney, Jonathan J.; Shporer, Avi; Ford, Eric B.;
+orpusID:16196696). Lissauer, Jack J.; Ragozzine, Darin; Rucker, Michael; Batalha,
+
+50. Invisible World Discovered (https://web.archive.org/web/201110 Natalie; Jenkins, Jon M.; Borucki, William J.; Koch, David;
+19083552/http://kepler.nasa.gov/news/nasakeplernews/index.cf Middour, Christopher K.; Hall, Jennifer R.; McCauliff, Sean;
+m?FuseAction=ShowNews&NewsID=148), NASA Kepler News, Fanelli, Michael N.; Quintana, Elisa V.; Holman, Matthew J.;
+8 September 2011 Caldwell, Douglas A.; Still, Martin; Stefanik, Robert P.; Brown,
+
+51. Sarah Ballard; Daniel Fabrycky; Francois Fressin; David Warren R.; Esquerdo, Gilbert A.; Tang, Sumin; Furesz, Gabor;
+Charbonneau; et al. (2011). "The Kepler-19 System: A Geary, John C.; Berlind, Perry; Calkins, Michael L.; Short,
+Transiting 2.2 R_Earth Planet and a Second Planet Detected via Donald R.; Steffen, Jason H.; Sasselov, Dimitar; Dunham,
+Transit Timing Variations". The Astrophysical Journal. 743 (2): Edward W.; Cochran, William D.; Boss, Alan; Haas, Michael R.;
+200. arXiv:1109.1561 (https://arxiv.org/abs/1109.1561). Buzasi, Derek; Fischer, Debra (2011). "Kepler-16: A Transiting
+Bibcode:2011ApJ...743..200B (https://ui.adsabs.harvard.edu/ab Circumbinary Planet". Science. 333 (6049): 1602–1606.
+s/2011ApJ...743..200B). doi:10.1088/0004-637X/743/2/200 (http arXiv:1109.3432 (https://arxiv.org/abs/1109.3432).
+s://doi.org/10.1088%2F0004-637X%2F743%2F2%2F200). Bibcode:2011Sci...333.1602D (https://ui.adsabs.harvard.edu/ab
+S2CID 42698813 (https://api.semanticscholar.org/CorpusID:426 s/2011Sci...333.1602D). doi:10.1126/science.1210923 (https://d
+98813). oi.org/10.1126%2Fscience.1210923). PMID 21921192 (https://p
+
+52. Nascimbeni; Piotto; Bedin; Damasso (2008). "TASTE: The ubmed.ncbi.nlm.nih.gov/21921192). S2CID 206536332 (https://
+Asiago Survey for Timing transit variations of Exoplanets". api.semanticscholar.org/CorpusID:206536332).
+arXiv:1009.5905 (https://arxiv.org/abs/1009.5905) [astro-ph.EP 60. J.-P. Beaulieu; D.P. Bennett; P. Fouque; A. Williams; et al.
+(https://arxiv.org/archive/astro-ph.EP)]. (2006). "Discovery of a Cool Planet of 5.5 Earth Masses
+
+53. Pal; Kocsis (2008). "Periastron Precession Measurements in Through Gravitational Microlensing". Nature. 439 (7075): 437–
+Transiting Extrasolar Planetary Systems at the Level of General 440. arXiv:astro-ph/0601563 (https://arxiv.org/abs/astro-ph/0601
+Relativity" (https://doi.org/10.1111%2Fj.1365-2966.2008.13512. 563). Bibcode:2006Natur.439..437B (https://ui.adsabs.harvard.e
+x). Monthly Notices of the Royal Astronomical Society. 389 du/abs/2006Natur.439..437B). doi:10.1038/nature04441 (https://
+(2008): 191–198. arXiv:0806.0629 (https://arxiv.org/abs/0806.06 doi.org/10.1038%2Fnature04441). PMID 16437108 (https://pub
+29). Bibcode:2008MNRAS.389..191P (https://ui.adsabs.harvard. med.ncbi.nlm.nih.gov/16437108). S2CID 4414076 (https://api.se
+edu/abs/2008MNRAS.389..191P). doi:10.1111/j.1365- manticscholar.org/CorpusID:4414076).
+2966.2008.13512.x (https://doi.org/10.1111%2Fj.1365-2966.200 61. Brooks, Thomas; Stahl, H. P.; Arnold, William R. (2015).
+8.13512.x). S2CID 15282437 (https://api.semanticscholar.org/C "Advanced Mirror Technology Development (AMTD) thermal
+orpusID:15282437). trade studies". In Kahan, Mark A; Levine-West, Marie B (eds.).
+
+54. Welsh, William F.; Orosz, Jerome A.; Carter, Joshua A.; Optical Modeling and Performance Predictions VII. Vol. 9577.
+Fabrycky, Daniel C. (2013). "Recent Kepler Results on p. 957703. doi:10.1117/12.2188371 (https://doi.org/10.1117%2F
+Circumbinary Planets". Proceedings of the International 12.2188371). hdl:2060/20150019495 (https://hdl.handle.net/206
+Astronomical Union. 8: 125–132. arXiv:1308.6328 (https://arxiv. 0%2F20150019495). S2CID 119544105 (https://api.semanticsc
+org/abs/1308.6328). Bibcode:2014IAUS..293..125W (https://ui.a holar.org/CorpusID:119544105).
+dsabs.harvard.edu/abs/2014IAUS..293..125W). 62. Close, L. M.; Follette, K. B.; Males, J. R.; Puglisi, A.; Xompero,
+doi:10.1017/S1743921313012684 (https://doi.org/10.1017%2FS M.; Apai, D.; Najita, J.; Weinberger, A. J.; Morzinski, K.;
+1743921313012684). S2CID 119230654 (https://api.semanticsc Rodigas, T. J.; Hinz, P.; Bailey, V.; Briguglio, R. (2014).
+holar.org/CorpusID:119230654). "Discovery of H-alpha Emission from the Close Companion
+
+55. Doyle, Laurance R.; Deeg, Hans-Jorg (2002). "Timing detection Inside the Gap of Transitional Disk HD142527". The
+of eclipsing binary planets and transiting extrasolar moons". Astrophysical Journal. 781 (2): L30. arXiv:1401.1273 (https://arx
+Bioastronomy. 7: 80. arXiv:astro-ph/0306087 (https://arxiv.org/a iv.org/abs/1401.1273). Bibcode:2014ApJ...781L..30C (https://ui.
+bs/astro-ph/0306087). Bibcode:2004IAUS..213...80D (https://ui. adsabs.harvard.edu/abs/2014ApJ...781L..30C).
+adsabs.harvard.edu/abs/2004IAUS..213...80D). "Bioastronomy doi:10.1088/2041-8205/781/2/L30 (https://doi.org/10.1088%2F2
+2002: Life Among the Stars" IAU Symposium 213, R.P Norris 041-8205%2F781%2F2%2FL30). S2CID 118654984 (https://ap
+and F.H. Stootman (eds), A.S.P., San Francisco, California, 80– i.semanticscholar.org/CorpusID:118654984).
+84. 63. "First Light for Planet Hunter ExTrA at La Silla" (https://www.eso.
+
+org/public/news/eso1803/). www.eso.org. Retrieved 24 January
+2018.
+
+64. "VLT Snaps An Exotic Exoplanet "First" " (http://www.eso.org/pu
+blic/images/potw1624a/). Retrieved 15 June 2016.
+
+
+
+65. G. Chauvin; A.M. Lagrange; C. Dumas; B. Zuckerman; et al. 75. "Direct Imaging of a Super-Jupiter Around a Massive Star" (htt
+(2004). "A giant planet candidate near a young brown dwarf" (htt p://subarutelescope.org/Pressrelease/2012/11/19/index.html).
+ps://web.archive.org/web/20060908015928/http://www.edpscien Retrieved 19 November 2012.
+ces.org/articles/aa/abs/2004/38/aagg222/aagg222.html). 76. Francis Reddy (19 November 2012). "NASA – Astronomers
+Astronomy & Astrophysics. 425 (2): L29–L32. arXiv:astro- Directly Image Massive Star's 'Super Jupiter' " (http://www.nasa.
+ph/0409323 (https://arxiv.org/abs/astro-ph/0409323). gov/topics/universe/features/super-jupiter_prt.htm). NASA.com.
+Bibcode:2004A&A...425L..29C (https://ui.adsabs.harvard.edu/ab Retrieved 19 November 2012.
+s/2004A&A...425L..29C). doi:10.1051/0004-6361:200400056 (ht 77. Thalmann, Christian; Joseph Carson; Markus Janson; Miwa
+tps://doi.org/10.1051%2F0004-6361%3A200400056). Goto; et al. (2009). "Discovery of the Coldest Imaged
+S2CID 15948759 (https://api.semanticscholar.org/CorpusID:159 Companion of a Sun-Like Star". The Astrophysical Journal. 707
+48759). Archived from the original (http://www.edpsciences.org/ (2): L123–L127. arXiv:0911.1127 (https://arxiv.org/abs/0911.112
+articles/aa/abs/2004/38/aagg222/aagg222.html) on 8 7). Bibcode:2009ApJ...707L.123T (https://ui.adsabs.harvard.ed
+September 2006. Retrieved 4 October 2006. u/abs/2009ApJ...707L.123T). doi:10.1088/0004-
+
+66. "Yes, it is the Image of an Exoplanet (Press Release)" (http://ww 637X/707/2/L123 (https://doi.org/10.1088%2F0004-637X%2F70
+w.eso.org/public/news/eso0515/). ESO website. 30 April 2005. 7%2F2%2FL123). S2CID 116823073 (https://api.semanticschol
+Retrieved 9 July 2010. ar.org/CorpusID:116823073).
+
+67. Lafrenière, David; Jayawardhana, Ray; van Kerkwijk, Marten H. 78. R. Neuhauser; E. W. Guenther; G. Wuchterl; M. Mugrauer; et al.
+(20 December 2008). "Direct Imaging and Spectroscopy of a (2005). "Evidence for a co-moving sub-stellar companion of GQ
+Planetary-Mass Candidate Companion to a Young Solar Analog" Lup" (https://web.archive.org/web/20060502132012/http://www.
+(https://iopscience.iop.org/article/10.1086/595870). The edpsciences.org/articles/aa/abs/2005/19/aagj061/aagj061.html).
+Astrophysical Journal. 689 (2): L153–L156. arXiv:0809.1424 (htt Astronomy & Astrophysics. 435 (1): L13–L16. arXiv:astro-
+ps://arxiv.org/abs/0809.1424). Bibcode:2008ApJ...689L.153L (ht ph/0503691 (https://arxiv.org/abs/astro-ph/0503691).
+tps://ui.adsabs.harvard.edu/abs/2008ApJ...689L.153L). Bibcode:2005A&A...435L..13N (https://ui.adsabs.harvard.edu/ab
+doi:10.1086/595870 (https://doi.org/10.1086%2F595870). s/2005A&A...435L..13N). doi:10.1051/0004-6361:200500104 (ht
+ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X). tps://doi.org/10.1051%2F0004-6361%3A200500104).
+
+68. "Exoplanet 'circles normal star' " (http://news.bbc.co.uk/1/hi/sci/t S2CID 7444394 (https://api.semanticscholar.org/CorpusID:7444
+ech/7617031.stm). BBC News. 15 September 2008. Archived (h 394). Archived from the original (http://www.edpsciences.org/arti
+ttps://web.archive.org/web/20080916120154/http://news.bbc.co. cles/aa/abs/2005/19/aagj061/aagj061.html) on 2 May 2006.
+uk/1/hi/sci/tech/7617031.stm) from the original on 16 September Retrieved 4 October 2006.
+2008. Retrieved 17 September 2008. 79. "Is this a Brown Dwarf or an Exoplanet?" (https://web.archive.or
+
+69. Astronomers verify directly imaged planet (http://cs.astronomy.c g/web/20120916061533/http://www.eso.org/public/news/eso051
+om/asycs/blogs/astronomy/2010/06/22/astronomers-verify-direct 1/). ESO Website. 7 April 2005. Archived from the original (htt
+ly-imaged-planet.aspx) Archived (https://web.archive.org/web/20 p://www.eso.org/outreach/press-rel/pr-2005/pr-09-05.html) on
+100630110925/http://cs.astronomy.com/asycs/blogs/astronomy/ 16 September 2012. Retrieved 4 July 2006.
+2010/06/22/astronomers-verify-directly-imaged-planet.aspx) 30 80. M. Janson; W. Brandner; T. Henning; H. Zinnecker (2005).
+June 2010 at the Wayback Machine "Early ComeOn+ adaptive optics observation of GQ Lupi and its
+
+70. Marois, Christian; MacIntosh, B.; et al. (November 2008). "Direct substellar companion" (https://archive.today/20120525125602/h
+Imaging of Multiple Planets Orbiting the Star HR 8799". ttp://www.edpsciences.org/articles/aa/abs/2006/26/aa4475-05/a
+Science. 322 (5906): 1348–52. arXiv:0811.2606 (https://arxiv.or a4475-05.html). Astronomy & Astrophysics. 453 (2): 609–614.
+g/abs/0811.2606). Bibcode:2008Sci...322.1348M (https://ui.ads arXiv:astro-ph/0603228 (https://arxiv.org/abs/astro-ph/0603228).
+abs.harvard.edu/abs/2008Sci...322.1348M). Bibcode:2006A&A...453..609J (https://ui.adsabs.harvard.edu/ab
+doi:10.1126/science.1166585 (https://doi.org/10.1126%2Fscien s/2006A&A...453..609J). doi:10.1051/0004-6361:20054475 (http
+ce.1166585). PMID 19008415 (https://pubmed.ncbi.nlm.nih.gov/ s://doi.org/10.1051%2F0004-6361%3A20054475).
+19008415). S2CID 206516630 (https://api.semanticscholar.org/ S2CID 18024395 (https://api.semanticscholar.org/CorpusID:180
+CorpusID:206516630). (Preprint at exoplanet.eu (http://exoplan 24395). Archived from the original (http://www.edpsciences.org/
+et.eu/papers/exo_science.pdf) Archived (https://web.archive.org/ articles/aa/abs/2006/26/aa4475-05/aa4475-05.html) on 25 May
+web/20081217133217/http://exoplanet.eu/papers/exo_science.p 2012. Retrieved 4 October 2006.
+df) 17 December 2008 at the Wayback Machine) 81. "Lightest Exoplanet Imaged So Far?" (http://www.eso.org/public/
+
+71. "Astronomers capture first image of newly-discovered solar news/eso1324/). ESO Press Release. Retrieved 5 June 2013.
+system" (https://web.archive.org/web/20131126160805/http://w 82. Thompson, Andrea (14 April 2010). "New method could image
+ww.keckobservatory.org/article.php?id=231) (Press release). W. Earth-like planets" (https://www.space.com/8216-method-photog
+M. Keck Observatory. 13 October 2008. Archived from the raph-earth-planets.html). space.com.
+original (http://www.keckobservatory.org/article.php?id=231) on 83. "News - Earth-like Planets May Be Ready for Their Close-Up" (h
+26 November 2013. Retrieved 13 October 2008. ttps://web.archive.org/web/20111021034838/http://www.jpl.nas
+
+72. "Hubble Directly Observes a Planet Orbiting Another Star" (htt a.gov/news/news.cfm?release=2010-207). NASA/JPL. Archived
+p://www.nasa.gov/mission_pages/hubble/science/fomalhaut.htm from the original (http://www.jpl.nasa.gov/news/news.cfm?releas
+l). Retrieved 13 November 2008. e=2010-207) on 21 October 2011. Retrieved 23 June 2010.
+
+73. Lagrange, A.-M.; Gratadour, D.; Chauvin, G.; Fusco, T.; 84. Twinkle, twinkle, little planet (http://www.economist.com/node/21
+Ehrenreich, D.; Mouillet, D.; Rousset, G.; Rouan, D.; Allard, F.; 556552), The Economist, 9 June 2012
+Gendron, é.; Charton, J.; Mugnier, L.; Rabou, P.; Montri, J.; 85. Keifer, Sven (August 2021). "Spectral and angular differential
+Lacombe, F. (2 January 2009). "A probable giant planet imaged imaging with SPHERE/IFS. Assessing the performance of
+in the β Pictoris disk: VLT/NaCo deep L' -band imaging" (http://w various PCA-based approaches to PSF subtraction" (https://ui.a
+ww.aanda.org/10.1051/0004-6361:200811325). Astronomy &
+Astrophysics. 493 dsabs.harvard.edu/abs/2021A%26A...652A..33K/abstract).
+
+ (2): L21–L25. arXiv:0811.3583 (https://arxiv.o Astronomy & Astrophysics. 652: 10. arXiv:2106.05278 (https://ar
+rg/abs/0811.3583). Bibcode:2009A&A...493L..21L (https://ui.ads xiv.org/abs/2106.05278). Bibcode:2021A&A...652A..33K (https://
+abs.harvard.edu/abs/2009A&A...493L..21L). doi:10.1051/0004- ui.adsabs.harvard.edu/abs/2021A&A...652A..33K).
+6361:200811325 (https://doi.org/10.1051%2F0004-6361%3A20 doi:10.1051/0004-6361/202140285 (https://doi.org/10.1051%2F
+0811325). ISSN 0004-6361 (https://search.worldcat.org/issn/00 0004-6361%2F202140285). S2CID 235390892 (https://api.sem
+04-6361). anticscholar.org/CorpusID:235390892). Retrieved 9 January
+
+74. "Beta Pictoris planet finally imaged?" (https://web.archive.org/w 2023.
+eb/20090208234953/http://eso.org/public/outreach/press-rel/pr-
+2008/pr-42-08.html) (Press release). ESO. 21 November 2008.
+Archived from the original (http://www.eso.org/public/outreach/pr
+ess-rel/pr-2008/pr-42-08.html) on 8 February 2009. Retrieved
+22 November 2008.
+
+
+
+86. Schmid, H. M.; Beuzit, J.-L.; Feldt, M.; et al. (2006). "Search and 98. Benedict; et al. (2002). "A Mass for the Extrasolar Planet Gliese
+investigation of extra-solar planets with polarimetry" (https://doi. 876b Determined from Hubble Space Telescope Fine Guidance
+org/10.1017%2FS1743921306009252). Direct Imaging of Sensor 3 Astrometry and High-Precision Radial Velocities". The
+Exoplanets: Science & Techniques. Proceedings of the IAU Astrophysical Journal Letters. 581 (2): L115–L118. arXiv:astro-
+Colloquium #200. 1 (C200): 165–170. ph/0212101 (https://arxiv.org/abs/astro-ph/0212101).
+Bibcode:2006dies.conf..165S (https://ui.adsabs.harvard.edu/ab Bibcode:2002ApJ...581L.115B (https://ui.adsabs.harvard.edu/ab
+s/2006dies.conf..165S). doi:10.1017/S1743921306009252 (http s/2002ApJ...581L.115B). doi:10.1086/346073 (https://doi.org/10.
+s://doi.org/10.1017%2FS1743921306009252). 1086%2F346073). S2CID 18430973 (https://api.semanticschola
+
+87. Schmid, H. M.; Gisler; Joos; et al. (2004). "ZIMPOL/CHEOPS: a r.org/CorpusID:18430973).
+Polarimetric Imager for the Direct Detection of Extra-solar 99. Pravdo, Steven H.; Shaklan, Stuart B. (2009). "An Ultracool
+Planets". Astronomical Polarimetry: Current Status and Future Star's Candidate Planet" (https://web.archive.org/web/20090604
+Directions ASP Conference Series. 343: 89. 100620/http://steps.jpl.nasa.gov/links/docs/pravdoshaklan09vb1
+Bibcode:2005ASPC..343...89S (https://ui.adsabs.harvard.edu/a 0b.pdf) (PDF). The Astrophysical Journal. 700 (1): 623–632.
+bs/2005ASPC..343...89S). arXiv:0906.0544 (https://arxiv.org/abs/0906.0544).
+
+88. Hough, J. H.; Lucas, P. W.; Bailey, J. A.; Tamura, M.; et al. Bibcode:2009ApJ...700..623P (https://ui.adsabs.harvard.edu/ab
+(2006). "PlanetPol: A Very High Sensitivity Polarimeter" (https:// s/2009ApJ...700..623P). doi:10.1088/0004-637X/700/1/623 (http
+doi.org/10.1086%2F507955). Publications of the Astronomical s://doi.org/10.1088%2F0004-637X%2F700%2F1%2F623).
+Society of the Pacific. 118 (847): 1302–1318. S2CID 119239022 (https://api.semanticscholar.org/CorpusID:11
+Bibcode:2006PASP..118.1302H (https://ui.adsabs.harvard.edu/a 9239022). Archived from the original (http://steps.jpl.nasa.gov/lin
+bs/2006PASP..118.1302H). doi:10.1086/507955 (https://doi.org/ ks/docs/pravdoshaklan09vb10b.pdf) (PDF) on 4 June 2009.
+10.1086%2F507955). Retrieved 30 May 2009.
+
+89. Berdyugina, Svetlana V.; Andrei V. Berdyugin; Dominique M. 100. "First find Planet-hunting method succeeds at last" (https://web.
+Fluri; Vilppu Piirola (20 January 2008). "First detection of archive.org/web/20090904010715/http://planetquest.jpl.nasa.go
+polarized scattered light from an exoplanetary atmosphere". The v/news/firstFind.cfm). NASA PlanetQuest. 28 May 2009.
+Astrophysical Journal. 673 (1): L83. arXiv:0712.0193 (https://arx Archived from the original (http://planetquest.jpl.nasa.gov/news/f
+iv.org/abs/0712.0193). Bibcode:2008ApJ...673L..83B (https://ui. irstFind.cfm) on 4 September 2009. Retrieved 29 May 2009.
+adsabs.harvard.edu/abs/2008ApJ...673L..83B). 101. Bean, J.; Andreas Seifahrt; Henrik Hartman; Hampus Nilsson;
+doi:10.1086/527320 (https://doi.org/10.1086%2F527320). et al. (2009). "The Proposed Giant Planet Orbiting VB 10 Does
+S2CID 14366978 (https://api.semanticscholar.org/CorpusID:143 Not Exist". The Astrophysical Journal. 711 (1): L19.
+66978). arXiv:0912.0003 (https://arxiv.org/abs/0912.0003).
+
+90. Alexander, Amir. "Space Topics: Extrasolar Planets Astrometry: Bibcode:2010ApJ...711L..19B (https://ui.adsabs.harvard.edu/ab
+The Past and Future of Planet Hunting" (https://web.archive.org/ s/2010ApJ...711L..19B). doi:10.1088/2041-8205/711/1/L19 (http
+web/20060308170147/http://www.planetary.org/explore/topics/e s://doi.org/10.1088%2F2041-8205%2F711%2F1%2FL19).
+xtrasolar_planets/extrasolar/astrometry.html). The Planetary S2CID 122135256 (https://api.semanticscholar.org/CorpusID:12
+Society. Archived from the original (http://www.planetary.org/expl 2135256).
+ore/topics/extrasolar_planets/extrasolar/astrometry.html) on 8 102. Anglada-Escude, G.; Shkolnik; Weinberger; Thompson; et al.
+March 2006. Retrieved 10 September 2006. (2010). "Strong Constraints to the Putative Planet Candidate
+
+91. Jacob, W. S. (June 1855). "On certain Anomalies presented by around VB 10 Using Doppler Spectroscopy". The Astrophysical
+the Binary Star 70 Ophiuchi" (https://doi.org/10.1093%2Fmnra Journal. 711 (1): L24. arXiv:1001.0043 (https://arxiv.org/abs/100
+s%2F15.9.228). Monthly Notices of the Royal Astronomical 1.0043). Bibcode:2010ApJ...711L..24A (https://ui.adsabs.harvar
+Society. 15 (9): 228–230. Bibcode:1855MNRAS..15..228J (http d.edu/abs/2010ApJ...711L..24A). doi:10.1088/2041-
+s://ui.adsabs.harvard.edu/abs/1855MNRAS..15..228J). 8205/711/1/L24 (https://doi.org/10.1088%2F2041-8205%2F71
+doi:10.1093/mnras/15.9.228 (https://doi.org/10.1093%2Fmnra 1%2F1%2FL24). S2CID 119210331 (https://api.semanticschola
+s%2F15.9.228). r.org/CorpusID:119210331).
+
+92. See, Thomas Jefferson Jackson (1896). "Researches on the 103. Muterspaugh, Matthew W.; Lane, Benjamin F.; Kulkarni, S. R.;
+Orbit of F.70 Ophiuchi, and on a Periodic Perturbation in the Konacki, Maciej; Burke, Bernard F.; Colavita, M. M.; Shao, M.;
+Motion of the System Arising from the Action of an Unseen Hartkopf, William I.; Boss, Alan P.; Williamson, M. (2010). "The
+Body". The Astronomical Journal. 16: 17. PHASES Differential Astrometry Data Archive. V. Candidate
+Bibcode:1896AJ.....16...17S (https://ui.adsabs.harvard.edu/abs/ Substellar Companions to Binary Systems". The Astronomical
+1896AJ.....16...17S). doi:10.1086/102368 (https://doi.org/10.108 Journal. 140 (6): 1657. arXiv:1010.4048 (https://arxiv.org/abs/10
+6%2F102368). 10.4048). Bibcode:2010AJ....140.1657M (https://ui.adsabs.harv
+
+93. Sherrill, Thomas J. (1999). "A Career of controversy: the ard.edu/abs/2010AJ....140.1657M). doi:10.1088/0004-
+anomaly OF T. J. J. See" (http://www.shpltd.co.uk/jha.pdf) 6256/140/6/1657 (https://doi.org/10.1088%2F0004-6256%2F14
+(PDF). Journal for the History of Astronomy. 30: 25–50. 0%2F6%2F1657). S2CID 59585356 (https://api.semanticschola
+Bibcode:1999JHA....30...25S (https://ui.adsabs.harvard.edu/ab r.org/CorpusID:59585356).
+s/1999JHA....30...25S). doi:10.1177/002182869903000102 (http 104. Snellen, Ignas; Brown, Anthony (20 August 2018). "The mass of
+s://doi.org/10.1177%2F002182869903000102). the young planet Pictoris b through the astrometric motion of its
+S2CID 117727302 (https://api.semanticscholar.org/CorpusID:11 host star". Nature Astronomy. 2 (11): 883–886.
+7727302). Retrieved 27 August 2007. arXiv:1808.06257 (https://arxiv.org/abs/1808.06257).
+
+94. Heintz, W.D. (June 1988). "The Binary Star 70 Ophiuchi Bibcode:2018NatAs...2..883S (https://ui.adsabs.harvard.edu/ab
+Revisited". Journal of the Royal Astronomical Society of s/2018NatAs...2..883S). doi:10.1038/s41550-018-0561-6 (http
+Canada. 82 (3): 140. Bibcode:1988JRASC..82..140H (https://ui. s://doi.org/10.1038%2Fs41550-018-0561-6). ISSN 2397-3366
+adsabs.harvard.edu/abs/1988JRASC..82..140H). (https://search.worldcat.org/issn/2397-3366). S2CID 118896628
+
+(https://api.semanticscholar.org/CorpusID:118896628).
+95. Gatewood, G. (May 1996). "Lalande 21185". Bulletin of the
+
+American Astronomical Society. 28: 885. 105. Feng, Fabo; Anglada-Escudé, Guillem; Tuomi, Mikko; Jones,
+Bibcode:1996AAS...188.4011G (https://ui.adsabs.harvard.edu/a Hugh R. A.; Chanamé, Julio; Butler, Paul R.; Janson, Markus
+bs/1996AAS...188.4011G). (14 October 2019), "Detection of the nearest Jupiter analog in
+
+radial velocity and astrometry data", Monthly Notices of the
+96. John Wilford (12 June 1996). "Data Seem to Show a Solar Royal Astronomical Society, 490 (4): 5002–5016,
+
+System Nearly in the Neighborhood" (https://www.nytimes.com/ arXiv:1910.06804 (https://arxiv.org/abs/1910.06804),
+1996/06/12/us/data-seem-to-show-a-solar-system-nearly-in-the- Bibcode:2019MNRAS.490.5002F (https://ui.adsabs.harvard.ed
+neighborhood.html). The New York Times. p. 1. Retrieved u/abs/2019MNRAS.490.5002F), doi:10.1093/mnras/stz2912 (htt
+29 May 2009. ps://doi.org/10.1093%2Fmnras%2Fstz2912), S2CID 204575783
+
+97. Alan Boss (2 February 2009). The Crowded Universe. Basic (https://api.semanticscholar.org/CorpusID:204575783)
+Books. ISBN 978-0-465-00936-7.
+
+
+
+106. Feng, Fabo; Butler, R Paul; Jones, Hugh R A.; Phillips, Mark W.; 114. Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel,
+et al. (2021). "Optimized modelling of Gaia–Hipparcos Tilman; Foreman-Mackey, Daniel (2018). "A Kinematical
+astrometry for the detection of the smallest cold Jupiter and Detection of Two Embedded Jupiter-mass Planets in HD
+confirmation of seven low-mass companions" (https://doi.org/10. 163296" (https://doi.org/10.3847%2F2041-8213%2Faac6d7).
+1093%2Fmnras%2Fstab2225). Monthly Notices of the Royal The Astrophysical Journal. 860 (1): L12. arXiv:1805.10290 (http
+Astronomical Society. 507 (2): 2856–2868. arXiv:2107.14056 (ht s://arxiv.org/abs/1805.10290). Bibcode:2018ApJ...860L..12T (htt
+tps://arxiv.org/abs/2107.14056). ps://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T).
+Bibcode:2021MNRAS.507.2856F (https://ui.adsabs.harvard.ed doi:10.3847/2041-8213/aac6d7 (https://doi.org/10.3847%2F204
+u/abs/2021MNRAS.507.2856F). doi:10.1093/mnras/stab2225 (h 1-8213%2Faac6d7). S2CID 119505278 (https://api.semanticsch
+ttps://doi.org/10.1093%2Fmnras%2Fstab2225). olar.org/CorpusID:119505278).
+
+107. Li, Yiting; Brandt, Timothy D.; Brandt, G. Mirek; Dupuy, Trent J.; 115. Pinte, C.; Van Der Plas, G.; Ménard, F.; Price, D. J.; Christiaens,
+Michalik, Daniel; Jensen-Clem, Rebecca; Zeng, Yunlin; Faherty, V.; Hill, T.; Mentiplay, D.; Ginski, C.; Choquet, E.; Boehler, Y.;
+Jacqueline; Mitra, Elena L. (2021). "Precise Masses and Orbits Duchêne, G.; Perez, S.; Casassus, S. (2019). "Kinematic
+for Nine Radial-velocity Exoplanets" (https://doi.org/10.3847%2F detection of a planet carving a gap in a protoplanetary disk".
+1538-3881%2Fac27ab). The Astronomical Journal. 162 (6): Nature Astronomy. 3 (12): 1109–1114. arXiv:1907.02538 (http
+266. arXiv:2109.10422 (https://arxiv.org/abs/2109.10422). s://arxiv.org/abs/1907.02538). Bibcode:2019NatAs...3.1109P (ht
+Bibcode:2021AJ....162..266L (https://ui.adsabs.harvard.edu/abs/ tps://ui.adsabs.harvard.edu/abs/2019NatAs...3.1109P).
+2021AJ....162..266L). doi:10.3847/1538-3881/ac27ab (https://do doi:10.1038/s41550-019-0852-6 (https://doi.org/10.1038%2Fs41
+i.org/10.3847%2F1538-3881%2Fac27ab). S2CID 237592581 (h 550-019-0852-6). S2CID 195820690 (https://api.semanticschola
+ttps://api.semanticscholar.org/CorpusID:237592581). r.org/CorpusID:195820690).
+
+108. Feng, Fabo; Butler, R. Paul; et al. (August 2022). "3D Selection 116. "HD 97048 | NASA Exoplanet Archive" (https://exoplanetarchive.
+of 167 Substellar Companions to Nearby Stars" (https://doi.org/1 ipac.caltech.edu/overview/HD%2097048).
+0.3847%2F1538-4365%2Fac7e57). The Astrophysical Journal exoplanetarchive.ipac.caltech.edu. Retrieved 11 October 2023.
+Supplement Series. 262 (21): 21. arXiv:2208.12720 (https://arxi 117. Nayakshin, Sergei; de Miera, Fernando Cruz Sáenz; Kóspál,
+v.org/abs/2208.12720). Bibcode:2022ApJS..262...21F (https://ui. Ágnes (27 April 2024). "The youngest of hot jupiters in action:
+adsabs.harvard.edu/abs/2022ApJS..262...21F). episodic accretion outbursts in Gaia20eae" (https://doi.org/10.10
+doi:10.3847/1538-4365/ac7e57 (https://doi.org/10.3847%2F153 93%2Fmnrasl%2Fslae034). Monthly Notices of the Royal
+8-4365%2Fac7e57). S2CID 251864022 (https://api.semanticsch Astronomical Society: Letters. 532: L27–L32. arXiv:2405.09904
+olar.org/CorpusID:251864022). (https://arxiv.org/abs/2405.09904). doi:10.1093/mnrasl/slae034
+
+109. Winn, Joshua N. (September 2022). "Joint Constraints on (https://doi.org/10.1093%2Fmnrasl%2Fslae034). ISSN 1745-
+Exoplanetary Orbits from Gaia DR3 and Doppler Data" (https://d 3925 (https://search.worldcat.org/issn/1745-3925).
+oi.org/10.3847%2F1538-3881%2Fac9126). The Astronomical 118. Argyle, Edward (1974). "On the observability of extrasolar
+Journal. 164 (5): 196. arXiv:2209.05516 (https://arxiv.org/abs/22 planetary systems". Icarus. 21 (2). Elsevier BV: 199–201.
+09.05516). Bibcode:2022AJ....164..196W (https://ui.adsabs.harv Bibcode:1974Icar...21..199A (https://ui.adsabs.harvard.edu/abs/
+ard.edu/abs/2022AJ....164..196W). doi:10.3847/1538- 1974Icar...21..199A). doi:10.1016/0019-1035(74)90138-9 (http
+3881/ac9126 (https://doi.org/10.3847%2F1538-3881%2Fac912 s://doi.org/10.1016%2F0019-1035%2874%2990138-9).
+6). S2CID 252211643 (https://api.semanticscholar.org/CorpusI ISSN 0019-1035 (https://search.worldcat.org/issn/0019-1035).
+D:252211643). 119. Bromley, Benjamin C. (1992). "Detecting faint echoes in stellar-
+
+110. Llop-Sayson, Jorge; Wang, Jason J.; Ruffio, Jean-Baptiste; flare light curves" (https://doi.org/10.1086%2F133089).
+Mawet, Dimitri; et al. (6 October 2021). "Constraining the Orbit Publications of the Astronomical Society of the Pacific. 104. IOP
+and Mass of epsilon Eridani b with Radial Velocities, Hipparcos Publishing: 1049. Bibcode:1992PASP..104.1049B (https://ui.ads
+IAD-Gaia DR2 Astrometry, and Multiepoch Vortex Coronagraphy abs.harvard.edu/abs/1992PASP..104.1049B).
+Upper Limits" (https://doi.org/10.3847%2F1538-3881%2Fac134 doi:10.1086/133089 (https://doi.org/10.1086%2F133089).
+a). The Astronomical Journal. 162 (5): 181. arXiv:2108.02305 (h ISSN 0004-6280 (https://search.worldcat.org/issn/0004-6280).
+ttps://arxiv.org/abs/2108.02305). Bibcode:2021AJ....162..181L S2CID 121521634 (https://api.semanticscholar.org/CorpusID:12
+(https://ui.adsabs.harvard.edu/abs/2021AJ....162..181L). 1521634).
+doi:10.3847/1538-3881/ac134a (https://doi.org/10.3847%2F153 120. Gaidos, Eric J. (1994). "Light Echo Detection of Circumstellar
+8-3881%2Fac134a). eISSN 1538-3881 (https://search.worldcat. Disks around Flaring Stars". Icarus. 109 (2). Elsevier BV: 382–
+org/issn/1538-3881). ISSN 0004-6256 (https://search.worldcat.o 392. Bibcode:1994Icar..109..382G (https://ui.adsabs.harvard.ed
+rg/issn/0004-6256). S2CID 236924533 (https://api.semanticscho u/abs/1994Icar..109..382G). doi:10.1006/icar.1994.1101 (https://
+lar.org/CorpusID:236924533). doi.org/10.1006%2Ficar.1994.1101). ISSN 0019-1035 (https://s
+
+111. Curiel, Salvador; Ortiz-León, Gisela N.; Mioduszewski, Amy J.; earch.worldcat.org/issn/0019-1035).
+Torres, Rosa M. (2020). "An Astrometric Planetary Companion 121. Sugerman, Ben E. K. (2003). "Observability of Scattered-Light
+Candidate to the M9 Dwarf TVLM 513–46546" (https://doi.org/1 Echoes around Variable Stars and Cataclysmic Events". The
+0.3847%2F1538-3881%2Fab9e6e). The Astronomical Journal.
+160 Astronomical Journal. 126 (4): 1939–1959. arXiv:astro-
+
+ (3): 97. arXiv:2008.01595 (https://arxiv.org/abs/2008.0159 ph/0307245 (https://arxiv.org/abs/astro-ph/0307245).
+5). Bibcode:2020AJ....160...97C (https://ui.adsabs.harvard.edu/ Bibcode:2003AJ....126.1939S (https://ui.adsabs.harvard.edu/ab
+abs/2020AJ....160...97C). doi:10.3847/1538-3881/ab9e6e (http s/2003AJ....126.1939S). doi:10.1086/378358 (https://doi.org/10.
+s://doi.org/10.3847%2F1538-3881%2Fab9e6e). 1086%2F378358). ISSN 0004-6256 (https://search.worldcat.or
+S2CID 220961489 (https://api.semanticscholar.org/CorpusID:22 g/issn/0004-6256). S2CID 9576707 (https://api.semanticscholar.
+0961489). org/CorpusID:9576707).
+
+112. Curiel, Salvador; Ortiz-León, Gisela N.; Mioduszewski, Amy J.; 122. Mann, Chris; et al. (January 2016). Stellar Echo Imaging of
+Sanchez-Bermudez, Joel (September 2022). "3D Orbital Exoplanets (https://ntrs.nasa.gov/citations/20170002797). NASA
+Architecture of a Dwarf Binary System and Its Planetary Technical Report Server (Report). hdl:2060/20170002797 (http
+Companion" (https://doi.org/10.3847%2F1538-3881%2Fac7c6
+6). The Astronomical Journal s://hdl.handle.net/2060%2F20170002797).
+
+. 164 (3): 93. arXiv:2208.14553 (htt
+ps://arxiv.org/abs/2208.14553). Bibcode:2022AJ....164...93C (htt 123. Sparks, William B.; White, Richard L.; Lupu, Roxana E.; Ford,
+ps://ui.adsabs.harvard.edu/abs/2022AJ....164...93C). Holland C. (20 February 2018). "The Direct Detection and
+doi:10.3847/1538-3881/ac7c66 (https://doi.org/10.3847%2F153 Characterization of M-dwarf Planets Using Light Echoes" (http
+8-3881%2Fac7c66). S2CID 251953478 (https://api.semanticsch s://doi.org/10.3847%2F1538-4357%2Faaa549). The
+olar.org/CorpusID:251953478). Astrophysical Journal. 854 (2). American Astronomical Society:
+
+134. arXiv:1801.01144 (https://arxiv.org/abs/1801.01144).
+113. Di Stefano, R.; et al. (18 September 2020). "M51-ULS-1b: The Bibcode:2018ApJ...854..134S (https://ui.adsabs.harvard.edu/ab
+
+First Candidate for a Planet in an External Galaxy". s/2018ApJ...854..134S). doi:10.3847/1538-4357/aaa549 (http
+arXiv:2009.08987 (https://arxiv.org/abs/2009.08987) [astro- s://doi.org/10.3847%2F1538-4357%2Faaa549). ISSN 1538-
+ph.HE (https://arxiv.org/archive/astro-ph.HE)]. 4357 (https://search.worldcat.org/issn/1538-4357).
+
+S2CID 119397912 (https://api.semanticscholar.org/CorpusID:11
+9397912).
+
+
+
+124. Mann, Chris; Tellesbo, Christopher A.; Bromley, Benjamin C.; 133. Danielski, Camilla; Korol, Valeriya; Tamanini, Nicola; Rossi,
+Kenyon, Scott J. (12 October 2018). "A Framework for Planet Elena Maria (2019). "Circumbinary exoplanets and brown
+Detection with Faint Light-curve Echoes" (https://doi.org/10.384 dwarfs with the Laser Interferometer Space Antenna" (https://ww
+7%2F1538-3881%2Faadc5e). The Astronomical Journal. 156 w.aanda.org/articles/aa/full_html/2019/12/aa36729-19/aa36729-
+(5). American Astronomical Society: 200. arXiv:1808.07029 (http 19.html). Astronomy & Astrophysics. 632 A113.
+s://arxiv.org/abs/1808.07029). Bibcode:2018AJ....156..200M (htt arXiv:1910.05414 (https://arxiv.org/abs/1910.05414).
+ps://ui.adsabs.harvard.edu/abs/2018AJ....156..200M). doi:10.1051/0004-6361/201936729 (https://doi.org/10.1051%2F
+doi:10.3847/1538-3881/aadc5e (https://doi.org/10.3847%2F153 0004-6361%2F201936729).
+8-3881%2Faadc5e). ISSN 1538-3881 (https://search.worldcat.o 134. Tamanini, Nicola; Danielski, Camilla (2019). "The gravitational-
+rg/issn/1538-3881). S2CID 119016095 (https://api.semanticscho wave detection of exoplanets orbiting white dwarf binaries using
+lar.org/CorpusID:119016095). LISA" (https://www.nature.com/articles/s41550-019-0807-y).
+
+125. Tognetti, Laurence (25 August 2024). "The Big Fringe Nature Astronomy. 3 (9): 858–866. doi:10.1038/s41550-019-
+Telescope. A 2.2 KILOMETER Telescope on the Cheap. And it 0807-y (https://doi.org/10.1038%2Fs41550-019-0807-y).
+Can Make Exoplanet "Movies" " (https://www.universetoday.co 135. Tamanini, Nicola; Danielski, Camilla. "Listening to the
+m/168209/the-big-fringe-telescope-a-2-2-kilometer-telescope-on gravitational wave sound of circumbinary exoplanets".
+-the-cheap-and-it-can-make-exoplanet-movies/#more-168209). arXiv:1812.04330 (https://arxiv.org/abs/1812.04330) [astro-ph (h
+Universe Today. Retrieved 26 August 2024. ttps://arxiv.org/archive/astro-ph)].
+
+126. van Belle, Gerard T.; Kaspar von Braun; Boyajian, Tabetha; 136. J.S. Greaves; M.C. Wyatt; W.S. Holland; W.F.R. Dent (2004).
+Schaefer, Gail (2014). "Direct Imaging of Planet Transit Events". "The debris disk around tau Ceti: a massive analogue to the
+Proceedings of the International Astronomical Union. 8: 378– Kuiper Belt" (https://doi.org/10.1111%2Fj.1365-2966.2004.0795
+381. arXiv:1405.1983 (https://arxiv.org/abs/1405.1983). 7.x). Monthly Notices of the Royal Astronomical Society. 351
+Bibcode:2014IAUS..293..378V (https://ui.adsabs.harvard.edu/ab (3): L54–L58. Bibcode:2004MNRAS.351L..54G (https://ui.adsab
+s/2014IAUS..293..378V). doi:10.1017/S1743921313013197 (htt s.harvard.edu/abs/2004MNRAS.351L..54G).
+ps://doi.org/10.1017%2FS1743921313013197). doi:10.1111/j.1365-2966.2004.07957.x (https://doi.org/10.111
+S2CID 118316923 (https://api.semanticscholar.org/CorpusID:11 1%2Fj.1365-2966.2004.07957.x).
+8316923). 137. Greaves, J.S.; M.C. Wyatt; W.S. Holland; W.F.R. Dent (2003).
+
+127. Route, Matthew; Wolszczan, Alex (1 August 2023). "ROME. III. "Submillimetre Images of the Closest Debris Disks". Scientific
+The Arecibo Search for Star–Planet Interactions at 5 GHz" (http Frontiers in Research on Extrasolar Planets. Astronomical
+s://doi.org/10.3847%2F1538-4357%2Facd9ad). The Society of the Pacific. pp. 239–244.
+Astrophysical Journal. 952 (2): 118. arXiv:2202.08899 (https://ar Bibcode:2003ASPC..294..239G (https://ui.adsabs.harvard.edu/a
+xiv.org/abs/2202.08899). Bibcode:2023ApJ...952..118R (https:// bs/2003ASPC..294..239G).
+ui.adsabs.harvard.edu/abs/2023ApJ...952..118R). 138. Greaves, J. S.; et al. (2005). "Structure in the Epsilon Eridani
+doi:10.3847/1538-4357/acd9ad (https://doi.org/10.3847%2F153 Debris Disk" (https://doi.org/10.1086%2F428348). The
+8-4357%2Facd9ad). Astrophysical Journal Letters. 619 (2): L187–L190.
+
+128. Route, Matthew (1 May 2024). "ROME. IV. An Arecibo Search Bibcode:2005ApJ...619L.187G (https://ui.adsabs.harvard.edu/a
+for Substellar Magnetospheric Radio Emissions in Purported bs/2005ApJ...619L.187G). doi:10.1086/428348 (https://doi.org/1
+Exoplanet-hosting Systems at 5 GHz" (https://doi.org/10.3847% 0.1086%2F428348).
+2F1538-4357%2Fad30ff). The Astrophysical Journal. 966 (1): 139. Stark, C. C; Kuchner, M. J (2009). "A New Algorithm for Self-
+55. arXiv:2403.02226 (https://arxiv.org/abs/2403.02226). consistent Three-dimensional Modeling of Collisions in Dusty
+Bibcode:2024ApJ...966...55R (https://ui.adsabs.harvard.edu/ab Debris Disks". The Astrophysical Journal. 707 (1): 543–553.
+s/2024ApJ...966...55R). doi:10.3847/1538-4357/ad30ff (https://d arXiv:0909.2227 (https://arxiv.org/abs/0909.2227).
+oi.org/10.3847%2F1538-4357%2Fad30ff). Bibcode:2009ApJ...707..543S (https://ui.adsabs.harvard.edu/ab
+
+129. Lazio, T. J. W.; Farrell, W. M. (2004). "Radio Detection of s/2009ApJ...707..543S). doi:10.1088/0004-637X/707/1/543 (http
+Extrasolar Planets: Present and Future Prospects" (https://www. s://doi.org/10.1088%2F0004-637X%2F707%2F1%2F543).
+faculty.ece.vt.edu/swe/lwa/memo/lwa0013.pdf) (PDF). Bulletin of S2CID 11458583 (https://api.semanticscholar.org/CorpusID:114
+the American Astronomical Society. 36. 58583).
+Bibcode:2004AAS...20513508L (https://ui.adsabs.harvard.edu/a 140. Koester, D.; Gänsicke, B. T.; Farihi, J. (1 June 2014). "The
+bs/2004AAS...20513508L). Archived (https://web.archive.org/we frequency of planetary debris around young white dwarfs".
+b/20231122230408/https://faculty.ece.vt.edu/swe/lwa/memo/lwa Astronomy & Astrophysics. 566: A34. arXiv:1404.2617 (https://ar
+0013.pdf) (PDF) from the original on 22 November 2023. xiv.org/abs/1404.2617). Bibcode:2014A&A...566A..34K (https://u
+Retrieved 15 October 2008. i.adsabs.harvard.edu/abs/2014A&A...566A..34K).
+
+130. European Southern Observatory (27 March 2019). "GRAVITY doi:10.1051/0004-6361/201423691 (https://doi.org/10.1051%2F
+instrument breaks new ground in exoplanet imaging - Cutting- 0004-6361%2F201423691). ISSN 0004-6361 (https://search.wo
+edge VLTI instrument reveals details of a storm-wracked rldcat.org/issn/0004-6361). S2CID 119268896 (https://api.sema
+exoplanet using optical interferometry" (https://www.eurekalert.o nticscholar.org/CorpusID:119268896).
+rg/pub_releases/2019-03/e-gib032619.php). EurekAlert!. 141. Thompson, Andrea (20 April 2009). "Dead Stars Once Hosted
+Retrieved 27 March 2019. Solar Systems" (http://www.space.com/scienceastronomy/0904
+
+131. Schwartz, Eyal; Lipson, Stephen G.; Ribak, Erez N. (2012). 20-mm-solar-system.html). SPACE.com. Retrieved 21 April
+"Enhanced Interferometric Identification of Spectra in Habitable 2009.
+Extrasolar Planets". The Astronomical Journal. 144 (3): 71. 142. Vanderburg, Andrew; Johnson, John Asher; Rappaport, Saul;
+Bibcode:2012AJ....144...71S (https://ui.adsabs.harvard.edu/abs/ Bieryla, Allyson; Irwin, Jonathan; Lewis, John Arban; Kipping,
+2012AJ....144...71S). doi:10.1088/0004-6256/144/3/71 (https://d David; Brown, Warren R.; Dufour, Patrick (22 October 2015). "A
+oi.org/10.1088%2F0004-6256%2F144%2F3%2F71). disintegrating minor planet transiting a white dwarf". Nature. 526
+S2CID 59493938 (https://api.semanticscholar.org/CorpusID:594 (7574): 546–549. arXiv:1510.06387 (https://arxiv.org/abs/1510.0
+93938). 6387). Bibcode:2015Natur.526..546V (https://ui.adsabs.harvard.
+
+132. Feng Long; et al. (14 September 2022). "ALMA Detection of edu/abs/2015Natur.526..546V). doi:10.1038/nature15527 (http
+Dust Trapping around Lagrangian Points in the LkCa 15 Disk" (h s://doi.org/10.1038%2Fnature15527). ISSN 0028-0836 (https://s
+ttps://doi.org/10.3847%2F2041-8213%2Fac8b10). The earch.worldcat.org/issn/0028-0836). PMID 26490620 (https://pu
+Astrophysical Journal Letters. 937 (1) L1: L1. arXiv:2209.05535 bmed.ncbi.nlm.nih.gov/26490620). S2CID 4451207 (https://api.s
+(https://arxiv.org/abs/2209.05535). Bibcode:2022ApJ...937L...1L emanticscholar.org/CorpusID:4451207).
+(https://ui.adsabs.harvard.edu/abs/2022ApJ...937L...1L). 143. "NASA Exoplanet Archive" (http://exoplanetarchive.ipac.caltech.
+doi:10.3847/2041-8213/ac8b10 (https://doi.org/10.3847%2F204 edu/index.html).
+1-8213%2Fac8b10). S2CID 252211794 (https://api.semanticsch
+olar.org/CorpusID:252211794). 144. "NASA's Kepler Mission Announces Largest Collection of
+
+Planets Ever Discovered" (http://www.nasa.gov/press-release/n
+asas-kepler-mission-announces-largest-collection-of-planets-ev
+er-discovered). NASA. 10 May 2016. Retrieved 10 May 2016.
+
+
+
+145. Knutson, Heather A.; Charbonneau, David; Allen, Lori E.; 155. Robertson, Paul; Mahadevan, Suvrath (2014). "Disentangling
+Fortney, Jonathan J.; Agol, Eric; Cowan, Nicolas B.; Showman, Planets and Stellar Activity for Gliese 667C". The Astrophysical
+Adam P.; Cooper, Curtis S.; Megeath, S. Thomas (10 May Journal. 793 (2): L24. arXiv:1409.0021 (https://arxiv.org/abs/140
+2007). "A map of the day–night contrast of the extrasolar planet 9.0021). Bibcode:2014ApJ...793L..24R (https://ui.adsabs.harvar
+HD 189733b". Nature. 447 (7141): 183–186. arXiv:0705.0993 (h d.edu/abs/2014ApJ...793L..24R). doi:10.1088/2041-
+ttps://arxiv.org/abs/0705.0993). Bibcode:2007Natur.447..183K 8205/793/2/L24 (https://doi.org/10.1088%2F2041-8205%2F79
+(https://ui.adsabs.harvard.edu/abs/2007Natur.447..183K). 3%2F2%2FL24). S2CID 118404871 (https://api.semanticschola
+doi:10.1038/nature05782 (https://doi.org/10.1038%2Fnature057 r.org/CorpusID:118404871).
+82). ISSN 0028-0836 (https://search.worldcat.org/issn/0028-083 156. Bryson, Stephen T.; Jenkins, Jon M.; Gilliland, Ronald L.;
+6). PMID 17495920 (https://pubmed.ncbi.nlm.nih.gov/1749592 Twicken, Joseph D.; Clarke, Bruce; Rowe, Jason; Caldwell,
+0). S2CID 4402268 (https://api.semanticscholar.org/CorpusID:4 Douglas; Batalha, Natalie; Mullally, Fergal; Haas, Michael R.;
+402268). Tenenbaum, Peter (2013). "Identification of Background False
+
+146. Gaia Science Homepage (http://www.cosmos.esa.int/web/gaia) Positives from Kepler Data". Publications of the Astronomical
+147. Staff (19 November 2012). "Announcement of Opportunity for Society of the Pacific. 125 (930): 889. arXiv:1303.0052 (https://a
+
+the Gaia Data Processing Archive Access Co-Ordination Unit" (h rxiv.org/abs/1303.0052). Bibcode:2013PASP..125..889B (https://
+ttp://sci.esa.int/science-e/www/object/index.cfm?fobjectid=5111 ui.adsabs.harvard.edu/abs/2013PASP..125..889B).
+6). ESA. Retrieved 17 March 2013. doi:10.1086/671767 (https://doi.org/10.1086%2F671767).
+
+148. Staff (30 January 2012). "DPAC Newsletter no. 15" (http://www.r S2CID 119199796 (https://api.semanticscholar.org/CorpusID:11
+ssd.esa.int/SA/GAIA/docs/DPAC/web/DPAC_NL_015.pdf) 9199796).
+(PDF). European Space Agency. Retrieved 16 March 2013. 157. Todorov, Kamen O.; Deming, Drake; Burrows, Adam S.;
+
+149. Kawahara, Hajime; Murakami, Naoshi; Matsuo, Taro; Kotani, Grillmair, Carl J. (2014). "Updated Spitzer Emission
+Takayuki (2014). "Spectroscopic Coronagraphy for Planetary Spectroscopy of Bright Transiting Hot Jupiter HD189733b". The
+Radial Velocimetry of Exoplanets". The Astrophysical Journal Astrophysical Journal. 796 (2): 100. arXiv:1410.1400 (https://arx
+Supplement Series. 212 (2): 27. arXiv:1404.5712 (https://arxiv.o iv.org/abs/1410.1400). Bibcode:2014ApJ...796..100T (https://ui.
+rg/abs/1404.5712). Bibcode:2014ApJS..212...27K (https://ui.ads adsabs.harvard.edu/abs/2014ApJ...796..100T).
+abs.harvard.edu/abs/2014ApJS..212...27K). doi:10.1088/0067- doi:10.1088/0004-637X/796/2/100 (https://doi.org/10.1088%2F0
+0049/212/2/27 (https://doi.org/10.1088%2F0067-0049%2F212% 004-637X%2F796%2F2%2F100). S2CID 118858441 (https://ap
+2F2%2F27). S2CID 118391661 (https://api.semanticscholar.org/ i.semanticscholar.org/CorpusID:118858441).
+CorpusID:118391661). 158. Stevenson, Kevin B.; Desert, Jean-Michel; Line, Michael R.;
+
+150. Abe, L.; Vannier, M.; Petrov, R.; Enya, K.; Kataza, H. (2009). Bean, Jacob L.; Fortney, Jonathan J.; Showman, Adam P.;
+"Characterizing Extra-Solar Planets with Color Differential Kataria, Tiffany; Kreidberg, Laura; McCullough, Peter R.; Henry,
+Astrometry on SPICA" (https://spica.edpsciences.org/index.ph Gregory W.; Charbonneau, David; Burrows, Adam; Seager,
+p?option=com_article&access=standard&Itemid=129&url=/articl Sara; Madhusudhan, Nikku; Williamson, Michael H.; Homeier,
+es/spica/pdf/2009/01/spica2009_02005.pdf) (PDF). SPICA Derek (2014). "Thermal structure of an exoplanet atmosphere
+Workshop: 02005. Bibcode:2009sitc.conf.2005A (https://ui.adsa from phase-resolved emission spectroscopy". Science. 346
+bs.harvard.edu/abs/2009sitc.conf.2005A). (6211): 838–41. arXiv:1410.2241 (https://arxiv.org/abs/1410.224
+doi:10.1051/spica/200902005 (https://doi.org/10.1051%2Fspic 1). Bibcode:2014Sci...346..838S (https://ui.adsabs.harvard.edu/
+a%2F200902005). abs/2014Sci...346..838S). doi:10.1126/science.1256758 (https://
+
+doi.org/10.1126%2Fscience.1256758). PMID 25301972 (https://
+151. Johnson, Michele; Harrington, J.D. (26 February 2014). pubmed.ncbi.nlm.nih.gov/25301972). S2CID 511895 (https://ap
+
+"NASA's Kepler Mission Announces a Planet Bonanza, 715 i.semanticscholar.org/CorpusID:511895).
+New Worlds" (https://web.archive.org/web/20140226202703/htt
+p://www.nasa.gov/ames/kepler/nasas-kepler-mission-announce 159. Gilliland, Ronald L.; Cartier, Kimberly M. S.; Adams, Elisabeth
+s-a-planet-bonanza/). NASA. Archived from the original (http://w R.; Ciardi, David R.; Kalas, Paul; Wright, Jason T. (2014).
+ww.nasa.gov/ames/kepler/nasas-kepler-mission-announces-a-pl "Hubble Space Telescopehigh-Resolution Imaging
+anet-bonanza/) on 26 February 2014. Retrieved 26 February Ofkeplersmall and Cool Exoplanet Host Stars". The
+2014. Astronomical Journal. 149 (1): 24. arXiv:1407.1009 (https://arxi
+
+v.org/abs/1407.1009). Bibcode:2015AJ....149...24G (https://ui.a
+152. Tingley, B.; Parviainen, H.; Gandolfi, D.; Deeg, H. J.; Pallé, E.; dsabs.harvard.edu/abs/2015AJ....149...24G). doi:10.1088/0004-
+
+Montañés Rodriguez, P.; Murgas, F.; Alonso, R.; Bruntt, H.; 6256/149/1/24 (https://doi.org/10.1088%2F0004-6256%2F149%
+Fridlund, M. (2014). "Confirmation of an exoplanet using the 2F1%2F24). S2CID 55691820 (https://api.semanticscholar.org/
+transit color signature: Kepler-418b, a blended giant planet in a CorpusID:55691820).
+multiplanet system". Astronomy & Astrophysics. 567: A14.
+arXiv:1405.5354 (https://arxiv.org/abs/1405.5354). 160. Lillo-Box, J.; Barrado, D.; Bouy, H. (2014). "High-resolution
+Bibcode:2014A&A...567A..14T (https://ui.adsabs.harvard.edu/ab imaging of $Kepler$ planet host candidates. A comprehensive
+s/2014A&A...567A..14T). doi:10.1051/0004-6361/201323175 (ht comparison of different techniques". Astronomy & Astrophysics.
+tps://doi.org/10.1051%2F0004-6361%2F201323175). 566: A103. arXiv:1405.3120 (https://arxiv.org/abs/1405.3120).
+S2CID 118668437 (https://api.semanticscholar.org/CorpusID:11 Bibcode:2014A&A...566A.103L (https://ui.adsabs.harvard.edu/a
+8668437). bs/2014A&A...566A.103L). doi:10.1051/0004-6361/201423497
+
+(https://doi.org/10.1051%2F0004-6361%2F201423497).
+153. Johnson, Marshall Caleb (2013). "Doppler tomographic S2CID 55011927 (https://api.semanticscholar.org/CorpusID:550
+
+observations of exoplanetary transits" (https://repositories.lib.ute 11927).
+xas.edu/server/api/core/bitstreams/61ec23d3-b6b5-481f-a137-d
+87c1f1ab9a9/content). American Astronomical Society Meeting 161. Price, Ellen M.; Rogers, Leslie A.; John Asher Johnson;
+Abstracts #221. 221. Bibcode:2013AAS...22134307J (https://ui. Dawson, Rebekah I. (2014). "How Low Can You Go? The
+adsabs.harvard.edu/abs/2013AAS...22134307J). Archived (http Photoeccentric Effect for Planets of Various Sizes". The
+s://web.archive.org/web/20231129063215/https://repositories.li Astrophysical Journal. 799 (1): 17. arXiv:1412.0014 (https://arxi
+b.utexas.edu/server/api/core/bitstreams/61ec23d3-b6b5-481f-a1 v.org/abs/1412.0014). Bibcode:2015ApJ...799...17P (https://ui.a
+37-d87c1f1ab9a9/content) from the original on 29 November dsabs.harvard.edu/abs/2015ApJ...799...17P). doi:10.1088/0004-
+2023. 637X/799/1/17 (https://doi.org/10.1088%2F0004-637X%2F79
+
+9%2F1%2F17). S2CID 26780388 (https://api.semanticscholar.or
+154. Horner, Jonathan; Wittenmyer, Robert A.; Tinney, Chris G.; g/CorpusID:26780388).
+
+Robertson, Paul; Hinse, Tobias C.; Marshall, Jonathan P.
+(2013). "Dynamical Constraints on Multi-Planet Exoplanetary
+Systems". arXiv:1302.5247 (https://arxiv.org/abs/1302.5247)
+[astro-ph.EP (https://arxiv.org/archive/astro-ph.EP)].
+
+External links
+
+
+
+NASA's PlanetQuest (https://web.archive.org/web/20020119150729/http://planetquest.jpl.nasa.gov/)
+Lunine, Jonathan I.; MacIntosh, Bruce; Peale, Stanton (2009). "The detection and characterization of exoplanets" (https://doi.org/10.10
+63%2F1.3141941). Physics Today. 62 (5): 46. Bibcode:2009PhT....62e..46L (https://ui.adsabs.harvard.edu/abs/2009PhT....62e..46L).
+doi:10.1063/1.3141941 (https://doi.org/10.1063%2F1.3141941). S2CID 12379824 (https://api.semanticscholar.org/CorpusID:1237982
+4).
+Transiting exoplanet light curves (http://www.perseus.gr/Astro-Photometry.htm)
+Hardy, Liam. "Exoplanet Transit" (http://www.deepskyvideos.com/videos/other/exoplanet_transit.html). Deep Space Videos. Brady
+Haran.
+The Radial Velocity Equation in the Search for Exoplanets ( The Doppler Spectroscopy or Wobble Method ) (https://www.relativitycalcu
+lator.com/radial_velocity_equation.shtml) Archived (https://web.archive.org/web/20211202160824/https://www.relativitycalculator.com/r
+adial_velocity_equation.shtml) 2 December 2021 at the Wayback Machine
+Sackett, Penny (2010). "Microlensing exoplanets" (https://doi.org/10.4249%2Fscholarpedia.3991). Scholarpedia. 5 (1): 3991.
+Bibcode:2010SchpJ...5.3991S (https://ui.adsabs.harvard.edu/abs/2010SchpJ...5.3991S). doi:10.4249/scholarpedia.3991 (https://doi.or
+g/10.4249%2Fscholarpedia.3991).
+
+https://iopscience.iop.org/article/10.1209/0295-5075/ad152d?
+fbclid=IwZXh0bgNhZW0CMTAAAR2OqKaBuALLa_qLBWy8uvusdEwiK6i8cZNQG8i46VowG9R9Cz4KduQzg7o_aem_g1nNaim20xNIyHErktMbnQ
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Methods_of_detecting_exoplanets&oldid=1246986423"

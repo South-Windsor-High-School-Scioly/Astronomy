@@ -1,0 +1,708 @@
+﻿Orion Nebula
+The Orion Nebula (also known as Messier 42, M42, Orion Nebula
+or NGC 1976) is a diffuse nebula situated in the
+Milky Way, being south of Orion's Belt in the Diffuse nebula
+constellation of Orion,[b] and is known as the middle
+"star" in the "sword" of Orion. It is one of the
+brightest nebulae and is visible to the naked eye in the
+night sky with an apparent magnitude of 4.0. It is
+1,344 ± 20 light-years (412.1 ± 6.1 pc) away[3][6] and
+is the closest region of massive star formation to
+Earth. The M42 nebula is estimated to be 24 light-
+years across (so its apparent size from Earth is
+approximately 1 degree). It has a mass of about 2,000
+times that of the Sun. Older texts frequently refer to
+the Orion Nebula as the Great Nebula in Orion or the
+Great Orion Nebula.[7]
+
+The Orion Nebula is one of the most scrutinized and
+photographed objects in the night sky and is among
+
+The entire Orion Nebula in a composite image
+the most intensely studied celestial features.[8] The
+
+of visible light and infrared; taken by Hubble
+nebula has revealed much about the process of how
+
+Space Telescope in 2006
+stars and planetary systems are formed from
+collapsing clouds of gas and dust. Astronomers have Observation data: J2000 epoch
+
+directly observed protoplanetary disks and brown Subtype Reflection/Emission[2]
+
+dwarfs within the nebula, intense and turbulent Right ascension 05h 35m 17.3s[1]
+
+motions of the gas, and the photo-ionizing effects of Declination −05° 23′ 28″[1]
+
+massive nearby stars in the nebula.
+Distance 1,344±20 ly   (412[3] pc)
+
+Apparent magnitude 4.0[4]
+
+Physical characteristics (V)
+Apparent 65×60 arcmins[5]
+
+The Orion Nebula is visible with the naked eye even dimensions (V)
+from areas affected by light pollution. It is seen as the Constellation Orion
+middle "star" in the "sword" of Orion, which are the
+
+Physical characteristics
+three stars located south of Orion's Belt. The "star"
+appears fuzzy to sharp-eyed observers, and the Radius 12[a] ly
+
+nebulosity is obvious through binoculars or a small Absolute magnitude —
+telescope. The peak surface brightness of the central (V)
+region of M42 is about 17 Mag/arcsec2 and the outer Notable features Trapezium cluster
+bluish glow has a peak surface brightness of 21.3
+Mag/arcsec2.[9] Designations NGC 1976, M42,
+
+LBN 974, Sharpless
+
+
+
+The Orion Nebula contains a very young open cluster, 281
+known as the Trapezium Cluster due to the asterism
+of its primary four stars within a diameter of 1.5 light
+years. Two of these can be resolved into their
+component binary systems on nights with good
+seeing, giving a total of six stars. The stars of the
+Trapezium Cluster, along with many other stars, are
+still in their early years. The Trapezium Cluster is a
+component of the much larger Orion Nebula cluster,
+an association of about 2,800 stars within a diameter
+of 20 light years.[10] The Orion Nebula is in turn 0:00
+surrounded by the much larger Orion molecular cloud
+complex which is hundreds of light years across,
+spanning the whole Orion Constellation. Two million Discussing the location of the Orion Nebula, what
+years ago the Orion Nebula cluster may have been the is seen within the star-formation region, and the
+home of the runaway stars AE Aurigae, 53 Arietis, effects of interstellar winds in shaping the nebula
+
+and Mu Columbae, which are currently moving away
+from the nebula at speeds greater than 100 km/s (62 mi/s).[11]
+
+Coloration
+Observers have long noted a distinctive greenish tint to the nebula, in
+addition to regions of red and of blue-violet. The red hue is a result of
+the Hα recombination line radiation at a wavelength of 656.3 nm. The
+blue-violet coloration is the reflected radiation from the massive O-
+class stars at the core of the nebula.
+
+The green hue was a puzzle for astronomers in the early part of the
+20th century because none of the known spectral lines at that time
+could explain it. There was some speculation that the lines were
+caused by a new element, and the name nebulium was coined for this
+mysterious material. With better understanding of atomic physics,
+however, it was later determined that the green spectrum was caused
+by a low-probability electron transition in doubly ionized oxygen, a
+so-called "forbidden transition". This radiation was impossible to
+reproduce in the laboratory at the time, because it depended on the
+quiescent and nearly collision-free environment found in the high
+vacuum of deep space.[12]
+
+The constellation of Orion with
+History the Orion Nebula (lower middle)
+
+There has been speculation that the Mayans of Central America may
+have described the nebula within their "Three Hearthstones" creation myth; if so, the three would
+correspond to two stars at the base of Orion, Rigel and Saiph, and another, Alnitak at the tip of the "belt"
+of the imagined hunter, the vertices of a nearly perfect equilateral triangle with Orion's Sword (including
+
+
+
+the Orion Nebula) in the middle of the triangle seen as the smudge
+of smoke from copal incense in a modern myth, or, in (the
+translation it suggests of) an ancient one, the literal or figurative
+embers of a fiery creation.[13][14]
+
+Neither Ptolemy's Almagest nor al Sufi's Book of Fixed Stars
+noted this nebula, even though they both listed patches of
+nebulosity elsewhere in the night sky; nor did Galileo mention it,
+even though he also made telescopic observations surrounding it
+in 1610 and 1617.[15] This has led to some speculation that a flare-
+up of the illuminating stars may have increased the brightness of
+
+Messier's drawing of the Orion the nebula.[16]
+
+Nebula in his 1771 memoir,
+Mémoires de l'Académie Royale The first discovery of the diffuse nebulous nature of the Orion
+
+Nebula is generally credited to French astronomer Nicolas-Claude
+Fabri de Peiresc, on November 26, 1610, when he made a record
+
+of observing it with a refracting telescope purchased by his patron Guillaume du Vair.[15]
+
+The first published observation of the nebula was by the Jesuit mathematician and astronomer Johann
+Baptist Cysat of Lucerne in his 1619 monograph on the comets (describing observations of the nebula
+that may date back to 1611).[17] [18] He made comparisons between it and a bright comet seen in 1618
+and described how the nebula appeared through his telescope as:
+
+one sees how in like manner some stars are compressed into a very narrow space and how
+round about and between the stars a white light like that of a white cloud is poured out.[19]
+
+His description of the center stars as different from a comet's head in that they were a "rectangle" may
+have been an early description of the Trapezium Cluster.[15][19][20] (The first detection of three of the four
+stars of this cluster is credited to Galileo Galilei in a February 4, 1617.[21] [22])
+
+The nebula was independently "discovered" (though visible to the naked eye) by several other prominent
+astronomers in the following years, including by Giovanni Battista Hodierna (whose sketch was the first
+published in De systemate orbis cometici, deque admirandis coeli characteribus).[23] In 1659, Dutch
+scientist Christiaan Huygens published the first detailed drawing of the central region of the nebula in
+Systema Saturnium.[24]
+
+Charles Messier observed the nebula on March 4, 1769, and he also noted three of the stars in Trapezium.
+Messier published the first edition of his catalog of deep sky objects in 1774 (completed in 1771).[25] As
+the Orion Nebula was the 42nd object in his list, it became identified as M42.
+
+In 1865 English amateur astronomer William Huggins used his visual spectroscopy method to examine
+the nebula showing it, like other nebulae he had examined, was made up of "luminous gas".[26] On
+September 30, 1880 Henry Draper used the new dry plate photographic process with an 11-inch (28 cm)
+refracting telescope to make a 51-minute exposure of the Orion Nebula, the first instance of
+astrophotography of a nebula in history. Another set of photographs of the nebula in 1883 saw a
+breakthrough in astronomical photography when amateur astronomer Andrew Ainslie Common used the
+
+
+
+dry plate process to record several images in exposures up to 60
+minutes with a 36-inch (91 cm) reflecting telescope that he
+constructed in the backyard of his home in Ealing, west London.
+These images for the first time showed stars and nebula detail too
+faint to be seen by the human eye.[27]
+
+In 1902, Vogel and Eberhard discovered differing velocities within
+the nebula, and by 1914 astronomers at Marseilles had used the
+interferometer to detect rotation and irregular motions. Campbell and
+Moore confirmed these results using the spectrograph, demonstrating Henry Draper's 1880 photograph
+turbulence within the nebula.[28] of the Orion Nebula, the first
+
+ever taken.
+In 1931, Robert J. Trumpler noted that the fainter stars near the
+Trapezium formed a cluster, and he was the first to name them the
+Trapezium cluster. Based on their magnitudes and spectral types, he
+derived a distance estimate of 1,800 light years. This was three times
+farther than the commonly accepted distance estimate of the period
+but was much closer to the modern value.[29]
+
+In 1993, the Hubble Space Telescope first observed the Orion Nebula.
+Since then, the nebula has been a frequent target for HST studies. The
+images have been used to build a detailed model of the nebula in One of Andrew Ainslie
+three dimensions. Protoplanetary disks have been observed around Common's 1883 photographs of
+most of the newly formed stars in the nebula, and the destructive the Orion Nebula, the first to
+effects of high levels of ultraviolet energy from the most massive show that a long exposure could
+stars have been studied.[30] record new stars and nebulae
+
+invisible to the human eye.
+In 2005, the Advanced Camera for Surveys instrument of the Hubble
+Space Telescope finished capturing the most detailed image of the
+nebula yet taken. The image was taken through 104 orbits of the telescope, capturing over 3,000 stars
+down to the 23rd magnitude, including infant brown dwarfs and possible brown dwarf binary stars.[31] A
+year later, scientists working with the HST announced the first ever masses of a pair of eclipsing binary
+brown dwarfs, 2MASS J05352184–0546085. The pair are located in the Orion Nebula and have
+approximate masses of 0.054 M☉ and 0.034 M☉ respectively, with an orbital period of 9.8 days.
+Surprisingly, the more massive of the two also turned out to be the less luminous.[32]
+
+In October 2023, astronomers, based on observations of the Orion Nebula with the James Webb Space
+Telescope, reported the discovery of pairs of rogue planets, similar in mass to the planet Jupiter, and
+called JuMBOs (short for Jupiter Mass Binary Objects).[33]
+
+Structure
+The entirety of the Orion Nebula extends across a 1° region of the sky, and includes neutral clouds of gas
+and dust, associations of stars, ionized volumes of gas, and reflection nebulae.
+
+
+
+The Nebula is part of a much larger nebula
+that is known as the Orion molecular cloud
+complex. The Orion molecular cloud complex
+extends throughout the constellation of Orion
+and includes Barnard's Loop, the Horsehead
+Nebula, M43, M78, and the Flame Nebula.
+Stars are forming throughout the entire Cloud
+Complex, but most of the young stars are
+concentrated in dense clusters like the one
+illuminating the Orion Nebula.[34] [35]
+
+The current astronomical model for the nebula
+consists of an ionized (H II) region, roughly
+centered on Theta1 Orionis C, which lies on A starchart of the Orion Nebula.
+the side of an elongated molecular cloud in a
+
+cavity
+formed by the massive
+young stars.[37] (Theta1
+
+Orionis C emits 3-4 times
+as much photoionizing
+light as the next brightest
+star, Theta2 Orionis A.) The Optical images reveal clouds of gas
+
+Orion A molecular cloud from VISTA H II region has a and dust in the Orion Nebula; an
+reveals many young stars and other temperature ranging up to infrared image (right) reveals the
+objects.[36] 10,000 K, but this new stars shining within.
+
+temperature falls
+dramatically near the edge
+
+of the nebula.[38] The nebulous emission comes primarily from photoionized gas on the back surface of
+the cavity.[39] The H II region is surrounded by an irregular, concave bay of more neutral, high-density
+cloud, with clumps of neutral gas lying outside the bay area. This in turn lies on the perimeter of the
+Orion Molecular Cloud. The gas in the molecular cloud displays a range of velocities and turbulence,
+particularly around the core region. Relative movements are up to 10 km/s (22,000 mi/h), with local
+variations of up to 50 km/s and possibly more.[38]
+
+Observers have given names to various features in the Orion Nebula. The dark bay that extends from the
+north into the bright region is known as "Sinus Magnus",[40] also called the "Fish's Mouth". The
+illuminated regions to both sides are called the "Wings". Other features include "The Sword", "The
+Thrust", and "The Sail".[41]
+
+Star formation
+The Orion Nebula is an example of a stellar nursery where new stars are being born. Observations of the
+nebula have revealed approximately 700 stars in various stages of formation within the nebula.
+
+
+
+In 1979 observations with the Lallemand electronic camera at the
+Pic-du-Midi Observatory showed six unresolved high-ionization
+sources near the Trapezium Cluster. These sources were
+interpreted as partly ionized globules (PIGs). The idea was that
+these objects are being ionized from the outside by M42.[42] Later
+observations with the Very Large Array showed solar-system-sized
+condensations associated with these sources. Here the idea
+appeared that these objects might be low-mass stars surrounded by
+an evaporating protostellar accretion disk.[43] In 1993 observations View of several proplyds within the
+with the Hubble Space Telescope have yielded the major Orion Nebula taken by the Hubble
+confirmation of protoplanetary disks within the Orion Nebula, Space Telescope
+which have been dubbed proplyds.[44][45] HST has revealed more
+than 150 of these within the nebula, and they are considered to be
+systems in the earliest stages of solar system formation. The sheer
+numbers of them have been used as evidence that the formation of
+planetary systems is fairly common in the universe.
+
+Stars form when clumps of hydrogen and other gases in an H II
+region contract under their own gravity. As the gas collapses, the
+central clump grows stronger and the gas heats to extreme
+temperatures by converting gravitational potential energy to
+thermal energy. If the temperature gets high enough, nuclear
+fusion will ignite and form a protostar. The protostar is 'born' when
+it begins to emit enough radiative energy to balance out its gravity Star Formation Fireworks in Orion
+and halt gravitational collapse.
+
+Typically, a cloud of material remains a substantial distance from the star before the fusion reaction
+ignites. This remnant cloud is the protostar's protoplanetary disk, where planets may form. Recent
+infrared observations show that dust grains in these protoplanetary disks are growing, beginning on the
+path towards forming planetesimals.[46]
+
+Once the protostar enters into its main sequence phase, it is classified as a star. Even though most
+planetary disks can form planets, observations show that intense stellar radiation should have destroyed
+any proplyds that formed near the Trapezium group, if the group is as old as the low mass stars in the
+cluster.[30] Since proplyds are found very close to the Trapezium group, it can be argued that those stars
+are much younger than the rest of the cluster members.[c]
+
+Stellar wind and effects
+Once formed, the stars within the nebula emit a stream of charged particles known as a stellar wind.
+Massive stars and young stars have much stronger stellar winds than the Sun.[47] The wind forms shock
+waves or hydrodynamical instabilities when it encounters the gas in the nebula, which then shapes the gas
+clouds. The shock waves from stellar wind also play a large part in stellar formation by compacting the
+gas clouds, creating density inhomogeneities that lead to gravitational collapse of the cloud.
+
+There are three different kinds of shocks in the Orion Nebula. Many are featured in Herbig–Haro
+objects:[48]
+
+
+
+Bow shocks are stationary and are formed when two
+particle streams collide with each other. They are
+present near the hottest stars in the nebula where the
+stellar wind speed is estimated to be thousands of
+kilometers per second and in the outer parts of the
+nebula where the speeds are tens of kilometers per
+second. Bow shocks can also form at the front end of
+stellar jets when the jet hits interstellar particles. View of the ripples (Kelvin–
+Jet-driven shocks are formed from jets of material Helmholtz instability) formed by the
+sprouting off newborn T Tauri stars. These narrow action of stellar winds on the cloud.
+streams are traveling at hundreds of kilometers per
+second, and become shocks when they encounter
+relatively stationary gases.
+Warped shocks appear bow-like to an observer. They are produced when a jet-driven shock
+encounters gas moving in a cross-current.
+The interaction of the stellar wind with the surrounding cloud also forms "waves" which are
+believed to be due to the hydrodynamical Kelvin-Helmholtz instability.[49]
+
+The dynamic gas motions in M42 are complex, but are trending out through the opening in the bay and
+toward the Earth.[38] The large neutral area behind the ionized region is currently contracting under its
+own gravity.
+
+There are also supersonic "bullets" of gas piercing the hydrogen clouds of the Orion Nebula. Each bullet
+is ten times the diameter of Pluto's orbit and tipped with iron atoms glowing in the infrared. They were
+probably formed one thousand years earlier from an unknown violent event.[50]
+
+Evolution
+Interstellar clouds like the Orion Nebula are found throughout
+galaxies such as the Milky Way. They begin as gravitationally
+bound blobs of cold, neutral hydrogen, intermixed with traces of
+other elements. The cloud can contain hundreds of thousands of
+solar masses and extend for hundreds of light years. The tiny force
+of gravity that could compel the cloud to collapse is
+counterbalanced by the very faint pressure of the gas in the cloud.
+
+Whether due to collisions with a spiral arm, or through the shock
+wave emitted from supernovae, the atoms are precipitated into
+heavier molecules and the result is a molecular cloud. This
+presages the formation of stars within the cloud, usually thought to
+be within a period of 10–30 million years, as regions pass the Panoramic image of the center of
+Jeans mass and the destabilized volumes collapse into disks. The the nebula, taken by the Hubble
+disk concentrates at the core to form a star, which may be Telescope. This view is about 2.5
+
+surrounded by a protoplanetary disk. This is the current stage of light years across. The Trapezium is
+at center left.
+
+evolution of the nebula, with additional stars still forming from the
+collapsing molecular cloud. The youngest and brightest stars we
+now see in the Orion Nebula are thought to be less than 300,000 years old,[51] and the brightest may be
+only 10,000 years in age. Some of these collapsing stars can be particularly massive, and can emit large
+quantities of ionizing ultraviolet radiation. An example of this is seen with the Trapezium cluster. Over
+
+
+
+time the ultraviolet light from the massive stars at the center of the nebula will push away the surrounding
+gas and dust in a process called photo evaporation. This process is responsible for creating the interior
+cavity of the nebula, allowing the stars at the core to be viewed from Earth.[8] The largest of these stars
+have short life spans and will evolve to become supernovae.
+
+Within about 100,000 years, most of the gas and dust will be ejected. The remains will form a young open
+cluster, a cluster of bright, young stars surrounded by wispy filaments from the former cloud.[52]
+
+See also
+Barnard's Loop
+Kleinmann–Low Nebula
+Flame Nebula (NGC 2024)
+Horsehead Nebula
+Hubble 3D (2010), an IMAX film with an elaborate CGI fly-through of the Orion Nebula
+List of diffuse nebulae
+List of Messier objects
+Messier 43, which is part of the Orion Nebula
+Messier 78, a reflection nebula
+New General Catalogue
+Orion correlation theory
+Orion molecular cloud complex
+Orion OB1
+
+Notes
+a. ^ 1,270 × tan( 66′ / 2 ) = 12 ly. radius
+b. ^ From temperate zones in the Northern Hemisphere, the nebula appears below the Belt of
+
+Orion; from temperate zones in the Southern Hemisphere the nebula appears above the
+Belt.
+
+c. ^ C. Robert O'Dell commented about this Wikipedia article, "The only egregious error is the
+last sentence in the Stellar Formation section. It should actually read 'Even though most
+planetary disks can form planets, observations show that intense stellar radiation should
+have destroyed any proplyds that formed near the Trapezium group, if the group is as old as
+the low mass stars in the cluster. Since proplyds are found very close to the Trapezium
+group, it can be argued that those stars are much younger than the rest of the cluster
+members.'"
+
+References
+1. "NGC 7538" (http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=NGC+7538). SIMBAD.
+
+Centre de données astronomiques de Strasbourg. Retrieved October 20, 2006.
+2. Gater, Will; Vamplew, Anton (2010). The Practical Astronomer (https://books.google.com/bo
+
+oks?id=R9tGGSX9eHcC&pg=PA242) (1st American ed.). London: DK Pub. p. 242.
+ISBN 978-0-7566-7324-6.
+
+
+
+3. Reid, M. J.; et al. (2009). "Trigonometric Parallaxes of Massive Star Forming Regions: VI.
+Galactic Structure, Fundamental Parameters and Non-Circular Motions". Astrophysical
+Journal. 700 (1): 137–148. arXiv:0902.3913 (https://arxiv.org/abs/0902.3913).
+Bibcode:2009ApJ...700..137R (https://ui.adsabs.harvard.edu/abs/2009ApJ...700..137R).
+doi:10.1088/0004-637X/700/1/137 (https://doi.org/10.1088%2F0004-637X%2F700%2F1%2
+F137). S2CID 11347166 (https://api.semanticscholar.org/CorpusID:11347166).
+
+4. "NGC 1976 = M42" (http://spider.seds.org/ngc/ngc.cgi?NGC+1976). SEDS.org. Retrieved
+December 13, 2009.
+
+5. Revised NGC Data for NGC 1976 (http://spider.seds.org/ngc/revngcic.cgi?NGC1976) per
+Wolfgang Steinicke's Revised New General Catalogue and Index Catalogue (http://www.kli
+ma-luft.de/steinicke/ngcic/rev2000/Explan.htm).
+
+6. Hirota, Tomoya; et al. (2007). "Distance to Orion KL Measured with VERA". Publications of
+the Astronomical Society of Japan. 59 (5): 897–903. arXiv:0705.3792 (https://arxiv.org/abs/0
+705.3792). Bibcode:2007PASJ...59..897H (https://ui.adsabs.harvard.edu/abs/2007PASJ...5
+9..897H). doi:10.1093/pasj/59.5.897 (https://doi.org/10.1093%2Fpasj%2F59.5.897).
+
+7. Ripley, George; Dana, Charles A., eds. (1879). "Nebula"  (https://en.wikisource.org/wiki/The
+_American_Cyclop%C3%A6dia_(1879)/Nebula). The American Cyclopædia.
+
+8. Press release, "Astronomers Spot The Great Orion Nebula's Successor (http://cfa-www.harv
+ard.edu/press/pr0605.html) Archived (https://web.archive.org/web/20060218083305/http://cf
+a-www.harvard.edu/press/pr0605.html) 2006-02-18 at the Wayback Machine", Harvard-
+Smithsonian Center for Astrophysics, 2006.
+
+9. Clark, Roger (March 28, 2004). "Surface Brightness of Deep Sky Objects" (http://www.clarkv
+ision.com/astro/surface-brightness-profiles/introduction.html). Retrieved June 29, 2013..
+
+10. Hillenbrand, L. A.; Hartmann, L. W. (1998). "Preliminary Study of the Orion Nebula Cluster
+Structure and Dynamics" (https://authors.library.caltech.edu/75192/1/Hillenbrand_1998_ApJ
+_492_540.pdf) (PDF). Astrophysical Journal. 492 (2): 540–553.
+Bibcode:1998ApJ...492..540H (https://ui.adsabs.harvard.edu/abs/1998ApJ...492..540H).
+doi:10.1086/305076 (https://doi.org/10.1086%2F305076). S2CID 43038127 (https://api.sem
+anticscholar.org/CorpusID:43038127).
+
+11. Blaauw, A.; et al. (1954). "The Space Motions of AE Aurigae and μ Columbae with Respect
+to the Orion Nebula" (https://doi.org/10.1086%2F145866). Astrophysical Journal. 119: 625.
+Bibcode:1954ApJ...119..625B (https://ui.adsabs.harvard.edu/abs/1954ApJ...119..625B).
+doi:10.1086/145866 (https://doi.org/10.1086%2F145866).
+
+12. Bowen, Ira Sprague (1927). "The Origin of the Nebulium Spectrum" (https://doi.org/10.103
+8%2F120473a0). Nature. 120 (3022): 473. Bibcode:1927Natur.120..473B (https://ui.adsabs.
+harvard.edu/abs/1927Natur.120..473B). doi:10.1038/120473a0 (https://doi.org/10.1038%2F
+120473a0).
+
+13. Carrasco, David, ed. (2001). The Oxford Encyclopedia of Mesoamerican cultures : the
+civilizations of Mexico and Central America (https://books.google.com/books?id=9I3rAAAAM
+AAJ). Oxford [u.a.]: Oxford Univ. Press. p. 165. ISBN 978-0-19-514257-0.
+
+14. Krupp, Edward (February 1999). "Igniting the Hearth" (https://web.archive.org/web/2007121
+1030815/https://pqasb.pqarchiver.com/skyandtelescope/access/886319051.html?dids=8863
+19051:886319051&FMT=CITE&FMTS=CITE:PAGE&date=Feb+1999&author=E+C+Krupp&
+desc=Igniting+the+Hearth). Sky & Telescope: 94. Archived from the original (https://pqasb.p
+qarchiver.com/skyandtelescope/access/886319051.html?dids=886319051:886319051&FMT
+=CITE&FMTS=CITE:PAGE&date=Feb+1999&author=E+C+Krupp&desc=Igniting+the+Heart
+h) on December 11, 2007. Retrieved October 19, 2006.
+
+15. James, Andrew (June 27, 2012). "The Great Orion Nebula: M42 & M43" (http://www.southas
+trodel.com/Page204.htm). Southern Astronomical Delights. Retrieved June 27, 2012.
+
+
+
+16. Tibor Herczeg, Norman (January 22, 1999). "The Orion Nebula: A chapter of early nebular
+studies" (http://www.astro.uni-bonn.de/~pbrosche/aa/acta/vol03/acta03_246.html). Acta
+Historica Astronomiae. 3: 246. Bibcode:1998AcHA....3..246H (https://ui.adsabs.harvard.edu/
+abs/1998AcHA....3..246H). Retrieved October 27, 2006.
+
+17. "The Discoverer of the Great Nebula in Orion" (https://books.google.com/books?id=98sxAQ
+AAMAAJ&pg=PA615). Scientific American. 114: 615. June 10, 1916.
+
+18. Lynn, W. (June 1887). "First Discovery of The Great Nebula in Orion". The Observatory. 10:
+232. Bibcode:1887Obs....10R.232L (https://ui.adsabs.harvard.edu/abs/1887Obs....10R.232
+L).
+
+19. Schreiber, John (1904). "Jesuit Astronomy" (https://books.google.com/books?id=_hTyAAAA
+MAAJ&pg=PA101). Popular Astronomy. 12: 101.
+
+20. Harrison, Thomas G. (1984). "The Orion Nebula: Where in History is it?". Quarterly Journal
+of the Royal Astronomical Society. 25: 71. Bibcode:1984QJRAS..25...65H (https://ui.adsabs.
+harvard.edu/abs/1984QJRAS..25...65H).
+
+21. Galilei, Galileo (October 9, 2003). "The Starry Messenger" (https://web.archive.org/web/200
+40706125127/http://www.bard.edu/admission/forms/pdfs/galileo.pdf) (PDF). Hudson, New
+York. Archived from the original (http://www.bard.edu/admission/forms/pdfs/galileo.pdf)
+(PDF) on July 6, 2004. Retrieved January 12, 2023.
+
+22. Galilei, Galileo (1610). "Siderius Nuncius" (https://web.archive.org/web/20000829044604/htt
+p://www.liberliber.it/biblioteca/g/galilei/sidereus_nuncius/html/sidereus.htm). Venice, Italy.
+Archived from the original (http://www.liberliber.it/biblioteca/g/galilei/sidereus_nuncius/html/si
+dereus.htm) on August 29, 2000. Retrieved January 12, 2023.
+
+23. Frommert, H.; Kronberg, C. (August 25, 2007). "Hodierna's Deep Sky Observations" (http://
+messier.seds.org/xtra/similar/hodierna.html). SEDS. Retrieved August 11, 2015.
+
+24. Lachieze-Rey, Marc, ed. (2001). Celestial Treasury: From the Music of the Spheres to the
+Conquest of Space. Cambridge [u.a.]: Cambridge Univ. Press. p. 153.
+ISBN 9780521800402.
+
+25. Messier, Charles (1774). "Catalogue des Nébuleuses & des amas d'Étoiles, que l'on
+découvre parmi les Étoiles fixes sur l'horizon de Paris; observées à l'Observatoire de la
+Marine, avec différens instruments" (http://messier.seds.org/xtra/history/m-cat71.html).
+Mémoires de l'Académie Royale des Sciences.
+
+26. Becker, Barbara J. (1993). "Chapter 2—Part 3: Unlocking the "Unknown Mystery of the True
+Nature of the Heavenly Bodies" " (http://faculty.humanities.uci.edu/bjbecker/huggins/ch2c.ht
+ml). Eclecticism, Opportunism, and the Evolution of a New Research Agenda: William and
+Margaret Huggins and the Origins of Astrophysics (PhD). Retrieved March 4, 2016.
+
+27. Hearnshaw, J.B. (1996). The Measurement of Starlight: Two Centuries Of Astronomical
+Photometry (https://archive.org/details/measurementofsta0000hear). New York: Cambridge
+University Press. p. 122 (https://archive.org/details/measurementofsta0000hear/page/122).
+ISBN 9780521403931. Retrieved March 4, 2016.
+
+28. Campbell, W. W.; et al. (1917). "On the Radial Velocities of the Orion Nebula" (https://doi.or
+g/10.1086%2F122612). Publications of the Astronomical Society of the Pacific. 29 (169):
+143. Bibcode:1917PASP...29..143C (https://ui.adsabs.harvard.edu/abs/1917PASP...29..143
+C). doi:10.1086/122612 (https://doi.org/10.1086%2F122612).
+
+29. Trumpler, Robert Julius (1931). "The Distance of the Orion Nebula" (https://doi.org/10.108
+6%2F124134). Publications of the Astronomical Society of the Pacific. 43 (254): 255.
+Bibcode:1931PASP...43..255T (https://ui.adsabs.harvard.edu/abs/1931PASP...43..255T).
+doi:10.1086/124134 (https://doi.org/10.1086%2F124134).
+
+30. Salisbury, David F. (April 10, 2001). "Latest investigations of Orion Nebula reduce odds of
+planet formation" (https://web.archive.org/web/20060527091822/http://www.exploration.van
+derbilt.edu/news/news_orion.htm). Archived from the original (http://exploration.vanderbilt.ed
+u/news/news_orion.htm) on May 27, 2006.
+
+
+
+31. Robberto, M.; et al. (2005). "An overview of the HST Treasury Program on the Orion
+Nebula". Bulletin of the American Astronomical Society. 37: 1404.
+Bibcode:2005AAS...20714601R (https://ui.adsabs.harvard.edu/abs/2005AAS...20714601R).
+See also see the NASA press release (http://hubblesite.org/newscenter/newsdesk/archive/r
+eleases/2006/01/text/).
+
+32. K. G. Stassun; et al. (2006). "Discovery of two young brown dwarfs in an eclipsing binary
+system". Nature. 440 (7082): 311–314. Bibcode:2006Natur.440..311S (https://ui.adsabs.har
+vard.edu/abs/2006Natur.440..311S). doi:10.1038/nature04570 (https://doi.org/10.1038%2Fn
+ature04570). PMID 16541067 (https://pubmed.ncbi.nlm.nih.gov/16541067). S2CID 4310407
+(https://api.semanticscholar.org/CorpusID:4310407).
+
+33. O’Callaghan, Jonathan (October 2, 2023). "The Orion Nebula Is Full of Impossible Enigmas
+That Come in Pairs - In new, high-resolution imagery of the star-forming region, scientists
+spotted worlds that defied explanation, naming them Jupiter Mass Binary Objects" (https://w
+ww.nytimes.com/2023/10/02/science/orion-nebula-webb-planets.html). The New York
+Times. Archived (https://archive.today/20231002114507/https://www.nytimes.com/2023/10/0
+2/science/orion-nebula-webb-planets.html) from the original on October 2, 2023. Retrieved
+October 2, 2023.
+
+34. Megeath, S. T.; et al. (2012). "The Spitzer Space Telescope Survey of the Orion A and B
+Molecular Clouds. I. A Census of Dusty Young Stellar Objects and a Study of Their Mid-
+infrared Variability". Astronomical Journal. 144 (6): 192. arXiv:1209.3826 (https://arxiv.org/ab
+s/1209.3826). Bibcode:2012AJ....144..192M (https://ui.adsabs.harvard.edu/abs/2012AJ....14
+4..192M). doi:10.1088/0004-6256/144/6/192 (https://doi.org/10.1088%2F0004-6256%2F14
+4%2F6%2F192). S2CID 119112861 (https://api.semanticscholar.org/CorpusID:119112861).
+
+35. Kuhn, M. A.; et al. (2015). "The Spatial Structure of Young Stellar Clusters. II. Total Young
+Stellar Populations". Astrophysical Journal. 802 (1): 60. arXiv:1501.05300 (https://arxiv.org/a
+bs/1501.05300). Bibcode:2015ApJ...802...60K (https://ui.adsabs.harvard.edu/abs/2015Ap
+J...802...60K). doi:10.1088/0004-637X/802/1/60 (https://doi.org/10.1088%2F0004-637X%2F
+802%2F1%2F60). S2CID 119309858 (https://api.semanticscholar.org/CorpusID:11930985
+8).
+
+36. "Hidden Secrets of Orion's Clouds – VISTA survey gives most detailed view of Orion A
+molecular cloud in the near-infrared" (https://www.eso.org/public/news/eso1701/).
+www.eso.org. Retrieved January 5, 2017.
+
+37. O'Dell, C. R. (2001). "Structure of the Orion Nebula" (https://doi.org/10.1086%2F317982).
+Publications of the Astronomical Society of the Pacific. 113 (779): 29–40.
+Bibcode:2001PASP..113...29O (https://ui.adsabs.harvard.edu/abs/2001PASP..113...29O).
+doi:10.1086/317982 (https://doi.org/10.1086%2F317982).
+
+38. Balick, B.; et al. (1974). "The structure of the Orion nebula" (https://doi.org/10.1086%2F129
+654). Publications of the Astronomical Society of the Pacific. 86 (513): 616.
+Bibcode:1974PASP...86..616B (https://ui.adsabs.harvard.edu/abs/1974PASP...86..616B).
+doi:10.1086/129654 (https://doi.org/10.1086%2F129654).
+
+39. O'Dell, C. R.; et al. (2009). "The Three-Dimensional Dynamic Structure of the Inner Orion
+Nebula". Astronomical Journal. 137 (779): 367–382. arXiv:0810.4375 (https://arxiv.org/abs/0
+810.4375). Bibcode:2001PASP..113...29O (https://ui.adsabs.harvard.edu/abs/2001PASP..11
+3...29O). doi:10.1086/317982 (https://doi.org/10.1086%2F317982). S2CID 124923444 (http
+s://api.semanticscholar.org/CorpusID:124923444).
+
+40. Stoyan, Ronald (2008). Atlas of the Messier Objects: Highlights of the Deep Sky. Cambridge
+University Press. p. 179. ISBN 978-0521895545.
+
+41. "M-42 (http://messier.seds.org/m/m042.html)", Students for the Exploration and
+Development of Space, April 12, 2006.
+
+
+
+42. Laques, P.; Vidal, J. L. (March 1979). "Detection of a new kind of condensations in the
+center of the Orion Nebula, by means of S 20 photocathodes associated with a Lallemand
+electronic camera". Astronomy & Astrophysics. 73: 97–106. Bibcode:1979A&A....73...97L (ht
+tps://ui.adsabs.harvard.edu/abs/1979A&A....73...97L). ISSN 0004-6361 (https://search.world
+cat.org/issn/0004-6361).
+
+43. Churchwell, E.; Felli, M.; Wood, D. O. S.; Massi, M. (October 1987). "Solar System--sized
+Condensations in the Orion Nebula" (https://doi.org/10.1086%2F165648). Astrophysical
+Journal. 321: 516. Bibcode:1987ApJ...321..516C (https://ui.adsabs.harvard.edu/abs/1987Ap
+J...321..516C). doi:10.1086/165648 (https://doi.org/10.1086%2F165648). ISSN 0004-637X
+(https://search.worldcat.org/issn/0004-637X).
+
+44. McCaughrean, Mark J.; et al. (1996). "Direct Imaging of Circumstellar Disks in the Orion
+Nebula" (https://doi.org/10.1086%2F117934). Astronomical Journal. 111: 1977.
+Bibcode:1996AJ....111.1977M (https://ui.adsabs.harvard.edu/abs/1996AJ....111.1977M).
+doi:10.1086/117934 (https://doi.org/10.1086%2F117934). S2CID 122335780 (https://api.se
+manticscholar.org/CorpusID:122335780).
+
+45. O'dell, C. R.; Wen, Zheng; Hu, Xihai (June 1993). "Discovery of New Objects in the Orion
+Nebula on HST Images: Shocks, Compact Sources, and Protoplanetary Disks" (https://doi.o
+rg/10.1086%2F172786). Astrophysical Journal. 410: 696. Bibcode:1993ApJ...410..696O (htt
+ps://ui.adsabs.harvard.edu/abs/1993ApJ...410..696O). doi:10.1086/172786 (https://doi.org/1
+0.1086%2F172786). ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X).
+
+46. Kassis, Marc; et al. (2006). "Mid-Infrared Emission at Photodissociation Regions in the
+Orion Nebula" (https://doi.org/10.1086%2F498404). Astrophysical Journal. 637 (2): 823–
+837. Bibcode:2006ApJ...637..823K (https://ui.adsabs.harvard.edu/abs/2006ApJ...637..823
+K). doi:10.1086/498404 (https://doi.org/10.1086%2F498404). See also the press release (htt
+p://www.keckobservatory.org/news/science/060109_orion/index.html) Archived (https://web.
+archive.org/web/20061024081423/http://www.keckobservatory.org/news/science/060109_ori
+on/index.html) October 24, 2006, at the Wayback Machine
+
+47. Ker Than, January 11, 2006, "The Splendor of Orion: A Star Factory Unveiled (http://www.sp
+ace.com/scienceastronomy/060111_orion_news.html)", Space.com
+
+48. "Mapping Orion's Winds (http://www.vanderbilt.edu/news/releases?id=23966)", January 16,
+2006, Vanderbilt News Service
+
+49. Denise Chow. Young stars blamed for space cloud ripples (https://web.archive.org/web/2013
+0626131145/http://www.nbcnews.com/id/38757647), NBC News
+
+50. "Gemini's Laser Vision Reveals Striking New Details in Orion Nebula" (http://www.gemini.ed
+u/index.php?q=node/226). Gemini Observatory. March 22, 2007. Retrieved June 1, 2010.
+
+51. "Detail of the Orion Nebula (http://archive.seds.org/hst/OrionFull.html)", HST image and text.
+52. Kroupa, P., Aarseth, S.J., Hurley, J. 2001, MNRAS, 321, 699, "The formation of a bound star
+
+cluster: from the Orion nebula cluster to the Pleiades" (http://adsabs.harvard.edu/abs/2001M
+NRAS.321..699K)
+
+External links
+Orion Nebula photographs taken by Andrew Ainslie Common in 1883, part of the London
+Science Museum's collection (https://collection.sciencemuseumgroup.org.uk/people/cp4441
+1/andrew-anslie-common)
+Animated tour of the Orion Nebula (https://web.archive.org/web/20130606055340/http://alie
+nworlds.southwales.ac.uk/OrionNebula.html) at the Wayback Machine (archived June 6,
+2013), University of South Wales
+Orion Nebula observed by Chandra/HST (http://chandra.harvard.edu/photo/2007/orion/)
+Orion Nebula observed by Gemini Observatory (http://www.gemini.edu/index.php?option=co
+ntent&task=view&id=226)
+
+
+
+Orion Nebula at ESA/Hubble (http://www.spacetelescope.org/images/archive/freesearch/ori
+on+nebula/viewall/1) Archived (https://web.archive.org/web/20090130091659/http://www.sp
+acetelescope.org/images/archive/freesearch/orion+nebula/viewall/1) January 30, 2009, at
+the Wayback Machine
+Messier 42, SEDS Messier pages (http://messier.seds.org/m/m042.html) and specifically
+NGC 1976 (http://spider.seds.org/ngc/ngc.cgi?m42).
+January 2006 Hubble Space Telescope image of the Orion Nebula (http://hubblesite.org/ne
+wscenter/newsdesk/archive/releases/2006/01/image/a)
+January 2006 Hubble Space Telescope image of the Trapezium cluster (http://hubblesite.or
+g/newscenter/newsdesk/archive/releases/2006/01/image/e)
+Orion Nebula M42, Hubble Images (http://messier.seds.org/more/m042_hst2.html)
+Remarkable new views captured of Orion Nebula (http://spaceflightnow.com/news/n0101/19
+orion/), SpaceFlight Now, 2001.
+NightSkyInfo.com – The Great Orion Nebula (http://www.nightskyinfo.com/archive/orion_neb
+ula)
+Astronomy Picture of the Day
+
+Spitzer's Orion (http://apod.nasa.gov/apod/ap100410.html) 2010 April 10
+Planetary Systems Now Forming in Orion (http://apod.nasa.gov/apod/ap091222.html)
+2009 December 22
+Great Orion Nebulae (http://apod.nasa.gov/apod/ap081023.html) 2008 October 23
+
+Gray, Meghan; et al. "M42 – Orion Nebula" (http://www.deepskyvideos.com/videos/messier/
+M42_orion_nebula.html). Deep Sky Videos. Brady Haran.
+
+The Orion Nebula on WikiSky: DSS2 (http://www.wikisky.org/?object=Orion+Nebula&img_so
+urce=DSS2), SDSS (http://www.wikisky.org/?object=Orion+Nebula&img_source=SDSS),
+GALEX (http://www.wikisky.org/?object=Orion+Nebula&img_source=GALEX), IRAS (http://w
+ww.wikisky.org/?object=Orion+Nebula&img_source=IRAS), Hydrogen α (http://www.wikisky.
+org/?object=Orion+Nebula&img_source=HALPHA), X-Ray (http://www.wikisky.org/?object=
+Orion+Nebula&img_source=RASS), Astrophoto (http://www.wikisky.org/?object=Orion+Nebu
+la&img_source=IMG_all), Sky Map (http://www.wikisky.org/?object=Orion+Nebula), Articles
+and images (http://www.wikisky.org/starview?object=Orion+Nebula)
+ESO: Hidden Secrets of Orion’s Clouds (http://www.eso.org/public/unitedkingdom/news/eso
+1701/?lang) incl. Photos and animations
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Orion_Nebula&oldid=1241066078"

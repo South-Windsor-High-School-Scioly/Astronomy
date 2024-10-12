@@ -1,0 +1,271 @@
+﻿WD 1856+534
+WD 1856+534 is a white dwarf located in the constellation of WD 1856+534
+Draco. At a distance of about 25 parsecs (80 ly) from Earth, it is
+the outer component of a visual triple star system consisting of an
+inner pair of red dwarf stars, named G 229-20. The white dwarf
+displays a featureless absorption spectrum, lacking strong optical
+absorption or emission features in its atmosphere. It has an
+effective temperature of 4,700 K (4,430 °C; 8,000 °F),
+corresponding to an age of approximately 5.8 billion years.[4] WD
+1856+534 is approximately half as massive as the Sun, while its
+radius is much smaller, being 40% larger than Earth.[5]
+
+Planetary system
+The white dwarf is known to host one exoplanet, WD 1856+534 b,
+in orbit around it. The exoplanet was detected through the transit
+method by the Transiting Exoplanet Survey Satellite (TESS)
+between July and August 2019. An analysis of the transit data in
+2020 revealed that it is a Jupiter-like giant planet with a radius over Artist's impression of WD 1856+534 and its planet.
+
+ten times that of Earth's, and orbits its host star closely at a Observation data
+distance of 0.02 astronomical units (AU), with an orbital period 60 Epoch J2000      Equinox J2000
+times shorter than that of Mercury around the Sun. Constellation Draco
+
+The unexpectedly close distance of the exoplanet to the white WD 1856+534
+
+dwarf implies that it must have migrated inward after its host star Right ascension 18h 57m 39.34s[1]
+
+evolved from a red giant to a white dwarf, otherwise it would have Declination +53° 30′ 33.30″[1]
+
+been engulfed by its star.[4] This migration may be related to the Apparent magnitude (V) 17.244 ± 0.046[2]
+
+fact that WD 1856+534 belongs to a hierarchical triple-star system:
+G 229-20 A
+
+the white dwarf and its planet are gravitationally bound to a distant
+companion, G 229–20, which itself is a binary system of two red Right ascension 18h 57m 38.4s[2]
+
+dwarf stars.[4] Gravitational interactions with the companion stars Declination 53° 31′ 14.43″[2]
+
+may have triggered the planet's migration through the Lidov–Kozai Apparent magnitude (V) 13.15[2]
+
+mechanism[6][7][8] in a manner similar to some hot Jupiters. An G 229-20 B
+alternative hypothesis is that the planet instead has survived a
+common envelope phase.[9] In the latter scenario, other planets Right ascension 18h 57m 38.33s[2]
+
+engulfed before may have contributed to the expulsion of the Declination 53° 31′ 12.24″[2]
+
+stellar envelope.[10] JWST observations seem to disfavour the Apparent magnitude (V) 13.23[2]
+
+formation via common envelope and instead favour high Characteristics
+eccentricity migration.[11]
+
+WD 1856+534
+
+The planetary transmission spectrum obtained with GTC OSIRIS Evolutionary stage white dwarf
+is gray and featureless, likely because of the high level of Spectral type DA[3]
+
+hazes.[12] The transmission spectrum was also obtained with Apparent magnitude (J) 15.677 ± 0.055[1]
+Gemini GMOS. It does not show any features beside a possible dip
+at 0.55 μm. This feature could be caused be auroral emission at the Apparent magnitude (H) 15.429 ± 0.094[1]
+
+nightside of the planet. The research find a minimum mass of 0.84 Apparent magnitude (K) 15.548 ± 0.186[1]
+
+MJ by accounting for the transit geometry of a grazing transit. The Astrometry
+researchers also revised the white dwarf parameters and found a Proper motion (μ) RA: −240.759 ± 0.148[1] mas/yr
+total age of 8-10 billion years, in agreement with the system Dec.: −52.514 ± 0.143[1] mas/yr
+beloning to the thin disk.[3]
+
+Parallax (π) 40.3983 ± 0.0705[1] mas
+
+
+
+A search with transit timing variations found no additional planets. Distance 80.737 ± 0.144 ly
+The search exclude planets with a mass more than 2 MJ with (24.754 ± 0.044[4] pc)
+orbital periods as long as 500 days and planets with >10 MJ with
+orbital periods as long as 1000 days.[13] G 299-20 A
+
+Proper motion (μ) RA: 256.12 mas/yr[2]
+
+Dec.: -52.72 mas/yr[2]
+
+Parallax (π) 40.298 ± 0.024 mas[2]
+
+Distance 80.94 ± 0.05 ly
+(24.82 ± 0.01 pc)
+
+G 299-20 B
+Proper motion (μ) RA: 241.4[2] mas/yr[2]
+
+Dec.: -44.176 mas/yr[2]
+
+Parallax (π) 40.33 ± 0.024 mas[2]
+
+Distance 80.87 ± 0.05 ly
+(24.80 ± 0.01 pc)
+
+Details[3]
+
+WD 1856+534
+Mass 0.576 ± 0.040 M☉
+
+Radius 0.012 63 ± 0.000 50 R☉
+Surface gravity (log g) 7.995 ± 0.065 cgs
+
+Temperature 4860 ± 60 K
+
+Metallicity [Fe/H] <−8.8[4] dex
+
+Age 6.60 ± 0.48 Gyrs (cooling age)
+8 to 10 (total age) Gyr
+
+G 299-20 A[4]
+
+Mass 0.335 ± 0.024 M☉
+
+Radius 0.35 ± 0.02 R☉
+Temperature 3,521 K
+
+G 299-20 B[4]
+
+Mass 0.322 ± 0.023 M☉
+
+Radius 0.34 ± 0.02 R☉
+Temperature 3,513 K
+
+Position (relative to G 229-20)[4]
+
+Angular distance ~43″
+
+Projected separation +130
+1030 −55 AU [4]
+
+Other designations
+LP 141-14, LSPM J1857+5330, 2MASS
+J18573936+5330332, NLTT 47263, TIC
+267574918, TOI-1690, WDS
+J18576+5331C, WISE
+J185739.62+533032.9
+
+Database references
+SIMBAD data (https://simbad.cds.unistr
+
+a.fr/simbad/sim-id?Ident=WD+
+1856%2B534)
+
+Exoplanet Archive data (https://exoplanetarchive.i
+pac.caltech.edu/cgi-bin/Display
+Overview/nph-DisplayOvervie
+
+
+
+w?objname=WD+1856%2B53
+4+b)
+
+The WD 1856+534 planetary system[4]
+
+Companion Semimajor
+(in order Mass axis Orbital period
+
+(days) Eccentricity Inclination Radius
+from star) (AU)
+
+2.4-13.8[12]
+
+b or 0.0204 ± 0.0012 1.407 939 25 ± 0.000 000 04[3] ~0 88.778 ± 0.059° +0.040
+0.966 [3][nb 1]
+
+−0.039  RJ
+>0.84[3] MJ
+
+See also
+WD 1145+017, a white dwarf with a transiting disrupted planetary-mass object
+WD J0914+1914, a white dwarf with a disk of debris originating from a possible giant planet
+ZTF J0139+5245, another white dwarf with a disk of debris from a disrupted planetary-mass object
+CWISEP J1935-1546 a free-floating object with aurora emission in the infrared
+List of exoplanets and planetary debris around white dwarfs
+
+Notes
+1. Calculated using the Radius ratio in table 4 and the white dwarf radius in table 3, convertion into jupiter radius
+
+using 1 R☉ is 0.1028 RJ, see solar radius
+
+References
+1. "LP 141-14 -- White Dwarf" (http://simbad.u-strasbg.fr/simbad/sim-id?Ident=WD+1856%2B534). SIMBAD.
+
+Université de Strasbourg. Retrieved 20 September 2020.
+2. "WD 1856+534 Overview" (https://exoplanetarchive.ipac.caltech.edu/overview/WD_1856+534). NASA Exoplanet
+
+Archive.
+3. Xu, Siyi; Diamond-Lowe, Hannah; MacDonald, Ryan J.; Vanderburg, Andrew; Blouin, Simon; Dufour, P.; Gao,
+
+Peter; Kreidberg, Laura; Leggett, S. K.; Mann, Andrew W.; Morley, Caroline V.; Stephens, Andrew W.; O'Connor,
+Christopher E.; Thao, Pa Chia; Lewis, Nikole K. (2021-12-01). "Gemini/GMOS Transmission Spectroscopy of the
+Grazing Planet Candidate WD 1856+534 b" (https://doi.org/10.3847%2F1538-3881%2Fac2d26). The
+Astronomical Journal. 162 (6): 296. arXiv:2110.14106 (https://arxiv.org/abs/2110.14106).
+Bibcode:2021AJ....162..296X (https://ui.adsabs.harvard.edu/abs/2021AJ....162..296X). doi:10.3847/1538-
+3881/ac2d26 (https://doi.org/10.3847%2F1538-3881%2Fac2d26). ISSN 0004-6256 (https://search.worldcat.org/i
+ssn/0004-6256).
+
+4. Vanderburg, Andrew; Rappaport, Saul A.; Xu, Siyi; Crossfield, Ian J. M.; Becker, Juliette C.; Gary, Bruce; et al.
+(September 2020). "A giant planet candidate transiting a white dwarf". Nature. 585 (7825): 363–367.
+arXiv:2009.07282 (https://arxiv.org/abs/2009.07282). Bibcode:2020Natur.585..363V (https://ui.adsabs.harvard.e
+du/abs/2020Natur.585..363V). doi:10.1038/s41586-020-2713-y (https://doi.org/10.1038%2Fs41586-020-2713-y).
+PMID 32939071 (https://pubmed.ncbi.nlm.nih.gov/32939071). S2CID 221738865 (https://api.semanticscholar.or
+g/CorpusID:221738865).
+
+5. Potter, Steve (16 September 2020). "NASA Missions Spy First Possible 'Survivor' Planet Hugging White Dwarf
+Star" (https://www.nasa.gov/press-release/nasa-missions-spy-first-possible-survivor-planet-hugging-white-dwarf-
+star). NASA. 20-086. Retrieved 20 September 2020.
+
+6. Muñoz, Diego J.; Petrovich, Cristobal (2020-11-19). "Kozai Migration Naturally Explains the White Dwarf Planet
+WD1856b" (https://doi.org/10.3847%2F2041-8213%2Fabc564). The Astrophysical Journal. 904 (1): L3.
+arXiv:2010.04724 (https://arxiv.org/abs/2010.04724). Bibcode:2020ApJ...904L...3M (https://ui.adsabs.harvard.ed
+u/abs/2020ApJ...904L...3M). doi:10.3847/2041-8213/abc564 (https://doi.org/10.3847%2F2041-8213%2Fabc56
+4). ISSN 2041-8213 (https://search.worldcat.org/issn/2041-8213). S2CID 222290559 (https://api.semanticschola
+r.org/CorpusID:222290559).
+
+7. O'Connor, Christopher E.; Liu, Bin; Lai, Dong (2020-11-30). "Enhanced Lidov-Kozai migration and the formation
+of the transiting giant planet WD1856+534b" (https://doi.org/10.1093%2Fmnras%2Fstaa3723). Monthly Notices
+of the Royal Astronomical Society. 501: 507–514. arXiv:2010.04163 (https://arxiv.org/abs/2010.04163).
+doi:10.1093/mnras/staa3723 (https://doi.org/10.1093%2Fmnras%2Fstaa3723). ISSN 0035-8711 (https://search.
+worldcat.org/issn/0035-8711). S2CID 222272242 (https://api.semanticscholar.org/CorpusID:222272242).
+
+
+
+8. Stephan, Alexander P.; Naoz, Smadar; Gaudi, B. Scott (2021). "Giant Planets, Tiny Stars: Producing Short-
+period Planets around White Dwarfs with the Eccentric Kozai–Lidov Mechanism" (https://doi.org/10.3847%2F15
+38-4357%2Fac22a9). The Astrophysical Journal. 922 (1): 4. arXiv:2010.10534 (https://arxiv.org/abs/2010.1053
+4). Bibcode:2021ApJ...922....4S (https://ui.adsabs.harvard.edu/abs/2021ApJ...922....4S). doi:10.3847/1538-
+4357/ac22a9 (https://doi.org/10.3847%2F1538-4357%2Fac22a9). S2CID 224819085 (https://api.semanticschola
+r.org/CorpusID:224819085).
+
+9. Lagos, F.; Schreiber, M. R.; Zorotovic, M.; Gänsicke, B. T.; Ronco, M. P.; Hamers, Adrian S. (2021), "WD 1856 b:
+a close giant planet around a white dwarf that could have survived a common-envelope phase", Monthly Notices
+of the Royal Astronomical Society, 501 (1): 676–682, arXiv:2010.09747 (https://arxiv.org/abs/2010.09747),
+Bibcode:2021MNRAS.501..676L (https://ui.adsabs.harvard.edu/abs/2021MNRAS.501..676L),
+doi:10.1093/mnras/staa3703 (https://doi.org/10.1093%2Fmnras%2Fstaa3703), S2CID 224802868 (https://api.se
+manticscholar.org/CorpusID:224802868)
+
+10. Chamandy, Luke; Blackman, Eric G.; Nordhaus, Jason; Wilson, Emily (2021), "Successive common envelope
+events from multiple planets", Monthly Notices of the Royal Astronomical Society: Letters, 502: L110–L114,
+arXiv:2011.11106 (https://arxiv.org/abs/2011.11106), doi:10.1093/mnrasl/slab017 (https://doi.org/10.1093%2Fm
+nrasl%2Fslab017)
+
+11. O'Connor, Christopher; Lai, Dong; MacDonald, Ryan; The JWST WD1856b Team (2024-08-01). "The thermal
+evolution of WD1856b reveals its migration history" (https://ui.adsabs.harvard.edu/abs/2024DDA....5540101O/ab
+stract). AAS Division on Dynamical Astronomy Meeting #55, Id. 401.01. 56 (6): 401.01.
+Bibcode:2024DDA....5540101O (https://ui.adsabs.harvard.edu/abs/2024DDA....5540101O).
+
+12. Alonso, R.; Rodríguez-Gil, P.; Izquierdo, P.; Deeg, H. J.; Lodieu, N.; Cabrera-Lavers, A.; Hollands, M. A.; Pérez-
+Toledo, F. M.; Castro-Rodríguez, N.; Reverte-Payá, D. (2021), "A transmission spectrum of the planet candidate
+WD 1856+534 b and a lower limit to its mass", Astronomy & Astrophysics, 649: A131, arXiv:2103.15720 (https://
+arxiv.org/abs/2103.15720), Bibcode:2021A&A...649A.131A (https://ui.adsabs.harvard.edu/abs/2021A&A...649A.
+131A), doi:10.1051/0004-6361/202140359 (https://doi.org/10.1051%2F0004-6361%2F202140359),
+S2CID 232417057 (https://api.semanticscholar.org/CorpusID:232417057)
+
+13. Kubiak, Sarah; Vanderburg, Andrew; Becker, Juliette; Gary, Bruce; Rappaport, Saul A.; Xu, Siyi; de Beurs, Zoe
+(2023-05-01). "TTV constraints on additional planets in the WD 1856+534 system" (https://doi.org/10.1093%2Fm
+nras%2Fstad766). Monthly Notices of the Royal Astronomical Society. 521 (3): 4679–4694. arXiv:2303.06157 (h
+ttps://arxiv.org/abs/2303.06157). Bibcode:2023MNRAS.521.4679K (https://ui.adsabs.harvard.edu/abs/2023MNR
+AS.521.4679K). doi:10.1093/mnras/stad766 (https://doi.org/10.1093%2Fmnras%2Fstad766). ISSN 0035-8711
+(https://search.worldcat.org/issn/0035-8711).
+
+External links
+NASA Missions Spy First Possible ‘Survivor’ Planet Hugging White Dwarf Star (https://www.nasa.gov/press-relea
+se/nasa-missions-spy-first-possible-survivor-planet-hugging-white-dwarf-star/), Sean Potter, NASA, 16
+September 2020
+Planet discovered transiting a dead star (https://www.nature.com/articles/d41586-020-02555-3), Steven
+Parsons, Nature News and Views, 16 September 2020
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=WD_1856%2B534&oldid=1245014328"

@@ -1,0 +1,700 @@
+﻿55 Cancri
+55 Cancri is a binary star system located 41[1] light- 55 Cancri
+years away from the Sun in the zodiac constellation of
+Cancer. It has the Bayer designation Rho1 Cancri
+(ρ1 Cancri); 55 Cancri is the Flamsteed designation
+(abbreviated 55 Cnc). The system consists of a K-type
+star (designated 55 Cancri A, also named Copernicus
+/koʊˈpɜːrnɪkəs/)[13] and a smaller red dwarf (55
+Cancri B).
+
+As of 2015, five extrasolar planets (designated 55
+Cancri b, c, d, e and f; named Galileo, Brahe,
+Lipperhey, Janssen and Harriot, respectively) are
+known to orbit 55 Cancri A.
+
+Location of 55 Cancri (circled in red)
+
+Observation data
+Nomenclature Epoch J2000.0      Equinox J2000.0
+
+55 Cancri is the system's Flamsteed designation. It Constellation Cancer
+
+also bears the Bayer designation ρ1 Cancri (Latinised Pronunciation /ˈkæŋkraɪ/ or /ˈkæŋkriː/
+to Rho1 Cancri) and the Bright Star Catalogue 55 Cancri A
+designation HR 3522. The two components are Right ascension 08h 52m 35.8111s[1]
+
+designated A and B,[14] though component A is Declination +28° 19′ 50.955″[1]
+sometimes referred to simply as 55 Cancri.[15] The
+first planet discovered orbiting 55 Cancri A was Apparent magnitude (V) 5.95[2]
+
+designated HR 3522b by its discoverers,[16] though it 55 Cancri B
+is more commonly referred to as 55 Cancri b.[17] Right ascension 08h 52m 40.8627s[3]
+
+Under the rules for naming objects in binary star Declination +28° 19′ 58.821″[3]
+
+systems it should be named 55 Cancri Ab[18] and this Apparent magnitude (V) 13.15[4]
+more formal form is occasionally used to avoid
+confusion with the secondary star 55 Cancri B. The Characteristics
+
+other planets discovered were designated 55 Cancri c, 55 Cancri A
+d, e and f, in order of their discovery. Evolutionary stage Between main sequence and
+
+subgiant
+In July 2014 the International Astronomical Union
+launched NameExoWorlds, a process for giving Spectral type K0IV–V[5]
+
+proper names to certain exoplanets and their host U−B color index 0.63[6]
+
+stars.[19] The process involved public nomination and B−V color index 0.87[6]
+
+voting for the new names.[20] In December 2015, the 55 Cancri B
+IAU announced the winning names were Copernicus Evolutionary stage Main sequence (red dwarf)
+for 55 Cancri A and Galileo, Brahe, Lipperhey,
+Janssen and Harriot for its planets (b, c, d, e and f, Spectral type M4.5V[7]
+
+respectively).[21] B−V color index 1.7[4]
+
+Astrometry
+The winning names were those submitted by the
+Royal Netherlands Association for Meteorology and 55 Cancri A
+
+Astronomy of the Netherlands. They honor the Radial velocity (Rv) 27.51[1] km/s
+
+
+
+astronomers Nicolaus Copernicus, Galileo Galilei, Proper motion (μ) RA: −485.681 ± 0.040[1] mas/yr
+Tycho Brahe and Thomas Harriot and the spectacle Dec.: −233.517 ± 0.037[1] mas/yr
+makers and telescope pioneers Hans Lipperhey and Parallax (π) 79.4482 ± 0.0429 mas[1]
+
+Jacharias Janssen.[22] (The IAU originally announced Distance 41.05 ± 0.02 ly
+the winning name was Lippershey for 55 Cancri d. In (12.587 ± 0.007 pc)
+January 2016, in recognition that his actual name was
+Lipperhey (with Lippershey an error introduced in the Absolute magnitude (MV) +5.50[8]
+
+19th century), the exoplanet name was corrected to 55 Cancri B
+Lipperhey by the IAU and that name was submitted to Proper motion (μ) RA: −481.176 ± 0.041[3] mas/yr
+the official sites that keep track of astronomical Dec.: −244.544 ± 0.032[3] mas/yr
+information).[21][22]
+
+Parallax (π) 79.6560 ± 0.0475 mas[3]
+
+In 2016, the IAU organized a Working Group on Star Distance 40.95 ± 0.02 ly
+
+Names (WGSN)[23] to catalog and standardize proper (12.554 ± 0.007 pc)
+
+names for stars. In its first bulletin of July 2016,[24] Absolute magnitude (MV) +12.58 ± 0.088[9]
+
+the WGSN explicitly recognized the names of Details
+exoplanets and their host stars approved by the 55 Cnc A
+Executive Committee Working Group Public Naming
+of Planets and Planetary Satellites, including the Mass 0.905 ± 0.015[10] M☉
+
+names of stars adopted during the 2015 Radius 0.943 ± 0.010[10] R☉
+NameExoWorlds campaign. This star is now so Luminosity 0.582 ± 0.014[10] L☉
+entered in the IAU Catalog of Star Names.[13]
+
+Surface gravity (log g) 4.45 ± 0.01[10] cgs
+
+Temperature 5,172 ± 18[11] K
+
+Stellar system Metallicity [Fe/H] 0.35 ± 0.10[11] dex
+
+Rotation 38.8 ± 0.05 days[11]
+
+The 55 Cancri system is located fairly close to the Rotational velocity <1.23 ± 0.01[11] km/s
+Solar System: the Gaia astrometry satellite measured (v sin i)
+the parallax of 55 Cancri A as 79.45 milliarcseconds,
+
+Age 8.6 ± 1[11] Gyr
+corresponding to a distance of 12.6 parsecs (41 light-
+years).[1] 55 Cancri A has an apparent magnitude of 55 Cnc B
+5.95, making it just visible to the naked eye under Mass 0.264 ± 0.007[12] M☉
+
+very dark skies. The red dwarf 55 Cancri B is of the Radius 0.268 ± 0.009[12] R☉
+13th magnitude and only visible through a telescope. Luminosity 0.00788 ± 0.00013[12] L
+The two components are separated by 85″, an ☉
+
+Temperature 3,320 ± 51[12] K
+estimated separation of 1,065 AU[25] (6.15 light-
+days). Despite their wide separation, the two stars Metallicity [Fe/H] 0.15 ± 0.16[12] dex
+
+appear to be gravitationally bound, as they share a Rotation +3.2
+6.11 −1.9 days[9]
+
+common proper motion.[15]
+Rotational velocity 2.36[9] km/s
+(v sin i)
+
+55 Cancri A Other designations
+The primary star, 55 Cancri A, has a spectral type of Copernicus, Rho1 Cancri, 55 Cnc,
+K0IV-V, indicating a main-sequence or subgiant star. BD+28°1660, GJ 324, HD 75732,
+It is smaller in radius and slightly less massive than HIP 43587, HR 3522, SAO 80585
+the Sun, and so is cooler and less luminous. The star Database references
+has only low emission from its chromosphere, and is SIMBAD data (https://simbad.cds.unistra.f
+not variable in the visible spectrum;[15] but it is
+
+r/simbad/sim-id?Ident=55+Cnc)
+variable in X-rays.[26] It is more enriched than the
+Sun in elements heavier than helium, with 186% the 55 Cnc B (https://simbad.cds.uni
+
+solar abundance of iron; it is therefore classified as a stra.fr/simbad/sim-id?Ident=55+
+
+rare "super metal-rich" (SMR) star.[15] 55 Cancri A Cnc+B)
+
+
+
+also has more carbon than the Sun, with a C/O ratio of Exoplanet Archive data (https://exoplanetarchive.ip
+0.78,[27] compared to solar value of 0.55. This ac.caltech.edu/cgi-bin/DisplayO
+abundance of metal makes estimating the star's age verview/nph-DisplayOverview?o
+and mass difficult, as evolutionary models are less bjname=55+Cnc)
+well defined for such stars. 55 Cancri A is much older ARICNS data (https://wwwadd.zah.uni-he
+than the solar system, and its age has been estimated idelberg.de/datenbanken/aricns/
+to values of 7.4–8.7 billion years[28] or 10.2 ± 2.5 cnspages/4c00669.htm)
+billion years.[10]
+
+A hypothesis for the high metal content in SMR dwarf stars is that material enriched in heavy elements fell into the
+atmosphere from a protoplanetary disk. This would pollute the star's external layers, resulting in a higher than normal
+metallicity. The lack of a deep convection zone would mean that the outer layers would retain higher abundance
+ratios of these heavy elements.[29]
+
+Observations of 55 Cancri A in the submillimeter region of the spectrum have thus far failed to detect any associated
+dust. The upper limit on emissions within 100 AU of this star is about 850 mJy, at a wavelength of 850 μm. This
+limits the total mass of fine dust around the star to less than 0.01% of the Earth's mass. However, this does not
+exclude the presence of an asteroid belt or a Kuiper belt equivalent.[30]
+
+55 Cancri B
+The secondary, 55 Cancri B, is a red dwarf star much less massive and luminous than the Sun. There are indications
+that component B may itself be a double star, though this is uncertain.[14]
+
+Planetary system
+
+The 55 Cancri A planetary system[31][32][11]
+
+Companion Semimajor Orbital period
+(in order Mass axis (days) Eccentricity Inclination Radius
+
+from star) (AU)
+
+e +0.32 0.01544 ± 875 ±
+(Janssen) 7.99 0.05 ± 0.03
+
+−0.33 M🜨 0.00005 0.73654625 ± 0.00000015[33] +0.47 1.
+83.59−0.44° 0.029 R🜨
+
+b (Galileo) +0.0092 1134 ±
+≥0.8036 0001 0 ± 0.01 ~85° —
+
+−0.0091 M 0.
+J 0.0006 14.6516 ± 0.
+
+c (Brahe) ≥51.2 ± 1.3 M 0.2373 ± +0.0042
+🜨 0.0013 44.3989 0.03 ± 0.02 — —
+
+−0.0043
+
+f (Harriot) ≥47.8 ± 2.4 M +0.0043
+🜨 0.7708 259.88 ± 0.29 +0.05 — —
+
+−0.0044 0.08 −0.04
+
+d +0.074 +93.8
+(Lipperhey) ≥3.12 ± 0.10 MJ 5.957 .13 ± 0.02 — —
+
+−0.071 5,574.2 0
+−88.6
+
+The 55 Cancri system was the first known to have four, and later five, planets, and may possibly have more. The
+innermost planet, e, transits 55 Cancri A as viewed from Earth.[31] The next planet, b, is non-transiting but there is
+tentative evidence that it is surrounded by an extended atmosphere that does transit the star.[26]
+
+In 1997, the discovery of a 51 Pegasi-like planet orbiting 55 Cancri A was announced, together with the planet of Tau
+Boötis and the inner planet of Upsilon Andromedae.[16] The planet was discovered by measuring the star's radial
+velocity, which showed a periodicity of around 14.7 days corresponding to a planet at least 78% of the mass of
+Jupiter. These radial velocity measurements still showed a drift unaccounted for by this planet, which could be
+explained by the gravitational influence of a more distant object.
+
+
+
+In 1998 the discovery of a possible dust disk around 55 Cancri A was
+announced.[34] Calculations gave the disk radius at least 40 AU, similar to the
+Kuiper belt in the Solar System, with an inclination of 25° with respect to the
+plane of the sky. However, the discovery could not be verified and was later
+deemed to be spurious, caused instead by background galaxies.[35]
+
+After making further radial velocity measurements, a planet orbiting at a
+distance of around 5 AU was announced in 2002.[15] This planet received the
+designation 55 Cancri d. At the time of discovery, the planet was thought to be
+in an orbit of mild eccentricity (close to 0.1), but this value was increased by
+later measurements. Even after accounting for these two planets, a periodicity
+at 43 days remained, possibly due to a third planet. Measurements of the star Comparison of the orbits of the inner
+suggested that this was close to the star's rotation period, which raised the planets of 55 Cancri A (black) with
+possibility that the 43-day signal was caused by stellar activity. This possible the planets of the Solar System
+planet received the designation 55 Cancri c.
+
+55 Cancri e was announced in 2004.[36]
+
+With 8.3 Earth masses, it is a large
+super-Earth which was originally
+thought to have an orbital period of 2.8
+days, though it was later found that this
+was an alias of its true period of 0.74 of
+
+Artist's rendition of 55 Cnc's planets a day by observations of e transiting in
+2011.[31] This planet was the first The Solar System with only Earth
+known instance of a fourth extrasolar and Jupiter compared with the
+
+planet in one system, and was the shortest-period planet until the discovery of planetary system of 55 Cancri
+PSR J1719−1438 b. The measurements that led to the discovery of this planet (Note: this depiction was made
+
+also confirmed the existence of 55 Cancri c. before planets e and f were
+discovered.)
+
+In 2005, Jack Wisdom combined three data sets and drew two distinct
+conclusions: that the 2.8-day planet was an alias and that there was a Neptune-
+scale planet with a period near 261 days. Fischer et al. (2008)[37] reported new observations that they said confirmed
+the existence of the 2.8-day planet, as first reported by McArthur et al. (2004), and a 260-day Neptune-sized planet,
+as first reported by Wisdom (2005).[38] However, Dawson and Fabrycky (2010)[32] concluded that the 2.8-day planet
+was indeed an alias, as suggested by Wisdom (2005), and that the correct period was 0.7365 of a day.
+
+In 2007, Fisher et al. confirmed the existence of the 260-day planet proposed in 2005 by Wisdom. This planet, 55
+Cancri f, was the first occurrence of a fifth extrasolar planet in one system. With a similar mass to c, it has a 260-day
+orbit, towards the inner edge of 55 Cancri A's habitable zone.[39][40] The planet itself is not thought to be conducive
+to life, but hypothetical moons in principle could maintain at least water and life.
+
+The planet e's eccentricity is poorly defined; varying values between 0 and 0.4 does not significantly improve the fit,
+so an eccentricity of 0.2 was assumed. Taking interactions between the planets into account results in a near-zero
+orbital eccentricity.
+
+Astrometric observations with the Hubble Space Telescope measured an inclination of 53° of the outer planet d,[36]
+
+though this result relies on the precise orbital parameters which have been substantially revised since this was
+published.[41] The observed transits of e suggest an orbit normal inclined within 9° to the line-of-sight, and a possible
+detection of the transit of an extended atmosphere around 55 Cancri b would, if confirmed, imply that it too is in an
+orbit that is close to edge-on.[26] Between them, no measurement of c's nor f's inclinations have been made. It had
+been thought that with five planets, the system cannot deviate far from coplanar in order to maintain stability.[40] An
+
+
+
+attempt to measure the spin-orbit misalignment of the innermost planet reported that it was in a nearly polar orbit,[42]
+
+but this interpretation of the data has since been challenged by a subsequent study, with noted inconsistencies
+between the implied and measured stellar rotation.[43]
+
+The approximate ratios of periods of adjacent orbits are (proceeding outward): 1:20, 1:3, 1:6, 1:20. The nearly 1:3
+ratio between 55 Cancri b and c is apparently a near resonance, rather than a genuine mean motion resonance.[40]
+
+Possible additional planets
+Between planets f and d, there appears to be a huge gap of distance where no planets are known to orbit. A 2008
+paper found that as many as 3 additional planets of up to 50 times the mass of Earth could orbit at a distance of 0.9 to
+3.8 AU from the star, and stable resonances of a hypothetical planet g with the known planets were found to be 3f:2g,
+2g:1d, and 3g:2d.[44] A study released in 2019 showed that undiscovered terrestrial planets may be able to orbit safely
+in this region at 1 to 2 AU; this space includes the outer limits of 55 Cancri's habitable Zone.[45] In 2021, it was found
+that terrestrial planets with comparable water content to Earth may have indeed been able to form and survive
+between the planets f and d.[46] As for the space outside d's orbit, its stability zone begins beyond 10 AU, though
+there is a stability zone between 8.6 and 9 AU due to a 2:1 resonance.[44]
+
+Search for Radio Emissions
+Since 55 Cancri e orbits less than 0.1 AU from its host star, some scientists hypothesized that it may cause stellar
+flaring synchronized to the orbital period of the exoplanet. A 2011 search for these magnetic star-planet interactions
+that would result in coronal radio emissions resulted in no detected signal. Furthermore, no magnetospheric radio
+emissions were detected from any exoplanet within the system.[47]
+
+Communication
+A METI message was sent to 55 Cancri. It was transmitted from Eurasia's largest radar—the 70 m (230 ft) Evpatoria
+Planetary Radar. The message was named Cosmic Call 2; it was sent on July 6, 2003, and it will arrive at 55 Cancri
+in May 2044.[48]
+
+See also
+Sudarsky's gas giant classification
+Cancer in Chinese astronomy
+Kepler-186
+Lists of exoplanets
+Gliese 1132 b – rocky exoplanet with a confirmed atmosphere
+Mu Arae c – At constellation Ara
+Planetary system
+PSR B1257+12
+
+References
+1. Brown, A. G. A.; et al. (Gaia collaboration) (2021). "Gaia Early Data Release 3: Summary of the
+
+contents and survey properties" (https://doi.org/10.1051%2F0004-6361%2F202039657). Astronomy &
+Astrophysics. 649: A1. arXiv:2012.01533 (https://arxiv.org/abs/2012.01533).
+Bibcode:2021A&A...649A...1G (https://ui.adsabs.harvard.edu/abs/2021A&A...649A...1G).
+doi:10.1051/0004-6361/202039657 (https://doi.org/10.1051%2F0004-6361%2F202039657).
+S2CID 227254300 (https://api.semanticscholar.org/CorpusID:227254300). (Erratum: doi:10.1051/0004-
+
+
+
+6361/202039657e (https://doi.org/10.1051%2F0004-6361%2F202039657e)). Gaia EDR3 record for this
+source (http://vizier.u-strasbg.fr/viz-bin/VizieR-S?Gaia%20EDR3%20704967037090946688) at VizieR.
+
+2. Van Belle, Gerard T.; von Braun, Kaspar (2009). "Directly Determined Linear Radii and Effective
+Temperatures of Exoplanet Host Stars". The Astrophysical Journal. 694 (2): 1085–1098.
+arXiv:0901.1206 (https://arxiv.org/abs/0901.1206). Bibcode:2009ApJ...694.1085V (https://ui.adsabs.har
+vard.edu/abs/2009ApJ...694.1085V). doi:10.1088/0004-637X/694/2/1085 (https://doi.org/10.1088%2F0
+004-637X%2F694%2F2%2F1085). S2CID 18370219 (https://api.semanticscholar.org/CorpusID:18370
+219).
+
+3. Brown, A. G. A.; et al. (Gaia collaboration) (2021). "Gaia Early Data Release 3: Summary of the
+contents and survey properties" (https://doi.org/10.1051%2F0004-6361%2F202039657). Astronomy &
+Astrophysics. 649: A1. arXiv:2012.01533 (https://arxiv.org/abs/2012.01533).
+Bibcode:2021A&A...649A...1G (https://ui.adsabs.harvard.edu/abs/2021A&A...649A...1G).
+doi:10.1051/0004-6361/202039657 (https://doi.org/10.1051%2F0004-6361%2F202039657).
+S2CID 227254300 (https://api.semanticscholar.org/CorpusID:227254300). (Erratum: doi:10.1051/0004-
+6361/202039657e (https://doi.org/10.1051%2F0004-6361%2F202039657e)). Gaia EDR3 record for this
+source (http://vizier.u-strasbg.fr/viz-bin/VizieR-S?Gaia%20EDR3%20704966762213039488) at VizieR.
+
+4. Zacharias, N.; Finch, C. T.; Girard, T. M.; Henden, A.; Bartlett, J. L.; Monet, D. G.; Zacharias, M. I.
+(2012). "VizieR Online Data Catalog: UCAC4 Catalogue (Zacharias+, 2012)". VizieR On-line Data
+Catalog. Bibcode:2012yCat.1322....0Z (https://ui.adsabs.harvard.edu/abs/2012yCat.1322....0Z).
+
+5. Gray, R. O.; Corbally, C. J.; Garrison, R. F.; McFadden, M. T.; Robinson, P. E. (2003). "Contributions to
+the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 Parsecs: The
+Northern Sample. I". The Astronomical Journal. 126 (4): 2048. arXiv:astro-ph/0308182 (https://arxiv.or
+g/abs/astro-ph/0308182). Bibcode:2003AJ....126.2048G (https://ui.adsabs.harvard.edu/abs/2003AJ....1
+26.2048G). doi:10.1086/378365 (https://doi.org/10.1086%2F378365). S2CID 119417105 (https://api.se
+manticscholar.org/CorpusID:119417105).
+
+6. Hoffleit, D.; Warren, W. H. (1995). "VizieR Online Data Catalog: Bright Star Catalogue, 5th Revised Ed.
+(Hoffleit+, 1991)". VizieR On-line Data Catalog: V/50. Originally Published in: 1964BS....C......0H. 5050.
+Bibcode:1995yCat.5050....0H (https://ui.adsabs.harvard.edu/abs/1995yCat.5050....0H).
+
+7. Alonso-Floriano, F. J.; Morales, J. C.; Caballero, J. A.; Montes, D.; Klutsch, A.; Mundt, R.; Cortés-
+Contreras, M.; Ribas, I.; Reiners, Ansgar; Amado, P. J.; Quirrenbach, A.; Jeffers, S. V. (2015).
+"CARMENES input catalogue of M dwarfs" (http://goedoc.uni-goettingen.de/goescholar/bitstream/handl
+e/1/12402/aa25803-15.pdf) (PDF). Astronomy & Astrophysics. 577: A128. arXiv:1502.07580 (https://ar
+xiv.org/abs/1502.07580). Bibcode:2015A&A...577A.128A (https://ui.adsabs.harvard.edu/abs/2015A&
+A...577A.128A). doi:10.1051/0004-6361/201525803 (https://doi.org/10.1051%2F0004-6361%2F20152
+5803). S2CID 53135130 (https://api.semanticscholar.org/CorpusID:53135130).
+
+8. Anderson, E.; Francis, Ch. (2012). "XHIP: An extended hipparcos compilation". Astronomy Letters. 38
+(5): 331. arXiv:1108.4971 (https://arxiv.org/abs/1108.4971). Bibcode:2012AstL...38..331A (https://ui.ad
+sabs.harvard.edu/abs/2012AstL...38..331A). doi:10.1134/S1063773712050015 (https://doi.org/10.113
+4%2FS1063773712050015). S2CID 119257644 (https://api.semanticscholar.org/CorpusID:11925764
+4).
+
+9. Houdebine, E. R.; Mullan, D. J.; Paletou, F.; Gebran, M. (2016). "Rotation-Activity Correlations in K and
+M Dwarfs. I. Stellar Parameters and Compilations of v sin I and P/Sin I for a Large Sample of Late-K
+and M Dwarfs" (https://doi.org/10.3847%2F0004-637X%2F822%2F2%2F97). The Astrophysical
+Journal. 822 (2): 97. arXiv:1604.07920 (https://arxiv.org/abs/1604.07920).
+Bibcode:2016ApJ...822...97H (https://ui.adsabs.harvard.edu/abs/2016ApJ...822...97H).
+doi:10.3847/0004-637X/822/2/97 (https://doi.org/10.3847%2F0004-637X%2F822%2F2%2F97).
+S2CID 119118088 (https://api.semanticscholar.org/CorpusID:119118088).
+
+10. von Braun, Kaspar; Tabetha, S. Boyajian; ten Brummelaar, Theo; Kane, Stephen R.; van Belle, Gerard
+T.; Ciardi, David R.; Raymond, Sean N.; López-Morales, Mercedes; McAlister, Harold A.; Schaefer, Gail
+(2011). "55 Cancri: Stellar Astrophysical Parameters, a Planet in the Habitable Zone, and Implications
+for the Radius of a Transiting Super-Earth". The Astrophysical Journal. 740 (1): 49–54.
+arXiv:1106.1152 (https://arxiv.org/abs/1106.1152). Bibcode:2011ApJ...740...49V (https://ui.adsabs.harv
+ard.edu/abs/2011ApJ...740...49V). doi:10.1088/0004-637X/740/1/49 (https://doi.org/10.1088%2F0004-
+637X%2F740%2F1%2F49). S2CID 2856228 (https://api.semanticscholar.org/CorpusID:2856228).
+
+
+
+11. Bourrier, V.; Dumusque, X.; Dorn, C.; Henry, G. W.; Astudillo-Defru, N.; Rey, J.; Benneke, B.; Hébrard,
+G.; Lovis, C.; Demory, B. O.; Moutou, C.; Ehrenreich, D. (2018). "The 55 Cancri system reassessed".
+Astronomy & Astrophysics. 619: A1. arXiv:1807.04301 (https://arxiv.org/abs/1807.04301).
+Bibcode:2018A&A...619A...1B (https://ui.adsabs.harvard.edu/abs/2018A&A...619A...1B).
+doi:10.1051/0004-6361/201833154 (https://doi.org/10.1051%2F0004-6361%2F201833154).
+S2CID 209888143 (https://api.semanticscholar.org/CorpusID:209888143).
+
+12. Schweitzer, A.; et al. (May 2019). "The CARMENES search for exoplanets around M dwarfs. Different
+roads to radii and masses of the target stars". Astronomy & Astrophysics. 625: 16. arXiv:1904.03231 (h
+ttps://arxiv.org/abs/1904.03231). Bibcode:2019A&A...625A..68S (https://ui.adsabs.harvard.edu/abs/201
+9A&A...625A..68S). doi:10.1051/0004-6361/201834965 (https://doi.org/10.1051%2F0004-6361%2F20
+1834965). S2CID 102351979 (https://api.semanticscholar.org/CorpusID:102351979). A68.
+
+13. "IAU Catalog of Star Names" (http://www.pas.rochester.edu/~emamajek/WGSN/IAU-CSN.txt).
+Retrieved 28 July 2016.
+
+14. Raghavan, Deepak; et al. (2006). "Two Suns in The Sky: Stellar Multiplicity in Exoplanet Systems". The
+Astrophysical Journal. 646 (1): 523–542. arXiv:astro-ph/0603836 (https://arxiv.org/abs/astro-ph/060383
+6). Bibcode:2006ApJ...646..523R (https://ui.adsabs.harvard.edu/abs/2006ApJ...646..523R).
+doi:10.1086/504823 (https://doi.org/10.1086%2F504823). S2CID 5669768 (https://api.semanticscholar.
+org/CorpusID:5669768).
+
+15. Marcy, Geoffrey W.; et al. (2002). "A planet at 5 AU Around 55 Cancri". The Astrophysical Journal. 581
+(2): 1375–1388. arXiv:astro-ph/0207294 (https://arxiv.org/abs/astro-ph/0207294).
+Bibcode:2002ApJ...581.1375M (https://ui.adsabs.harvard.edu/abs/2002ApJ...581.1375M).
+doi:10.1086/344298 (https://doi.org/10.1086%2F344298). S2CID 16170184 (https://api.semanticschola
+r.org/CorpusID:16170184).
+
+16. Butler, R. Paul; et al. (1997). "Three New 51 Pegasi Type Planets". The Astrophysical Journal Letters.
+474 (2): L115–L118. Bibcode:1997ApJ...474L.115B (https://ui.adsabs.harvard.edu/abs/1997ApJ...474
+L.115B). doi:10.1086/310444 (https://doi.org/10.1086%2F310444). S2CID 124194712 (https://api.sem
+anticscholar.org/CorpusID:124194712).
+
+17. Jean Schneider (2011). "Notes for Planet 55 Cnc b" (https://exoplanet.eu/catalog/55_cnc_b--25/).
+Extrasolar Planets Encyclopaedia. Retrieved 8 October 2011.
+
+18. William I. Hartkopf & Brian D. Mason. "Addressing confusion in double star nomenclature: The
+Washington Multiplicity Catalog" (https://web.archive.org/web/20110517130354/http://ad.usno.navy.mil/
+wds/wmc/wmc_post191.html). United States Naval Observatory. Archived from the original (http://ad.us
+no.navy.mil/wds/wmc/wmc_post191.html) on 2011-05-17. Retrieved 2011-10-08.
+
+19. NameExoWorlds: An IAU Worldwide Contest to Name Exoplanets and their Host Stars (http://www.iau.
+org/news/pressreleases/detail/iau1404/). IAU.org. 9 July 2014
+
+20. "NameExoWorlds The Process" (https://web.archive.org/web/20150815025117/http://www.nameexowo
+rlds.iau.org/process). Archived from the original (http://nameexoworlds.iau.org/process) on 2015-08-15.
+Retrieved 2015-09-05.
+
+21. Final Results of NameExoWorlds Public Vote Released (http://www.iau.org/news/pressreleases/detail/i
+au1514/), International Astronomical Union, 15 December 2015.
+
+22. "NameExoWorlds The Approved Names" (https://web.archive.org/web/20180201043609/http://nameex
+oworlds.iau.org/names). Archived from the original (http://nameexoworlds.iau.org/names) on 2018-02-
+01. Retrieved 2015-12-27.
+
+23. "IAU Working Group on Star Names (WGSN)" (https://www.iau.org/science/scientific_bodies/working_g
+roups/280/). Retrieved 22 May 2016.
+
+24. "Bulletin of the IAU Working Group on Star Names, No. 1" (http://www.pas.rochester.edu/~emamajek/
+WGSN/WGSN_bulletin1.pdf) (PDF). Retrieved 28 July 2016.
+
+25. Eggenberger, A.; et al. (2003). "Planets in Binaries". Scientific Frontiers in Research on Extrasolar
+Planets. 294: 43–46. Bibcode:2003ASPC..294...43E (https://ui.adsabs.harvard.edu/abs/2003ASPC..29
+4...43E).
+
+26. Ehrenreich, David; Bourrier, Vincent; Bonfils, Xavier; Lecavelier des Étangs, Alain; Hébrard, Guillaume;
+Sing, David K.; Wheatley, Peter J.; Vidal-Madjar, Alfred; Delfosse, Xavier; Udry, Stéphane; Forveille,
+Thierry (2012-11-01). "Hint of a transiting extended atmosphere on 55 Cancri b" (https://doi.org/10.105
+1%2F0004-6361%2F201219981). Astronomy & Astrophysics. 547: A18. arXiv:1210.0531 (https://arxiv.
+org/abs/1210.0531). Bibcode:2012A&A...547A..18E (https://ui.adsabs.harvard.edu/abs/2012A&A...547
+A..18E). doi:10.1051/0004-6361/201219981 (https://doi.org/10.1051%2F0004-6361%2F201219981).
+ISSN 0004-6361 (https://search.worldcat.org/issn/0004-6361).
+
+
+
+27. Teske, Johanna K.; Cunha, Katia; Schuler, Simon C.; Griffith, Caitlin A.; Smith, Verne V. (2013).
+"Carbon and Oxygen Abundances in Cool Metal-rich Exoplanet Hosts: A Case Study of the C/O Ratio
+of 55 Cancri". The Astrophysical Journal. 778 (2): 132. arXiv:1309.6032 (https://arxiv.org/abs/1309.603
+2). Bibcode:2013ApJ...778..132T (https://ui.adsabs.harvard.edu/abs/2013ApJ...778..132T).
+doi:10.1088/0004-637X/778/2/132 (https://doi.org/10.1088%2F0004-637X%2F778%2F2%2F132).
+S2CID 119291907 (https://api.semanticscholar.org/CorpusID:119291907).
+
+28. Mamajek, Eric E.; Hillenbrand, Lynne A. (November 2008). "Improved Age Estimation for Solar-Type
+Dwarfs Using Activity-Rotation Diagnostics". The Astrophysical Journal. 687 (2): 1264–1293.
+arXiv:0807.1686 (https://arxiv.org/abs/0807.1686). Bibcode:2008ApJ...687.1264M (https://ui.adsabs.ha
+rvard.edu/abs/2008ApJ...687.1264M). doi:10.1086/591785 (https://doi.org/10.1086%2F591785).
+S2CID 27151456 (https://api.semanticscholar.org/CorpusID:27151456).
+
+29. Pasquini, Luca; Hatzes, Artie (2007-07-06). "Star Surface Polluted by Planetary Debris" (https://web.ar
+chive.org/web/20070930231555/http://www.eso.org/public/outreach/press-rel/pr-2007/pr-29-07.html).
+ESO. Archived from the original (http://www.eso.org/public/outreach/press-rel/pr-2007/pr-29-07.html)
+on 30 September 2007. Retrieved 2007-11-08.
+
+30. Jayawardhana, Ray; et al. (2002). "New Submillimeter Limits on Dust in the 55 Cancri Planetary
+System". The Astrophysical Journal Letters. 570 (2): L93–L96. arXiv:astro-ph/0204140 (https://arxiv.or
+g/abs/astro-ph/0204140). Bibcode:2002ApJ...570L..93J (https://ui.adsabs.harvard.edu/abs/2002ApJ...5
+70L..93J). doi:10.1086/341101 (https://doi.org/10.1086%2F341101). S2CID 15516278 (https://api.sem
+anticscholar.org/CorpusID:15516278).
+
+31. Winn, Joshua N.; et al. (2011). "A Super-Earth Transiting a Naked-Eye Star". The Astrophysical Journal
+Letters. 737 (1). article number L18. arXiv:1104.5230 (https://arxiv.org/abs/1104.5230).
+Bibcode:2011ApJ...737L..18W (https://ui.adsabs.harvard.edu/abs/2011ApJ...737L..18W).
+doi:10.1088/2041-8205/737/1/L18 (https://doi.org/10.1088%2F2041-8205%2F737%2F1%2FL18).
+S2CID 16768578 (https://api.semanticscholar.org/CorpusID:16768578).
+
+32. Dawson, Rebekah I.; Fabrycky, Daniel C. (2010). "Radial Velocity Planets De-aliased: A New, Short
+Period for Super-Earth 55 CNC E". The Astrophysical Journal. 722 (1): 937–953. arXiv:1005.4050 (http
+s://arxiv.org/abs/1005.4050). Bibcode:2010ApJ...722..937D (https://ui.adsabs.harvard.edu/abs/2010Ap
+J...722..937D). doi:10.1088/0004-637X/722/1/937 (https://doi.org/10.1088%2F0004-637X%2F722%2F
+1%2F937). S2CID 118592734 (https://api.semanticscholar.org/CorpusID:118592734).
+
+33. Kokori, A.; et al. (14 February 2023). "ExoClock Project. III. 450 New Exoplanet Ephemerides from
+Ground and Space Observations" (https://doi.org/10.3847%2F1538-4365%2Fac9da4). The
+Astrophysical Journal Supplement Series. 265 (1) 4. arXiv:2209.09673 (https://arxiv.org/abs/2209.0967
+3). Bibcode:2023ApJS..265....4K (https://ui.adsabs.harvard.edu/abs/2023ApJS..265....4K).
+doi:10.3847/1538-4365/ac9da4 (https://doi.org/10.3847%2F1538-4365%2Fac9da4). Vizier catalog
+entry (https://vizier.cds.unistra.fr/viz-bin/VizieR-5?-out.add=.&-source=J/ApJS/265/4/table7&recno=1)
+
+34. Trilling, David E.; Brown, Robert H. (1998). "A circumstellar dust disk around a star with a known
+planetary companion" (http://astro.berkeley.edu/~kalas/disksite/library/trilling98a.pdf) (PDF). Nature.
+395 (6704): 775–777. Bibcode:1998Natur.395..775T (https://ui.adsabs.harvard.edu/abs/1998Natur.39
+5..775T). doi:10.1038/27389 (https://doi.org/10.1038%2F27389). S2CID 4397631 (https://api.semantic
+scholar.org/CorpusID:4397631).
+
+35. Schneider, G.; et al. (2001). "NICMOS Coronagraphic Observations of 55 Cancri". The Astronomical
+Journal. 121 (1): 525–537. arXiv:astro-ph/0010175 (https://arxiv.org/abs/astro-ph/0010175).
+Bibcode:2001AJ....121..525S (https://ui.adsabs.harvard.edu/abs/2001AJ....121..525S).
+doi:10.1086/318050 (https://doi.org/10.1086%2F318050). S2CID 14503540 (https://api.semanticschola
+r.org/CorpusID:14503540).
+
+36. McArthur, Barbara E.; et al. (10 October 2004). "Detection of a NEPTUNE-mass planet in the ρ1 Cancri
+system using the Hobby-Eberly Telescope" (https://doi.org/10.1086%2F425561). The Astrophysical
+Journal Letters. 614 (1): L81. arXiv:astro-ph/0408585 (https://arxiv.org/abs/astro-ph/0408585).
+Bibcode:2004ApJ...614L..81M (https://ui.adsabs.harvard.edu/abs/2004ApJ...614L..81M).
+doi:10.1086/425561 (https://doi.org/10.1086%2F425561). S2CID 119085463 (https://api.semanticschol
+ar.org/CorpusID:119085463).
+
+37. Fischer, Debra A.; Marcy, Geoffrey W.; Butler, R. Paul; Vogt, Steven S.; Laughlin, Greg; Henry, Gregory
+W.; Abouav, David; Peek, Kathryn M. G.; Wright, Jason T.; Johnson, John A.; McCarthy, Chris;
+Isaacson, Howard (2008). "Five Planets Orbiting 55 Cancri". The Astrophysical Journal. 675 (1): 790–
+801. arXiv:0712.3917 (https://arxiv.org/abs/0712.3917). Bibcode:2008ApJ...675..790F (https://ui.adsab
+s.harvard.edu/abs/2008ApJ...675..790F). doi:10.1086/525512 (https://doi.org/10.1086%2F525512).
+S2CID 55779685 (https://api.semanticscholar.org/CorpusID:55779685).
+
+
+
+38. Wisdom, J. (2005). "A Neptune-sized Planet in the ρ 1 Cancri System". AAS/Division of Dynamical
+Astronomy Meeting #36. 36: 05.08. Bibcode:2005DDA....36.0508W (https://ui.adsabs.harvard.edu/abs/
+2005DDA....36.0508W).
+
+39. "Astronomers Discover Record Fifth Planet Around Nearby Star 55 Cancri" (https://www.sciencedaily.c
+om/releases/2007/11/071106133058.htm). Sciencedaily.com. November 6, 2007. Archived (https://we
+b.archive.org/web/20080926142319/https://www.sciencedaily.com/releases/2007/11/071106133058.ht
+m) from the original on 26 September 2008. Retrieved 2008-09-14.
+
+40. Fischer, Debra A.; et al. (2008). "Five Planets Orbiting 55 Cancri". The Astrophysical Journal. 675 (1):
+790–801. arXiv:0712.3917 (https://arxiv.org/abs/0712.3917). Bibcode:2008ApJ...675..790F (https://ui.a
+dsabs.harvard.edu/abs/2008ApJ...675..790F). doi:10.1086/525512 (https://doi.org/10.1086%2F52551
+2). S2CID 55779685 (https://api.semanticscholar.org/CorpusID:55779685).
+
+41. Nelson, Benjamin E.; et al. (2014). "The 55 Cancri planetary system: fully self-consistent N-body
+constraints and a dynamical analysis" (https://doi.org/10.1093%2Fmnras%2Fstu450). Monthly Notices
+of the Royal Astronomical Society. 441 (1): 442–451. arXiv:1402.6343 (https://arxiv.org/abs/1402.634
+3). Bibcode:2014MNRAS.441..442N (https://ui.adsabs.harvard.edu/abs/2014MNRAS.441..442N).
+doi:10.1093/mnras/stu450 (https://doi.org/10.1093%2Fmnras%2Fstu450). S2CID 55818781 (https://ap
+i.semanticscholar.org/CorpusID:55818781).
+
+42. Vincent Bourrier; Guillaume Hébrard (2014). "Detecting the spin-orbit misalignment of the super-Earth
+55 Cnc e". Astronomy & Astrophysics. 569: A65. arXiv:1406.6813 (https://arxiv.org/abs/1406.6813).
+Bibcode:2014A&A...569A..65B (https://ui.adsabs.harvard.edu/abs/2014A&A...569A..65B).
+doi:10.1051/0004-6361/201424266 (https://doi.org/10.1051%2F0004-6361%2F201424266).
+S2CID 118387445 (https://api.semanticscholar.org/CorpusID:118387445).
+
+43. Mercedes Lopez-Morales; Amaury H. M. J. Triaud; Florian Rodler; Xavier Dumusque; Lars A.
+Buchhave; A. Harutyunyan; Sergio Hoyer; Roi Alonso; Michael Gillon; Nathan A. Kaib; David W.
+Latham; Christophe Lovis; Francesco Pepe; Didier Queloz; Sean N.Raymond; Damien Segransan;
+Ingo P. Waldmann; Stephane Udry (2014). "Rossiter-McLaughlin Observations of 55 Cnc e". The
+Astrophysical Journal. 792 (2): L31. arXiv:1408.2007 (https://arxiv.org/abs/1408.2007).
+Bibcode:2014ApJ...792L..31L (https://ui.adsabs.harvard.edu/abs/2014ApJ...792L..31L).
+doi:10.1088/2041-8205/792/2/L31 (https://doi.org/10.1088%2F2041-8205%2F792%2F2%2FL31).
+S2CID 14634162 (https://api.semanticscholar.org/CorpusID:14634162).
+
+44. Raymond, Sean N.; et al. (2008). "A dynamical perspective on additional planets in 55 Cancri". The
+Astrophysical Journal. 689 (1): 478–491. arXiv:0808.3295 (https://arxiv.org/abs/0808.3295).
+Bibcode:2008ApJ...689..478R (https://ui.adsabs.harvard.edu/abs/2008ApJ...689..478R).
+doi:10.1086/592772 (https://doi.org/10.1086%2F592772). S2CID 941288 (https://api.semanticscholar.o
+rg/CorpusID:941288).
+
+45. Satyal, Suman; Cuntz, Manfred (9 April 2019). "Can Planets Exist in the Habitable Zone of 55 Cancri?".
+Publications of the Astronomical Society of Japan. 71 (3): 53. arXiv:1902.09613 (https://arxiv.org/abs/1
+902.09613). Bibcode:2019PASJ...71...53S (https://ui.adsabs.harvard.edu/abs/2019PASJ...71...53S).
+doi:10.1093/pasj/psz026 (https://doi.org/10.1093%2Fpasj%2Fpsz026). S2CID 119309887 (https://api.s
+emanticscholar.org/CorpusID:119309887).
+
+46. Zhou, Lei; Dvorak, Rudolf; Zhou, Li-Yong (27 May 2021). "On the formation of terrestrial planets
+between two massive planets: The case of 55 Cancri" (https://doi.org/10.1093%2Fmnras%2Fstab153
+4). Monthly Notices of the Royal Astronomical Society. 505 (3): 4571–4585. arXiv:2105.10105 (https://
+arxiv.org/abs/2105.10105). Bibcode:2021MNRAS.505.4571Z (https://ui.adsabs.harvard.edu/abs/2021
+MNRAS.505.4571Z). doi:10.1093/mnras/stab1534 (https://doi.org/10.1093%2Fmnras%2Fstab1534).
+S2CID 235125917 (https://api.semanticscholar.org/CorpusID:235125917).
+
+47. Route, Matthew; Wolszczan, Alex (1 August 2023). "ROME. III. The Arecibo Search for Star–Planet
+Interactions at 5 GHz" (https://doi.org/10.3847%2F1538-4357%2Facd9ad). The Astrophysical Journal.
+952 (2): 118. arXiv:2202.08899 (https://arxiv.org/abs/2202.08899). Bibcode:2023ApJ...952..118R (http
+s://ui.adsabs.harvard.edu/abs/2023ApJ...952..118R). doi:10.3847/1538-4357/acd9ad (https://doi.org/1
+0.3847%2F1538-4357%2Facd9ad).
+
+48. "Передача и поиски разумных сигналов во Вселенной" (https://web.archive.org/web/201905301452
+09/https://www.plover.com/misc/Dumas-Dutil/messages.pdf) (PDF). Cplire.ru. Archived from the
+original (http://www.cplire.ru/rus/ra%26sr/VAK-2004.html) on 2019-05-30. Retrieved 2008-09-14.
+
+Further reading
+
+
+
+Ji, Jianghui; Kinoshita, Hiroshi; Liu, Lin; Li, Guangyu (2003). "Could the 55 Cancri Planetary System
+Really Be in the 3[rcolon]1 Mean Motion Resonance?". The Astrophysical Journal. 585 (2): L139–L142.
+arXiv:astro-ph/0301636 (https://arxiv.org/abs/astro-ph/0301636). Bibcode:2003ApJ...585L.139J (http
+s://ui.adsabs.harvard.edu/abs/2003ApJ...585L.139J). doi:10.1086/374391 (https://doi.org/10.1086%2F
+374391). ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X). S2CID 15993774 (https://api.s
+emanticscholar.org/CorpusID:15993774).
+Schneider, G.; Becklin, E. E.; Smith, B. A.; Weinberger, A. J.; Silverstone, M.; Hines, D. C. (2001).
+"NICMOS Coronagraphic Observations of 55 Cancri". The Astronomical Journal. 121 (1): 525–537.
+arXiv:astro-ph/0010175 (https://arxiv.org/abs/astro-ph/0010175). Bibcode:2001AJ....121..525S (https://
+ui.adsabs.harvard.edu/abs/2001AJ....121..525S). doi:10.1086/318050 (https://doi.org/10.1086%2F318
+050). ISSN 0004-6256 (https://search.worldcat.org/issn/0004-6256). S2CID 14503540 (https://api.sem
+anticscholar.org/CorpusID:14503540).
+Jayawardhana, Ray; Holland, Wayne S.; Kalas, Paul; Greaves, Jane S.; Dent, William R. F.; Wyatt,
+Mark C.; Marcy, Geoffrey W. (2002). "New Submillimeter Limits on Dust in the 55 Cancri Planetary
+System". The Astrophysical Journal. 570 (2): L93–L96. arXiv:astro-ph/0204140 (https://arxiv.org/abs/as
+tro-ph/0204140). Bibcode:2002ApJ...570L..93J (https://ui.adsabs.harvard.edu/abs/2002ApJ...570L..93
+J). doi:10.1086/341101 (https://doi.org/10.1086%2F341101). ISSN 0004-637X (https://search.worldcat.
+org/issn/0004-637X). S2CID 15516278 (https://api.semanticscholar.org/CorpusID:15516278).
+Zhou, Li-Yong; J. Lehto, Harry; Sun, Yi-Sui; Zheng, Jia-Qing (2004). "Apsidal corotation in mean
+motion resonance: the 55 Cancri system as an example" (https://doi.org/10.1111%2Fj.1365-2966.200
+4.07755.x). Monthly Notices of the Royal Astronomical Society. 350 (4): 1495–1502. arXiv:astro-
+ph/0310121 (https://arxiv.org/abs/astro-ph/0310121). Bibcode:2004MNRAS.350.1495Z (https://ui.adsa
+bs.harvard.edu/abs/2004MNRAS.350.1495Z). doi:10.1111/j.1365-2966.2004.07755.x (https://doi.org/1
+0.1111%2Fj.1365-2966.2004.07755.x). ISSN 0035-8711 (https://search.worldcat.org/issn/0035-8711).
+S2CID 16821093 (https://api.semanticscholar.org/CorpusID:16821093).
+Jayawardhana, Ray; Holland, Wayne S.; Greaves, Jane S.; Dent, William R. F.; Marcy, Geoffrey W.;
+Hartmann, Lee W.; Fazio, Giovanni G. (2000). "Dust in the 55 Cancri Planetary System". The
+Astrophysical Journal. 536 (1): 425–428. arXiv:astro-ph/0001275 (https://arxiv.org/abs/astro-ph/000127
+5). Bibcode:2000ApJ...536..425J (https://ui.adsabs.harvard.edu/abs/2000ApJ...536..425J).
+doi:10.1086/308942 (https://doi.org/10.1086%2F308942). ISSN 0004-637X (https://search.worldcat.or
+g/issn/0004-637X). S2CID 44777812 (https://api.semanticscholar.org/CorpusID:44777812).
+Rasio, F. A.; Ford, E. B. (1996). "Dynamical Instabilities and the Formation of Extrasolar Planetary
+Systems". Science. 274 (5289): 954–956. Bibcode:1996Sci...274..954R (https://ui.adsabs.harvard.edu/
+abs/1996Sci...274..954R). doi:10.1126/science.274.5289.954 (https://doi.org/10.1126%2Fscience.274.
+5289.954). ISSN 0036-8075 (https://search.worldcat.org/issn/0036-8075). PMID 8875930 (https://pubm
+ed.ncbi.nlm.nih.gov/8875930). S2CID 2940958 (https://api.semanticscholar.org/CorpusID:2940958).
+von Bloh, W.; Cuntz, M.; Franck, S.; Bounama, C. (2003). "On the Possibility of Earth-Type Habitable
+Planets in the 55 Cancri System". Astrobiology. 3 (4): 681–688. Bibcode:2003AsBio...3..681V (https://u
+i.adsabs.harvard.edu/abs/2003AsBio...3..681V). doi:10.1089/153110703322736015 (https://doi.org/10.
+1089%2F153110703322736015). ISSN 1531-1074 (https://search.worldcat.org/issn/1531-1074).
+PMID 14987474 (https://pubmed.ncbi.nlm.nih.gov/14987474).
+Ji, Jiang-Hui; Kinoshita, Hiroshi; Liu, Lin; Li, Guang-Yu (2009). "The dynamical architecture and
+habitable zones of the quintuplet planetary system 55 Cancri". Research in Astronomy and
+Astrophysics. 9 (6): 703–711. arXiv:0902.4328 (https://arxiv.org/abs/0902.4328).
+Bibcode:2009RAA.....9..703J (https://ui.adsabs.harvard.edu/abs/2009RAA.....9..703J).
+doi:10.1088/1674-4527/9/6/009 (https://doi.org/10.1088%2F1674-4527%2F9%2F6%2F009).
+ISSN 1674-4527 (https://search.worldcat.org/issn/1674-4527). S2CID 15304622 (https://api.semantics
+cholar.org/CorpusID:15304622).
+Raymond, Sean N.; Barnes, Rory; Gorelick, Noel (2008). "A Dynamical Perspective on Additional
+Planets in 55 Cancri". The Astrophysical Journal. 689 (1): 478–491. arXiv:0808.3295 (https://arxiv.org/a
+bs/0808.3295). Bibcode:2008ApJ...689..478R (https://ui.adsabs.harvard.edu/abs/2008ApJ...689..478
+R). doi:10.1086/592772 (https://doi.org/10.1086%2F592772). ISSN 0004-637X (https://search.worldca
+t.org/issn/0004-637X). S2CID 941288 (https://api.semanticscholar.org/CorpusID:941288).
+Marzari, F.; Scholl, H.; Tricarico, P. (2005). "Frequency map analysis of the 3/1 resonance between
+planets b and c in the 55 Cancri system" (https://hal.archives-ouvertes.fr/hal-00388290/file/aa3164-05.
+pdf) (PDF). Astronomy and Astrophysics. 442 (1): 359–364. Bibcode:2005A&A...442..359M (https://ui.a
+
+
+
+dsabs.harvard.edu/abs/2005A&A...442..359M). doi:10.1051/0004-6361:20053164 (https://doi.org/10.1
+051%2F0004-6361%3A20053164). ISSN 0004-6361 (https://search.worldcat.org/issn/0004-6361).
+
+External links
+"55 (Rho1) Cancri 2" (http://www.solstation.com/stars2/55cnc2.htm). SolStation. Archived (https://web.
+archive.org/web/20080625041651/http://www.solstation.com/stars2/55cnc2.htm) from the original on
+25 June 2008. Retrieved 2008-06-12.
+Jean Schneider (2011). "Notes for star 55 Cnc" (https://web.archive.org/web/20070929083145/http://ex
+oplanet.eu/star.php?st=55+Cnc). Extrasolar Planets Encyclopaedia. Archived from the original (http://e
+xoplanet.eu/star.php?st=55+Cnc) on September 29, 2007. Retrieved 8 October 2011.
+"55 Cancri" (https://web.archive.org/web/20080517225606/http://www.astro.uiuc.edu/~kaler/sow/55cn
+c.html). University of Illinois. The Planet Project. Archived from the original (http://www.astro.uiuc.edu/~
+kaler/sow/55cnc.html) on 17 May 2008. Retrieved 2008-06-12.
+Sanders, Robert (2004-08-31). "Astronomers searching for distant Earths find two Neptunes" (http://ww
+w.berkeley.edu/news/media/releases/2004/08/31_neptune.shtml). UC Berkeley News. Archived (http
+s://web.archive.org/web/20080516172736/http://www.berkeley.edu/news/media/releases/2004/08/31_n
+eptune.shtml) from the original on 16 May 2008. Retrieved 2008-06-12.
+Ward Glen (2007-11-08). "Astronomers Find Fifth Planet Around 55 Cancri" (https://web.archive.org/we
+b/20071110000646/http://starrymirror.com/5thplanetorbitingstar.htm). The Starry Mirror. Archived from
+the original (http://starrymirror.com/5thplanetorbitingstar.htm) on 2007-11-10. Retrieved 2008-06-12.
+When the Gods Fall (http://www.aphelion-webzine.com/shorts/2008/08/WhentheGodsFall.html) 55
+Cancri in fiction.
+Extrasolar Planet Interactions (http://www.lpl.arizona.edu/~rory/research/xsp/dynamics/) Archived (http
+s://web.archive.org/web/20160505160348/http://www.lpl.arizona.edu/~rory/research/xsp/dynamics/)
+2016-05-05 at the Wayback Machine by Rory Barnes & Richard Greenberg, Lunar and Planetary Lab,
+University of Arizona
+The First (https://www.youtube.com/watch?v=ymkxJLg5GGg) and the second part (https://www.youtub
+e.com/watch?v=gk6TY2uoASY) of a computer animation of the 55 Cancri planetary system.
+Interactive visualisation of the 55 Cancri system (https://thehappykoala.github.io/Harmony-of-the-Spher
+es/#/category/McDonald/scenario/55%20Cnc)
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=55_Cancri&oldid=1243149313"

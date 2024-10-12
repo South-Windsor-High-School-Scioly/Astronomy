@@ -1,0 +1,812 @@
+﻿School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+
+The Hertzsprung-Russell Diagram 
+ Introduction + Aims 
+ Installing the Software 
+ Theory of Hertzsprung-Russell Diagrams 
+ Method: 
+
+    Part 1 - Distance to the Star Cluster 
+    Part 2 - Age of the Star Cluster 
+    Part 3 - Comparison of Star Clusters 
+
+ Extension + Conclusion 
+ Glossary of Key Terms 
+
+ 
+
+INTRODUCTION + AIMS 
+
+You will use the observational and analysis tools of modern astronomy, mimicking the setup that 
+professional astronomers see when they use a large telescope, via VIREO - the Virtual Educational 
+Observatory. 
+
+You will produce and compare Hertzsprung-Russell diagrams of star clusters. You will use the 
+telescope to calculate the magnitudes and colours of individual stars in the clusters. You will fit a 
+zero-age main sequence to estimate the distance to the cluster, and an isochrone to estimate the 
+age of the cluster. You will compare your estimations to other clusters and to the literature values. 
+
+If you come across a word or phrase that you do not understand, consult the glossary at the end of 
+this manual. Throughout the manual, the words and phrases included in the glossary are in bold. 
+
+You will find questions throughout the workshop. To answer the questions, use your own knowledge, 
+the glossary, or conduct independent research in the scientific literature (online or in a textbook). 
+
+ 
+
+Installing the Software 
+
+IMPORTANT - the VIREO software is only available on Windows operating systems. 
+ 
+Go to: http://www3.gettysburg.edu/~marschal/clea/CLEAhome.html  
+On the left-hand menu, select Software, then scroll down and select HR Diagrams of 
+Clusters. On the right-hand side, click VIREO.zip, and save it in the desired location. 
+Warning: the program may take up to an hour to download, depending on the speed of the 
+connection. The software should be installed on each computer to be used for the workshop, prior 
+to the workshop. Alternatively, it is possible to install the software onto a server/network for access 
+by individual workstations. For more information, visit the CLEA webpage above. 
+
+Students will also require access to the internet to research the star clusters, however the necessary 
+information could be alternatively provided. See the Help Sheet for more details.  
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+
+THEORY 
+
+The Hertzsprung-Russell Diagram 
+
+A Hertzsprung-Russell diagram (HRD) is one of the most useful tools that astronomers use to study 
+the evolution of stars. Typically, HRDs are plotted as the temperature of the star against its 
+luminosity.  
+
+ 
+
+  
+  
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+The Hertzsprung-Russell diagram. 
+Source: https://lco.global/files/jbarton/HR%20Diagram(units).jpg 
+
+An alternative way to present the same information is via a colour-magnitude diagram (CMD). Here, 
+the colour index of a star (typically B-V) is plotted against its absolute magnitude (typically in the V 
+filter). The brighter a star is, the more negative its magnitude. For example, a star with M=-2.5 is 
+brighter than a star with M=+2.5. 
+
+In the diagram, the hottest, brightest stars lie in the upper left, and the coolest, dimmest stars lie in 
+the lower right. Stars in the upper right of the diagram are extremely bright despite having low 
+surface temperatures. This requires the stars to have large surface areas; these are the red giants 
+and supergiants, with radii many times that of the Sun. Stars in the lower left of the diagram are 
+extremely faint despite their high temperatures; these stars are small, with radii much smaller than 
+that of the Sun, and are known as white dwarfs. 
+
+The most common stars are those on the main sequence, the region where stars spend the majority 
+of their lives. Main sequence stars burn hydrogen into helium, via nuclear fusion, in their cores. The 
+position of a star on the main sequence depends on its mass. The lower mass stars (from the mass of 
+the Sun down to about 0.08 solar masses) are cooler and dimmer, and occupy the lower right of the 
+main sequence. The higher mass stars (from about 2 to 50 solar masses) are hotter and brighter, and 
+occupy the upper left of the main sequence. 
+
+  
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+Star Clusters 
+
+Star clusters are simply groups of stars. There are 2 types of star clusters: open clusters and globular 
+clusters. Globular clusters are tight groups of ancient stars, and are poorly understood. Open 
+clusters, however, are an incredibly useful tool for astronomers. It is believed that all of the stars in 
+an open cluster formed from the same collapsing cloud of interstellar gas, and are roughly the same 
+age. Open clusters tend to be much smaller and younger than globular clusters. The stars within a 
+cluster have a range of stellar masses, and so when the cluster is young (and its stars have just begun 
+to fuse hydrogen into helium in their cores), the stars will all lie along the main sequence. This forms 
+the zero-age main sequence (ZAMS). 
+
+ 
+
+Distance to Star Clusters 
+
+It is possible to use HRDs (or CMDs) to determine the distance to a star cluster. All of the stars in a 
+cluster are roughly the same distance from us, and their light is dimmed according to that distance. 
+A diagram of the apparent magnitudes of the stars against their colour indices is plotted for the star 
+cluster, forming an observational CMD. Typically, the apparent magnitude used is that through the 
+yellow filter, which is written as V. The colour index used is then B-V.  
+
+The resulting main sequence is compared to the ZAMS (which is plotted using absolute magnitudes 
+M, instead of apparent magnitudes m), and the difference between the apparent and absolute 
+magnitudes can be calculated: this is the distance modulus, m-M. In the V filter, the distance 
+modulus is written as V-Mv. The distance D to a cluster (in parsecs) can be calculated using the 
+formula: 
+
+௠ିெ
+logଵ଴𝐷 = + 1. 
+
+ହ
+
+ 
+The Hertzsprung-Russell (or colour-magnitude) diagram showing the observational data from a star 
+cluster (red points), and the zero-age main sequence (ZAMS). The distance modulus m-M is indicated. 
+Source: CLEA manual HRdiag_sm.doc 
+
+  
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+Aging of Star Clusters 
+
+As a star ages, it begins to run out of hydrogen fuel in its core. Hydrogen then begins to burn in a 
+shell around the core, and the star expands and cools, becoming a red giant. The first stars to 
+become red giants are the most massive stars in the cluster, followed by the less massive stars. 
+Therefore, as a cluster ages, the main sequence gets shorter and the red giant region becomes 
+increasingly populated (as shown in the diagrams below). The main sequence turnoff point is 
+indicated in the diagrams by a grey circle. 
+
+Astronomers use the length of the main sequence to estimate the age of a cluster. By comparing the 
+HRD observed to a computer model called an isochrone, it is possible to precisely determine the age 
+of a star cluster. 
+
+  
+
+100 million years (0.1 GYr) 800 million years (0.8 GYr) 
+
+  
+
+5 billion years (5 GYr) 10 billion years (10 GYr) 
+
+ 
+
+The changing shape of a Hertzsprung-Russell (or colour-magnitude) diagram as a star cluster ages. 
+The grey circles indicate the main sequence turnoff point. 
+Source: CLEA manual HRdiag_sm.doc 
+
+  
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+ 
+
+METHOD 
+
+Setting up the Telescope 
+
+ Double click VIREO to open the program. 
+ Click File  login, and type your name as Student #1, then ok and yes. 
+ Click File  Run exercise  HR Diagrams of Star Clusters. 
+ Now, you need to access a telescope to observe the star clusters. 
+
+Click Telescopes  Optical  Access 0.4 Meter. 
+ You should see the inside of the telescope dome. Click the switch to open the dome. 
+
+What is the wavelength range of an optical telescope? 
+
+____________________________________ 
+
+ 
+
+Locating the Star Cluster 
+
+ Select the first star cluster to observe, The Pleiades: 
+Click File  Cluster Data  File  View/Select Cluster from List. 
+Double click on M45 (Pleiades), then click ok. 
+A list of 297 stars in the star cluster should appear, alongside their positions in the sky. 
+
+ Click Selection  Create New Hot List of Entire List  ok. 
+Now, close this list of stars. 
+
+ Turn the Telescope Control Panel on. 
+ The field-of-view of the telescope changes with the rotation of the Earth. This will make 
+
+observing the star clusters very difficult, and so the telescope needs to account for the Earth’s 
+rotation to track the stars in the sky. Turn on tracking, so that the light turns green. You 
+should notice that the field-of-view of the telescope now stays fixed. 
+
+Observing the sky from the Northern hemisphere, which star remains fixed in the sky whilst the 
+other stars rotate around it? In which direction do they rotate? 
+
+_________________________________________________________________________ 
+
+ Now we need to slew (move) the telescope to the target location in the sky. 
+Click Slew  Observation Hot List  View/Select from List. 
+This will open a list of the stars in the Pleiades cluster. Double click on the first star in the list 
+(named N2230-00614). Click ok then yes. 
+
+ The telescope has now located that particular star in the cluster. Switch the view from Finder 
+to Telescope. You should now see a bright star in the centre of the field-of-view, inside a red 
+circle. This red circle indicates the region inside which the photometer collects light. 
+
+  
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+Observing the Star Cluster - Sky Background Observation 
+
+ Access the photometer. The Photometer Control window will open; you will use this to make 
+observations of the individual stars in the cluster. 
+
+ Before making an observation of an astronomical object, a ‘sky background’ observation must 
+be made. This is because the photometer measures all of the light it can see, which includes 
+light from the star and light from the sky background. The program subtracts the light from the 
+background, leaving only the light from the star - which is important for the analysis. 
+Switch the reading to sky. 
+
+ Using the Telescope Control Panel, slew the field-of-view away from the central star. Move the 
+telescope slightly N, E, S or W, so that the red circle contains a dark patch of sky. This should be 
+roughly 2 red circle-diameters away from the central star, in any direction. 
+
+ In this observing session, we will use the B and the V filters. Switch to the Photometer Control 
+window. Firstly, make a ‘sky background’ observation using the V filter: ensure that Filter is 
+set to V. As a standard, we set the integration time to be 10.0 seconds, and we complete 3 
+integrations. You may need to adjust the sliders to these values. 
+
+ Click Start the integration. You must not move the telescope during the integration, and the 
+integration must be complete before starting the next observation. 
+
+ There is a timer to display the duration of the observation, and a counter of the completed 
+integrations. The red counter at the bottom is a running total of the number of photon counts. 
+The number of photon counts in each integration is displayed as Raw Counts. The program 
+also calculates the mean number of counts per second in each integration. 
+
+ Keeping the Reading set to Sky, repeat the process for the same dark patch, this time using 
+the B filter. Again, the observation should be 3 integrations each of 10.0s duration. 
+ 
+
+Observing the Star Cluster - Stellar Observation 
+
+ Using the telescope Control Panel, slew the telescope back onto the star, so that it lies in the 
+centre of the red circle. 
+
+ Switch Filter to V, and Reading to Object. 
+ Now, we need to set the duration of the observation. Try 4 integrations, each 1.0s long. The aim 
+
+is to achieve a signal-to-noise ratio (S/N Ratio) in the range 100 - 200 for the observation to 
+be successful. In this case, the S/N Ratio is approximately 105, which indicates a successful 
+observation of the star. 
+
+ If the S/N ratio is too low, the noise in the observation is too high compared to the signal from 
+the star; this will make the analysis inaccurate. For particularly dim stars, a S/N ratio of 70 or 
+above is acceptable. 
+
+ You may need to adjust the integration parameters (Integration Seconds and # of 
+Integrations) until a successful observation has been made. A longer integration allows 
+more light into the telescope, and increases the number of photon counts. If you need to retake 
+an observation, simply change the integration parameters, Start the integration, click no 
+when asked to save/record the data, and then ok. 
+
+ Once a successful observation has been made, click File  Data  Record/Review, 
+then ok and ok. The program has calculated the apparent magnitude of the star in the V filter 
+from your observations. 
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+
+Think: what is the difference between the apparent magnitude 
+and the absolute magnitude of a star? 
+
+ The observation of the star needs repeating in the B filter. Switch Filter to B. Try an 
+observation with the same integration parameters as your successful V filter observation. Look 
+at the S/N ratio to see if the integration needs adjusting. Once a successful B filter observation 
+has been completed, click File  Data  Record/Review, then ok and ok. The 
+program has now calculated the apparent magnitude of the star in the B filter from your 
+observations. 
+
+ 
+
+Plotting the Hertzsprung-Russell Diagram 
+
+ In the main VIREO window, click Tools  Results Editors  Observational 
+Results  Display/Print/Save Text. The results from your observation will be 
+shown. There are columns displaying the V filter and B filter magnitudes, alongside other 
+information about the star. 
+
+ The program uses the observational data to plot a HRD, or in this case a colour-magnitude 
+diagram (CMD). The colour index B-V is plotted on the x-axis, and the apparent magnitude in 
+the V filter is plotted on the y-axis. Look at the observational data you have taken, and predict 
+the (B-V, V) coordinate of the star on the CMD: 
+
+Star N2230-00614 
+V  
+B  
+
+B-V  
+(B-V, V)  
+
+ 
+
+ Close the Recorded Results window, and click Tools  HR Diagram Analysis. 
+ A CMD will appear on the screen. A single star will be plotted - this is the star from your 
+
+observations! Confirm that it appears in the location that you predicted, by looking at the B-V 
+and V values. 
+
+ Now, it is time to populate your CMD with observations of more stars in the cluster. Return to 
+the Telescope Control Panel. Click Slew  Observation Hot List  View/Select 
+from List to open the list of cluster stars. 
+
+ Double click on another star in the list - choose any star. Click ok then yes. 
+ Repeat the steps outlined in Observing the Star Cluster - Stellar Observation. There is no need to 
+
+repeat the sky background observations, since the stars in the cluster are relatively close 
+together in the sky. You should obtain values of the apparent magnitude in the V and B filter for 
+your chosen star. 
+
+ To access these values, click Tools  Results Editors  Observational 
+Results  Display/Print/Save Text. Record your results in the table below: 
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+
+Star N2230-______________ 
+
+V  
+B  
+
+B-V  
+(B-V, V)  
+
+ 
+
+ In the CMD window, click File  Load/Plot  Data from Observations. A 
+second point should appear on the CMD, at the (B-V, V) coordinate of the second star observed 
+in the cluster. 
+
+ Repeat the process for 3 more stars in the cluster (or until further instructions from your 
+teacher/supervisor). Each time, add them to the CMD as above. You should see the main 
+sequence beginning to emerge in the diagram. 
+
+ It would take many hours to manually observe and plot each star in the cluster. In the CMD 
+window, click File  Load/Plot  Select Cluster Data, and double click on 
+M45 (Pleiades). The completed CMD should appear, containing 297 stars. 
+
+ 
+
+Part 1 - Distance to the Star Cluster 
+
+ Click Tools  Zero-Age Main Sequence to plot the ZAMS on the cluster CMD. 
+ On the right of the CMD window, there is a slide-bar to control the distance modulus, V-Mv. 
+
+Increase the distance modulus until the ZAMS matches well to the middle of the main sequence 
+on the CMD. For the Pleiades, the distance modulus is between +5.00 and +6.00 - see if you can 
+get a better fit to the data with a more accurate value. 
+
+Distance modulus:    ____________ 
+
+ Using the distance modulus equation given before, calculate the distance to the star cluster, in 
+parsecs. Record your answer below, and in the table over the page. 
+
+What is the distance to the Pleiades cluster? 
+
+_______________ parsecs _______________ lightyears 
+
+ Conduct some independent research in the literature (online or in a textbook) to find an 
+accurate distance to the Pleiades cluster. Compare this value to the value you have calculated. 
+
+Think: why might the distance to the cluster you have calculated differ from the literature value? 
+
+  
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+Part 2 - Age of the Star Cluster 
+
+ Click Tools  Isochrones to plot an isochrone on the CMD. The isochrone parameter 
+window should appear. 
+
+ There are two slide-bars to adjust to obtain a good fit of the isochrone to the data. The upper 
+slide-bar adjusts the age of the isochrone, and the lower slide-bar adjusts the B-V value of the 
+isochrone. A key feature to match is the main sequence turnoff point, at the left end of the 
+main sequence. These stars are the first in the cluster reach the end of their main sequence 
+lifetimes. The red giant phase of evolution is much quicker than the main sequence, and so there 
+will be relatively few red giant stars compared to main sequence stars. 
+
+ The data for stars on the main sequence will be much more scattered than the sharp isochrone 
+line. Some of this scatter is intrinsic to the cluster: for example, binary stars are brighter than 
+individual stars at the same distance, which thickens the main sequence. More importantly, not 
+all of the stars in the cluster are exactly the same distance from us. You will obtain a more 
+accurate age by matching the isochrone to the lower edge of the main sequence, to avoid some 
+of these outliers. 
+
+ You can also adjust the metallicity of the stars in the cluster. By default, this parameter is set to 
+the solar values. Different values of the metallicity may improve the fit of the isochrone, but it is 
+usually easier to maintain the solar values and focus on adjusting the age of the cluster. 
+
+ Once the best fit has been found, read off the age of the cluster, given in GYr (109 years). Record 
+your answer below, and in the table further down the page. 
+
+Age of the Pleiades cluster:    ____________________ 
+
+ Conduct some independent research in the literature (online or in a textbook) to find an 
+estimate for the age of the Pleiades cluster. Compare this value to the value you have calculated. 
+
+Think: why might there be an uncertainty in the age of the cluster determined by this method? 
+
+Think: how does the age you have calculated compare to the age of the universe? 
+
+ 
+
+Part 3 - Comparison of Star Clusters 
+
+ Once you are satisfied with the fit of the ZAMS and the isochrone, print a copy of your CMD for 
+the Pleiades star cluster (File  Print). 
+
+ Click Tools  View/Print Parameters. Record the parameters you have selected in 
+the table below: 
+
+The Pleiades 
+V-MV  
+Distance to cluster  
+Estimated cluster age  
+B-V adjustment  
+
+ 
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+ Now, we will compare this CMD to that of a different star cluster, the Hyades. In the CMD 
+
+window, click File  Load/Plot  Select Cluster Data, then double click on 
+Hyades. 
+
+Consider the shape of the CMD for the Hyades. 
+Do you expect the Hyades to be older or younger than the Pleiades, and why? 
+
+____________________________________________________________________________ 
+
+____________________________________________________________________________ 
+
+____________________________________________________________________________ 
+
+ Repeat the steps outlined in Part 1 - Distance to the Star Cluster to fit the ZAMS. Then, repeat 
+the steps outlined in Part 2 - Age of the Star Cluster to fit the isochrone. 
+
+ Once you are satisfied with the fit of the ZAMS and the isochrone, print a copy of your CMD for 
+the Hyades star cluster (File  Print). 
+
+ Click Tools  View/Print Parameters. Record the parameters you have selected in 
+the table below: 
+
+The Hyades 
+V-MV  
+Distance to cluster  
+Estimated cluster age  
+B-V adjustment  
+
+ 
+
+ We will consider a final comparison. Click File  Load/Plot  Select Cluster 
+Data, then double click on M67 (NGC 2682).  
+
+Consider the shape of the CMD for M67. 
+What can be inferred about the age of the star cluster, and why? 
+
+____________________________________________________________________________ 
+
+____________________________________________________________________________ 
+
+____________________________________________________________________________ 
+
+ Repeat the steps outlined in Part 1 - Distance to the Star Cluster to fit the ZAMS. Then, repeat 
+the steps outlined in Part 2 - Age of the Star Cluster to fit the isochrone. 
+
+ Once you are satisfied with the fit of the ZAMS and the isochrone, print a copy of your CMD for 
+the M67 star cluster (File  Print). 
+
+ Click Tools  View/Print Parameters. Record the parameters you have selected in 
+the table over the page: 
+
+  
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+
+M67 
+V-MV  
+Distance to cluster  
+Estimated cluster age  
+B-V adjustment  
+
+ 
+
+ Consider the similarities and differences between the CMDs for the Pleiades, the Hyades, and 
+M67. Compare these similarities and differences to those in the parameters you have chosen for 
+each cluster. 
+
+ Consider the CMD for the Hyades: there should be a population of stars in the lower left of the 
+diagram. These stars do not belong to the main sequence, instead they are known as: 
+                        ______________________________. 
+
+Think: what does this population of stars suggest about the age of the cluster? 
+
+Think: why is this population of stars not found in the Pleiades cluster? 
+
+  
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+
+EXTENSION + CONCLUSION 
+
+ If you have finished comparing the Pleiades, the Hyades, and M67, and have answered all of the 
+questions throughout this manual, look at this extension task. Following the same method as 
+before, analyse the CMDs of a further three star clusters. Record your results in the table below: 
+
+ V-M Distance to Estimated B-V 
+V cluster cluster age adjustment 
+
+Mel 20     
+Alpha-Persei 
+
+M44     
+(NGC 2632) 
+
+M7     
+(NGC 6475) 
+
+ 
+
+Think: could you predict the relative ages of the clusters before fitting the isochrones? 
+
+ Finally, open the CMD of M16 (NGC 6611). Try to fit a ZAMS to the data. You will find it difficult 
+to know where the ZAMS should sit on the diagram. M16 is a very young star cluster - only about 
+2 million years old! None of its stars are old enough to have evolved off the main sequence, and 
+become red giants. 
+
+ The distance to the star cluster is 2150 pc. Use this information to calculate the distance 
+modulus, and use the slide-bar to place the ZAMS in its correct location on the diagram. Would 
+you have chosen this fit? M16 shows the limits of estimating the distances to star clusters using 
+this method. 
+
+ Now, plot an isochrone. You will find it difficult to match the data - indeed, the cluster is so 
+young that the software cannot fit an isochrone. The cluster is too young to have a main 
+sequence turnoff point, and so M16 shows the limits of estimating the ages of star clusters using 
+this method. 
+
+Think: how does the age of M16 compare to the age of our Sun, or the Earth? 
+
+ Conduct some independent research into the M16 star cluster, also known as the Eagle Nebula. 
+Search for images of the cluster taken by the Hubble Space Telescope; you may recognise the 
+incredible ‘pillars of creation’ photographs. 
+
+In this workshop, you have acted as a professional astronomer to calculate the distance to, and age 
+of, several star clusters. You have interacted with a telescope as an astronomer would. You have 
+taken data and analysed your data using software, as an astronomer would. You have conducted 
+independent research to verify your results, as an astronomer would. 
+
+The VIREO software can be used in many different ways - take a look at the website to discover the 
+other astronomy resources available: http://www3.gettysburg.edu/~marschal/clea/CLEAhome.html 
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+
+GLOSSARY (A-Z) 
+
+Absolute magnitude (M or MV): 
+
+The apparent magnitude an object would have if it was 10 parsecs away from Earth. 
+
+Apparent magnitude (m or V): 
+
+An object’s magnitude as seen by the telescope on Earth. 
+
+Binary star: 
+
+A system of two stars orbiting each other. At great distances from a binary star system, it is 
+impossible to see the individual stars, and instead they look like a single bright star. 
+
+Celestial coordinates, right ascension (RA) + declination (dec): 
+
+This is the coordinate system used by astronomers. Right ascension is equivalent to longitude, 
+and declination is equivalent to latitude. 
+
+Colour index (B-V): 
+
+A way of representing the temperature of a star. B-V is the magnitude through the B filter, minus 
+the magnitude through the V filter. 
+
+Colour-magnitude diagram (CMD): 
+
+The same as a Hertzsprung-Russell diagram, but its axes are colour (B-V) against magnitude V. 
+
+Distance modulus: 
+
+The difference between the apparent magnitude and the absolute magnitude of an object, m-M. 
+
+Filter: 
+
+A device placed in front of a telescope, only allowing certain wavelengths of light to pass 
+through and be recorded. The V filter allows wavelengths in the range 450-650nm, which is 
+yellow light. The B filter allows wavelengths in the range 360-520nm, which is blue light. 
+
+Globular cluster: 
+
+A tightly bound group of stars. Much older than open clusters. 
+
+Hertzsprung-Russell diagram (HRD): 
+
+A plot of luminosities against effective temperatures of stars. 
+
+Integration time: 
+
+The length of time that the CCD camera is switched on and collecting photons. 
+
+Isochrone: 
+
+A curve on the Hertzsprung-Russell diagram, representing stars of the same age. 
+
+ 
+
+Alice Perry, Ogden Student Intern, July 2017 
+
+
+
+School of Physics and Astronomy 
+Edgbaston  
+Birmingham B15 2TT 
+
+ 
+ 
+Magnitude: 
+
+A measure of the brightness of an object. The brighter the object, the more negative its 
+magnitude. 
+
+Main sequence: 
+
+A highly-populated band of stars on the Hertzsprung-Russell diagram. The majority of stars are 
+on the main sequence, burning hydrogen into helium in their cores. 
+
+Main sequence turnoff point: 
+
+The point on the Hertzsprung-Russell diagram at which stars leave the main sequence and enter 
+the red giant phase of evolution. The turnoff point is directly related to the age of the cluster. 
+
+Metallicity: 
+
+The fraction of the mass of the star in elements heavier than hydrogen and helium (known as 
+metals). 
+
+Open cluster: 
+
+A group of stars which formed from the same molecular cloud at roughly the same time. 
+
+Parsec (pc): 
+
+Unit of length used to measure distances outside the solar system. Equal to 3.1x1016m. 
+
+Photometer: 
+
+An instrument which measures the intensity of light, by collecting and counting photons. 
+
+Photon: 
+
+An individual packet of electromagnetic light. 
+
+Signal-to-noise ratio (S/N ratio): 
+
+Ratio of the number of photons from the source compared to the number of photons from 
+unwanted interference, such as the sky background and the electronics. 
+
+Sky background: 
+
+An observation of a region of the sky containing no astronomical objects. Since an observation of 
+an object will also include a contribution of light from the background, this must be subtracted 
+to calibrate the observation.  
+
+Zero age main sequence (ZAMS): 
+
+The position of a star when it first enters the main sequence. 
+
+Alice Perry, Ogden Student Intern, July 2017

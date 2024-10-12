@@ -1,0 +1,297 @@
+﻿Kepler-62
+Kepler-62 is a K-type main sequence star cooler Kepler-62
+and smaller than the Sun, located roughly 980 light-
+years (300 parsecs) from Earth in the constellation
+Lyra. It resides within the field of vision of the
+Kepler spacecraft, the satellite that NASA's Kepler
+Mission used to detect planets that may be transiting
+their stars. On April 18, 2013, it was announced that
+the star has five planets, two of which, Kepler-62e
+and Kepler-62f are within the star's habitable
+zone.[2][4] The outermost, Kepler-62f, is likely a
+rocky planet.[2]
+
+Nomenclature and history
+
+Location of Kepler-62 (circled in red)
+Observation data
+
+Epoch J2000      Equinox J2000
+Constellation Lyra
+
+Right ascension 18h 52m 51.05185s[1]
+
+Declination +45° 20′ 59.3996″[1]
+
+Apparent magnitude (V) ≈14.4 (Kp = 13.75)[2]
+
+The Kepler Space Telescope search volume, in Characteristics
+the context of the Milky Way Galaxy.
+
+Evolutionary stage Main sequence
+
+Spectral type K2V[2]
+Prior to Kepler observation, Kepler-62 had the
+2MASS catalogue number 2MASS B−V color index 0.832[2]
+
+J18525105+4520595. In the Kepler Input Catalog it Astrometry
+has the designation of KIC 9002278, and when it
+was found to have transiting planet candidates it was Radial velocity (Rv) 17.51 ± 1.84[1] km/s
+
+given the Kepler object of interest number of KOI- Proper motion (μ) RA: −25.120 mas/yr[1]
+
+701. Dec.: −31.141 mas/yr[1]
+
+Parallax (π) 3.3209 ± 0.0112 mas[1]
+Planetary candidates were detected around the star
+by NASA's Kepler Mission, a mission tasked with Distance 982 ± 3 ly
+
+discovering planets in transit around their stars. The (301 ± 1 pc)
+
+transit method that Kepler uses involves detecting Details
+
+
+
+dips in brightness in stars. These dips in brightness Mass 0.764 ± 0.011[3] M☉
+
+can be interpreted as planets whose orbits pass in Radius 0.660 ± 0.018[3] R☉
+front of their stars from the perspective of Earth, Luminosity 0.2565 ± 0.0045[3] L
+although other phenomena can also be responsible ☉
+
+which is why the term planetary candidate is Surface gravity (log g) 4.683 ± 0.023[3] cgs
+
+used.[5] Temperature 5062 ± 71[3] K
+
+Metallicity [Fe/H] −0.37 ± 0.04[2] dex
+Following the acceptance of the discovery paper, the
+Kepler team provided an additional moniker for the Rotation 39.3 ± 0.6 days[2]
+
+system of "Kepler-62".[6] The discoverers referred Rotational velocity 0.4 ± 0.5[2] km/s
+
+to the star as Kepler-62, which is the normal (v sin i)
+procedure for naming the exoplanets discovered by Age 7 ± 4[2] Gyr
+the spacecraft.[2] Hence, this is the name used by the
+
+Other designations
+public to refer to the star and its planets.
+
+KIC 9002278 (https://archive.stsci.edu/k
+Candidate planets that are associated with stars epler/kic10/search.php?kic_kepler_id=9
+studied by the Kepler Mission are assigned the 002278&action=Search), Kepler-62,
+designations ".01", ".02", ".03", ".04", ".05" etc. KOI-701, TIC 164458488,
+after the star's name, in the order of discovery.[7] If 2MASS J18525105+4520595
+planet candidates are detected simultaneously, then Database references
+the ordering follows the order of orbital periods SIMBAD data (https://simbad.cd
+from shortest to longest.[7] Following these rules, s.unistra.fr/simbad/sim-
+the first three candidate planets were detected id?Ident=KOI-701)
+simultaneously, with orbital periods of 18.16406,
+5.714932, and 122.3874 days, respectively, in the
+2011 data release,[2] with another two candidate planets, with orbital periods of 267.29 and 12.4417 days,
+respectively, being detected in a 2012 data release by the Kepler spacecraft.[2]
+
+The designations b, c, d, e, and f derive from the order of discovery. The designation of b is given to the
+first planet orbiting a given star, followed by the other lowercase letters of the alphabet.[8] In the case of
+Kepler-62, all of the known planets in the system were announced at one time, so b is applied to the
+closest planet to the star and f to the farthest.[2] The name Kepler-62 derives directly from the fact that the
+star is the catalogued 62nd star discovered by Kepler to have confirmed planets.
+
+Stellar characteristics
+Kepler-62 is a K-type main sequence star that is approximately 69% the mass of and 64% the radius of
+the Sun. It has a temperature of 4925 K and is 7 billion years old.[2] In comparison, the Sun is about 4.6
+billion years old[9] and has a temperature of 5778 K.[10]
+
+The star is somewhat poor in metals, with a metallicity ([Fe/H]) of about –0.37, or about 42% of the
+amount of iron and other heavier metals found in the Sun, which is similar to that of Kepler-442.[2] The
+star's luminosity is typical for a star like Kepler-62, with a luminosity of around 21% of that of the solar
+luminosity.[2]
+
+
+
+The star's apparent magnitude, or how bright it appears from Earth's perspective, is 13.75. Therefore, it is
+too dim to be seen with the naked eye.
+
+Planetary system
+
+The Kepler-62 planetary system[2]
+
+Companion Semimajor Orbital
+(in order from Mass axis period Eccentricity Inclination Radius
+
+star) (AU) (days)
+
+b <9 M 0.0553 ± 5.71493 ±
+🜨 0.0005 0.00001 — 89.2 ± 0.4° 1.31 ± 0.04 R🜨
+
+c <4 M 0.093 ± 12.4417 ±
+🜨 0.001 0.00001 — 89.7 ± 0.2° 0.54 ± 0.03 R🜨
+
+d <14 M 0.120 ± 18.16406 ±
+🜨 0.00 0.00002 — 89.7 ± 0.3° 1.95 ± 0.07 R
+
+1 🜨
+
+e <36 M 0.427 ± 122.3874 ±
+🜨 0.00 0.0008 — 89.98 ±
+
+0.02° 1.670 ± 0.051[3]
+4  R🜨
+
+f <35 M 0.718 ± 267.29 ±
+🜨 0.007 0.005 — 89.9 ± 0.03° 1.461 ± 0.070[3] R🜨
+
+All known planets transit the star; this means that all five planets' orbits appear to cross in front of their
+star as viewed from the Earth's perspective. Their inclinations relative to Earth's line of sight, or how far
+above or below the plane of sight they are, vary by less than one degree. This allows direct measurements
+of the planets' periods and relative diameters (compared to the host star) by monitoring each planet's
+transit of the star. The exact eccentricity of the planets are not known but estimates place it very close to
+0, giving the planets a mostly circular orbit.[2]
+
+The radii of the planets fall between 0.54 and 1.95 Earth radii. Of particular interest are the planets e and
+f, as they were the best candidates for solid planets falling into the habitable zone of their star at the time
+of discovery. Their radii, 1.61 and 1.41 Earth radii respectively, put them in a radius range where they
+may be solid terrestrial planets. Their positions within the Kepler-62 system mean that they fall within
+Kepler-62's habitable zone: the distance range where, for a given chemical composition (significant
+amounts of carbon dioxide for Kepler-62f, and a protective cloud cover for Kepler-62e), these two planets
+could have liquid water on their surfaces,[2] perhaps completely covering them.[11][12] The masses of the
+planets could not be directly determined using either the radial velocity or the transit timing method; this
+failure leads to weak upper limits for the planets' masses. For e and f, that upper limit amounts to 36 and
+35 Earth masses, respectively; the real masses are expected to be significantly lower.[2] Based on
+composition models, the Planetary Habitability Laboratory estimated masses for the planets of 2.1, 0.1,
+5.5, 3.6, and 2.6 ME, respectively.[13] The existence of an additional planet (at a distance of 0.22 AU,
+
+
+
+between Kepler-62e and Kepler-62f) of the Kepler-62 system was predicted, but no such planet has been
+detected.[14] To keep this planetary system, which is highly sensitive to perturbations, stable, no
+additional giant planets can be located within 30 AU from the parent star.[15]
+
+Gallery
+
+Artist's impressions of the Kepler-62 system
+(sizes to scale) compared to the planets of the
+
+inner Solar System with their respective
+habitable zones.
+
+Kepler-62f (foreground) and Kepler-62e (right)
+depicted as habitable zone exoplanets orbiting
+the star Kepler-62 (center). (artist's illustration)
+
+
+
+Comparison of the sizes of planets Kepler-69c,
+Kepler-62e, Kepler-62f, and the Earth.
+
+Exoplanets are artists' impressions.
+
+See also
+Kepler Mission
+List of planetary systems
+
+References
+1. Vallenari, A.; et al. (Gaia collaboration) (2023). "Gaia Data Release 3. Summary of the
+
+content and survey properties" (https://doi.org/10.1051%2F0004-6361%2F202243940).
+Astronomy and Astrophysics. 674: A1. arXiv:2208.00211 (https://arxiv.org/abs/2208.00211).
+Bibcode:2023A&A...674A...1G (https://ui.adsabs.harvard.edu/abs/2023A&A...674A...1G).
+doi:10.1051/0004-6361/202243940 (https://doi.org/10.1051%2F0004-6361%2F202243940).
+S2CID 244398875 (https://api.semanticscholar.org/CorpusID:244398875). Gaia DR3 record
+for this source (https://vizier.u-strasbg.fr/viz-bin/VizieR-S?Gaia%20DR3%202107001283431
+633408) at VizieR.
+
+2. Borucki, William J.; et al. (18 April 2013). "Kepler-62: A Five-Planet System with Planets of
+1.4 and 1.6 Earth Radii in the Habitable Zone" (https://www.science.org/doi/10.1126/scienc
+e.1234702). Science Express. 340 (6132): 587–90. arXiv:1304.7387 (https://arxiv.org/abs/1
+304.7387). Bibcode:2013Sci...340..587B (https://ui.adsabs.harvard.edu/abs/2013Sci...340..
+587B). doi:10.1126/science.1234702 (https://doi.org/10.1126%2Fscience.1234702).
+hdl:1721.1/89668 (https://hdl.handle.net/1721.1%2F89668). PMID 23599262 (https://pubme
+d.ncbi.nlm.nih.gov/23599262). S2CID 21029755 (https://api.semanticscholar.org/CorpusID:2
+1029755). Retrieved 18 April 2013.
+
+3. Borucki, William; Thompson, Susan E.; Agol, Eric; Hedges, Christina (May 2019). "Kepler-
+62f: Kepler's First Small Planet in the Habitable Zone, but Is It Real?". New Astronomy
+Reviews. 83: 28–36. arXiv:1905.05719 (https://arxiv.org/abs/1905.05719).
+Bibcode:2018NewAR..83...28B (https://ui.adsabs.harvard.edu/abs/2018NewAR..83...28B).
+doi:10.1016/j.newar.2019.03.002 (https://doi.org/10.1016%2Fj.newar.2019.03.002).
+S2CID 153313459 (https://api.semanticscholar.org/CorpusID:153313459).
+
+4. Johnson, Michele; Harrington, J.D. (18 April 2013). "NASA's Kepler Discovers Its Smallest
+'Habitable Zone' Planets to Date" (http://www.nasa.gov/mission_pages/kepler/news/kepler-6
+2-kepler-69.html). NASA. Retrieved 18 April 2013.
+
+
+
+5. Morton, Timothy; Johnson, John (23 August 2011). "On the Low False Positive Probabilities
+of Kepler Planet Candidates". The Astrophysical Journal. 738 (2): 170. arXiv:1101.5630 (htt
+ps://arxiv.org/abs/1101.5630). Bibcode:2011ApJ...738..170M (https://ui.adsabs.harvard.edu/
+abs/2011ApJ...738..170M). doi:10.1088/0004-637X/738/2/170 (https://doi.org/10.1088%2F0
+004-637X%2F738%2F2%2F170). S2CID 35223956 (https://api.semanticscholar.org/Corpus
+ID:35223956).
+
+6. NASA (27 January 2014). "Kepler – Discoveries – Summary Table" (https://web.archive.org/
+web/20100527104316/http://kepler.nasa.gov/Mission/discoveries/). NASA. Archived from
+the original (http://kepler.nasa.gov/Mission/discoveries/) on 27 May 2010. Retrieved 1 March
+2014.
+
+7. "Kepler Input Catalog search result" (http://archive.stsci.edu/kepler/kic10/search.php?kic_ke
+pler_id=9002278&action=Search). Space Telescope Science Institute. Retrieved 18 April
+2013.
+
+8. Hessman, F. V.; Dhillon, V. S.; Winget, D. E.; Schreiber, M. R.; Horne, K.; Marsh, T. R.;
+Guenther, E.; Schwope, A.; Heber, U. (2010). "On the naming convention used for multiple
+star systems and extrasolar planets". arXiv:1012.0707 (https://arxiv.org/abs/1012.0707)
+[astro-ph.SR (https://arxiv.org/archive/astro-ph.SR)].
+
+9. Fraser Cain (16 September 2008). "How Old is the Sun?" (http://www.universetoday.com/18
+237/how-old-is-the-sun/). Universe Today. Retrieved 19 February 2011.
+
+10. Fraser Cain (15 September 2008). "Temperature of the Sun" (http://www.universetoday.com/
+18092/temperature-of-the-sun/). Universe Today. Retrieved 19 February 2011.
+
+11. "Water worlds surface: Planets covered by global ocean with no land in sight" (http://news.h
+arvard.edu/gazette/story/2013/04/water-worlds-surface/). Harvard Gazette. 2013-04-18.
+Retrieved 2013-04-19.
+
+12. Kaltenegger, L.; Sasselov, D.; Rugheimer, S. (October 2013). "Water Planets in the
+Habitable Zone: Atmospheric Chemistry, Observable Features, and the case of Kepler-62e
+and -62f". The Astrophysical Journal. 775 (2): L47. arXiv:1304.5058 (https://arxiv.org/abs/13
+04.5058). Bibcode:2013ApJ...775L..47K (https://ui.adsabs.harvard.edu/abs/2013ApJ...775
+L..47K). doi:10.1088/2041-8205/775/2/L47 (https://doi.org/10.1088%2F2041-8205%2F775%
+2F2%2FL47). S2CID 256544 (https://api.semanticscholar.org/CorpusID:256544). L47.
+
+13. Mendez, Abel (April 18, 2013). "NASA Kepler Discovers New Potentially Habitable
+Exoplanets" (https://web.archive.org/web/20191021202324/http://phl.upr.edu/press-release
+s/nasakeplerdiscoversnewpotentiallyhabitableexoplanets). Planetary Habitability Laboratory.
+Archived from the original (https://phl.upr.edu/press-releases/nasakeplerdiscoversnewpotent
+iallyhabitableexoplanets) on 2019-10-21. Retrieved August 10, 2016.
+
+14. Scholkmann F (2013). "A prediction of an additional planet of the extrasolar planetary
+system Kepler-62 based on the planetary distances' long-range order" (https://web.archive.o
+rg/web/20160405002108/http://www.ptep-online.com/index_files/2013/PP-35-15.PDF)
+(PDF). Progress in Physics. 4 (4): 85–89. Bibcode:2013PrPh....9d..85S (https://ui.adsabs.ha
+rvard.edu/abs/2013PrPh....9d..85S). Archived from the original (http://www.ptep-online.com/i
+ndex_files/2013/PP-35-15.PDF) (PDF) on 2016-04-05.
+
+15. Becker, Juliette C.; Adams, Fred C. (2017), "Effects of Unseen Additional Planetary
+Perturbers on Compact Extrasolar Planetary Systems", Monthly Notices of the Royal
+Astronomical Society, 468 (1): 549–563, arXiv:1702.07714 (https://arxiv.org/abs/1702.0771
+4), Bibcode:2017MNRAS.468..549B (https://ui.adsabs.harvard.edu/abs/2017MNRAS.468..5
+49B), doi:10.1093/mnras/stx461 (https://doi.org/10.1093%2Fmnras%2Fstx461),
+S2CID 119325005 (https://api.semanticscholar.org/CorpusID:119325005)
+
+External links
+NASA – Mission overview (https://www.nasa.gov/mission_pages/kepler/overview/index.htm
+
+
+
+l).
+Kepler – Discoveries – Summary Table (https://web.archive.org/web/20100527104316/http://
+kepler.nasa.gov/Mission/discoveries/) – NASA.
+Kepler – Discovery of New Planetary Systems (2013) (http://www.nasa.gov/mission_pages/
+kepler/news/kepler-62-kepler-69.html).
+Kepler – Tally of Planets/interactive (2013) (https://www.nytimes.com/interactive/science/spa
+ce/keplers-tally-of-planets.html) – NYT.
+Video (02:27) - NASA Finds Three New Planets in "Habitable Zone" (04/18/2013). (https://w
+ww.youtube.com/watch?v=P8PJt-R5NxI)
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Kepler-62&oldid=1241796025"

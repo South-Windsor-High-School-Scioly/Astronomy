@@ -1,0 +1,228 @@
+﻿HD 80606 b
+HD 80606 b (also Struve 1341 Bb or HIP 45982 b) is HD 80606 b
+an eccentric hot Jupiter 217 light-years from the Sun in
+the constellation of Ursa Major. HD 80606 b was
+discovered orbiting the star HD 80606 in April 2001 by
+a team led by Michel Mayor and Didier Queloz.[2]
+
+With a mass 4 times that of Jupiter, it is a gas giant.
+Because the planet transits the host star its radius can
+be determined using the transit method, and was found
+to be about the same as Jupiter's. Its density is slightly Computer simulation of weather systems on
+less than Earth's.[6] It has an extremely eccentric orbit HD 80606 b, to scale with Jupiter
+like a comet, with its orbit taking it very close to its
+
+Discovery[1]
+star and then back out very far away from it every 111
+days.[7] Discovered by Geneva Extrasolar Planet
+
+Search
+
+Discovery site Haute-Provence
+Discovery Observatory
+
+Discovery date 4 April 2001[2]
+
+The variable radial velocity of HD 80606 was first Detection Radial velocity
+noticed in 1999 from observations with the 10-m Keck method
+1 telescope at the W. M. Keck Observatory in Hawaii Orbital characteristics[3]
+by the G-Dwarf Planet Search, a survey of nearly 1000
+nearby G dwarfs to identify extrasolar planet Apastron 0.8821 AU
+
+candidates. The star was then followed up by the (131,960,000 km)
+
+Geneva Extrasolar Planet Search team using the Periastron 0.0309 AU (4,620,000 km)
+
+ELODIE spectrograph mounted on the 1.93-m Semi-major axis 0.4565 ± 0.0053 AU
+telescope at the Haute-Provence Observatory. The (68,290,000 ± 790,000 km)
+discovery of HD 80606 b was announced on 4 April Eccentricity +0.000 64
+
+0.932 26
+2001.[2][1] −0.000 69
+
+Orbital period 111.436 70 ± 0.000 40 d
+The transit was detected using a Celestron 35-cm (sidereal)
+Schmidt–Cassegrain telescope at the UCL Average orbital 8.8 km/s – 47.3 km/s[notes 1]
+
+Observatory.[6] Prior to the large data release of the speed
+Kepler Mission in February 2011, HD 80606 b had the Inclination 89.232° ± 0.029°
+longest orbital period of any known transiting planet. It Time of 2,454,424.857 ± 0.05[4]
+
+takes 12.1 hours to transit its star. periastron
+Argument of +0.20°
+
+301.03°
+periastron −0.19°
+
+Semi-amplitude +2.5
+474.9 −2.7 m/s
+
+Star HD 80606
+
+Physical characteristics[3]
+
+
+
+The transit of 14 January 2010 was partially observed Mean radius 1.003 ± 0.023 RJ
+by MOST; but there were equipment failures over part Mass +0.097
+
+4.116
+of this time, and the 8 January secondary transit was −0.100 MJ
+
+entirely lost.[8] The midpoint of the next transit was 1 Mean density +0.38
+5.06 −0.35 g/cm3
+
+February 2013 11:37 UT.[9] Surface gravity 9.6 g
+
+Synodic +85
+93 [5]
+
+−35 h
+rotation period
+
+Physical properties Temperature <500 - 1400 K[5]
+
+HD 80606 b has the most eccentric orbit of any known planet after
+HD 20782 b. Its eccentricity is 0.9336, comparable to Halley's
+Comet. The eccentricity may be a result of the Kozai mechanism,
+which would occur if the planet's orbit is significantly inclined to
+that of the binary stars. This interpretation is supported by
+measurements of the Rossiter–McLaughlin effect, which indicate
+that the planet's orbit may be significantly inclined (by
+42 ± 8°)[10][11] to the rotational axis of the star, a configuration
+which would be expected if the Kozai mechanism were
+responsible for the orbit.[4]
+
+As a result of this high eccentricity, the planet's distance from its
+star varies from 0.03 to 0.88 AU. At apastron it would receive an
+insolation similar to that of Earth, while at periastron the
+insolation would be around 800 times greater, far more than that
+
+Orbital motion of HD 80606 b. experienced by Mercury in the Solar System. In 2009, the eclipse
+of HD 80606 b by its parent star was detected, allowing
+measurements of the planet's temperature to be made as the planet
+
+passed through periastron. These measurements indicated that the
+temperature rose from around 800 K (500 °C / 1000 °F) to 1500 K
+(1200 °C / 2200 °F) in just 6 hours.[12]
+
+An observer above the cloud tops of the gas giant would see the
+HD 80606 b – animation (01:28) parent star swell to 30 times the apparent size of the Sun in our own
+
+(28 March 2016). sky.[13]
+
++85
+The planet's rotation period has been measured to be 93 −35 hours,
+
+longer than the predicted pseudo-synchronous rotation period of 40 hours.[5]
+
+Weather
+The planet has wild variations in its weather as it orbits its parent star. Computer models predict the
+planet heats up 555 K (1,000 °F) in just a matter of hours, triggering "shock wave storms" that ripple out
+from the point facing its star, with winds that move at around 5 kilometres per second (3.1 mi/s;
+11,000 mph).[12][14]
+
+
+
+Notes
+1. From perimeter of the orbit divided by orbital period.
+
+References
+1. Naef, D.; et al. (2001). "HD 80606 b, a planet on an extremely elongated orbit" (http://www.a
+
+anda.org/articles/aa/full/2001/32/aade293/aade293.html). Astronomy and Astrophysics. 375
+(2): L27–L30. arXiv:astro-ph/0106256 (https://arxiv.org/abs/astro-ph/0106256).
+Bibcode:2001A&A...375L..27N (https://ui.adsabs.harvard.edu/abs/2001A&A...375L..27N).
+doi:10.1051/0004-6361:20010853 (https://doi.org/10.1051%2F0004-6361%3A20010853).
+S2CID 14433784 (https://api.semanticscholar.org/CorpusID:14433784).
+
+2. "Exoplanets: The Hunt Continues!" (http://www.eso.org/public/news/eso0114/) (Press
+release). Garching, Germany: European Southern Observatory. 4 April 2001. Retrieved
+27 December 2012.
+
+3. Bonomo, A. S.; Desidera, S.; et al. (June 2017). "The GAPS Programme with HARPS-N at
+TNG. XIV. Investigating giant planet migration history via improved eccentricity and mass
+determination for 231 transiting planets". Astronomy & Astrophysics. 602: A107.
+arXiv:1704.00373 (https://arxiv.org/abs/1704.00373). Bibcode:2017A&A...602A.107B (http
+s://ui.adsabs.harvard.edu/abs/2017A&A...602A.107B). doi:10.1051/0004-6361/201629882
+(https://doi.org/10.1051%2F0004-6361%2F201629882). S2CID 118923163 (https://api.sem
+anticscholar.org/CorpusID:118923163).
+
+4. Moutou, C.; et al. (April 2009). "Photometric and spectroscopic detection of the primary
+transit of the 111-day-period planet HD 80606 b". Astronomy and Astrophysics. 498 (5): L5–
+L8. arXiv:0902.4457 (https://arxiv.org/abs/0902.4457). Bibcode:2009A&A...498L...5M (http
+s://ui.adsabs.harvard.edu/abs/2009A&A...498L...5M). doi:10.1051/0004-6361/200911954 (ht
+tps://doi.org/10.1051%2F0004-6361%2F200911954). S2CID 14625359 (https://api.semantic
+scholar.org/CorpusID:14625359).
+
+5. de Wit, Julien; Lewis, Nikole K.; et al. (April 2016). "Direct Measure of Radiative and
+Dynamical Properties of an Exoplanet Atmosphere" (https://doi.org/10.3847%2F2041-820
+5%2F820%2F2%2FL33). The Astrophysical Journal Letters. 820 (2): L33. arXiv:1606.01105
+(https://arxiv.org/abs/1606.01105). Bibcode:2016ApJ...820L..33D (https://ui.adsabs.harvard.
+edu/abs/2016ApJ...820L..33D). doi:10.3847/2041-8205/820/2/L33 (https://doi.org/10.3847%
+2F2041-8205%2F820%2F2%2FL33).
+
+6. Fossey, S. J.; Waldman, I. P.; Kipping, D. M. (2009). "Detection of a transit by the planetary
+companion of HD 80606" (https://doi.org/10.1111%2Fj.1745-3933.2009.00653.x). Monthly
+Notices of the Royal Astronomical Society: Letters. 396 (1): L16–L20. arXiv:0902.4616 (http
+s://arxiv.org/abs/0902.4616). Bibcode:2009MNRAS.396L..16F (https://ui.adsabs.harvard.ed
+u/abs/2009MNRAS.396L..16F). doi:10.1111/j.1745-3933.2009.00653.x (https://doi.org/10.11
+11%2Fj.1745-3933.2009.00653.x). S2CID 2709427 (https://api.semanticscholar.org/CorpusI
+D:2709427).
+
+7. "Investigating the Mystery of Migrating 'Hot Jupiters' " (https://web.archive.org/web/2023032
+4065920/https://www.nasa.gov/feature/jpl/investigating-the-mystery-of-migrating-hot-jupiter
+s). nasa.gov. Archived from the original (https://www.nasa.gov/feature/jpl/investigating-the-m
+ystery-of-migrating-hot-jupiters) on 24 March 2023.
+
+
+
+8. Jessica E. Roberts; Jason W. Barnes; Jason F. Rowe; Jonathan F. Fortney (2012). "MOST
+Space Telescope Photometry of the 2010 January Transit of Extrasolar Planet HD80606b".
+The Astrophysical Journal. 762 (1): 55. arXiv:1212.0285 (https://arxiv.org/abs/1212.0285).
+Bibcode:2013ApJ...762...55R (https://ui.adsabs.harvard.edu/abs/2013ApJ...762...55R).
+doi:10.1088/0004-637X/762/1/55 (https://doi.org/10.1088%2F0004-637X%2F762%2F1%2F
+55). S2CID 119251752 (https://api.semanticscholar.org/CorpusID:119251752).
+
+9. HD 80606 Transit Times – Variable Star and Exoplanets (http://var2.astro.cz/ETD/predict_de
+tail.php?STARNAME=HD80606&PLANET=b&PER=&M=)
+
+10. Albrecht, Simon; Winn, Joshua N.; Johnson, John A.; Howard, Andrew W.; Marcy, Geoffrey
+W.; Butler, R. Paul; Arriagada, Pamela; Crane, Jeffrey D.; Shectman, Stephen A.;
+Thompson, Ian B.; Hirano, Teruyuki; Bakos, Gaspar; Hartman, Joel D. (2012), "Obliquities of
+Hot Jupiter Host Stars: Evidence for Tidal Interactions and Primordial Misalignments", The
+Astrophysical Journal, 757 (1): 18, arXiv:1206.6105 (https://arxiv.org/abs/1206.6105),
+Bibcode:2012ApJ...757...18A (https://ui.adsabs.harvard.edu/abs/2012ApJ...757...18A),
+doi:10.1088/0004-637X/757/1/18 (https://doi.org/10.1088%2F0004-637X%2F757%2F1%2F
+18), S2CID 17174530 (https://api.semanticscholar.org/CorpusID:17174530)
+
+11. PONT; et al. (2009). "Spin-orbit misalignment in the HD 80606 planetary system" (http://ww
+w.aanda.org/index.php?option=com_article&access=standard&Itemid=129&url=/articles/aa/
+abs/2009/29/aa12463-09/aa12463-09.html). Astronomy & Astrophysics. 502 (2): 695–703.
+arXiv:0906.5605 (https://arxiv.org/abs/0906.5605). Bibcode:2009A&A...502..695P (https://ui.
+adsabs.harvard.edu/abs/2009A&A...502..695P). doi:10.1051/0004-6361/200912463 (https://
+doi.org/10.1051%2F0004-6361%2F200912463). S2CID 55219971 (https://api.semanticscho
+lar.org/CorpusID:55219971). Retrieved 7 February 2013.
+
+12. Laughlin, G.; et al. (2009). "Rapid heating of the atmosphere of an extrasolar planet".
+Nature. 457 (7229): 562–564. Bibcode:2009Natur.457..562L (https://ui.adsabs.harvard.edu/
+abs/2009Natur.457..562L). doi:10.1038/nature07649 (https://doi.org/10.1038%2Fnature076
+49). PMID 19177124 (https://pubmed.ncbi.nlm.nih.gov/19177124). S2CID 4321053 (https://
+api.semanticscholar.org/CorpusID:4321053).
+
+13. Robert Massey & Anita Heward (21 April 2009). "RAS PN 09/23 (NAM 10): London students
+find Jupiter-sized oddball planet" (http://www.ras.org.uk//index.php?option=com_content&ta
+sk=view&id=1601&Itemid=2). The Royal Astronomical Society. Retrieved 15 July 2009.
+
+14. "Exoplanet Sees Extreme Heat Waves" (https://web.archive.org/web/20090603003726/htt
+p://www.space.com/scienceastronomy/090128-hot-planet.html). Space.com. 28 January
+2009. Archived from the original (http://www.space.com/scienceastronomy/090128-hot-plan
+et.html) on 3 June 2009. Retrieved 29 January 2009.
+
+External links
+ Media related to HD 80606 b at Wikimedia Commons
+
+Heating Up on a Distant Planet (ScienceFriday) (https://web.archive.org/web/201110250437
+42/http://www.sciencefriday.com/program/archives/200901303)
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=HD_80606_b&oldid=1240818055"

@@ -1,0 +1,505 @@
+﻿AU Microscopii
+AU Microscopii (AU Mic) is a young red dwarf star located 31.7 AU Microscopii
+light-years (9.7 parsecs) away – about 8 times as far as the closest
+star after the Sun.[5] The apparent visual magnitude of AU
+Microscopii is 8.73,[2] which is too dim to be seen with the naked
+eye. It was given this designation because it is in the southern
+constellation Microscopium and is a variable star. Like β Pictoris,
+AU Microscopii has a circumstellar disk of dust known as a debris
+disk and at least two exoplanets, with the presence of an additional
+two planets being likely.[6][3]
+
+Stellar properties
+AU Mic is a young star at only 22 million years old; less than 1% of AU Microscopii, J band image, 2MASS.
+
+the age of the Sun.[7] With a stellar classification of M1 Ve,[2] it is a Observation data
+red dwarf star[8] with a physical radius of 75% that of the Sun. Epoch J2000      Equinox J2000
+Despite being half the Sun's mass,[9][10] it is radiating only 9%[11] Constellation Microscopium
+as much luminosity as the Sun. This energy is being emitted from Right ascension 20h 45m 09.53250s[1]
+the star's outer atmosphere at an effective temperature of 3,700 K,
+giving it the cool orange-red hued glow of an M-type star.[12] AU Declination –31° 20′ 27.2379″[1]
+
+Microscopii is a member of the β Pictoris moving group.[13][14] AU Apparent magnitude (V) 8.73[2]
+
+Microscopii may be gravitationally bound to the binary star system Characteristics
+AT Microscopii.[15]
+
+Spectral type M1Ve[2]
+
+AU Microscopii has been Apparent magnitude (V) 8.627 ± 0.052[3]
+
+observed in every part of the Apparent magnitude (J) 5.436 ± 0.017[3]
+
+electromagnetic spectrum U−B color index 1.01
+from radio to X-ray and is B−V color index 1.45
+known to undergo flaring
+activity at all these Variable type Flare star
+
+wavelengths.[17][18][19][20] Astrometry
+
+A light curve for AU Microscopii, Its flaring behaviour was Radial velocity (Rv) −6.90 ± 0.37[1] km/s
+plotted from TESS data[16] first identified in
+
+1973.[21][22] Proper motion (μ) RA: +281.319 mas/yr[1]
+ Underlying
+
+Dec.: -360.148 mas/yr[1]
+these random outbreaks is a
+
+nearly sinusoidal variation in its brightness with a period of 4.865 Parallax (π) 102.9432 ± 0.0231 mas[1]
+
+days. The amplitude of this variation changes slowly with time. The Distance 31.683 ± 0.007 ly
+V band brightness variation was approximately 0.3 magnitudes in (9.714 ± 0.002 pc)
+1971; by 1980 it was merely 0.1 magnitudes.[23] Absolute magnitude (MV) 8.61
+
+Details
+
+Planetary system Mass 0.60 ± 0.04[3] M☉
+
+Radius 0.82 ± 0.02[3] R☉
+AU Microscopii's debris disk has an asymmetric structure and an
+
+Luminosity 0.102 ± 0.002[3] L
+inner gap or hole cleared of debris, which has led a number of ☉
+
+astronomers to search for planets orbiting AU Microscopii. By Surface gravity (log g) 4.52 ± 0.05[3] cgs
+
+2007, no searches had led to any detections of planets.[24][25] Temperature 3665 ± 31[3] K
+However, in 2020 the discovery of a Neptune-sized planet was Rotation 4.8367 ± 0.0006 d[4]
+
+
+
+announced based on transit observations by TESS.[7] Its rotation Rotational velocity 8.5 ± 0.2[3] km/s
+axis is well aligned with the rotation axis of the parent star, with the (v sin i)
+misalignment being equal to 5+16
+
+−15°.[26] Age 23 ± 3, 18.5 ± 2.4[3] Myr
+
+Since 2018, a second planet, AU Microscopii c, was suspected to Other designations
+
+exist. It was confirmed in December 2020, after additional transit CD -31°17815, GCTP 4939.00, GJ 803,
+events were documented by the TESS observatory.[27] HD 197481, HIP 102409, LTT 8214,
+
+SAO 212402, Vys 824, LDS 720 A.
+A third planet in the system was suspected since 2022 based on Database references
+transit-timing variations,[28] and "validated" in 2023, although
+several possible orbital periods of planet d cannot be ruled out yet. SIMBAD data (https://simbad.cds.
+
+unistra.fr/simbad/sim-id?I
+This planet has a mass comparable to that of Earth.[6] Radial
+
+dent=AU+Microscopii)
+velocity observations have also found evidence for a fourth, outer
+planet as of 2023.[3] Observations of the AU Microscopii system ARICNS data (https://wwwadd.za
+
+with the James Webb Space Telescope were unable to confirm the h.uni-heidelberg.de/daten
+
+presence of previously unknown companions.[29] banken/aricns/cnspages/
+4c01685.htm)
+
+The AU Microscopii planetary system[27][30][6][3]
+
+Companion Semimajor
+(in order Mass axis Orbital period Eccentricity Inclination Radius
+
+from star) (AU) (days)
+
++0.0036
+b +3.9
+
+10.2 0.0645 ± 0.0013 8.463 0351 ± 0.000 0003 0.000 21 ± 0.000 06 89.9904
+−2.7 M🜨 −0.0019 4.07 ± 0.17 R🜨
+
+°
+
+d 1.014 ± 0.146
+— 12.738 12 ± 0.001 28 0.000 97 ± 0.000 42 88.10 ± 0.43° —
+
+(unconfirmed) M🜨
+
+c +4.8
+14.2 −3.5 M🜨 0.1101 ± 0.0020 18.859 01 ± 0.000 09 0.010 56 ± 0.000 89 +0.058
+
+89.589 −0.068° 3.24 ± 0.16 R🜨
+e +6.7
+
+(unconfirmed) 35.2 −5.4 M🜨 — 33.39 ± 0.10 — — —
+
+Debris disk <50–>150 AU — —
+
+Debris disk
+All-sky observations with the Infrared Astronomy Satellite revealed faint infrared
+emission from AU Microscopii.[32][33] This emission is due to a circumstellar disk of
+dust which first resolved at optical wavelengths in 2003 by Paul Kalas and
+collaborators using the University of Hawaii 2.2-m telescope on Mauna Kea,
+Hawaii.[5] This large debris disk faces the earth edge-on at nearly 90 degrees,[34] and
+measures at least 200 AU in radius. At these large distances from the star, the lifetime
+of dust in the disk exceeds the age of AU Microscopii.[5] The disk has a gas to dust
+mass ratio of no more than 6:1, much lower than the usually assumed primordial
+value of 100:1.[35] The debris disk is therefore referred to as "gas-poor", as the
+
+Hubble Space Telescope image of primordial gas within the circumstellar system has been mostly depleted.[36] The total
+the debris disk around AU
+Microscopii. amount of dust visible in the disk is estimated to be at least a lunar mass, while the
+
+larger planetesimals from which the dust is produced are inferred to have at least six
+lunar masses.[37]
+
+The spectral energy distribution of AU Microscopii's debris disk at submillimetre wavelengths indicate the presence of an
+inner hole in the disk extending to 17 AU,[38] while scattered light images estimate the inner hole to be 12 AU in radius.[39]
+
+Combining the spectral energy distribution with the surface brightness profile yields a smaller estimate of the radius of the
+inner hole, 1 - 10 AU.[24] The inner part of the disk is asymmetric and shows structure in the inner 40 AU.[40] The inner
+structure has been compared with that expected to be seen if the disk is influenced by larger bodies or has undergone recent
+planet formation.[40] The surface brightness (brightness per area) of the disk in the near infrared  as a function of projected
+distance  from the star follows a characteristic shape. The inner  of the disk appear approximately constant in
+
+
+
+density and the brightness is unchanging, more-or-less flat.[39] Around  the
+density and surface brightness begins to decrease: first it decreases slowly in
+proportion to distance as ; then outside , the density and brightness
+drops much more steeply, as .[39] This "broken power-law" shape is similar to
+the shape of the profile of β Pic's disk.
+
+In October 2015 it was reported that astronomers using the Very Large Telescope
+This short time lapse sequence (VLT) had detected very unusual outward-moving features in the disk. By comparing
+shows images of the debris disk's
+"fast-moving features". the VLT images with those taken by the Hubble Space Telescope in 2010 and 2011 it
+
+was found that the wave-like structures are moving away from the star at speeds of up
+to 10 kilometers per second (22,000 miles per hour). The waves farther
+away from the star seem to be moving faster than those close to it, and at
+least three of the features are moving fast enough to escape the
+gravitational pull of the star.[41] Follow-up observations with the
+SPHERE instrument on the Very Large Telescope were able to confirm
+the presence of the fast-moving features,[42] and James Webb Space
+Telescope observations found similar features within the disk in two
+NIRCam filters;[29] however, these features have not been detected in the
+radio with Atacama Large Millimeter Array observations.[43][44] These
+fast-moving features have been described as "dust avalanches", where
+
+James Webb Space Telescope has imaged (Au dust particles catastrophically collide into planetesimals within the
+disk.[45][44]
+
+Mic) the inner workings of a dusty disk
+surrounding a nearby red dwarf star.[31]
+
+Methods of observation
+AU Mic's disk has been observed at a variety of different wavelengths, giving
+humans different types of information about the system. The light from the disk
+observed at optical wavelengths is stellar light that has reflected (scattered) off dust
+particles into Earth's line of sight. Observations at these wavelengths utilize a
+coronagraphic spot to block the bright light coming directly from the star. Such
+observations provide high-resolution images of the disk. Because light having a
+wavelength longer than the size of a dust grain is scattered only poorly, comparing
+images at different wavelengths (visible and near-infrared, for example) gives humans
+information about the sizes of the dust grains in the disk.[46]
+
+Artist's impression of AU Microscopii
+Credit: NASA/ESA/G. Bacon
+
+Optical observations have been made with the Hubble Space Telescope and Keck (STScI)
+Telescopes. The system has also been observed at infrared and sub-millimeter
+wavelengths with the James Clerk Maxwell Telescope, Spitzer Space Telescope, and
+the James Webb Space Telescope. This light is emitted directly by dust grains as a
+result of their internal heat (modified blackbody radiation). The disk cannot be
+resolved at these wavelengths, so such observations are measurements of the amount
+of light coming from the entire system. Observations at increasingly longer
+wavelengths give information about dust particles of larger sizes and at larger
+distances from the star.
+
+Hubble observations of blobs of
+material sweeping through stellar
+disc.[47]
+
+See also
+List of exoplanets discovered in 2020 - AU Microscopii b and c
+
+
+
+List of exoplanets discovered in 2023 - AU Microscopii d
+
+References
+1. Vallenari, A.; et al. (Gaia collaboration) (2023). "Gaia Data Release 3. Summary of the content and survey
+
+properties" (https://doi.org/10.1051%2F0004-6361%2F202243940). Astronomy and Astrophysics. 674: A1.
+arXiv:2208.00211 (https://arxiv.org/abs/2208.00211). Bibcode:2023A&A...674A...1G (https://ui.adsabs.harvar
+d.edu/abs/2023A&A...674A...1G). doi:10.1051/0004-6361/202243940 (https://doi.org/10.1051%2F0004-636
+1%2F202243940). S2CID 244398875 (https://api.semanticscholar.org/CorpusID:244398875). Gaia DR3
+record for this source (https://vizier.u-strasbg.fr/viz-bin/VizieR-S?Gaia%20DR3%206794047652729201024)
+at VizieR.
+
+2. Torres, C. A. O.; et al. (December 2006), "Search for associations containing young stars (SACY). I. Sample
+and searching method", Astronomy and Astrophysics, 460 (3): 695–708, arXiv:astro-ph/0609258 (https://arxiv.
+org/abs/astro-ph/0609258), Bibcode:2006A&A...460..695T (https://ui.adsabs.harvard.edu/abs/2006A&A...46
+0..695T), doi:10.1051/0004-6361:20065602 (https://doi.org/10.1051%2F0004-6361%3A20065602),
+S2CID 16080025 (https://api.semanticscholar.org/CorpusID:16080025)
+
+3. Donati, J-F; Cristofari, P I; Finociety, B; et al. (24 April 2023). "The magnetic field and multiple planets of the
+young dwarf AU Mic" (https://doi.org/10.1093%2Fmnras%2Fstad1193). Monthly Notices of the Royal
+Astronomical Society. 525: 455–475. arXiv:2304.09642 (https://arxiv.org/abs/2304.09642).
+doi:10.1093/mnras/stad1193 (https://doi.org/10.1093%2Fmnras%2Fstad1193). ISSN 0035-8711 (https://sear
+ch.worldcat.org/issn/0035-8711). S2CID 258212637 (https://api.semanticscholar.org/CorpusID:258212637).
+
+4. Szabó, Gy. M.; Gandolfi, D.; et al. (October 2021). "The changing face of AU Mic b: stellar spots, spin-orbit
+commensurability, and transit timing variations as seen by CHEOPS and TESS". Astronomy & Astrophysics.
+654: A159. arXiv:2108.02149 (https://arxiv.org/abs/2108.02149). Bibcode:2021A&A...654A.159S (https://ui.ad
+sabs.harvard.edu/abs/2021A&A...654A.159S). doi:10.1051/0004-6361/202140345 (https://doi.org/10.1051%2
+F0004-6361%2F202140345). S2CID 236912985 (https://api.semanticscholar.org/CorpusID:236912985).
+
+5. Kalas, Paul; Liu, Michael C.; Matthews, Brenda C. (26 March 2004). "Discovery of a Large Dust Disk Around
+the Nearby Star AU Microscopii". Science. 303 (5666): 1990–1992. arXiv:astro-ph/0403132 (https://arxiv.org/a
+bs/astro-ph/0403132). Bibcode:2004Sci...303.1990K (https://ui.adsabs.harvard.edu/abs/2004Sci...303.1990
+K). doi:10.1126/science.1093420 (https://doi.org/10.1126%2Fscience.1093420). PMID 14988511 (https://pub
+med.ncbi.nlm.nih.gov/14988511). S2CID 6943137 (https://api.semanticscholar.org/CorpusID:6943137).
+
+6. Wittrock, Justin M.; et al. (2023), "Validating AU Microscopii d with Transit Timing Variations", The
+Astronomical Journal, 166 (6): 232, arXiv:2302.04922 (https://arxiv.org/abs/2302.04922),
+Bibcode:2023AJ....166..232W (https://ui.adsabs.harvard.edu/abs/2023AJ....166..232W), doi:10.3847/1538-
+3881/acfda8 (https://doi.org/10.3847%2F1538-3881%2Facfda8)
+
+7. Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; et al. (2020). "A planet within the debris disk around the
+pre-main-sequence star AU Microscopii" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7323865). Nature.
+582 (7813): 497–500. arXiv:2006.13248 (https://arxiv.org/abs/2006.13248). Bibcode:2020Natur.582..497P (htt
+ps://ui.adsabs.harvard.edu/abs/2020Natur.582..497P). doi:10.1038/s41586-020-2400-z (https://doi.org/10.103
+8%2Fs41586-020-2400-z). PMC 7323865 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7323865).
+PMID 32581383 (https://pubmed.ncbi.nlm.nih.gov/32581383).
+
+8. Maran, S. P.; et al. (September 1991). "An Investigation of the Flare Star AU Mic with the Goddard High
+Resolution Spectrograph on the Hubble Space Telescope". Bulletin of the American Astronomical Society. 23:
+1382. Bibcode:1991BAAS...23.1382M (https://ui.adsabs.harvard.edu/abs/1991BAAS...23.1382M).
+
+9. Del Zanna, G.; Landini, M.; Mason, H. E. (April 2002). "Spectroscopic diagnostics of stellar transition regions
+and coronae in the XUV: AU Mic in quiescence" (http://discovery.ucl.ac.uk/9518/1/9518.pdf) (PDF).
+Astronomy and Astrophysics. 385 (3): 968–985. Bibcode:2002A&A...385..968D (https://ui.adsabs.harvard.ed
+u/abs/2002A&A...385..968D). doi:10.1051/0004-6361:20020164 (https://doi.org/10.1051%2F0004-6361%3A2
+0020164).
+
+10. Mouillet, David (26 March 2004). "Nearby Planetary Disks". Science. 303 (5666): 1982–1983.
+doi:10.1126/science.1095851 (https://doi.org/10.1126%2Fscience.1095851). PMID 15044792 (https://pubme
+d.ncbi.nlm.nih.gov/15044792). S2CID 118888307 (https://api.semanticscholar.org/CorpusID:118888307).
+
+11. Plavchan, Peter; et al. (June 2009), "New Debris Disks Around Young, Low-Mass Stars Discovered with the
+Spitzer Space Telescope", The Astrophysical Journal, 698 (2): 1068–1094, arXiv:0904.0819 (https://arxiv.org/
+abs/0904.0819), Bibcode:2009ApJ...698.1068P (https://ui.adsabs.harvard.edu/abs/2009ApJ...698.1068P),
+doi:10.1088/0004-637X/698/2/1068 (https://doi.org/10.1088%2F0004-637X%2F698%2F2%2F1068),
+S2CID 51417657 (https://api.semanticscholar.org/CorpusID:51417657)
+
+
+
+12. "The Colour of Stars" (https://web.archive.org/web/20120222183238/http://outreach.atnf.csiro.au/education/s
+enior/astrophysics/photometry_colour.html), Australia Telescope, Outreach and Education, Commonwealth
+Scientific and Industrial Research Organisation, December 21, 2004, archived from the original (http://outreac
+h.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html) on February 22, 2012, retrieved
+2012-01-16
+
+13. Zuckerman, B.; Song, Inseok (September 2004). "Young Stars Near the Sun". Annual Review of Astronomy &
+Astrophysics. 42 (1): 685–721. Bibcode:2004ARA&A..42..685Z (https://ui.adsabs.harvard.edu/abs/2004ARA&
+A..42..685Z). doi:10.1146/annurev.astro.42.053102.134111 (https://doi.org/10.1146%2Fannurev.astro.42.053
+102.134111). S2CID 34114530 (https://api.semanticscholar.org/CorpusID:34114530).
+
+14. Barrado y Navascués, David; et al. (August 1, 1999). "The age of beta Pictoris". The Astrophysical Journal.
+520 (2): L123–L126. arXiv:astro-ph/9905242 (https://arxiv.org/abs/astro-ph/9905242).
+Bibcode:1999ApJ...520L.123B (https://ui.adsabs.harvard.edu/abs/1999ApJ...520L.123B).
+doi:10.1086/312162 (https://doi.org/10.1086%2F312162). S2CID 119365418 (https://api.semanticscholar.org/
+CorpusID:119365418).
+
+15. Monsignori Fossi, B. C.; et al. (October 1995). "The EUV spectrum of AT Microscopii". Astronomy &
+Astrophysics. 302: 193. Bibcode:1995A&A...302..193M (https://ui.adsabs.harvard.edu/abs/1995A&A...302..19
+3M).
+
+16. "MAST: Barbara A. Mikulski Archive for Space Telescopes" (https://mast.stsci.edu/portal/Mashup/Clients/Mas
+t/Portal.html). Space Telescope Science Institute. Retrieved 8 December 2021.
+
+17. Maran, S. P.; et al. (1 February 1994). "Observing stellar coronae with the Goddard High Resolution
+Spectrograph. 1: The dMe star AU microscopoii" (https://doi.org/10.1086%2F173692). The Astrophysical
+Journal. 421 (2): 800–808. Bibcode:1994ApJ...421..800M (https://ui.adsabs.harvard.edu/abs/1994ApJ...421..
+800M). doi:10.1086/173692 (https://doi.org/10.1086%2F173692).
+
+18. Cully, Scott L.; et al. (September 10, 1993). "Extreme Ultraviolet Explorer deep survey observations of a large
+flare on AU Microscopii". The Astrophysical Journal. 414 (2): L49–L52. Bibcode:1993ApJ...414L..49C (https://
+ui.adsabs.harvard.edu/abs/1993ApJ...414L..49C). doi:10.1086/186993 (https://doi.org/10.1086%2F186993).
+
+19. Kundu, M. R.; et al. (15 January 1987). "Microwave observations of the flare stars UV Ceti, AT Microscopii,
+and AU Microscopii" (https://doi.org/10.1086%2F164928). The Astrophysical Journal. 312: 822–829.
+Bibcode:1987ApJ...312..822K (https://ui.adsabs.harvard.edu/abs/1987ApJ...312..822K). doi:10.1086/164928
+(https://doi.org/10.1086%2F164928).
+
+20. Tsikoudi, V.; Kellett, B. J. (December 2000). "ROSAT All-Sky Survey X-ray and EUV observations of YY Gem
+and AU Mic" (https://doi.org/10.1046%2Fj.1365-8711.2000.03905.x). Monthly Notices of the Royal
+Astronomical Society. 319 (4): 1147–1153. Bibcode:2000MNRAS.319.1147T (https://ui.adsabs.harvard.edu/a
+bs/2000MNRAS.319.1147T). doi:10.1046/j.1365-8711.2000.03905.x (https://doi.org/10.1046%2Fj.1365-8711.
+2000.03905.x).
+
+21. Kunkel, W. E. (1973). "Activity in Flare Stars in the Solar Neighborhood". The Astrophysical Journal
+Supplement. 25: 1. Bibcode:1973ApJS...25....1K (https://ui.adsabs.harvard.edu/abs/1973ApJS...25....1K).
+doi:10.1086/190263 (https://doi.org/10.1086%2F190263).
+
+22. Butler, C. J.; et al. (December 1981). "Ultraviolet spectra of dwarf solar neighbourhood stars. I" (https://doi.or
+g/10.1093%2Fmnras%2F197.3.815). Monthly Notices of the Royal Astronomical Society. 197 (3): 815–827.
+Bibcode:1981MNRAS.197..815B (https://ui.adsabs.harvard.edu/abs/1981MNRAS.197..815B).
+doi:10.1093/mnras/197.3.815 (https://doi.org/10.1093%2Fmnras%2F197.3.815).
+
+23. Butler, C. J.; et al. (March 1987). "Rotational modulation and flares on RS CVn and BY DRA systems. II - IUE
+observations of BY Draconis and AU Microscopii". Astronomy and Astrophysics. 174 (1–2): 139–157.
+Bibcode:1987A&A...174..139B (https://ui.adsabs.harvard.edu/abs/1987A&A...174..139B).
+
+24. Stanimir A. Metchev; Joshua A. Eisner & Lynne A. Hillenbrand (March 20, 2005). "Adaptive Optics Imaging of
+the AU Microscopii Circumstellar Disk: Evidence for Dynamical Evolution". The Astrophysical Journal. 622 (1):
+451–462. arXiv:astro-ph/0412143 (https://arxiv.org/abs/astro-ph/0412143). Bibcode:2005ApJ...622..451M (htt
+ps://ui.adsabs.harvard.edu/abs/2005ApJ...622..451M). doi:10.1086/427869 (https://doi.org/10.1086%2F4278
+69). S2CID 16455262 (https://api.semanticscholar.org/CorpusID:16455262).
+
+25. E. Masciadri; R. Mundt; Th. Henning & C. Alvarez (1 June 2005). "A Search for Hot Massive Extrasolar
+Planets around Nearby Young Stars with the Adaptive Optics System NACO". The Astrophysical Journal. 625
+(2): 1004–1018. arXiv:astro-ph/0502376 (https://arxiv.org/abs/astro-ph/0502376).
+Bibcode:2005ApJ...625.1004M (https://ui.adsabs.harvard.edu/abs/2005ApJ...625.1004M).
+doi:10.1086/429687 (https://doi.org/10.1086%2F429687). S2CID 15070805 (https://api.semanticscholar.org/C
+orpusID:15070805).
+
+
+
+26. Addison, Brett C.; Horner, Jonathan; Wittenmyer, Robert A.; Plavchan, Peter; Wright, Duncan J.; Nicholson,
+Belinda A.; Marshall, Jonathan P.; Clark, Jake T.; Kane, Stephen R.; Hirano, Teruyuki; Kielkopf, John;
+Shporer, Avi; Tinney, C. G.; Zhang, Hui; Ballard, Sarah; Bedding, Timothy; Bowler, Brendan P.; Mengel,
+Matthew W.; Okumura, Jack; Gaidos, Eric (2021), "The Youngest Planet to Have a Spin-Orbit Alignment
+Measurement AU Mic B", The Astronomical Journal, 162 (4): 137, arXiv:2006.13675 (https://arxiv.org/abs/200
+6.13675), Bibcode:2021AJ....162..137A (https://ui.adsabs.harvard.edu/abs/2021AJ....162..137A),
+doi:10.3847/1538-3881/ac1685 (https://doi.org/10.3847%2F1538-3881%2Fac1685), S2CID 220041674 (http
+s://api.semanticscholar.org/CorpusID:220041674)
+
+27. Martioli, E.; Hébrard, G.; Correia, A. C. M.; Laskar, J.; Lecavelier Des Etangs, A. (2021), "New constraints on
+the planetary system around the young active star AU Mic", Astronomy & Astrophysics, 649: A177,
+arXiv:2012.13238 (https://arxiv.org/abs/2012.13238), doi:10.1051/0004-6361/202040235 (https://doi.org/10.1
+051%2F0004-6361%2F202040235), S2CID 229371309 (https://api.semanticscholar.org/CorpusID:22937130
+9)
+
+28. Wittrock, Justin M.; et al. (2022), "Transit Timing Variations for AU Microscopii b and C", The Astronomical
+Journal, 164 (1): 27, arXiv:2202.05813 (https://arxiv.org/abs/2202.05813), Bibcode:2022AJ....164...27W (http
+s://ui.adsabs.harvard.edu/abs/2022AJ....164...27W), doi:10.3847/1538-3881/ac68e5 (https://doi.org/10.384
+7%2F1538-3881%2Fac68e5), S2CID 245001008 (https://api.semanticscholar.org/CorpusID:245001008)
+
+29. Lawson, Kellen; Schlieder, Joshua E.; Leisenring, Jarron M.; Bogat, Ell; Beichman, Charles A.; Bryden,
+Geoffrey; Gáspár, András; Groff, Tyler D.; McElwain, Michael W.; Meyer, Michael R.; Barclay, Thomas;
+Calissendorff, Per; De Furio, Matthew; Ygouf, Marie; Boccaletti, Anthony (2023-10-01). "JWST/NIRCam
+Coronagraphy of the Young Planet-hosting Debris Disk AU Microscopii" (https://doi.org/10.3847%2F1538-388
+1%2Faced08). The Astronomical Journal. 166 (4): 150. arXiv:2308.02486 (https://arxiv.org/abs/2308.02486).
+Bibcode:2023AJ....166..150L (https://ui.adsabs.harvard.edu/abs/2023AJ....166..150L). doi:10.3847/1538-
+3881/aced08 (https://doi.org/10.3847%2F1538-3881%2Faced08). ISSN 0004-6256 (https://search.worldcat.o
+rg/issn/0004-6256).
+
+30. Cale, Bryson L.; et al. (1 December 2021). "Diving Beneath the Sea of Stellar Activity: Chromatic Radial
+Velocities of the Young AU Mic Planetary System" (https://doi.org/10.3847%2F1538-3881%2Fac2c80). The
+Astronomical Journal. 162 (6). 295. arXiv:2109.13996 (https://arxiv.org/abs/2109.13996).
+Bibcode:2021AJ....162..295C (https://ui.adsabs.harvard.edu/abs/2021AJ....162..295C). doi:10.3847/1538-
+3881/ac2c80 (https://doi.org/10.3847%2F1538-3881%2Fac2c80).
+
+31. "Dusty Debris Disk Around AU Mic6" (https://esawebb.org/images/au-mic1/). October 18, 2023.
+32. "IRASFSC - IRAS Faint Source Catalog, Version 2.0" (https://heasarc.gsfc.nasa.gov/W3Browse/all/irasfsc.ht
+
+ml). heasarc.gsfc.nasa.gov. Retrieved 2024-05-10.
+33. Moshir, M.; et al. (1990-01-01). "IRAS Faint Source Catalogue, version 2.0" (https://ui.adsabs.harvard.edu/ab
+
+s/1990IRASF.C......0M). IRAS Faint Source Catalogue: 0. Bibcode:1990IRASF.C......0M (https://ui.adsabs.har
+vard.edu/abs/1990IRASF.C......0M).
+
+34. Paul Kalas, James R. Graham and Mark Clampin (23 June 2005). "A planetary system as the origin of
+structure in Fomalhaut's dust belt". Nature. 435 (7045): 1067–1070. arXiv:astro-ph/0506574 (https://arxiv.org/
+abs/astro-ph/0506574). Bibcode:2005Natur.435.1067K (https://ui.adsabs.harvard.edu/abs/2005Natur.435.106
+7K). doi:10.1038/nature03601 (https://doi.org/10.1038%2Fnature03601). PMID 15973402 (https://pubmed.nc
+bi.nlm.nih.gov/15973402). S2CID 4406070 (https://api.semanticscholar.org/CorpusID:4406070).
+
+35. Aki Roberge; Alycia J. Weinberger; Seth Redfield & Paul D. Feldman (20 June 2005). "Rapid Dissipation of
+Primordial Gas from the AU Microscopii Debris Disk". The Astrophysical Journal. 626 (2): L105–L108.
+arXiv:astro-ph/0505302 (https://arxiv.org/abs/astro-ph/0505302). Bibcode:2005ApJ...626L.105R (https://ui.ads
+abs.harvard.edu/abs/2005ApJ...626L.105R). doi:10.1086/431899 (https://doi.org/10.1086%2F431899).
+S2CID 367734 (https://api.semanticscholar.org/CorpusID:367734).
+
+36. Roberge, Aki; Weinberger, Alycia J.; Redfield, Seth; Feldman, Paul D. (2005-06-01). "Rapid Dissipation of
+Primordial Gas from the AU Microscopii Debris Disk" (https://ui.adsabs.harvard.edu/abs/2005ApJ...626L.105
+R). The Astrophysical Journal. 626 (2): L105–L108. arXiv:astro-ph/0505302 (https://arxiv.org/abs/astro-ph/050
+5302). Bibcode:2005ApJ...626L.105R (https://ui.adsabs.harvard.edu/abs/2005ApJ...626L.105R).
+doi:10.1086/431899 (https://doi.org/10.1086%2F431899). ISSN 0004-637X (https://search.worldcat.org/issn/0
+004-637X).
+
+37. C. H. Chen; B. M. Patten; M. W. Werner; C. D. Dowell; K. R. Stapelfeldt; I. Song; J. R. Stauffer; M. Blaylock;
+K. D. Gordon & V. Krause (December 1, 2005). "A Spitzer Study of Dusty Disks around Nearby, Young Stars"
+(https://doi.org/10.1086%2F497124). The Astrophysical Journal. 634 (2): 1372–1384.
+Bibcode:2005ApJ...634.1372C (https://ui.adsabs.harvard.edu/abs/2005ApJ...634.1372C).
+doi:10.1086/497124 (https://doi.org/10.1086%2F497124).
+
+38. Michael C. Liu; Brenda C. Matthews; Jonathan P. Williams & Paul G. Kalas (June 10, 2004). "A Submillimeter
+Search of Nearby Young Stars for Cold Dust: Discovery of Debris Disks around Two Low-Mass Stars". The
+Astrophysical Journal. 608 (1): 526–532. arXiv:astro-ph/0403131 (https://arxiv.org/abs/astro-ph/0403131).
+Bibcode:2004ApJ...608..526L (https://ui.adsabs.harvard.edu/abs/2004ApJ...608..526L). doi:10.1086/392531
+(https://doi.org/10.1086%2F392531). S2CID 9178164 (https://api.semanticscholar.org/CorpusID:9178164).
+
+
+
+39. John E. Kirst; D. R. Ardila; D. A. Golimowski; M. Clampin; H. C. Ford; G. D. Illingworth; G. F. Hartig; F. Bartko;
+N. Benítez; J. P. Blakeslee; R. J. Bouwens; L. D. Bradley; T. J. Broadhurst; R. A. Brown; C. J. Burrows; E. S.
+Cheng; N. J. G. Cross; R. Demarco; P. D. Feldman; M. Franx; T. Goto; C. Gronwall; B. Holden; N. Homeier; L.
+Infante; R. A. Kimble; M. P. Lesser; A. R. Martel; S. Mei; F. Mennanteau; G. R. Meurer; G. K. Miley; V. Motta;
+M. Postman; P. Rosati; M. Sirianni; W. B. Sparks; H. D. Tran; Z. I. Tsvetanov; R. L. White & W. Zheng
+(February 2005). "Hubble Space Telescope Advanced Camera for Surveys Coronagraphic Imaging of the AU
+Microscopii Debris Disk". The Astronomical Journal. 129 (2): 1008–1017. Bibcode:2005AJ....129.1008K (http
+s://ui.adsabs.harvard.edu/abs/2005AJ....129.1008K). CiteSeerX 10.1.1.561.8393 (https://citeseerx.ist.psu.ed
+u/viewdoc/summary?doi=10.1.1.561.8393). doi:10.1086/426755 (https://doi.org/10.1086%2F426755).
+S2CID 53497065 (https://api.semanticscholar.org/CorpusID:53497065).
+
+40. Michael C. Liu (3 September 2004). "Substructure in the Circumstellar Disk Around the Young Star AU
+Microscopii". Science. 305 (5689): 1442–1444. arXiv:astro-ph/0408164 (https://arxiv.org/abs/astro-ph/040816
+4). Bibcode:2004Sci...305.1442L (https://ui.adsabs.harvard.edu/abs/2004Sci...305.1442L).
+doi:10.1126/science.1102929 (https://doi.org/10.1126%2Fscience.1102929). PMID 15308766 (https://pubme
+d.ncbi.nlm.nih.gov/15308766). S2CID 8457455 (https://api.semanticscholar.org/CorpusID:8457455).
+
+41. "Mysterious Ripples Found Racing Through Planet-Forming Disk" (http://hubblesite.org/newscenter/archive/re
+leases/2015/36/). Hubblesite. Archived (https://web.archive.org/web/20151011023230/http://hubblesite.org/ne
+wscenter/archive/releases/2015/36/full/) from the original on 11 October 2015. Retrieved 8 October 2015.
+
+42. Boccaletti, A.; Sezestre, E.; Lagrange, A.-M.; Thébault, P.; Gratton, R.; Langlois, M.; Thalmann, C.; Janson,
+M.; Delorme, P.; Augereau, J.-C.; Schneider, G.; Milli, J.; Grady, C.; Debes, J.; Kral, Q. (2018-06-01).
+"Observations of fast-moving features in the debris disk of AU Mic on a three-year timescale: Confirmation
+and new discoveries" (https://www.aanda.org/articles/aa/abs/2018/06/aa32462-17/aa32462-17.html).
+Astronomy & Astrophysics. 614: A52. arXiv:1803.05354 (https://arxiv.org/abs/1803.05354).
+Bibcode:2018A&A...614A..52B (https://ui.adsabs.harvard.edu/abs/2018A&A...614A..52B). doi:10.1051/0004-
+6361/201732462 (https://doi.org/10.1051%2F0004-6361%2F201732462). ISSN 0004-6361 (https://search.wo
+rldcat.org/issn/0004-6361).
+
+43. Daley, Cail; Hughes, A. Meredith; Carter, Evan S.; Flaherty, Kevin; Lambros, Zachary; Pan, Margaret;
+Schlichting, Hilke; Chiang, Eugene; Wyatt, Mark; Wilner, David; Andrews, Sean; Carpenter, John (2019-04-
+01). "The Mass of Stirring Bodies in the AU Mic Debris Disk Inferred from Resolved Vertical Structure" (https://
+doi.org/10.3847%2F1538-4357%2Fab1074). The Astrophysical Journal. 875 (2): 87. arXiv:1904.00027 (http
+s://arxiv.org/abs/1904.00027). Bibcode:2019ApJ...875...87D (https://ui.adsabs.harvard.edu/abs/2019ApJ...87
+5...87D). doi:10.3847/1538-4357/ab1074 (https://doi.org/10.3847%2F1538-4357%2Fab1074). ISSN 0004-
+637X (https://search.worldcat.org/issn/0004-637X).
+
+44. Vizgan, David; Meredith Hughes, A.; Carter, Evan S.; Flaherty, Kevin M.; Pan, Margaret; Chiang, Eugene;
+Schlichting, Hilke; Wilner, David J.; Andrews, Sean M.; Carpenter, John M.; Moór, Attila; MacGregor, Meredith
+A. (2022-08-01). "Multiwavelength Vertical Structure in the AU Mic Debris Disk: Characterizing the Collisional
+Cascade" (https://doi.org/10.3847%2F1538-4357%2Fac80b8). The Astrophysical Journal. 935 (2): 131.
+arXiv:2207.05277 (https://arxiv.org/abs/2207.05277). Bibcode:2022ApJ...935..131V (https://ui.adsabs.harvar
+d.edu/abs/2022ApJ...935..131V). doi:10.3847/1538-4357/ac80b8 (https://doi.org/10.3847%2F1538-4357%2F
+ac80b8). ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X).
+
+45. Chiang, Eugene; Fung, Jeffrey (2017-10-05). "Stellar Winds and Dust Avalanches in the AU Mic Debris Disk"
+(https://doi.org/10.3847%2F1538-4357%2Faa89e6). The Astrophysical Journal. 848 (1): 4. arXiv:1707.08970
+(https://arxiv.org/abs/1707.08970). Bibcode:2017ApJ...848....4C (https://ui.adsabs.harvard.edu/abs/2017Ap
+J...848....4C). doi:10.3847/1538-4357/aa89e6 (https://doi.org/10.3847%2F1538-4357%2Faa89e6).
+ISSN 0004-637X (https://search.worldcat.org/issn/0004-637X).
+
+46. Sanders, Robert (2007-01-08). "Dust around nearby star like powder snow" (http://www.berkeley.edu/news/m
+edia/releases/2007/01/08_dust.shtml). UC Berkeley News. Archived (https://web.archive.org/web/200701150
+65231/http://www.berkeley.edu/news/media/releases/2007/01/08_dust.shtml) from the original on 15 January
+2007. Retrieved 2007-01-11.
+
+47. "Hubble captures blobs of material sweeping through stellar disc" (https://www.spacetelescope.org/images/op
+o1902a/). www.spacetelescope.org. Retrieved 10 January 2019.
+
+External links
+"AU and AT Microscopii AB" (http://www.solstation.com/stars/au-mic3.htm). SolStation. 2004. Archived (http
+s://web.archive.org/web/20061111100248/http://solstation.com/stars/au-mic3.htm) from the original on 11
+November 2006. Retrieved 2006-12-20.
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=AU_Microscopii&oldid=1235460573"

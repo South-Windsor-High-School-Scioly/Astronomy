@@ -1,337 +1,165 @@
-Astronomy
-&
-Astrophysics
-
-A&A 495, 901–917 (2009)
+﻿A&A 495, 901–917 (2009) Astronomy
 DOI: 10.1051/0004-6361:200810623
-c ESO 2009
-
+© &
+c ESO 2009 Astrophysics
 
 Parameters of Herbig Ae/Be and Vega-type stars
-B. Montesinos1 , C. Eiroa2 , A. Mora2 , and B. Merín3
-1
 
-2
-3
+B. Montesinos1, C. Eiroa2, A. Mora2, and B. Merín3
 
-LAEX, Centro de Astrobiología (CAB, CSIC-INTA). Postal address: LAEFF, European Space Astronomy Centre, PO Box 78,
+1 LAEX, Centro de Astrobiología (CAB, CSIC-INTA). Postal address: LAEFF, European Space Astronomy Centre, PO Box 78,
 28691 Villanueva de la Cañada, Madrid, Spain
 e-mail: Benjamin.Montesinos@laeff.inta.es
-Universidad Autónoma de Madrid, Departamento de Física Teórica C-XI, 28049 Madrid, Spain
-Herschel Science Centre, European Space Astronomy Centre, PO Box 78, 28691 Villanueva de la Cañada, Madrid, Spain
+
+2 Universidad Autónoma de Madrid, Departamento de Física Teórica C-XI, 28049 Madrid, Spain
+3 Herschel Science Centre, European Space Astronomy Centre, PO Box 78, 28691 Villanueva de la Cañada, Madrid, Spain
 
 Received 16 July 2008 / Accepted 13 November 2008
+
 ABSTRACT
 
 Context. This work presents the characterization of 27 young early-type stars, most of them in the age range 1–10 Myr, and three
 suspected hot companions of post-T Tauri stars belonging to the Lindroos binary sample. Most of these objects show IR excesses in
 their spectral energy distributions, which are indicative of the presence of disks. The work is relevant in the fields of stellar physics,
 physics of disks and formation of planetary systems.
-Aims. The aim of the work is the determination of the eﬀective temperature, gravity, metallicity, mass, luminosity and age of these
+Aims. The aim of the work is the determination of the effective temperature, gravity, metallicity, mass, luminosity and age of these
 stars. An accurate modelling of their disks requires the knowledge of most of these parameters, since they will determine the energy
 input received by the disk and hence, its geometry and global properties.
-Methods. Spectral energy distributions and mid-resolution spectra were used to estimate T eﬀ , the eﬀective temperature. The comparison of the profiles of the Balmer lines with synthetic profiles provides the value of the stellar gravity, g∗ . High-resolution optical
-observations and synthetic spectra are used to estimate the metallicity, [M/H]. Once T eﬀ , g∗ and [M/H] are known for each star,
+Methods. Spectral energy distributions and mid-resolution spectra were used to estimate Teff , the effective temperature. The com-
+parison of the profiles of the Balmer lines with synthetic profiles provides the value of the stellar gravity, g∗. High-resolution optical
+observations and synthetic spectra are used to estimate the metallicity, [M/H]. Once Teff , g∗ and [M/H] are known for each star,
 evolutionary tracks and isochrones provide estimations of the mass, luminosity, age and distances (or upper limits in some cases).
 The method is original in the sense that it is distance-independent, i.e. the estimation of the stellar parameters does not require the
 knowledge of the distance to the object.
-Results. Stellar parameters (eﬀective temperature, gravity, metallicity, mass, luminosity, age and distances – or upper limits) are
+Results. Stellar parameters (effective temperature, gravity, metallicity, mass, luminosity, age and distances – or upper limits) are
 obtained for the sample of stars mentioned above. A detailed discussion of some individual objects, in particular VV Ser, RR Tau,
 49 Cet and the three suspected hot companions of post-T Tauris, is presented.
 Conclusions. These results, apart from their intrinsic interest, would be extremely valuable to model the disks surrounding the stars.
-The paper also shows the diﬃculty posed by the morphology and behaviour of the system star+disk in the computation of the stellar
+The paper also shows the difficulty posed by the morphology and behaviour of the system star+disk in the computation of the stellar
 parameters.
+
 Key words. stars: pre-main sequence – stars: fundamental parameters – stars: abundances – stars: evolution –
 stars: circumstellar matter – stars: planetary systems: protoplanetary disks
 
-1. Introduction
-One of the most active research areas in PMS (pre-main sequence) stellar physics is the study of stars with protoplanetary
-disks. Today it is widely accepted that circumstellar disks are
-a common feature of the star formation processes (Beckwith
-1996). The percentage of accretion disks around young stars
-ranges from 50 to 100%, at least for the youngest star-forming
-regions (Kenyon & Hartmann 1995; Hillenbrand et al. 1998).
-A study in the near infrared of young clusters by Haisch et al.
-(2001) in the age range 0.3–30 Myr shows that at early ages, the
-cluster disk fraction is around 80%, and decreases as the cluster
-age increases, the typical overall disk lifetime being 5–7 Myr.
-The work by those authors, confirmed by Hillenbrand (2005),
-Cieza (2008) and Hernández et al. (2008) was based on samples
-containing mostly T Tauri stars (spectral types K and M). In the
-
+1. Introduction mass range of the Herbig Ae/Be stars (spectral types B to F),
+Hernández et al. (2005) found that the lifetime of primordial
+
+One of the most active research areas in PMS (pre-main se- disks is less than ∼3 Myr. There is evidence that the typical times
+quence) stellar physics is the study of stars with protoplanetary for disk dissipation depend on stellar mass (e.g. Sicilia-Aguilar
+disks. Today it is widely accepted that circumstellar disks are et al. 2005), although in all cases this phenomenon seems to oc-
+a common feature of the star formation processes (Beckwith cur in the first few million years of the stellar lifetime.
+1996). The percentage of accretion disks around young stars The formation of planets and planetary systems takes place
+ranges from 50 to 100%, at least for the youngest star-forming in circumstellar disks. The report in 1995 of the discovery of the
+regions (Kenyon & Hartmann 1995; Hillenbrand et al. 1998). first extrasolar planet around a solar-type star, namely 51 Peg, by
+A study in the near infrared of young clusters by Haisch et al. Mayor & Queloz (1995), and the subsequent detections of candi-
+(2001) in the age range 0.3–30 Myr shows that at early ages, the date planets increased even further the interest in that area, and
+cluster disk fraction is around 80%, and decreases as the cluster in particular, the study of the evolution of PMS stars and their
+age increases, the typical overall disk lifetime being 5–7 Myr. disks in a range of ages of the order of ∼106 years, when the
+The work by those authors, confirmed by Hillenbrand (2005), disks have their characteristic morphology and processes of po-
+Cieza (2008) and Hernández et al. (2008) was based on samples tential formation of planetesimals have already been triggered.
+containing mostly T Tauri stars (spectral types K and M). In the The mass, radius and effective temperature of the central star
+ will determine the energy received by the disk and therefore – at
 
 Based on observations collected at the German-Spanish
-Astronomical Centre, Calar Alto, jointly operated by the MaxPlanck Institut für Astronomie and the Instituto de Astrofísica de
-Andalucía (CSIC), and on observations made with the WHT telescope
-operated on the island of La Palma by the Isaac Newton Group in the
-Spanish Observatorio del Roque de los Muchachos of the Instituto de
-Astrofísica de Canarias.
-
-mass range of the Herbig Ae/Be stars (spectral types B to F),
-Hernández et al. (2005) found that the lifetime of primordial
-disks is less than ∼3 Myr. There is evidence that the typical times
-for disk dissipation depend on stellar mass (e.g. Sicilia-Aguilar
-et al. 2005), although in all cases this phenomenon seems to occur in the first few million years of the stellar lifetime.
-The formation of planets and planetary systems takes place
-in circumstellar disks. The report in 1995 of the discovery of the
-first extrasolar planet around a solar-type star, namely 51 Peg, by
-Mayor & Queloz (1995), and the subsequent detections of candidate planets increased even further the interest in that area, and
-in particular, the study of the evolution of PMS stars and their
-disks in a range of ages of the order of ∼106 years, when the
-disks have their characteristic morphology and processes of potential formation of planetesimals have already been triggered.
-The mass, radius and eﬀective temperature of the central star
-will determine the energy received by the disk and therefore – at
-least in part – its geometry, energy balance, accretion rate and
-contribution to the spectral energy distribution (SED hereafter).
-The metal abundance of the star, a parameter which is many
-times overlooked and assumed to take the solar value, is also
-an important factor because the gas contained in the disk will
-have, to a first approximation, a similar metal content, which,
+Astronomical Centre, Calar Alto, jointly operated by the Max- least in part – its geometry, energy balance, accretion rate and
+Planck Institut für Astronomie and the Instituto de Astrofísica de contribution to the spectral energy distribution (SED hereafter).
+Andalucía (CSIC), and on observations made with the WHT telescope The metal abundance of the star, a parameter which is many
+operated on the island of La Palma by the Isaac Newton Group in the times overlooked and assumed to take the solar value, is also
+Spanish Observatorio del Roque de los Muchachos of the Instituto de an important factor because the gas contained in the disk will
+Astrofísica de Canarias. have, to a first approximation, a similar metal content, which,
 
 Article published by EDP Sciences
 
-902
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
 
-in turn, will have an influence on its evolution and the potential
+902 B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+
+in turn, will have an influence on its evolution and the potential Table 1. The sample of stars.
 formation of planets (see e.g. Wyatt et al. 2007, and references
-therein). In addition, the gas dominates the mass and dynamics of the disk (e.g. Hillenbrand 2008). The knowledge of the
-metallicity is also important to place the star in the appropriate
-set of evolutionary tracks to determine parameters such as mass,
-luminosity and age (Merín et al. 2004). Therefore, in this context, the determination of parameters and properties of stars –i.e.
-what we call their “characterization”– in the critical age range of
-1–10 Myr, is a necessary step to accurately model the disks.
-Several works have aimed at a systematic determination of
-parameters of PMS and young MS stars (T Tauri, Herbig Ae/Be,
-Vega and A-shell) with disks. Dunkin et al. (1997a,b) carried out a complete study of 14 Vega-type objects based on
-high-resolution spectroscopy. Kovalchuk & Pugach (1997) determined the gravity for a sample of 19 Herbig Ae/Be stars.
-The spectral classification, projected rotational velocities and
-variability of 80 PMS and young MS stars were studied by
-Eiroa et al. (2001), Eiroa et al. (2002), Mora et al. (2001) and
-Oudmaijer et al. (2001). Hernández et al. (2004) carried out an
-analysis of 75 Herbig Ae/Be stars, deriving spectral types and
-studying the properties of the extinction caused by the environment of these objects. Acke & Waelkens (2004) presented
-an abundance study of 24 Herbig Ae/Be and Vega-type stars
-searching for the λ Bootis phenomenon, and Guimarães et al.
-(2006) determined stellar gravities and metal abundances for
-12 Herbig Ae/Be stars. Manoj et al. (2006) studied the evolution
-of the emission line activity for a sample of 45 Herbig Ae/Be
-stars and estimated masses, luminosities and ages for an enlarged
-sample of 91 objects of this type.
-In this paper we present the results of the determination of
-eﬀective temperatures, stellar gravities, metallicities, masses, luminosities, ages and distances for 30 young stars. In Sects. 2
-and 3 we describe the sample of stars and the observations.
-Section 4 describes how the stellar parameters were estimated.
-Sections 5 and 6 present the results and a detailed discussion.
-Finally, some comments are given in Sect. 7.
+therein). In addition, the gas dominates the mass and dynam- Star Other ID Type of star v sin i (km s−1) Hα
+ics of the disk (e.g. Hillenbrand 2008). The knowledge of the HD 31648 MWC 480 HAeBe 102 ± 5 Y
+metallicity is also important to place the star in the appropriate HD 58647 BD−13 2008 HAeBe 118 ± 4 Y
+set of evolutionary tracks to determine parameters such as mass, HD 150193 MWC 863 HAeBe Y
+luminosity and age (Merín et al. 2004). Therefore, in this con- HD 163296 MWC 275 HAeBe 133 ± 6 Y
+text, the determination of parameters and properties of stars –i.e. HD 179218 MWC 614 HAeBe Y
+what we call their “characterization”– in the critical age range of HD 190073 MWC 325 HAeBe Y
+1–10 Myr, is a necessary step to accurately model the disks. HR 10 HD 256 Ash 294 ± 9 N
 
-2. The sample of stars
-In this work we study the properties of a sample of 30 earlytype objects, namely 19 Herbig Ae/Be (hereafter HAeBe), five
-Vega-type, three A-shell and three suspected hot companions of
-post-T Tauri stars (see Sect. 6.4 to see why we add the qualifier
-“suspected” to these stars). In Table 1 we list some properties of
+Several works have aimed at a systematic determination of HR 26 A HD 560 A HPTT N
+parameters of PMS and young MS stars (T Tauri, Herbig Ae/Be, HR 2174 HD 4211 Vega 252 ± 7 N
+Vega and A-shell) with disks. Dunkin et al. (1997a,b) car- HR 4757 A HD 108767 A HPTT 239 ± 7 N
+ried out a complete study of 14 Vega-type objects based on HR 5422 A HD 127304 A HPTT 7.4 ± 0.3 N
+high-resolution spectroscopy. Kovalchuk & Pugach (1997) de- HR 9043 HD 223884 Vega 205 ± 18 N
+termined the gravity for a sample of 19 Herbig Ae/Be stars. AS 442 HAeBe Y
+The spectral classification, projected rotational velocities and BD+31 643 HD 281159 Vega 162 ± 13 N
+variability of 80 PMS and young MS stars were studied by λ Boo HD 125162 Vega 129 ± 7 N
+Eiroa et al. (2001), Eiroa et al. (2002), Mora et al. (2001) and VX Cas HAeBe 179 ± 18 Y
+Oudmaijer et al. (2001). Hernández et al. (2004) carried out an SV Cep BD+72 1031 HAeBe 206 ± 13 Y
+analysis of 75 Herbig Ae/Be stars, deriving spectral types and 49 Cet HD 9672 Vega 186 ± 4 N
+studying the properties of the extinction caused by the envi- 24 CVn HD 118232 Ash 173 ± 4 N
+ronment of these objects. Acke & Waelkens (2004) presented 51 Oph HD 158643 HAeBe 256 ± 11 Y
+an abundance study of 24 Herbig Ae/Be and Vega-type stars T Ori BD−05 1329 HAeBe 175 ± 14 Y
+searching for the λ Bootis phenomenon, and Guimarães et al. BF Ori BD−06 1259 HAeBe 37 ± 2 Y
+(2006) determined stellar gravities and metal abundances for UX Ori HD 293782 HAeBe 215 ± 15 Y
+12 Herbig Ae/Be stars. Manoj et al. (2006) studied the evolution V346 Ori HD 287841 HAeBe Y
+of the emission line activity for a sample of 45 Herbig Ae/Be V350 Ori HAeBe Y
+stars and estimated masses, luminosities and ages for an enlarged XY Per HD 275877 HAeBe 217 ± 13 Y
+sample of 91 objects of this type. VV Ser HAeBe 229 ± 9 Y
+
+In this paper we present the results of the determination of 17 Sex HD 88195 Ash 259 ± 13 N
+effective temperatures, stellar gravities, metallicities, masses, lu- RR Tau BD+26 887a HAeBe 225 ± 35 Y
+minosities, ages and distances for 30 young stars. In Sects. 2 WW Vul HD 344361 HAeBe 220 ± 22 Y
+and 3 we describe the sample of stars and the observations.
+Section 4 describes how the stellar parameters were estimated. Notes to Table 1: Column 3: HAeBe (Herbig Ae/Be), HPTT (hot com-
+Sections 5 and 6 present the results and a detailed discussion. panion of a post-T Tauri star) and Ash (A-shell star). The data for v sin i
+Finally, some comments are given in Sect. 7. are from Mora et al. (2001). Slight refinements to the results for SV Cep
+
+(225 km s−1), XY Per (200 km s−1) and WW Vul (210 km s−1) were pre-
+sented by Mora et al. (2004). A blank in Col. 4 means that the star was
+not observed with high resolution, furthermore the determination of this
+
+2. The sample of stars parameter was not feasible and its value has not been found elsewhere.
+
+In this work we study the properties of a sample of 30 early-
+type objects, namely 19 Herbig Ae/Be (hereafter HAeBe), five post-T Tauri object. The systems belong to the so-called
+Vega-type, three A-shell and three suspected hot companions of Lindroos binary sample (Lindroos 1985). We will discuss their
+post-T Tauri stars (see Sect. 6.4 to see why we add the qualifier evolutionary status and their physical link with the correspond-
+“suspected” to these stars). In Table 1 we list some properties of ing cool stars in Sect. 6.4.
 the stars. Column 1 gives the identification of the object, Col. 2
 provides other identifications, when available, from the MWC,
-BD or HD catalogues; Col. 3, the type of star; Col. 4, the projected rotational velocity v sin i and Col. 5 indicates whether the
-star has emission in the Hα line or not. Since the presence or absence of this emission is an indicator of activity, these data will
-be useful to discuss the evolutionary status of the objects. The
-stars were chosen from the EXPORT sample (Eiroa et al. 2000).
-Apart from the intrinsic interest of the objects, one of the peculiarities of analysing these kinds of early-type objects is that
-the determination of gravities, as we will see in Sect. 4.2, is feasible due to the fact that, for stars with T eﬀ above approximately
-7500 K, the shapes of the profiles of the Balmer lines have a
-strong dependence on stellar gravity. Provided that an estimation
-of T eﬀ is available, log g∗ can be derived and a determination of
-other stellar parameters performed.
-The stars HR 26 A, HR 4757 A and HR 5422 A are the
-hot components of three binary systems whose cool star is a
+BD or HD catalogues; Col. 3, the type of star; Col. 4, the pro- 3. The observations
+jected rotational velocity v sin i and Col. 5 indicates whether the
+star has emission in the Hα line or not. Since the presence or ab- Two sets of observations have been used in this work.
+sence of this emission is an indicator of activity, these data will Intermediate resolution, high signal-to-noise spectra in the range
+be useful to discuss the evolutionary status of the objects. The 3700–6200 Å were obtained for all the stars with CAFOS (Calar
+stars were chosen from the EXPORT sample (Eiroa et al. 2000). Alto Faint Object Spectrograph) on the 2.2-m telescope at Calar
 
-Table 1. The sample of stars.
-Star
-HD 31648
-HD 58647
-HD 150193
-HD 163296
-HD 179218
-HD 190073
-HR 10
-HR 26 A
-HR 2174
-HR 4757 A
-HR 5422 A
-HR 9043
-AS 442
-BD+31 643
-λ Boo
-VX Cas
-SV Cep
-49 Cet
-24 CVn
-51 Oph
-T Ori
-BF Ori
-UX Ori
-V346 Ori
-V350 Ori
-XY Per
-VV Ser
-17 Sex
-RR Tau
-WW Vul
+Apart from the intrinsic interest of the objects, one of the pe- Alto Observatory (CAHA, Almería, Spain). The observations
+culiarities of analysing these kinds of early-type objects is that were taken in two campaigns, 28 October–2 November 2004
+the determination of gravities, as we will see in Sect. 4.2, is fea- and 1–4 April 2005. The motivation was to obtain high quality
+sible due to the fact that, for stars with Teff above approximately Balmer line profiles, in particular Hβ, Hγ and Hδ, in order to es-
+7500 K, the shapes of the profiles of the Balmer lines have a timate the stellar gravities (see Sect. 4.2). CAFOS was equipped
+strong dependence on stellar gravity. Provided that an estimation with a CCD SITe detector of 2048 × 2048 pixels (pixel size
+of Teff is available, log g∗ can be derived and a determination of 24 μm) and the grism Blue-100, centered at 4238 Å, giving a
+other stellar parameters performed. linear dispersion of ∼88 Å/mm (2 Å/pixel), which is equivalent
 
-Other ID
-MWC 480
-BD−13 2008
-MWC 863
-MWC 275
-MWC 614
-MWC 325
-HD 256
-HD 560 A
-HD 4211
-HD 108767 A
-HD 127304 A
-HD 223884
-HD 281159
-HD 125162
-BD+72 1031
-HD 9672
-HD 118232
-HD 158643
-BD−05 1329
-BD−06 1259
-HD 293782
-HD 287841
-HD 275877
-HD 88195
-BD+26 887a
-HD 344361
+The stars HR 26 A, HR 4757 A and HR 5422 A are the to a resolving power of ∼2500. A slit width of 130 μm was used,
+hot components of three binary systems whose cool star is a corresponding to 1.5 arcsec projected on the sky. The usual bias,
 
-Type of star
-HAeBe
-HAeBe
-HAeBe
-HAeBe
-HAeBe
-HAeBe
-Ash
-HPTT
-Vega
-HPTT
-HPTT
-Vega
-HAeBe
-Vega
-Vega
-HAeBe
-HAeBe
-Vega
-Ash
-HAeBe
-HAeBe
-HAeBe
-HAeBe
-HAeBe
-HAeBe
-HAeBe
-HAeBe
-Ash
-HAeBe
-HAeBe
 
-v sin i (km s−1 )
-102 ± 5
-118 ± 4
-133 ± 6
-294 ± 9
-252 ± 7
-239 ± 7
-7.4 ± 0.3
-205 ± 18
-162 ± 13
-129 ± 7
-179 ± 18
-206 ± 13
-186 ± 4
-173 ± 4
-256 ± 11
-175 ± 14
-37 ± 2
-215 ± 15
-217 ± 13
-229 ± 9
-259 ± 13
-225 ± 35
-220 ± 22
 
-Hα
-Y
-Y
-Y
-Y
-Y
-Y
-N
-N
-N
-N
-N
-N
-Y
-N
-N
-Y
-Y
-N
-N
-Y
-Y
-Y
-Y
-Y
-Y
-Y
-Y
-N
-Y
-Y
-
-Notes to Table 1: Column 3: HAeBe (Herbig Ae/Be), HPTT (hot companion of a post-T Tauri star) and Ash (A-shell star). The data for v sin i
-are from Mora et al. (2001). Slight refinements to the results for SV Cep
-(225 km s−1 ), XY Per (200 km s−1 ) and WW Vul (210 km s−1 ) were presented by Mora et al. (2004). A blank in Col. 4 means that the star was
-not observed with high resolution, furthermore the determination of this
-parameter was not feasible and its value has not been found elsewhere.
-
-post-T Tauri object. The systems belong to the so-called
-Lindroos binary sample (Lindroos 1985). We will discuss their
-evolutionary status and their physical link with the corresponding cool stars in Sect. 6.4.
-
-3. The observations
-Two sets of observations have been used in this work.
-Intermediate resolution, high signal-to-noise spectra in the range
-3700–6200 Å were obtained for all the stars with CAFOS (Calar
-Alto Faint Object Spectrograph) on the 2.2-m telescope at Calar
-Alto Observatory (CAHA, Almería, Spain). The observations
-were taken in two campaigns, 28 October–2 November 2004
-and 1–4 April 2005. The motivation was to obtain high quality
-Balmer line profiles, in particular Hβ, Hγ and Hδ, in order to estimate the stellar gravities (see Sect. 4.2). CAFOS was equipped
-with a CCD SITe detector of 2048 × 2048 pixels (pixel size
-24 μm) and the grism Blue-100, centered at 4238 Å, giving a
-linear dispersion of ∼88 Å/mm (2 Å/pixel), which is equivalent
-to a resolving power of ∼2500. A slit width of 130 μm was used,
-corresponding to 1.5 arcsec projected on the sky. The usual bias,
-
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
-
-903
+B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars 903
 
 dark and dome flat-field frames were taken each night. Standard
-procedures were used to process the data. The nominal positions of the Balmer lines were used to self-calibrate the spectra
+procedures were used to process the data. The nominal posi-
+tions of the Balmer lines were used to self-calibrate the spectra
 in wavelength; a second-order polynomial wavelength-pixel was
 used. The widths of the lines of the calibration Hg-He-Rb lamps
 were used to obtain the width of the instrumental profile of the
 spectrograph for each night.
-High-resolution echelle spectra were used in the computation of the metallicities (Sect. 4.3). These spectra were taken
+
+High-resolution echelle spectra were used in the computa-
+tion of the metallicities (Sect. 4.3). These spectra were taken
 during the four EXPORT campaigns in 1998 and 1999 with
 the Utrech Echelle Spectrograph (UES) on the 4.2-m William
 Herschel Telescope (WHT) at the Observatorio del Roque de
@@ -346,443 +174,335 @@ observations can be found in Mora et al. (2001).
 Figure 1 shows a sketch of the whole procedure we follow to
 compute the stellar parameters. In the next paragraphs of this
 Section we describe in detail every step.
+
 4.1. The effective temperature
 
-The eﬀective temperature is the first quantity needed to start the
+The effective temperature is the first quantity needed to start the
 computation of the whole set of parameters. The procedure to
-estimate T eﬀ followed in this work and also by Merín (2004)
-consists of a comparison of the observed spectral energy distribution, more precisely of its photospheric part (see Sect. 6.1
-for a discussion on this), with a grid of low-resolution synthetic spectra (Kurucz 1993), with diﬀerent eﬀective temperatures1 and reddened with a range of extinctions, typically from
+estimate Teff followed in this work and also by Merín (2004)
+consists of a comparison of the observed spectral energy dis-
+tribution, more precisely of its photospheric part (see Sect. 6.1
+for a discussion on this), with a grid of low-resolution syn-
+thetic spectra (Kurucz 1993), with different effective tempera-
+tures1 and reddened with a range of extinctions, typically from
 E(B − V) = 0.1 to 1.2, in those cases when no solution with the
 original models was found. The total-to-selective extinction RV
 used is 3.1 although some studies (e.g. Hernández et al. 2004)
 suggest that a higher value (RV ∼ 5) could be more appropriate
 to model the extinction caused by the environment of HAeBe
-stars. We will discuss this choice in Sect. 6.4. The synthetic spectra were normalized to the observed SED and the best fits were
+stars. We will discuss this choice in Sect. 6.4. The synthetic spec-
+tra were normalized to the observed SED and the best fits were
 chosen after a careful comparison and assessment of each case.
-In some cases a degeneracy appeared, i.e. two or more synthetic spectra fit the observed SED reasonably well, therefore additional information (e.g. the best fit between the observed and
+
+In some cases a degeneracy appeared, i.e. two or more syn-
+thetic spectra fit the observed SED reasonably well, therefore ad-
+ditional information (e.g. the best fit between the observed and
 synthetic Balmer profiles) had to be used to break it and choose
 the correct solution. In Sect. 6.4 we show how to solve this and
 other problems found at this first step for some of the objects,
 in particular the very complex cases of VV Ser and RR Tau.
-The degeneracy cannot be broken using the intrinsic photometric colours of standard stars compared with those of the target
-stars: two synthetic spectra corresponding to two diﬀerent sets
-of values (T eﬀ , g∗ ) can fit the observed photometric points for
-two diﬀerent values of E(B−V), both of them being consistent
+The degeneracy cannot be broken using the intrinsic photomet- Fig. 1. A flow chart sketching the procedure we use to estimate the stel-
+ric colours of standard stars compared with those of the target lar parameters.
+stars: two synthetic spectra corresponding to two different sets
+of values (Teff, g∗) can fit the observed photometric points for
+two different values of E(B−V), both of them being consistent
 with the intrinsic colours of stars of each spectral type reddened
-to match the observed colours.
-The SEDs are built from simultaneous optical and nearinfrared (near-IR) photometry obtained in 1998 and 1999 (Eiroa
-et al. 2001; Oudmaijer et al. 2001). Simultaneity of the observations is a key point at this step, since for highly variable objects,
-1
-At this step, the value of the gravity of the synthetic models does not
-have any noticeable eﬀect on the estimation of the eﬀective temperature.
+to match the observed colours. the use of photometry from different epochs could lead to wrong
 
-Fig. 1. A flow chart sketching the procedure we use to estimate the stellar parameters.
+The SEDs are built from simultaneous optical and near- results. Among our data, the photometry corresponding to the
+infrared (near-IR) photometry obtained in 1998 and 1999 (Eiroa maximum of the stellar brightness, i.e. obtained when the star is
+et al. 2001; Oudmaijer et al. 2001). Simultaneity of the observa- likely to be less obscured, is used in building the SED. We work
+tions is a key point at this step, since for highly variable objects, here under the hypothesis that the obscuration is caused by the
 
-the use of photometry from diﬀerent epochs could lead to wrong
-results. Among our data, the photometry corresponding to the
-maximum of the stellar brightness, i.e. obtained when the star is
-likely to be less obscured, is used in building the SED. We work
-here under the hypothesis that the obscuration is caused by the
 disk, and hence, that the brightest set of magnitudes in the optical
-and near-IR – up to the wavelength where the thermal emission
-from the disk starts – represents the stellar photosphere.
+1 At this step, the value of the gravity of the synthetic models does not and near-IR – up to the wavelength where the thermal emission
+have any noticeable effect on the estimation of the effective temperature. from the disk starts – represents the stellar photosphere.
 
-904
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
 
-Table 2. Eﬀective temperatures, gravities and metallicities.
-Star
-T eﬀ (K)
-log g∗
-HD 58647
-10 5001 3.33 ± 0.05
-HD 150193
-89701 3.99 ± 0.12
-HD 179218
-95001 3.91 ± 0.07
-HD 190073
-95001 3.37 ± 0.08
-HR 26 A
-11 4002 4.08 ± 0.05
-AS 442
-11 0007 3.79 ± 0.10
-BD+31 643 15 4001 3.75 ± 0.05
-V346 Ori
-97507 3.96 ± 0.11
-V350 Ori
-89707 4.07 ± 0.12
-Star
-T eﬀ (K)
-log g∗
-[M/H]
-HD 31648
-82507 4.00 ± 0.20
-0.00 ± 0.05
-HD 163296
-92507 4.07 ± 0.09 +0.20 ± 0.10
-+0.20:
-HR 10
-97507 3.72 ± 0.10
-0.00 ± 0.10
-HR 2174
-89701 3.08 ± 0.12
-HR 4757 A 10 4002,7 4.06 ± 0.05 +0.10 ± 0.10
-HR 5422 A
-10 2507 4.08 ± 0.06 +0.20 ± 0.10
-0.00 ± 0.10
-HR 9043
-75703 3.85 ± 0.10
-λ Boo
-87504 4.10 ± 0.12 −1.50 ± 0.20
-0.00 ± 0.10
-VX Cas
-10 0007 4.27 ± 0.05
-SV Cep
-10 2505,7 4.25 ± 0.10 +0.10 ± 0.10
-49 Cet
-95007 4.30 ± 0.11 +0.10 ± 0.10
-24 CVn
-90007 3.81 ± 0.13 +0.80 ± 0.10
-51 Oph
-10 2507 3.57 ± 0.06 +0.10 ± 0.10
-T Ori
-97507 4.03 ± 0.10 +0.10 ± 0.10
-BF Ori
-89701 3.83 ± 0.12 +0.20 ± 0.05
-0.00 ± 0.10
-UX Ori
-84601 3.89 ± 0.15
-+0.80:
-XY Per
-97507 3.86 ± 0.16
-0.00:
-VV Ser
-13 8006,7 4.02 ± 0.15
-17 Sex
-95201 3.19 ± 0.10 +0.10 ± 0.10
-RR Tau
-10 0007 3.31 ± 0.13 +0.10 ± 0.05
-WW Vul
-89701 3.90 ± 0.20 +0.50 ± 0.10
-Notes to Table 2: the eﬀective temperatures are from 1 Merín (2004);
-2
-Gerbaldi et al. (2001); 3 Paunzen et al. (2006); 4 adopted as a mean
-of the values proposed by Venn & Lambert (1990) and Adelman et al.
-(2002); 5 Mora et al. (2004); 6 Hernández et al. (2004); 7 this work.
+904 B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
 
-Some stars were observed in the range 1200–3200 Å by
-the International Ultraviolet Explorer (IUE) space observatory;
-these observations2 are used with caution to complete the SEDs,
-due to the variable nature of most of the objects and the nonsimultaneity of the UV data with the optical and near-IR observations3 . In addition to the method outlined in the first paragraph
-of this subsection, the comparison between the unreddened synthetic spectra and the ultraviolet part of the SED is particularly
-useful to have a better estimation of the extinction. AAVSO4
-magnitudes, when they had been measured almost simultaneously with the IUE observations, are used to place at the same
-level the ultraviolet and the optical/near-IR parts of the SED.
-Table 2 gives the results for the eﬀective temperatures found
-in this work and adopted throughout. In a few cases, specified in
-the table, values of the eﬀective temperature from other sources
-have been used. A typical upper limit of the uncertainty in the
-determination of this parameter is of the order of ±200 K.
-2
-
-http://sdc.laeff.inta.es/ines/
-IUE was operative between 1978 and 1996, see Kondo (1989) and
-Wamsteker & González-Riestra (1998) for details.
-4
-American Association of Variable Star Observers, http://www.
-aavso.org/
-3
-
-4.2. Stellar gravities
+Table 2. Effective temperatures, gravities and metallicities. 4.2. Stellar gravities
 
 Stellar gravities are estimated by comparing the wings of the
-Balmer lines Hβ, Hγ and Hδ with synthetic profiles extracted
+Star Teff (K) log g∗ Balmer lines Hβ, Hγ and Hδ with synthetic profiles extracted
+HD 58647 10 5001 3.33 ± 0.05
+
 from Kurucz (1993) model atmospheres. The gravity is obtained
-by measuring the wavelengths of the intensity levels I = 0.80
+HD 150193 89701 3.99 ± 0.12 by measuring the wavelengths of the intensity levels I = 0.80
+HD 179218 95001 3.91 ± 0.07
+
 and I = 0.90 – the latter only if the profile is clean enough –
-below the normalized continuum on the blue and red sides of the
-observed Balmer profiles. These intensities were chosen to avoid
+HD 190073 95001 3.37 ± 0.08
+HR 26 A 11 4002 below the normalized continuum on the blue and red sides of the
+
+4.08 ± 0.05 observed Balmer profiles. These intensities were chosen to avoid
+AS 442 11 0007 3.79 ± 0.10
+
 potential uncertainties in the overall shape of the wings near the
+BD+31 643 15 4001 3.75 ± 0.05
+
 continuum arising both from the normalization of the original
-spectra and from the presence of weak absorption lines in this
+V346 Ori 97507 3.96 ± 0.11
+V350 Ori 89707 spectra and from the presence of weak absorption lines in this
+
+4.07 ± 0.12
 region.
-A pair of values, namely λ(blue) and λ(red), is obtained for
-each line for the intensity levels mentioned above. Each wavelength is then compared with the corresponding one measured
-on a grid of synthetic profiles computed for the eﬀective temperature of the star, and diﬀerent gravities. The initial metallicity adopted is [M/H] = 0.0, i.e. solar. The synthetic profiles are
-convolved with the instrumental response function of the corresponding night. The eﬀect of rotational broadening, even for values of v sin i as high as ∼250 km s−1 , is negligible in the upper
-part (above I  0.50) of the synthetic Balmer profiles, therefore
-this broadening was not applied. Linear interpolation was used to
-convert the discrete grid of wavelengths from the Kurucz models
-into a continuous functions of log g∗ . The final result for log g∗
-is the mean value of the results for each line with an uncertainty
-corresponding to the standard deviation σ. The observed Balmer
-profiles showing emission or strange features due to the presence
-of several components of diﬀerent widths were not used for the
-computations of gravities.
-In Fig. 2 we see an example of the determination of the stellar gravity. The panel on the left shows the Hβ line profile (solid
-line plotted in grey) for BF Ori (T eﬀ = 8970 K) and three synthetic profiles (dotted black lines) corresponding to that eﬀective temperature and values of log g∗ of 3.5, 4.0 and 4.5 (the
-higher the gravity, the broader the synthetic profile). The linear interpolation done at the blue and red wings of each profile and the subsequent average for the three Balmer lines give a
+
+Star Teff (K) log g∗ [M/H] A pair of values, namely λ(blue) and λ(red), is obtained for
+HD 31648 82507 4.00 ± 0.20 0.00 ± 0.05 each line for the intensity levels mentioned above. Each wave-
+HD 163296 92507 4.07 ± 0.09 +0.20 ± 0.10 length is then compared with the corresponding one measured
+HR 10 97507 3.72 ± 0.10 +0.20: on a grid of synthetic profiles computed for the effective tem-
+HR 2174 89701 3.08 ± 0.12 0.00 ± 0.10 perature of the star, and different gravities. The initial metallic-
+HR 4757 A 10 4002,7 4.06 ± 0.05 +0.10 ± 0.10 ity adopted is [M/H] = 0.0, i.e. solar. The synthetic profiles are
+HR 5422 A 10 2507 4.08 ± 0.06 +0.20 ± 0.10 convolved with the instrumental response function of the corre-
+HR 9043 75703 3.85 ± 0.10 0.00 ± 0.10 sponding night. The effect of rotational broadening, even for val-
+λ Boo 87504 4.10 ± 0.12 −1.50 ± 0.20 ues of v sin i as high as ∼250 km s−1, is negligible in the upper
+VX Cas 10 0007 4.27 ± 0.05 0.00 ± 0.10 part (above I  0.50) of the synthetic Balmer profiles, therefore
+SV Cep 10 2505,7 4.25 ± 0.10 +0.10 ± 0.10 this broadening was not applied. Linear interpolation was used to
+49 Cet 95007 4.30 ± 0.11 +0.10 ± 0.10 convert the discrete grid of wavelengths from the Kurucz models
+24 CVn 90007 3.81 ± 0.13 +0.80 ± 0.10 into a continuous functions of log g∗. The final result for log g∗
+51 Oph 10 2507 3.57 ± 0.06 +0.10 ± 0.10 is the mean value of the results for each line with an uncertainty
+T Ori 97507 4.03 ± 0.10 +0.10 ± 0.10 corresponding to the standard deviationσ. The observed Balmer
+BF Ori 89701 3.83 ± 0.12 +0.20 ± 0.05 profiles showing emission or strange features due to the presence
+UX Ori 84601 3.89 ± 0.15 0.00 ± 0.10 of several components of different widths were not used for the
+XY Per 97507 3.86 ± 0.16 +0.80: computations of gravities.
+VV Ser 13 8006,7 4.02 ± 0.15 0.00: In Fig. 2 we see an example of the determination of the stel-
+17 Sex 95201 3.19 ± 0.10 +0.10 ± 0.10 lar gravity. The panel on the left shows the Hβ line profile (solid
+RR Tau 10 0007 3.31 ± 0.13 +0.10 ± 0.05 line plotted in grey) for BF Ori (Teff = 8970 K) and three syn-
+WW Vul 89701 3.90 ± 0.20 +0.50 ± 0.10 thetic profiles (dotted black lines) corresponding to that effec-
+
+Notes to Table 2: the effective temperatures are from 1 Merín (2004);
+2 tive temperature and values of log g∗ of 3.5, 4.0 and 4.5 (the
+
+Gerbaldi et al. (2001); 3 Paunzen et al. (2006); 4 adopted as a mean
+of the values proposed by Venn & Lambert (1990) and Adelman et al. higher the gravity, the broader the synthetic profile). The lin-
+(2002); 5 Mora et al. (2004); 6 Hernández et al. (2004); 7 this work. ear interpolation done at the blue and red wings of each pro-
+
+file and the subsequent average for the three Balmer lines give a
 value of log g∗ = 3.83 ± 0.12. The panel on the right shows the
 CAFOS spectrum for this star in the interval 4000–5000 Å, and
-the three synthetic Balmer profiles for Hδ, Hγ and Hβ computed
-for T eﬀ = 8970 K and log g∗ = 3.83. In this particular case, the
-metal abundance we found was slightly larger than solar, namely
-[M/H] =+0.20 ± 0.05 (see below in Sect. 4.3 and Table 2). An
-iteration in the estimation of the gravity following the same process, but using that value of the metallicity in the synthesis of
-the Balmer lines, gives the same result for this star (see Fig. 1).
-All the synthetic profiles shown in Fig. 2 were computed with
-[M/H] = +0.20.
-4.3. Metallicities
 
-Metal abundances are determined by comparing the profiles of
-lines (or blends) extracted from the high-resolution spectra with
-synthetic spectra computed using the ATLAS9 and SYNTHE
-codes by Kurucz (1993). In this work we have used the GNU
-Linux version of the codes available online5 (Sbordone et al.
+Some stars were observed in the range 1200–3200 Å by the three synthetic Balmer profiles for Hδ, Hγ and Hβ computed
+the International Ultraviolet Explorer (IUE) space observatory; for Teff = 8970 K and log g∗ = 3.83. In this particular case, the
+these observations2 are used with caution to complete the SEDs, metal abundance we found was slightly larger than solar, namely
+due to the variable nature of most of the objects and the non- [M/H] =+0.20 ± 0.05 (see below in Sect. 4.3 and Table 2). An
+simultaneity of the UV data with the optical and near-IR obser- iteration in the estimation of the gravity following the same pro-
+vations3. In addition to the method outlined in the first paragraph cess, but using that value of the metallicity in the synthesis of
+of this subsection, the comparison between the unreddened syn- the Balmer lines, gives the same result for this star (see Fig. 1).
+thetic spectra and the ultraviolet part of the SED is particularly All the synthetic profiles shown in Fig. 2 were computed with
+useful to have a better estimation of the extinction. AAVSO4 [M/H] = +0.20.
+magnitudes, when they had been measured almost simultane-
+ously with the IUE observations, are used to place at the same
+level the ultraviolet and the optical/near-IR parts of the SED. 4.3. Metallicities
+
+Table 2 gives the results for the effective temperatures found Metal abundances are determined by comparing the profiles of
+in this work and adopted throughout. In a few cases, specified in lines (or blends) extracted from the high-resolution spectra with
+the table, values of the effective temperature from other sources synthetic spectra computed using the ATLAS9 and SYNTHE
+have been used. A typical upper limit of the uncertainty in the codes by Kurucz (1993). In this work we have used the GNU
+determination of this parameter is of the order of ±200 K. Linux version of the codes available online5 (Sbordone et al.
+
 2004).
-Model atmospheres provided by Castelli & Kurucz (2003)
-are used as one of the inputs for the synthesis. These models
-have more accurate solar abundances, were computed with new
-5
+2 http://sdc.laeff.inta.es/ines/ Model atmospheres provided by Castelli & Kurucz (2003)
+3 IUE was operative between 1978 and 1996, see Kondo (1989) and are used as one of the inputs for the synthesis. These models
+Wamsteker & González-Riestra (1998) for details. have more accurate solar abundances, were computed with new
+4 American Association of Variable Star Observers, http://www.
+aavso.org/ 5 http://wwwuser.oat.ts.astro.it/atmos/
 
-http://wwwuser.oat.ts.astro.it/atmos/
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
 
-905
+B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars 905
 
-Fig. 2. Left: Hβ profile of BF Ori (grey solid line) and synthetic profiles (black dotted lines) computed with T eﬀ = 8970 K, the eﬀective temperature
+Fig. 2. Left: Hβ profile of BF Ori (grey solid line) and synthetic profiles (black dotted lines) computed with Teff = 8970 K, the effective temperature
 of this star, and log g∗ = 3.5, 4.0 and 4.5 (the latter profile is the broadest). Right: Spectrum of BF Ori obtained with CAFOS on the 2.2-m telescope
-at CAHA (grey solid line) and the synthetic profiles for Hδ, Hγ and Hβ computed for T eﬀ = 8970 K and log g∗ = 3.83 (black solid lines) broadened
+at CAHA (grey solid line) and the synthetic profiles for Hδ, Hγ and Hβ computed for Teff = 8970 K and log g∗ = 3.83 (black solid lines) broadened
 with the instrumental profile. All the synthetic models shown in this figure were computed with [M/H] = +0.20, which is the metallicity estimated
 for this star.
 
-opacity distribution functions (ODFs) and contain further improvements upon previous ODFs Kurucz models (see the paper
-by Castelli & Kurucz (2003) for details). The ATLAS9 code allows us to compute, for a given metallicity, a model atmosphere
-for any value of the eﬀective temperature and gravity from a
-“close” model already present in the Castelli & Kurucz grids.
-This step had to be done for all the stars in our sample because
-the corresponding model atmospheres did not exist for their values of T eﬀ and log g∗ .
-The spectral synthesis was carried out using SYNTHE,
-which is actually not a single code, but a suite of programmes.
-Apart from the model atmosphere – which contains, among other
-things, the atomic fractions of the diﬀerent elements – the list of
-the atomic and molecular transitions and the spectral range to be
-synthetized are also read. SYNTHE computes the excitation and
-ionization populations of neutrals and ions and then produces
-the final spectrum. A special module of SYNTHE computes intensities at several inclinations in the atmosphere and uses these,
-along with the value of v sin i (see Table 1), to simulate the spectrum of a rotating star.
-Spectra corresponding to the same T eﬀ and log g∗ are computed for diﬀerent metallicities and a comparison is made with
-the observed spectrum. Most of the stars in the sample have large
-values of the projected rotational velocity, therefore it is impossible to analyse individual lines and only an average value of the
-metallicity can be extracted. Two regions have been explored to
+opacity distribution functions (ODFs) and contain further im- transitions contribute to each blend. It is apparent in both sec-
+provements upon previous ODFs Kurucz models (see the paper tions plotted, especially in the second panel covering the inter-
+by Castelli & Kurucz (2003) for details). The ATLAS9 code al- val 4570–4600 Å, how some lines change dramatically from one
+lows us to compute, for a given metallicity, a model atmosphere epoch to another. Other features, which have been labelled with
+for any value of the effective temperature and gravity from a the identification of the most intense line in the blend, remain al-
+“close” model already present in the Castelli & Kurucz grids. most unchanged. The panel at the bottom shows two spectra of
+This step had to be done for all the stars in our sample because λ Boo around the Mg ii doublet at 4481.13–4481.33 Å obtained
+the corresponding model atmospheres did not exist for their val- on 16 May 1998 (light grey) and 29 July 1998 (dark grey). The
+ues of Teff and log g∗. first one is best fitted with [Mg/H] = −2.0, whereas the latter
+
+The spectral synthesis was carried out using SYNTHE, shows traces of high circumstellar activity. No attempt was made
+which is actually not a single code, but a suite of programmes. to obtain any value of the abundance from this spectrum.
+Apart from the model atmosphere – which contains, among other Figure 4 is also very illustrative of another difficulty in es-
+things, the atomic fractions of the different elements – the list of timating the metal abundances for these stars: in some cases,
+the atomic and molecular transitions and the spectral range to be for a given object, lines of the same element in different ion-
+synthetized are also read. SYNTHE computes the excitation and ization states are fitted by synthetic spectra with very different
+ionization populations of neutrals and ions and then produces metal abundances. The plot shows two regions of the spectrum
+the final spectrum. A special module of SYNTHE computes in- of HD 31648, namely around the Mg i line at 8806.76 Å and
+tensities at several inclinations in the atmosphere and uses these, around the Mg ii doublet at 4481.2 Å. The observations are not
+along with the value of v sin i (see Table 1), to simulate the spec- simultaneous6; the Mg i profile is best fitted by a model with
+trum of a rotating star. [Mg/H] = −0.10, whereas the Mg ii doublet is best reproduced
+
+Spectra corresponding to the same Teff and log g∗ are com- with a synthetic model with [Mg/H] = +0.50. Such a discrep-
+puted for different metallicities and a comparison is made with ancy could be attributed to circumstellar contamination of the
+the observed spectrum. Most of the stars in the sample have large line in the latter case.
+values of the projected rotational velocity, therefore it is impos-
+sible to analyse individual lines and only an average value of the
+metallicity can be extracted. Two regions have been explored to 4.4. Iterations
 estimate metallicities, namely that between 4150 and 4280 Å
-and the one between 4450 and 4520 Å. In a few stars, those with
-low or moderate values of v sin i, individual abundances for each
-chemical element could be derived from the spectra, this is the
-case for HR 5422 A and BF Ori, and to a less extent, that of stars
-with v sin i less than around 150 km s−1 . In this work only average abundances, even for the low-v sin i objects, were computed.
-Some stars in the sample show various and complex degrees
-of variability; therefore it is important, whenever it is possible, to compare all the spectra available for a given object and
-select those spectral features that present little or no variation
-from one epoch to another. In Fig. 3 we show two examples
-of how important this can be. The top part of the plot shows
-two regions of high-resolution spectra of BF Ori. The spectra
-taken on 25 October 1998 (dark-grey line) and 30 January 1999
+and the one between 4450 and 4520 Å. In a few stars, those with As we mentioned at the beginning of this Section, the determi-
+low or moderate values of v sin i, individual abundances for each nation of the effective temperature was done by comparing the
+chemical element could be derived from the spectra, this is the SED of each star with synthetic models with [M/H] = 0.0. The
+case for HR 5422 A and BF Ori, and to a less extent, that of stars first determination of the stellar gravity, following the flow chart
+with v sin i less than around 150 km s−1. In this work only aver- shown in Fig. 1, also assumed solar metallicity. The pair (Teff,
+age abundances, even for the low-v sin i objects, were computed. log g∗) was used to extract the metallicity. When the value of the
+
+Some stars in the sample show various and complex degrees metal abundance obtained was different by more than 0.30 dex
+of variability; therefore it is important, whenever it is possi- from the solar one, we iterated the whole process, i.e. a new ef-
+ble, to compare all the spectra available for a given object and fective temperature was estimated and a new gravity was found,
+select those spectral features that present little or no variation using in both cases models and synthetic profiles computed with
+from one epoch to another. In Fig. 3 we show two examples the new metallicity. It turned out that for metallicity differences
+of how important this can be. The top part of the plot shows as large as 0.80, the new effective temperature did not differ from
+two regions of high-resolution spectra of BF Ori. The spectra the original determination, therefore only the gravity was recom-
+taken on 25 October 1998 (dark-grey line) and 30 January 1999 puted for those stars. A full iteration, i.e. the estimation of new
 (light-grey line) are shown together with the synthetic spectrum,
-which has been overplotted as a black solid line. In the upper
-part of each panel, the unbroadened spectrum shows how many
+which has been overplotted as a black solid line. In the upper 6 The spectrum of HD 31648 around the Mg i line was obtained in
+part of each panel, the unbroadened spectrum shows how many December 1996, kindly provided by Dr Bram Acke.
 
-transitions contribute to each blend. It is apparent in both sections plotted, especially in the second panel covering the interval 4570–4600 Å, how some lines change dramatically from one
-epoch to another. Other features, which have been labelled with
-the identification of the most intense line in the blend, remain almost unchanged. The panel at the bottom shows two spectra of
-λ Boo around the Mg ii doublet at 4481.13–4481.33 Å obtained
-on 16 May 1998 (light grey) and 29 July 1998 (dark grey). The
-first one is best fitted with [Mg/H] = −2.0, whereas the latter
-shows traces of high circumstellar activity. No attempt was made
-to obtain any value of the abundance from this spectrum.
-Figure 4 is also very illustrative of another diﬃculty in estimating the metal abundances for these stars: in some cases,
-for a given object, lines of the same element in diﬀerent ionization states are fitted by synthetic spectra with very diﬀerent
-metal abundances. The plot shows two regions of the spectrum
-of HD 31648, namely around the Mg i line at 8806.76 Å and
-around the Mg ii doublet at 4481.2 Å. The observations are not
-simultaneous6 ; the Mg i profile is best fitted by a model with
-[Mg/H] = −0.10, whereas the Mg ii doublet is best reproduced
-with a synthetic model with [Mg/H] = +0.50. Such a discrepancy could be attributed to circumstellar contamination of the
-line in the latter case.
-4.4. Iterations
 
-As we mentioned at the beginning of this Section, the determination of the eﬀective temperature was done by comparing the
-SED of each star with synthetic models with [M/H] = 0.0. The
-first determination of the stellar gravity, following the flow chart
-shown in Fig. 1, also assumed solar metallicity. The pair (T eﬀ ,
-log g∗ ) was used to extract the metallicity. When the value of the
-metal abundance obtained was diﬀerent by more than 0.30 dex
-from the solar one, we iterated the whole process, i.e. a new effective temperature was estimated and a new gravity was found,
-using in both cases models and synthetic profiles computed with
-the new metallicity. It turned out that for metallicity diﬀerences
-as large as 0.80, the new eﬀective temperature did not diﬀer from
-the original determination, therefore only the gravity was recomputed for those stars. A full iteration, i.e. the estimation of new
-6
-The spectrum of HD 31648 around the Mg i line was obtained in
-December 1996, kindly provided by Dr Bram Acke.
 
-906
+906 B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
-
-place the star in an HR diagram log g∗ − log T eﬀ and superimpose the appropriate set of evolutionary tracks and isochrones
-for that specific metallicity. This gives directly – or after a simple interpolation between the tracks and isochrones enclosing
-the position of the star – the stellar mass and the age. In addition, since there is a one-to-one correspondence between a pair
-(T eﬀ , g∗ ) on a given track and a pair (T eﬀ , L∗ /L ), one can also
+place the star in an HR diagram log g∗ − log Teff and superim-
+pose the appropriate set of evolutionary tracks and isochrones
+for that specific metallicity. This gives directly – or after a sim-
+ple interpolation between the tracks and isochrones enclosing
+the position of the star – the stellar mass and the age. In addi-
+tion, since there is a one-to-one correspondence between a pair
+(Teff, g∗) on a given track and a pair (Teff, L∗/L), one can also
 estimate the stellar luminosity in solar units, and if the observed
-– dereddened – stellar flux, F∗ , is known through the SED, then,
+– dereddened – stellar flux, F∗, is known through the SED, then,
 an estimation of the distance can also be made. The values of
 F∗ are taken from Merín (2004) or determinations carried out
 in this work. F∗ is computed by fully integrating the flux of the
 dereddened synthetic Kurucz model that is considered to best fit
 the photospheric part of the SED.
+
 The evolutionary tracks for a scaled solar mixture from the
 Yonsei-Yale group (Yi et al. 2001) – Y2 in their notation – have
 been used in this work. The Y2 set contains tracks up to M =
-5.2 M , therefore, the tracks from Siess et al. (2000) for masses
+5.2 M, therefore, the tracks from Siess et al. (2000) for masses
 above that value were used in a few cases (see Sect. 5.2, for
 details).
 
 5. Results
 5.1. Gravities and metallicities
 
-Fig. 3. Top: two sections of the UES/WHT spectra of BF Ori along with
-the synthetic spectrum. The spectra plotted in dark-grey and light-grey
-solid lines – both of them with their continuum normalized to an intensity of 1.0 – were obtained on 25 October 1998 and 30 January 1999,
-respectively. The synthetic spectrum, computed for T eﬀ = 8970 K,
-log g∗ = 3.83 and [M/H] = +0.20 and broadened with a rotation profile v sin i = 38 km s−1 has been plotted as a black solid line superimposed on the observed spectra. In the upper part of each panel we show
-the synthetic unbroadened spectrum – not to scale – for comparison.
-Bottom: two spectra of λ Boo around the Mg ii doublet obtained on
-16 May 1998 (light grey) and 29 July 1998 (dark grey). The first one is
-best fitted with [Mg/H] = −2.0, whereas the latter shows traces of high
-circumstellar activity. See text for further details.
-
-values of T eﬀ and log g∗ , was done for λ Boo. One iteration cycle
-was suﬃcient to reach the final results.
-4.5. Masses, luminosities, ages and distances
-
-As can be seen at the bottom of Fig. 1, the knowledge of the
-eﬀective temperature, gravity and metal abundance allows us to
-
-Table 2 shows the values of the eﬀective temperature, gravity and
+Table 2 shows the values of the effective temperature, gravity and
 metallicity (the latter when high-resolution observations were
 available) for the stars in the sample. In three cases, namely
 HR 26 A, HR 9043 and λ Boo, specified in the table, values
-of T eﬀ obtained by other authors with a methodology diﬀerent
+of Teff obtained by other authors with a methodology different
 from that of Merín (2004) or this work have been used; for the
 first two stars the calibrations used in those papers gave more
 accurate results than ours, whereas for λ Boo the value adopted
-is a mean of the eﬀective temperatures from two works where
+is a mean of the effective temperatures from two works where
 detailed studies of this star are made. The fourth column of the
 lower part of the table gives a generic value of [M/H], estimated
 by comparing the observed spectra with the synthetic ones and
 trying to mach the shape and depth of the non-variable blends
-composed of many broadened individual lines. The determinations of [M/H] for HR 10, XY Per and VV Ser are marked with
+composed of many broadened individual lines. The determina-
+tions of [M/H] for HR 10, XY Per and VV Ser are marked with
 a colon, indicating that they are very uncertain given the large
 amount of circumstellar lines contaminating the photospheric
-spectra, or the low signal-to-noise ratio in the spectra of the latter
-object; therefore these values should be taken with caution.
-In Fig. 5 we show selected spectra (grey lines) of most of the
-stars in the sample for which an estimation of the metal abundance has been possible and the synthetic spectra (black lines)
-computed using the values of T eﬀ , log g∗ and [M/H] given in
-Table 2. All the spectra are plotted on the same scale. To show all
-together in the same graph we have shifted them upwards by different amounts with respect to the lowest one in each panel. The
-short horizontal bars mark where the intensity unity is placed.
-Each observed spectrum has been normalized to its corresponding synthetic spectrum. The fits to HR 10 and XY Per are tentative, showing how diﬃcult it is to find a region in the spectra not
+
+Fig. 3. Top: two sections of the UES/WHT spectra of BF Ori along with spectra, or the low signal-to-noise ratio in the spectra of the latter
+the synthetic spectrum. The spectra plotted in dark-grey and light-grey object; therefore these values should be taken with caution.
+solid lines – both of them with their continuum normalized to an inten-
+sity of 1.0 – were obtained on 25 October 1998 and 30 January 1999, In Fig. 5 we show selected spectra (grey lines) of most of the
+respectively. The synthetic spectrum, computed for Teff = 8970 K, stars in the sample for which an estimation of the metal abun-
+log g∗ = 3.83 and [M/H] = +0.20 and broadened with a rotation pro- dance has been possible and the synthetic spectra (black lines)
+file v sin i = 38 km s−1 has been plotted as a black solid line superim- computed using the values of Teff, log g∗ and [M/H] given in
+posed on the observed spectra. In the upper part of each panel we show Table 2. All the spectra are plotted on the same scale. To show all
+the synthetic unbroadened spectrum – not to scale – for comparison. together in the same graph we have shifted them upwards by dif-
+Bottom: two spectra of λ Boo around the Mg ii doublet obtained on ferent amounts with respect to the lowest one in each panel. The
+16 May 1998 (light grey) and 29 July 1998 (dark grey). The first one is short horizontal bars mark where the intensity unity is placed.
+best fitted with [Mg/H] = −2.0, whereas the latter shows traces of high Each observed spectrum has been normalized to its correspond-
+circumstellar activity. See text for further details. ing synthetic spectrum. The fits to HR 10 and XY Per are tenta-
+
+tive, showing how difficult it is to find a region in the spectra not
 contaminated by circumstellar lines.
+
+values of Teff and log g∗, was done for λ Boo. One iteration cycle
+was sufficient to reach the final results.
+
 5.2. Masses, luminosities, ages and distances
 
-In Table 3 we give the results of the determination of masses,
-luminosities, ages and distances, following the procedure illustrated in Fig. 1 and outlined in Sect. 4.5. The uncertainties for each value correspond to the propagation of the errors
+4.5. Masses, luminosities, ages and distances In Table 3 we give the results of the determination of masses,
+luminosities, ages and distances, following the procedure il-
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+As can be seen at the bottom of Fig. 1, the knowledge of the lustrated in Fig. 1 and outlined in Sect. 4.5. The uncertain-
+effective temperature, gravity and metal abundance allows us to ties for each value correspond to the propagation of the errors
 
-907
+
+
+B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars 907
 
 Fig. 4. Two regions of the spectrum of HD 31648 around the Mg i line at 8806.76 Å, and the Mg ii doublet at 4481.2 Å, respectively (grey
 lines). The Mg i profile is best fitted by a model with [Mg/H] = −0.10, whereas the Mg ii doublet is best reproduced with a synthetic model with
 [Mg/H] = +0.50 (black lines).
 
-±σ(log g∗ )7 . Note that in some special cases, e.g. the masses
-of VV Ser or T Ori, these uncertainties can have the same
-sign, if the position in the HR diagram is such that the points
-(log T eﬀ , log g∗ + σ(log g∗ )) and (log T eﬀ , log g∗ − σ(log g∗ )) fall
-on tracks with masses both larger (or smaller) than those corresponding to the point (log T eﬀ , log g∗ ) itself (see Fig. 6). For
-the nine stars in the upper part of Table 2 for which the computation of metal abundances was not feasible, tracks with solar metallicity have been used. The second column of the table lists the values of F∗ used to estimate the distance from the
-stellar luminosity. The last two columns show the distances derived from Hipparcos parallaxes (van Leeuwen 2007, Col. 7) and
-taken from other sources (Col. 8). For the former ones, only parallaxes whose uncertainty σ(π) is such that σ(π)/π ≤ 0.15 have
-been considered. In Sect. 6.3 we discuss in detail the values of
-our estimation of distances – actually, as we will see, upper limits in some cases – compared with other determinations.
-From the Y2 set, the tracks with Z = 0.02 (solar) have been
-used for those stars with metallicities [M/H] between −0.10 and
-+0.10. Assuming that the relationship Fe/Fe = X/X holds (in
-number of particles), where X means any element with atomic
-number larger than 3, the tracks corresponding to [M/H] = +0.20
-would be those with Z = 0.03. Since these tracks are not computed in the original set, the results shown in Table 3 are the
-average of the values extracted using the tracks with Z = 0.02
-and Z = 0.04. For those stars with [M/H] = +0.50 the set
+±σ(log g∗)7. Note that in some special cases, e.g. the masses In Fig. 6 we show, on the left, the log g∗–log Teff HR dia-
+of VV Ser or T Ori, these uncertainties can have the same gram for the stars with metallicities between [M/H] = −0.10
+sign, if the position in the HR diagram is such that the points and +0.10, where tracks and isochrones for solar metallicity
+(log Teff, log g∗ + σ(log g∗)) and (log Teff , log g∗ − σ(log g∗)) fall have been superimposed, and on the right, the corresponding
+on tracks with masses both larger (or smaller) than those cor- log L∗/L–log Teff HR diagram. The vertical error bars in the
+responding to the point (log Teff , log g∗) itself (see Fig. 6). For points (log Teff , log g∗) correspond to those listed in Table 2
+the nine stars in the upper part of Table 2 for which the com- whereas those in the points (log Teff, log L∗) are the propagation
+putation of metal abundances was not feasible, tracks with so- of the former from the first HR diagram to the second, hence
+lar metallicity have been used. The second column of the ta- their different size above and below a given object. A common
+ble lists the values of F∗ used to estimate the distance from the horizontal error bar of ±0.01 dex has been assigned to the loga-
+stellar luminosity. The last two columns show the distances de- rithm of effective temperatures, which corresponds to ±200 K at
+rived from Hipparcos parallaxes (van Leeuwen 2007, Col. 7) and Teff = 10 000 K.
+taken from other sources (Col. 8). For the former ones, only par-
+allaxes whose uncertainty σ(π) is such that σ(π)/π ≤ 0.15 have
+been considered. In Sect. 6.3 we discuss in detail the values of 6. Discussion
+our estimation of distances – actually, as we will see, upper lim-
+its in some cases – compared with other determinations. The results concerning the stellar mass, luminosity and age given
+
+in Table 3 are distance-independent determinations. Taking ad-
+From the Y2 set, the tracks with Z = 0.02 (solar) have been vantage of the knowledge of the stellar gravity we are able to
+
+used for those stars with metallicities [M/H] between −0.10 and extract the mass and the age from a log g∗–log Teff HR diagram,
++0.10. Assuming that the relationship Fe/Fe = X/X holds (in and then the luminosity from the corresponding point in the
+number of particles), where X means any element with atomic log L∗/L–log Teff HR diagram.
+number larger than 3, the tracks corresponding to [M/H] = +0.20 In other works, e.g. those from Gerbaldi et al. (2001),
+would be those with Z = 0.03. Since these tracks are not com- Hernández et al. (2004) and Manoj et al. (2006), the authors ex-
+puted in the original set, the results shown in Table 3 are the tract these parameters from a log L∗/L–log Teff HR diagram,
+average of the values extracted using the tracks with Z = 0.02 which implies a knowlegde of the distance to the star, this be-
+and Z = 0.04. For those stars with [M/H] = +0.50 the set ing quite an uncertain parameter on many occasions. Also, in the
 Z = 0.06 was used. Finally for λ Boo, we used the tracks
-with Z = 0.0004, which would correspond to [M/H] = −1.7.
-For HD 58647 and BD+31 643 there are no high-resolution observations available to estimate metallicities, therefore we assumed solar abundances to estimate their stellar parameters; on
-the other hand, for HR 2174, 17 Sex and RR Tau the metallicities
-found are solar or very close to it. The five objects have in common that their locations in the HR diagram give masses above
-5.2 M , which is the maximum in the Y2 set, therefore, only for
-these stars we use the Siess et al. tracks with solar metallicity.
+with Z = 0.0004, which would correspond to [M/H] = − three works mentioned above, solar metallicity is assumed for all
 
-7
-Strictly speaking, one should make a computation of the total uncertainties in the parameters considering the combined eﬀect of the errors
-both in eﬀective temperature and gravity. For simplicity we have only
-propagated the latter ones, which are the largest on average. In Table 4
-and Fig. 7 of the paper by Merín et al. (2004) we can see in detail a
-calculation considering both uncertainties together.
+1.7. the stars, whereas in our case, specific tracks for each metallicity
+For HD 58647 and BD+31 643 there are no high-resolution ob- are used according to the abundance estimated for each object.
+servations available to estimate metallicities, therefore we as- The different approaches of both formalisms makes a compari-
+sumed solar abundances to estimate their stellar parameters; on son difficult between the values of M∗/M, L∗/L and age from
+the other hand, for HR 2174, 17 Sex and RR Tau the metallicities our work and those from other authors. That is why in Table 3
+found are solar or very close to it. The five objects have in com- we only provide for comparison, values of distances from other
+mon that their locations in the HR diagram give masses above works, which are discussed later (see Sect. 6.3), whereas we do
+5.2 M, which is the maximum in the Y2 set, therefore, only for not include any values of masses, luminosities and ages other
+these stars we use the Siess et al. tracks with solar metallicity. than those found in this paper. A detailed comparison of results
 
-In Fig. 6 we show, on the left, the log g∗ –log T eﬀ HR diagram for the stars with metallicities between [M/H] = −0.10
-and +0.10, where tracks and isochrones for solar metallicity
-have been superimposed, and on the right, the corresponding
-log L∗ /L –log T eﬀ HR diagram. The vertical error bars in the
-points (log T eﬀ , log g∗ ) correspond to those listed in Table 2
-whereas those in the points (log T eﬀ , log L∗ ) are the propagation
-of the former from the first HR diagram to the second, hence
-their diﬀerent size above and below a given object. A common
-horizontal error bar of ±0.01 dex has been assigned to the logarithm of eﬀective temperatures, which corresponds to ±200 K at
-T eﬀ = 10 000 K.
-
-6. Discussion
-The results concerning the stellar mass, luminosity and age given
-in Table 3 are distance-independent determinations. Taking advantage of the knowledge of the stellar gravity we are able to
-extract the mass and the age from a log g∗ –log T eﬀ HR diagram,
-and then the luminosity from the corresponding point in the
-log L∗ /L –log T eﬀ HR diagram.
-In other works, e.g. those from Gerbaldi et al. (2001),
-Hernández et al. (2004) and Manoj et al. (2006), the authors extract these parameters from a log L∗ /L –log T eﬀ HR diagram,
-which implies a knowlegde of the distance to the star, this being quite an uncertain parameter on many occasions. Also, in the
-three works mentioned above, solar metallicity is assumed for all
-the stars, whereas in our case, specific tracks for each metallicity
-are used according to the abundance estimated for each object.
-The diﬀerent approaches of both formalisms makes a comparison diﬃcult between the values of M∗ /M , L∗ /L and age from
-our work and those from other authors. That is why in Table 3
-we only provide for comparison, values of distances from other
-works, which are discussed later (see Sect. 6.3), whereas we do
-not include any values of masses, luminosities and ages other
-than those found in this paper. A detailed comparison of results
 for these parameters would be lengthy and cumbersome.
-6.1. General considerations on the effective temperatures
+7 Strictly speaking, one should make a computation of the total uncer-
+tainties in the parameters considering the combined effect of the errors 6.1. General considerations on the effective temperatures
+both in effective temperature and gravity. For simplicity we have only
+propagated the latter ones, which are the largest on average. In Table 4 The whole exercise carried out in this paper can be considered
+and Fig. 7 of the paper by Merín et al. (2004) we can see in detail a as a work of basic astrophysics, in the sense that it concerns the
+calculation considering both uncertainties together. determination of fundamental parameters of a particular class of
 
-The whole exercise carried out in this paper can be considered
-as a work of basic astrophysics, in the sense that it concerns the
-determination of fundamental parameters of a particular class of
 
-908
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+908 B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
 
 Fig. 5. Selected observed spectra of the stars studied in this paper (grey lines) and synthetic spectra (black lines overplotted on each spectrum)
 computed with the metallicities [M/H] given in Table 2. The spectral range is 4160–4270 Å. All the spectra have been normalized and plotted on
@@ -792,1354 +512,921 @@ I = 0.8 and I = 1.0 corresponding to 49 Cet and WW Vul in both panels. The spect
 two stars have low values of v sin i, therefore the lines are extremely narrow and the plots would look clumsy, the latter has a rather noisy spectrum
 and the resuls are uncertain. Two sections of the spectrum of BF Ori and the corresponding synthetic spectrum are shown in Fig. 3.
 
-stars. The process has been far from simple, due to the nature
-of the objects studied, i.e. most of them are not “normal” stars
-in the sense that their environment has a clear influence on the
-photometric and spectroscopic properties.
-As we mentioned, the correct determination of the eﬀective
-temperature, the only initial parameter required to start the whole
-process, is a key problem of this study. The calculation of T eﬀ
-hinges on the fit of the SED, using synthetic models, from short
+stars. The process has been far from simple, due to the nature wavelengths (optical or UV) to a wavelength in the infrared, λ0,
+of the objects studied, i.e. most of them are not “normal” stars where a change in the slope indicates that the contribution from
+in the sense that their environment has a clear influence on the the disk starts to be noticeable. The photospheric part of the SED
+photometric and spectroscopic properties. can be affected by circumstellar (and interstellar) extinction, disk
 
-wavelengths (optical or UV) to a wavelength in the infrared, λ0 ,
-where a change in the slope indicates that the contribution from
-the disk starts to be noticeable. The photospheric part of the SED
-can be aﬀected by circumstellar (and interstellar) extinction, disk
-occultation and, in addition, there can be non-photospheric contributions in the UV (e.g. emission from accretion shocks or hot
-winds). In the determination of the eﬀective temperatures carried out both by Merín (2004) and in this work, done by fitting
+As we mentioned, the correct determination of the effective occultation and, in addition, there can be non-photospheric con-
+temperature, the only initial parameter required to start the whole tributions in the UV (e.g. emission from accretion shocks or hot
+process, is a key problem of this study. The calculation of T winds). In the determination of the effective temperatures car-
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+eff
+hinges on the fit of the SED, using synthetic models, from short ried out both by Merín (2004) and in this work, done by fitting
 
-909
+
+
+B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars 909
 
 Table 3. Stellar fluxes, masses, luminosities, ages and distances.
-Star
 
-F∗ (W m−2 )
-−11
+Star F∗ (W m−2) M∗/M L∗/L Age (Myr) d (pc) dHip (pc) dother (pc)
+HD 31648 3.308 × 10−11 1.97+0.04
 
-M∗ /M
++0.45 21.9−7.8
++20.7 6.7+1.0
 
-L∗ /L
-−7.8
-21.9+20.7
-−113.4
-911.2+221.2
-−9.2
-36.1+17.5
-−5.1
-34.5+9.3
-−12.8
-63.1+17.0
-470.8−88.2
-−189.2
-140.3−41.9
-+59.2
-1012.7−351.4
-+217.2
-−6.7
-23.7+10.0
-−60.1
-207.2+85.2
-1663.5−234.9
-+329.8
-−6.1
-19.1+9.0
-−5.7
-30.8+5.8
-−5.1
-37.5+14.5
-65.9−19.1
-+38.0
-312.3−62.3
-+72.0
-−9.4
-50.2+17.4
-61.6−20.2
-+32.4
-36.8−13.7
-+30.5
-61.4−15.8
-+27.3
-−5.8
-29.29+11.6
-85.6−34.0
-+64.3
-336.2−89.4
-+117.2
-940.5−277.2
-+295.8
-780.5−351.9
-+446.7
-50.0−19.11
-+44.5
+−3.3 146−29
++57 137+31
 
-+1.0
-6.7−3.3
-+0.1
-0.4−0.1
-+0.5
-5.0−1.5
-−0.3
-5.0−0.6
-+0.7
-3.3−0.7
-+0.2
-0.6−0.2
-+0.5
-1.8−0.5
-+0.1
-0.2−0.1
-+2.0
-5.5−1.7
-+0.5
-1.5−0.5
-+0.1
-0.4−0.1
-+1.1
-2.8−0.8
-+4.0
-6.4−1.5
-+1.4
-5.2−2.1
-+0.6
-3.1−1.1
-+0.4
-0.7−0.5
-−0.1
-4.0−0.8
-+1.3
-3.2−0.9
-+2.0
-4.5−2.3
-+0.6
-3.5−1.1
-−0.1
-5.5−1.0
-+1.5
-2.5−0.8
-+0.1
-1.2−0.5
-+0.1
-0.3−0.1
-+0.3
-0.4−0.2
-+3.7
-3.7−1.7
-
-146−29
-+57
-543−35
-+62
-203−28
-+44
-130−10
-+16
-201−22
-+25
-767−76
-+139
-161−26
-+31
-463−89
-+47
-93−14
-+18
-826−130
-+155
-464−34
-+36
-31−5
-+7
-619−60
-+58
-596−43
-+106
-67−11
-+17
-142−15
-+15
-472−46
-+76
-603−109
-+142
-−108
-517+182
-586−81
-+118
-735−77
-+133
-347−78
-+190
-614−88
-+99
-415−30
-+61
-2103−544
-+535
-696−149
-+261
-
-137+31
 −21
+HD 58647 9.940 × 10−11 5.99−0.36
 
-106.9−14.2
-+15.7
-−7.8
-104.0+11.9
-−8.9
-69.0+9.7
-−4.2
-64.0+10.7
-−9.8
-60.4+11.0
-−5.7
-58.5+8.7
-−1.0
-21.8+3.9
-−0.8
-21.6+4.4
++0.38 911.2−113.4
++221.2 0.4+0.1
 
-175−23
-+14
-−0.2
-2.6−0.1
-260−24
-+14
-−0.1
-3.2−0.1
-267−39
-+23
-−0.2
-3.4−0.1
-61−46
-+119
-+6.1
-8.9−2.4
+−0.1 543−35
++62
 
-115−8
-+8
-114−4
-+6
-29−2
-+2
-28−1
-+2
-116−10
-+10
-114−6
-+8
-58−1
-+5
-58−1
-+6
+HD 150193 2.825 × 10−11 2.22−0.04
++0.27 36.1−9.2
 
-94 ± 3
++17.5 5.0+0.5
+−1.5 203−28
 
-HD 31648
-HD 58647
-HD 150193
-HD 163296
-HD 179218
-HD 190073
-HR 10
-HR 2174
-HR 9043
-AS 442
-BD+31 643
-λ Boo
-VX Cas
-SV Cep
-24 CVn
-51 Oph
-T Ori
-BF Ori
-UX Ori
-V346 Ori
-V350 Ori
-XY Per
-VV Ser
-17 Sex
-RR Tau
-WW Vul
++44
+HD 163296 6.583 × 10−11 2.25+0.11
 
-3.308 × 10
-9.940 × 10−11
-2.825 × 10−11
-6.583 × 10−11
-4.996 × 10−11
-2.575 × 10−11
-1.737 × 10−10
-1.515 × 10−10
-8.784 × 10−11
-9.753 × 10−12
-2.483 × 10−10
-6.240 × 10−10
-2.589 × 10−12
-3.390 × 10−12
-4.686 × 10−10
-4.991 × 10−10
-7.242 × 10−12
-5.445 × 10−12
-4.414 × 10−12
-5.752 × 10−12
-1.741 × 10−12
-2.290 × 10−11
-2.869×10−11
-1.757 × 10−10
-5.673 × 10−12
-3.315 × 10−12
++0.07 34.5−5.1
++9.3 5.0−0.3
 
-+0.04
-1.97+0.45
-−0.36
-5.99+0.38
-−0.04
-2.22+0.27
-+0.11
-2.25+0.07
-−0.16
-2.56+0.21
-−0.47
-5.05+0.54
-−0.37
-3.30+0.43
-−0.93
-6.82+1.02
-−0.21
-2.07+0.27
-−0.37
-3.54+0.44
-−0.29
-6.15+0.29
-−0.16
-1.66+0.19
-−0.03
-2.33+0.14
-−0.08
-2.45+0.26
-−0.11
-2.64+0.42
-−0.30
-4.22+0.33
-+0.06
-2.42+0.17
-−0.25
-2.61+0.41
-−0.25
-2.26+0.52
-−0.11
-2.52+0.31
-+0.13
-2.16+0.13
-−0.36
-2.79+0.59
-+0.15
-3.95+0.41
-−0.74
-6.35+0.80
-−0.94
-5.79+0.99
-−0.06
-2.50+0.48
+−0.6 130−10
++16 119+12
 
-HR 26 A
-
-2.582 × 10−10
-
-HR 4757 A
-
-2.647 × 10−9
-
-HR 5422 A
-
-1.439 × 10−10
-
-49 Cet
-
-2.064 × 10−10
-
-−0.07
-3.08+0.07
-+0.10
-3.01−0.01
-−0.06
-2.74+0.07
-+0.04
-2.64+0.02
-−0.07
-2.66+0.08
-+0.09
-2.59+0.01
-−0.03
-2.17+0.06
-−0.01
-2.15+0.11
-
-Age (Myr)
-
-d (pc)
-
-dHip (pc)
-
-dother (pc)
-
-119+12
 −10
-176+24
-−19
-88+4
-−3
-30 ± 1
-7601,3
-4403
-55 ± 1
-124 ± 4
-4601
-4502 , 4303
-4601 , 4002 , 3403
-4502
-4601 , 4502
-1201 , 3502 , 1603
-4401 , 3303 , 2304
-8001 , 6002
-5501 , 5342
+HD 179218 4.996 × 10−11 2.56−0.16
 
-27 ± 1
-110 ± 5
-59 ± 1
++0.21 63.1−12.8
++17.0 3.3+0.7
+
+−0.7 201−22
++25
+
+HD 190073 2.575 × 10−11 5.05−0.47
++0.54 470.8−88.2
+
+−189.2 0.6+0.2
+−0.2 767−76
+
++139
+HR 10 1.737 × 10−10 3.30−0.37
+
++0.43 140.3−41.9
++59.2 1.8+0.5
+
+−0.5 161−26
++31 176+24
+
+−19
+HR 2174 1.515 × 10−10 6.82−0.93
+
++1.02 1012.7−351.4
++217.2 0.2+0.1
+
+−0.1 463−89
++47
+
+HR 9043 8.784 × 10−11 2.07−0.21
++0.27 23.7−6.7
+
++10.0 5.5+2.0
+−1.7 93−14
+
++18 88+4
+−3
+
+AS 442 9.753 × 10−12 3.54−0.37
++0.44 207.2−60.1
+
++85.2 1.5+0.5
+−0.5 826−130
+
++155
+BD+31 643 2.483 × 10−10 6.15−0.29
+
++0.29 1663.5−234.9
++329.8 0.4+0.1
+
+−0.1 464−34
++36
+
+λ Boo 6.240 × 10−10 1.66−0.16
++0.19 19.1−6.1
+
++9.0 2.8+1.1
+−0.8 31−5
+
++7 30 ± 1
+VX Cas 2.589 × 10−12 2.33−0.03
+
++0.14 30.8−5.7
++5.8 6.4+4.0
+
+−1.5 619−60
++58 7601,3
+
+SV Cep 3.390 × 10−12 2.45−0.08
++0.26 37.5−5.1
+
++14.5 5.2+1.4
+−2.1 596−43
+
++106 4403
+
+24 CVn 4.686 × 10−10 2.64−0.11
++0.42 65.9−19.1
+
++38.0 3.1+0.6
+−1.1 67−11
+
++17 55 ± 1
+51 Oph 4.991 × 10−10 4.22−0.30
+
++0.33 312.3−62.3
++72.0 0.7+0.4
+
+−0.5 142−15
++15 124 ± 4
+
+T Ori 7.242 × 10−12 2.42+0.06
++0.17 50.2−9.4
+
++17.4 4.0−0.1
+−0.8 472−46
+
++76 4601
+
+BF Ori 5.445 × 10−12 2.61−0.25
++0.41 61.6−20.2
+
++32.4 3.2+1.3
+−0.9 603−109
+
++142 4502, 4303
+
+UX Ori 4.414 × 10−12 2.26−0.25
++0.52 36.8−13.7
+
++30.5 4.5+2.0
+−2.3 517−108
+
++182 4601, 4002, 3403
+
+V346 Ori 5.752 × 10−12 2.52−0.11
++0.31 61.4−15.8
+
++27.3 3.5+0.6
+−1.1 586−81
+
++118 4502
+
+V350 Ori 1.741 × 10−12 2.16+0.13
++0.13 29.29−5.8
+
++11.6 5.5−0.1
+−1.0 735−77
+
++133 4601, 4502
+
+XY Per 2.290 × 10−11 2.79−0.36
++0.59 85.6−34.0
+
++64.3 2.5+1.5
+−0.8 347−78
+
++190 1201, 3502, 1603
+
+VV Ser 2.869×10−11 3.95+0.15
++0.41 336.2−89.4
+
++117.2 1.2+0.1
+−0.5 614−88
+
++99 4401, 3303, 2304
+
+17 Sex 1.757 × 10−10 6.35−0.74
++0.80 940.5−277.2
+
++295.8 0.3+0.1
+−0.1 415−30
+
++61
+RR Tau 5.673 × 10−12 5.79−0.94
+
++0.99 780.5−351.9
++446.7 0.4+0.3
+
+−0.2 2103−544
++535 8001, 6002
+
+WW Vul 3.315 × 10−12 2.50−0.06
++0.48 50.0−19.11
+
++44.5 3.7+3.7
+−1.7 696−149
+
++261 5501, 5342
+
+HR 26 A 2.582 × 10−10 3.08−0.07
++0.07 106.9−14.2
+
++15.7 175−23
++14 115−8
+
++8 94 ± 3
+3.01+0.10
+
+−0.01 104.0−7.8
++11.9 2.6−0.2
+
+−0.1 114−4
++6
+
+HR 4757 A 2.647 × 10−9 2.74−0.06
++0.07 69.0−8.9
+
++9.7 260−24
++14 29−2
+
++2 27 ± 1
+2.64+0.04
+
++0.02 64.0−4.2
++10.7 3.2−0.1
+
+−0.1 28−1
++2
+
+HR 5422 A 1.439 × 10−10 2.66−0.07
++0.08 60.4−9.8
+
++11.0 267−39
++23 116−10
+
++10 110 ± 5
+2.59+0.09
+
++0.01 58.5−5.7
++8.7 3.4−0.2
+
+−0.1 114−6
++8
+
+49 Cet 2.064 × 10−10 2.17−0.03
++0.06 21.8−1.0
+
++3.9 61−46
++119 58−1
+
++5 59 ± 1
+2.15−0.01
+
++0.11 21.6−0.8
++4.4 8.9+6.1
+
+−2.4 58−1
++6
 
 Notes to Table 3: A discussion on the derivation of the distances in Col. 6 is given in Sect. 6.3. The distances given in Col. 8 are taken from the
 works by 1 Hernández et al. (2004), 2 Blondel & Tjin A Djie (2006), 3 Manoj et al. (2006) and 4 Eiroa et al. (2008); see those works for the original
 references. For HR 26 A, HR 4757 A, HR 5422 A and 49 Cet we give the solutions derived using both Post-MS and PMS tracks, respectively (see
 Sect. 6.4).
 
-Kurucz models to the observed SEDs and given in Table 2, it was
-assumed that the spectral energy distribution from the UV to λ0
-originates entirely in the stellar photosphere. This hypothesis underlies the whole procedure and should be critically assessed in
-each case8 . In Sect. 6.4 we analyse in detail – among other stars –
-VV Ser and RR Tau, for which the determination of the eﬀective
-temperature is especially problematic.
-6.2. Comparison with other abundance determinations
+Kurucz models to the observed SEDs and given in Table 2, it was found in this work are solar or fairly close to it. In addition to the
+assumed that the spectral energy distribution from the UV to λ0 stars analysed in this paper, the two HAeBe stars studied by our
+originates entirely in the stellar photosphere. This hypothesis un- group (Merín et al. 2004), namely HD 34282 and HD 141 569,
+derlies the whole procedure and should be critically assessed in show metallicities lower than solar, −0.80 and −0.50 respec-
+each case8. In Sect. 6.4 we analyse in detail – among other stars – tively. No trend in the behaviour of the metallicities is observed
+VV Ser and RR Tau, for which the determination of the effective in the results for our sample.
+temperature is especially problematic. As we mentioned in the Introduction, Acke & Waelkens
 
-Apart from the values of [M/H] around +0.80, for 24 CVn and
-XY Per, +0.50 for WW Vul, and the already well-known low
-metallicity of λ Boo, the remaining values of the abundances
-8
-
-Since the UV observations are not simultaneous with the optical and
-near-IR photometry, we cannot estimate the non-photospheric contributions to the total UV flux; however, even if these represent ∼10% of that
-flux, the results would not diﬀer very much, to within the uncertainties,
-from those under the working hypothesis we use.
-
-found in this work are solar or fairly close to it. In addition to the
-stars analysed in this paper, the two HAeBe stars studied by our
-group (Merín et al. 2004), namely HD 34282 and HD 141 569,
-show metallicities lower than solar, −0.80 and −0.50 respectively. No trend in the behaviour of the metallicities is observed
-in the results for our sample.
-As we mentioned in the Introduction, Acke & Waelkens
 (2004) carried out an abundance study of 24 Herbig Ae/Be and
 Vega-type stars searching for the λ Bootis phenomenon. For
-20 of these stars the projected rotational velocities, v sin i, are
-less than 100 km s−1 , therefore the authors were able to determine elemental abundances instead of average values, as in our
-case. Stellar gravities were not estimated in that paper. In order
+
+6.2. Comparison with other abundance determinations 20 of these stars the projected rotational velocities, v sin i, are
+Apart from the values of [M/H] around +0.80, for 24 CVn and less than 100 km s−1, therefore the authors were able to deter-
+XY Per, +0.50 for WW Vul, and the already well-known low mine elemental abundances instead of average values, as in our
+metallicity of λ Boo, the remaining values of the abundances case. Stellar gravities were not estimated in that paper. In order
+
 to compare their results with ours we have computed a “mean”
-metal abundance from those individual values. Details on how
-this was done are given in Appendix A.
-Guimarães et al. (2006), as a result of a study of the accretion in Herbig Ae/Be stars, also determined stellar gravities and
-metal abundances for 12 stars. The methodology of their work is
+8 metal abundance from those individual values. Details on how
 
-910
+Since the UV observations are not simultaneous with the optical and
+near-IR photometry, we cannot estimate the non-photospheric contribu- this was done are given in Appendix A.
+tions to the total UV flux; however, even if these represent ∼10% of that Guimarães et al. (2006), as a result of a study of the accre-
+flux, the results would not differ very much, to within the uncertainties, tion in Herbig Ae/Be stars, also determined stellar gravities and
+from those under the working hypothesis we use. metal abundances for 12 stars. The methodology of their work is
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
 
-Fig. 6. Left: log g∗ − log T eﬀ HR diagram showing the position of the stars with metallicity [M/H] = 0.00 and +0.10. Right: the corresponding log L∗ /L − log T eﬀ HR diagram for the same stars. There is a one-to-one correspondence between a point (log T eﬀ , log g∗ ) and a point
-(log T eﬀ , log L∗ /L ). This allows the estimation of masses, ages and luminosities provided the eﬀective temperature and gravity are known. The
-sets of PMS tracks (solid lines) and isochrones (dashed lines) for solar metallicity from Yi et al. (2001; masses up to 4.5 M ) and Siess et al. (2000;
-5.0, 6.0 and 7.0 M ) have been used in both plots. The stars HR 4757 A and 49 Cet are not included in this plot. Their position in the HR diagram
+
+910 B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+
+Fig. 6. Left: log g∗ − log Teff HR diagram showing the position of the stars with metallicity [M/H] = 0.00 and +0.10. Right: the correspond-
+ing log L∗/L − log Teff HR diagram for the same stars. There is a one-to-one correspondence between a point (log Teff , log g∗) and a point
+(log Teff , log L∗/L). This allows the estimation of masses, ages and luminosities provided the effective temperature and gravity are known. The
+sets of PMS tracks (solid lines) and isochrones (dashed lines) for solar metallicity from Yi et al. (2001; masses up to 4.5 M) and Siess et al. (2000;
+5.0, 6.0 and 7.0 M) have been used in both plots. The stars HR 4757 A and 49 Cet are not included in this plot. Their position in the HR diagram
 is discussed in Sect. 6.4. See text for details.
 
 almost identical to the one we have used in this paper and also in
 the analysis of HD 34282 and HD 141569 (Merín et al. 2004).
-They provide results for [Fe/H]. Apart from the extreme Fe abundance of HD 100546 (not studied in this work), namely −1.4,
+They provide results for [Fe/H]. Apart from the extreme Fe abun-
+dance of HD 100546 (not studied in this work), namely −1.4,
 in agreement with the value −1.30 given by Acke & Waelkens
 (2004), the abundances for their sample vary from −1.0 to +0.5.
-The three samples are not large enough to draw any definitive statistical conclusion, although it is apparent that both in
+
+The three samples are not large enough to draw any defini-
+tive statistical conclusion, although it is apparent that both in
 our work and in Acke & Waelkens’ (2004) the majority of the
 stars tend to lie around metallicities close to the solar one. The
 highest metallicities found in any of the three works are around
 +0.80 whereas the lowest ones are below −1.0.
+
 There is only one star in our sample in common with Acke
-and Waelkens’, namely HD 31648 (they found [M/H] = +0.33 ±
-0.08 and [Fe/H] = +0.07±0.10), and another one with Guimarães
+and Waelkens’, namely HD 31648 (they found [M/H] = +0.33±
+0.08 and [Fe/H]= +0.07±0.10), and another one with Guimarães
 et al., namely HD 163296 (their result is [Fe/H] =+0.50 ±
 0.10). Our results are [M/H] = 0.00 ± 0.05 for HD 31648 and
 [M/H] =+0.20 ± 0.10 for HD 163296, in both cases somewhat
 lower than the determinations of those two works.
+
 6.3. The estimation of the distances
 
-Since the estimation of the distances hinges first on the determination of the point (log T eﬀ , log g∗ ) and then in the “translation”
-of this point to a value of (log T eﬀ , log L∗ /L ), any error in the
-derivation of the eﬀective temperature or the gravity would propagate to the final value of the distance.
-As can be seen in Table 3 there are 11 stars for which
-Hipparcos parallaxes are available such that σ(π)/π ≤ 0.15 –
-i.e. implying reliable distances. The comparison between our
-estimations and the Hipparcos-derived distances, illustrated in
-Fig. 7, shows that in all those cases both determinations agree to
-within the uncertainties. This is an additional indication of the
-internal coherence of the overall results.
-The remaining stars in Table 3 either do not have Hipparcos
-measurements or if they do, the large uncertainties make them
+Since the estimation of the distances hinges first on the determi- Fig. 7. Hipparcos distances (x-axis) for the 11 stars in the sample with
+nation of the point (log Teff, log g∗) and then in the “translation” reliable parallaxes (see text for details), plotted against the correspond-
+of this point to a value of (log Teff, log L∗/L), any error in the ing distances estimated in this work (y-axis).
 
-Fig. 7. Hipparcos distances (x-axis) for the 11 stars in the sample with
-reliable parallaxes (see text for details), plotted against the corresponding distances estimated in this work (y-axis).
+derivation of the effective temperature or the gravity would prop-
+agate to the final value of the distance. unusable. Instead, their distances have been estimated using a
 
-unusable. Instead, their distances have been estimated using a
-variety of methods; in most cases the numbers found in the literature are the distances to the clouds where they could be embedded, which are, obviously, rough approximations. In Col. 8 of the
-Table we give results from the compilations made by Hernández
-et al. (2004), Blondel & Tjin A Djie (2006) and Manoj et al.
-(2006). It can be seen that in some cases those distances are
-comparable to our results (e.g. T Ori, UX Ori, XY Per, WW Vul)
-but for other stars the discrepancies are large. We can see a systematic trend between our results (Col. 6) and those from other
+As can be seen in Table 3 there are 11 stars for which variety of methods; in most cases the numbers found in the liter-
+Hipparcos parallaxes are available such that σ(π)/π ≤ 0.15 – ature are the distances to the clouds where they could be embed-
+i.e. implying reliable distances. The comparison between our ded, which are, obviously, rough approximations. In Col. 8 of the
+estimations and the Hipparcos-derived distances, illustrated in Table we give results from the compilations made by Hernández
+Fig. 7, shows that in all those cases both determinations agree to et al. (2004), Blondel & Tjin A Djie (2006) and Manoj et al.
+within the uncertainties. This is an additional indication of the (2006). It can be seen that in some cases those distances are
+internal coherence of the overall results. comparable to our results (e.g. T Ori, UX Ori, XY Per, WW Vul)
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+The remaining stars in Table 3 either do not have Hipparcos but for other stars the discrepancies are large. We can see a sys-
+measurements or if they do, the large uncertainties make them tematic trend between our results (Col. 6) and those from other
 
-authors (Col. 8): out of 11 cases, in nine of them the distances
-derived in this work are larger than the distance to the parent
-cloud; the case of RR Tau is especially noticeable.
-After exploring what might be the origin of this, we think
-that there is an important fact that should be taken into account in
-interpreting these discordant results. Note that to derive the distance d, we have used the well-known expression L∗ = 4πd2 F∗ ,
-where L∗ is the stellar luminosity and F∗ is the observed photospheric flux, corrected for reddening. To provide the correct
-distance, that simple expression must contain the total flux, i.e.
-it is implicitly assumed that the whole stellar photosphere is visible to the observer. If this does not occur, F∗ would be underestimated and, since the stellar luminosity has been fixed, the
-implied distance would be larger than the real one. It could happen that, if the inclination of the circumstellar disk is high or
-the opacity of part of its material is very large (or both), the disk
-would block a fraction α of the stellar light, allowing only a fraction F∗ = (1 − α)F∗ (total) to reach the observer. Since the material of the disk can be very inhomogeneous, α would parameterize a mean “filling factor” for the occultation and obscuration of
-the stellar light caused by extremely high values of the extinction
-(note that the observed flux F∗ still can be aﬀected by circumstellar and interestellar extinction). In addition, as we pointed out
-in 4.1, the SED is built taking the brightest photometry among
-the available observations, which might not necessarily correspond to the true maximum brightness of the star: if that is the
-case, the photospheric flux also would be less than the real one.
-These arguments would resolve the discrepancies we mentioned above. In Sect. 6.4 we discuss in detail the cases of
-VV Ser and RR Tau, and we see how this eﬀect could have some
-impact on our calculations.
-Thus, the distances derived in this work and given in Col. 6
-of Table 3 should be used with caution. In particular, for those
-objects with high values of the extinction or high inclination angles of their disks (e.g. almost edge-on disks, as it happens in
-the UXORs), they must be taken as upper limits of the actual
-distances.
-6.4. Notes on individual stars
-6.4.1. VV Ser
 
-This star is an intriguing HAeBe object. The determinations of
-its parameters found in the literature are discrepant, showing
-large diﬀerences on many occasions. A summary of the results
-on the spectral type, luminosity class and rotational velocities
-can be found in Table 1 of Ripepi et al. (2007). Assignations
-such us A0 V, A3 II, A2 III or B6 for the spectral type and values of v sin i from 85 to 229 km s−1 can be found (see references
-in the paper by Ripepi et al.). Concerning the eﬀective temperature, a wide range from 9000 ± 1000 K (Ripepi et al. 2007) to
-13 800 K (Hernández et al. 2004) is found9.
-The estimates of the distance to the Serpens molecular cloud,
-where the star is possibly embedded, also have many uncertainties. The most recent studies converge to a somewhat shorter distance: 225 ± 55 pc for the front edge of the particular region of
-the cloud studied (south of the cloud core) and a depth of 80 pc
-for the cloud complex (Straižys et al. 2003). Eiroa et al. (2008)
-assign a distance of ∼230 ± 20 to the Serpens cloud (see that
-reference for a complete review of the properties of this region).
-9
-An even more extreme value of ∼7000 K is suggested by Ripepi
-et al. (2007). According to these authors, it allows them to reproduce
-the periodicities of the p-modes of the δ Scuti-like pulsations observed
-in VV Ser.
 
-911
+B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars 911
 
-There are no direct determinations of the distance to VV Ser
-itself, and the values found in the literature are linked to the distance to the cloud.
-The initial value of T eﬀ for VV Ser we took to compute the
-stellar parameters, according to the scheme presented in Sect. 4,
-was 11 000 K, obtained by Merín (2004), which is in between
-the available determinations. The comparison of the synthetic
-Balmer profiles with the observed ones led to a value of log g∗ =
-3.22 ± 0.12, which implied the following set of parameters:
-−467
-+0.1
-M∗ = 7.22−0.95
-+1.00 M , L∗ = 1638+261 L , Age = 0.2−0.1 Myr and,
+authors (Col. 8): out of 11 cases, in nine of them the distances There are no direct determinations of the distance to VV Ser
+derived in this work are larger than the distance to the parent itself, and the values found in the literature are linked to the dis-
+cloud; the case of RR Tau is especially noticeable. tance to the cloud.
+
+After exploring what might be the origin of this, we think The initial value of Teff for VV Ser we took to compute the
+that there is an important fact that should be taken into account in stellar parameters, according to the scheme presented in Sect. 4,
+interpreting these discordant results. Note that to derive the dis- was 11 000 K, obtained by Merín (2004), which is in between
+tance d, we have used the well-known expression L∗ = 4πd2F∗, the available determinations. The comparison of the synthetic
+where L∗ is the stellar luminosity and F∗ is the observed pho- Balmer profiles with the observed ones led to a value of log g∗ =
+tospheric flux, corrected for reddening. To provide the correct 3.22 ± 0.12, which implied the following set of parameters:
+distance, that simple expression must contain the total flux, i.e. M∗ = 7.22−0.95
+
+it is implicitly assumed that the whole stellar photosphere is vis- +1.00 M, L∗ = 1638−467
++261 L, Age = 0.2+0.1
+
+−0.1 Myr and,
 after combining the luminosity and the observed flux, an upper
-limit to the distance d = 2224−344
+
+ible to the observer. If this does not occur, F∗ would be under- limit to the distance d = 2224−344
 +170 pc.
-In Fig. 8 (top) we show the observed SED of VV Ser from
-the ultraviolet to the infrared, along with two fits to the photospheric part, which covers the interval between 1200 Å and
-9000 Å (I band); from this wavelength onwards, the contribution from the disk dominates. Note that the ultraviolet spectra,
-obtained with the IUE observatory, are not simultaneous with
-the optical and near infrared photometry (see caption of Fig. 8
-for the dates); to our knowledge, there is no optical photometry
-available for the dates when the IUE observations were made,
-therefore it was not possible to compare the brightness of the
-star in the two epochs in order to scale the data. In the graph on
-the top left we can see how the SED is fitted reasonably well
-with a Kurucz model10 with T eﬀ = 11 000 K and log g = 3.5,
-reddened with E(B − V) = 0.9.
-If this solution were correct, it would imply too young an
-age for the system star+disk, incompatible with its apparent evolutionary status, according to the scenario proposed by Malfait
-et al. (1998) (see Sect. 5 and Fig. 3 therein for further details).
-Note that, according to the arguments presented in 6.3, the value
-d = 2224 pc is an upper limit to the distance, and therefore, the
-remaining set of parameters found cannot, in principle, be immediatly ruled out. If the star were actually placed at 250 pc, a simple calculation shows that α  0.99, i.e., if the disk would completely block such a large fraction of the photospheric light, this
+
+estimated and, since the stellar luminosity has been fixed, the In Fig. 8 (top) we show the observed SED of VV Ser from
+implied distance would be larger than the real one. It could hap- the ultraviolet to the infrared, along with two fits to the pho-
+pen that, if the inclination of the circumstellar disk is high or
+the opacity of part of its material is very large (or both), the disk tospheric part, which covers the interval between 1200 Å and
+would block a fraction α of the stellar light, allowing only a frac- 9000 Å (I band); from this wavelength onwards, the contribu-
+tion F∗ = (1 − α)F∗(total) to reach the observer. Since the mate- tion from the disk dominates. Note that the ultraviolet spectra,
+rial of the disk can be very inhomogeneous, α would parameter- obtained with the IUE observatory, are not simultaneous with
+ize a mean “filling factor” for the occultation and obscuration of the optical and near infrared photometry (see caption of Fig. 8
+the stellar light caused by extremely high values of the extinction for the dates); to our knowledge, there is no optical photometry
+(note that the observed flux F∗ still can be affected by circum- available for the dates when the IUE observations were made,
+stellar and interestellar extinction). In addition, as we pointed out therefore it was not possible to compare the brightness of the
+in 4.1, the SED is built taking the brightest photometry among star in the two epochs in order to scale the data. In the graph on
+the available observations, which might not necessarily corre- the top left we can see how the SED is fitted reasonably well
+
+with a Kurucz model10
+spond to the true maximum brightness of the star: if that is the with Teff = 11 000 K and log g = 3.5,
+case, the photospheric flux also would be less than the real one. reddened with E(B − V) = 0.9.
+
+These arguments would resolve the discrepancies we men- If this solution were correct, it would imply too young an
+tioned above. In Sect. 6.4 we discuss in detail the cases of age for the system star+disk, incompatible with its apparent evo-
+VV Ser and RR Tau, and we see how this effect could have some lutionary status, according to the scenario proposed by Malfait
+impact on our calculations. et al. (1998) (see Sect. 5 and Fig. 3 therein for further details).
+
+Thus, the distances derived in this work and given in Col. 6 Note that, according to the arguments presented in 6.3, the value
+of Table 3 should be used with caution. In particular, for those d = 2224 pc is an upper limit to the distance, and therefore, the
+objects with high values of the extinction or high inclination an- remaining set of parameters found cannot, in principle, be imme-
+gles of their disks (e.g. almost edge-on disks, as it happens in diatly ruled out. If the star were actually placed at 250 pc, a sim-
+the UXORs), they must be taken as upper limits of the actual ple calculation shows that α  0.99, i.e., if the disk would com-
+distances. pletely block such a large fraction of the photospheric light, this
+
 solution should be still coherent. This object was classified as an
 UXOR star (Herbst & Shevchenko 1999; Rodgers 2003), which
-implies, according to the model proposed by Grinin (1988) and
-Grinin et al. (1991), a moderate-to-high value for the inclination
+
+6.4. Notes on individual stars implies, according to the model proposed by Grinin (1988) and
+6.4.1. VV Ser Grinin et al. (1991), a moderate-to-high value for the inclination
+
 angle of the disk. In the work by Pontoppidan et al. (2007a) a
-best-fitting model for the disk of VV Ser is presented, giving
-a value i = 71.5 deg and a estimated range for this parameter
-of 65–75 deg. Also, the Spitzer images of VV Ser and its surroundings shown by Pontoppidan et al. (2007b) suggest an almost edge-on position for the disk.
-It is not unexpected that the eﬀective temperature for this
-star is an elusive parameter. Figure 8 (graph on the top right)
-shows a fit to the SED using a Kurucz model computed with
-T eﬀ = 14 000 K, close to the value proposed by Hernández et al.
+This star is an intriguing HAeBe object. The determinations of best-fitting model for the disk of VV Ser is presented, giving
+its parameters found in the literature are discrepant, showing a value i = 71.5 deg and a estimated range for this parameter
+large differences on many occasions. A summary of the results of 65–75 deg. Also, the Spitzer images of VV Ser and its sur-
+on the spectral type, luminosity class and rotational velocities roundings shown by Pontoppidan et al. (2007b) suggest an al-
+can be found in Table 1 of Ripepi et al. (2007). Assignations most edge-on position for the disk.
+such us A0 V, A3 II, A2 III or B6 for the spectral type and val- It is not unexpected that the effective temperature for this
+ues of v sin i from 85 to 229 km s−1 can be found (see references star is an elusive parameter. Figure 8 (graph on the top right)
+in the paper by Ripepi et al.). Concerning the effective temper- shows a fit to the SED using a Kurucz model computed with
+ature, a wide range from 9000 ± 1000 K (Ripepi et al. 2007) to T
+13 800 K (Hernández et al. 2004) is found9. eff = 14 000 K, close to the value proposed by Hernández et al.
+
 (2004), namely 13 800 K, and log g∗ = 4.0. The Kurucz model
-has been reddened with E(B − V) = 1.10. This fit also seems
-reasonable, and the question is whether there is a way to decide
-which one of the two solutions, if either, is correct.
-10
+The estimates of the distance to the Serpens molecular cloud, has been reddened with E(B − V) = 1.10. This fit also seems
 
-The fits to the SED shown in Fig. 8 (and later in Fig. 10) have
-been performed with models already existing in the grids provided
-by Kurucz. There is a negligible diﬀerence between the models with
-T eﬀ = 11 000 K and log g∗ = 3.0, 3.5, therefore, either of the two models, at the level of accuracy we can reach in these fits, is indistinguishable from the model with log g∗ = 3.22. The same argument holds for
-the models with T eﬀ = 14 000 K and log g∗ = 4.0, and T eﬀ = 13 800 K
-and log g∗ = 4.02.
+where the star is possibly embedded, also have many uncertain- reasonable, and the question is whether there is a way to decide
+ties. The most recent studies converge to a somewhat shorter dis-
+tance: 225 ± which one of the two solutions, if either, is correct.
 
-912
+55 pc for the front edge of the particular region of
+the cloud studied (south of the cloud core) and a depth of 80 pc
+for the cloud complex (Straižys et al. 2003). Eiroa et al. (2008) 10 The fits to the SED shown in Fig. 8 (and later in Fig. 10) have
+assign a distance of ∼230 ± 20 to the Serpens cloud (see that been performed with models already existing in the grids provided
+reference for a complete review of the properties of this region). by Kurucz. There is a negligible difference between the models with
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+Teff = 11 000 K and log g∗ = 3.0, 3.5, therefore, either of the two mod-
+9 An even more extreme value of ∼7000 K is suggested by Ripepi els, at the level of accuracy we can reach in these fits, is indistinguish-
+et al. (2007). According to these authors, it allows them to reproduce able from the model with log g∗ = 3.22. The same argument holds for
+the periodicities of the p-modes of the δ Scuti-like pulsations observed the models with Teff = 14 000 K and log g∗ = 4.0, and Teff = 13 800 K
+in VV Ser. and log g∗ = 4.02.
+
+
+
+912 B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
 
 Fig. 8. Top: the observed spectral energy distribution of VV Ser (grey lines and dots) and two fits to the photospheric contribution (black lines). The
 UV spectra were obtained with the International Ultraviolet Explorer (IUE); the leftmost – and more noisy – spectrum is SWP 48866 (dark grey,
 obtained on 7/10/1993)) and the two spectra to its right are LWP 26520 (dark grey, 7/10/1993), and a merge of LWP 28921 and LWP 28931 (light
-grey, 18–19/10/1994); these are the only spectra obtained by IUE of this object. The optical U BVRI photometry was obtained on 24/10/1998. Top
-left: The SED has been fitted by a Kurucz model with T eﬀ = 11 000 K, log g∗ = 3.5, reddened with E(B − V) = 0.90. Top right: the SED has been
-fitted by a Kurucz model with T eﬀ = 14 000 K, log g∗ = 4.0, reddened with E(B − V) = 1.10. Bottom: the observed Hδ line of VV Ser (grey line)
-and two fits with synthetic models (black lines). Bottom left: the best fit achieved using T eﬀ = 11 000 K and log g∗ = 3.22. Bottom right: the best
-fit for T eﬀ = 13 800 K and log g∗ = 4.02.
+grey, 18–19/10/1994); these are the only spectra obtained by IUE of this object. The optical UBVRI photometry was obtained on 24/10/1998. Top
+left: The SED has been fitted by a Kurucz model with Teff = 11 000 K, log g∗ = 3.5, reddened with E(B − V) = 0.90. Top right: the SED has been
+fitted by a Kurucz model with Teff = 14 000 K, log g∗ = 4.0, reddened with E(B − V) = 1.10. Bottom: the observed Hδ line of VV Ser (grey line)
+and two fits with synthetic models (black lines). Bottom left: the best fit achieved using Teff = 11 000 K and log g∗ = 3.22. Bottom right: the best
+fit for Teff = 13 800 K and log g∗ = 4.02.
 
-In this case, the solution with a higher eﬀective temperature seems likely to be the correct one. The comparison of the
-shapes of the observed and synthetic Balmer profiles for T eﬀ =
-11 000 K, under the assumption that the star has a normal photosphere –which is implicit for all the stars in this work– did not result in a totally satisfactory fit. The shape of the Balmer profiles
-suggests a larger eﬀective temperature. Figure 8 (bottom) shows
-the Hδ observed profile and the best fits for T eﬀ = 11 000 K
-and 13 800 K. The latter temperature provides a better global fit
-between the observed and synthetic Balmer profiles, and in addition, leads to a set of final parameters, shown in Tables 2 and 3,
-which is more coherent with the apparent evolutionary status
-of the star; in particular, it sets an upper limit to the distance
-at 614−88
+In this case, the solution with a higher effective tempera- VV Ser is the star in the sample for which the largest amount
+ture seems likely to be the correct one. The comparison of the of extinction was needed to reasonably fit the photospheric SED.
+shapes of the observed and synthetic Balmer profiles for Teff = In Sect. 4.1 we mentioned that the total-to-selective extinction
+11 000 K, under the assumption that the star has a normal photo- RV = 3.1 was used instead of a larger value (RV ∼ 5) suggested
+sphere –which is implicit for all the stars in this work– did not re- by some studies that could be more appropriate to treat the envi-
+sult in a totally satisfactory fit. The shape of the Balmer profiles ronment of HAeBe stars (Hernández et al. 2004). Figure 9 shows
+suggests a larger effective temperature. Figure 8 (bottom) shows the SED of VV Ser plotted in the same way as in Fig. 8 (upper
+the Hδ observed profile and the best fits for Teff = 11 000 K panels). The black dotted line represents the Kurucz model with
+and 13 800 K. The latter temperature provides a better global fit Teff = 14 000 K, log g∗ = 4.0 reddened with the extinction law
+between the observed and synthetic Balmer profiles, and in addi- with RV = 3.1 and E(B − V) = 1.10 (also shown in Fig. 8,
+tion, leads to a set of final parameters, shown in Tables 2 and 3, upper-right panel) whereas the black solid line represents the
+which is more coherent with the apparent evolutionary status same Kurucz model, reddened with E(B − V) = 0.80 but using
+of the star; in particular, it sets an upper limit to the distance the extinction law with RV = 5.0; the parametrization given by
+at 614−88 Cardelli et al. (1989) has been used. While the results of the SED
+
 +99 pc. In this case, again assuming a distance of 250 pc
-to the star, the fraction of photospheric light blocked would be
-α = 0.83. We have adopted the solution with the higher temperature as the best we can currently deduce from the available
-data, although given the complexity of the system, the issue is
-still open.
+to the star, the fraction of photospheric light blocked would be fitting are roughly comparable and acceptable for both values of
+α = 0.83. We have adopted the solution with the higher tem- RV for the optical and near-IR parts of the SED, the ultraviolet
+perature as the best we can currently deduce from the available part cannot be fitted with the RV = 5.0 law; if one attempts to fit
+data, although given the complexity of the system, the issue is the ultraviolet part, the amount of extinction needed is such that
+still open. it is impossible to fit at the same time the UV and the optical and
 
-VV Ser is the star in the sample for which the largest amount
-of extinction was needed to reasonably fit the photospheric SED.
-In Sect. 4.1 we mentioned that the total-to-selective extinction
-RV = 3.1 was used instead of a larger value (RV ∼ 5) suggested
-by some studies that could be more appropriate to treat the environment of HAeBe stars (Hernández et al. 2004). Figure 9 shows
-the SED of VV Ser plotted in the same way as in Fig. 8 (upper
-panels). The black dotted line represents the Kurucz model with
-T eﬀ = 14 000 K, log g∗ = 4.0 reddened with the extinction law
-with RV = 3.1 and E(B − V) = 1.10 (also shown in Fig. 8,
-upper-right panel) whereas the black solid line represents the
-same Kurucz model, reddened with E(B − V) = 0.80 but using
-the extinction law with RV = 5.0; the parametrization given by
-Cardelli et al. (1989) has been used. While the results of the SED
-fitting are roughly comparable and acceptable for both values of
-RV for the optical and near-IR parts of the SED, the ultraviolet
-part cannot be fitted with the RV = 5.0 law; if one attempts to fit
-the ultraviolet part, the amount of extinction needed is such that
-it is impossible to fit at the same time the UV and the optical and
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
 
-Fig. 9. The observed spectral energy distribution of VV Ser (grey lines
-and dots) and two fits to its photospheric SED. The black dotted line
-(shown as a solid line in the upper-right panel of Fig. 8) corresponds
-to a Kurucz model with T eﬀ = 14 000 K, log g∗ = 4.0 reddened with
-the extinction law with RV = 3.1 and E(B − V) = 1.10. The black solid
-line is the same Kurucz model reddened with with E(B − V) = 0.80 but
-using the extinction law with RV = 5.0 (see text for details).
+B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars 913
 
-near-IR intervals. Since the extinction law with RV = 3.1 allows
+Fig. 9. The observed spectral energy distribution of VV Ser (grey lines Fig. 10. The observed spectral energy distribution of RR Tau (grey
+and dots) and two fits to its photospheric SED. The black dotted line lines and dots) and the fit to the photospheric contribution (black
+(shown as a solid line in the upper-right panel of Fig. 8) corresponds line). The UV spectra were obtained with the International Ultraviolet
+to a Kurucz model with Teff = 14 000 K, log g∗ = 4.0 reddened with Explorer (IUE); in light grey lines the spectra SWP 48866 (7/10/1993))
+the extinction law with RV = 3.1 and E(B − V) = 1.10. The black solid and a merge of LWP 26522 and LWP 26254 (7–8/10/1993) are plot-
+line is the same Kurucz model reddened with with E(B − V) = 0.80 but ted. Taking into account the value of the V magnitude in the epochs
+using the extinction law with RV = 5.0 (see text for details). when the ultraviolet observations were obtained (V = 12.2), and
+
+when the UBVRI photometry (dark grey dots) was taken (V = 10.92,
+31/01/1999), the IUE spectra have been shifted upwards by 0.512 dex
+(dark grey lines) in order to make “comparable” the observing condi-
+tions of the two epochs. The SED is fitted with a Kurucz model with
+
+near-IR intervals. Since the extinction law with RV = 3.1 allows Teff = 10 000 K, log g∗ = 3.5, reddened with E(B − V) = 0.50.
 us to consistently treat the range of wavelengths from UV to the
 near-IR, that value of RV was considered the most appropriate
-for the analysis. The extinctions needed to fit the SEDs of the
-remaining stars are lower than for VV Ser, therefore we decided
-to use the same law for all the objects, giving an homogeneous
-treatment to the whole sample.
-6.4.2. RR Tau
+for the analysis. The extinctions needed to fit the SEDs of the observations comparable11. The best fit to this SED is obtained
+remaining stars are lower than for VV Ser, therefore we decided with a Kurucz model with Teff = 10 000 K, log g∗ = 3.5, red-
+to use the same law for all the objects, giving an homogeneous dened with E(B − V) = 0.50.
+treatment to the whole sample. The value of the gravity deduced for this effective tempera-
 
-This object is a highly variable HAeBe star also classified as a
-UXOR-type (Thé et al. 1994; Oudmaijer et al. 2001; Rodgers
-et al. 2002). The determination of its absolute parameters is very
-diﬃcult because the variability observed does not allow us to discern clearly what properties remain unchanged, and hence can be
-attributable to the – non-variable – stellar photosphere, and what
-are due to the presence of circumstellar material passing in front
-of the star.
-Figure 10 shows the SED of this system from the ultraviolet
-to the infrared, plotted in the same way as we did for VV Ser
-in the previous paragraph. Given the high degree of variability
-of this star and the diﬀerent epochs when the ultraviolet IUE
-spectra and the optical photometry were obtained, it is not trivial to compare the sets of observations. A simple way, accurate
-enough for the purpose of this analysis, is to scale the ultraviolet observations to the UBVRI points according to the value
-of V in both epochs. The ultraviolet spectra shown in the figure were obtained between JD 2449268.446 and 2449268.622
-(mean JD 2449268.534). We have found in the AAVSO archives
-that V = 12.3 on JD 2449268.4 and V = 11.8 on JD 2449269.4,
-with the brightness increasing with time before and after these
-two dates. An interpolation between the magnitudes on the mentioned dates and JD 2449268.534 gives V = 12.2 for the moment
-when the IUE observations were obtained. Since V = 10.92
-when the optical photometry was taken, we have shifted the
-ultraviolet spectra upwards by 0.512 dex to make both sets of
-
-913
-
-Fig. 10. The observed spectral energy distribution of RR Tau (grey
-lines and dots) and the fit to the photospheric contribution (black
-line). The UV spectra were obtained with the International Ultraviolet
-Explorer (IUE); in light grey lines the spectra SWP 48866 (7/10/1993))
-and a merge of LWP 26522 and LWP 26254 (7–8/10/1993) are plotted. Taking into account the value of the V magnitude in the epochs
-when the ultraviolet observations were obtained (V = 12.2), and
-when the U BVRI photometry (dark grey dots) was taken (V = 10.92,
-31/01/1999), the IUE spectra have been shifted upwards by 0.512 dex
-(dark grey lines) in order to make “comparable” the observing conditions of the two epochs. The SED is fitted with a Kurucz model with
-T eﬀ = 10 000 K, log g∗ = 3.5, reddened with E(B − V) = 0.50.
-
-observations comparable11. The best fit to this SED is obtained
-with a Kurucz model with T eﬀ = 10 000 K, log g∗ = 3.5, reddened with E(B − V) = 0.50.
-The value of the gravity deduced for this eﬀective temperature by using the Balmer profiles is log g∗ = 3.31 ± 0.13, which
+ture by using the Balmer profiles is log g∗ = 3.31 ± 0.13, which
 implies the following set of parameters: M∗ = 5.79−0.94
-+0.99 M ,
-+0.3
-L
-,
-Age
-=
-0.4
-Myr
-and,
-after
-combining
-the
-L∗ = 780.5−351.9
-−0.2
-+446.7 
-−544
-luminosity and the observed flux, a distance d = 2103+535 pc.
-Note that the age is fairly low to be in agreement with the evolutionary scenario desribed by Malfait et al. (1998). The value of
-the distance implied by this solution seems to be quite large compared with estimates made for this star, which place the object
-at around 800 pc (Finkenzeller & Mundt 1984). As happened
-with the low eﬀective temperature case for VV Ser, the solution
-found for RR Tau could be made compatible with that value of
-the distance if a fraction α = 0.86 of the stellar light were completely blocked by the disk. The classification of RR Tau as a
-UXOR star would favour a moderate-to-high inclination for the
-disk, justifying this assumption.
-Looking for a solution with a higher eﬀective temperature,
-we have explored the accuracy of the fits between the SED and
-the models of a grid with eﬀective temperatures from 11 000
-to 14 000 K (steps of 1000 K), reddened with colour excesses
-E(B − V) from 0.50 to 0.90. Unlike what happened in the case
-of VV Ser, we have not found a solution that fits reasonably well
-the observed SED, therefore we have adopted for RR Tau the
-eﬀective temperature, gravity and stellar parameters shown in
-Tables 2 and 3. Our results are consistent with those reported
-11
 
-Note that this scaling is grey, in the sense that we have moved the
-ultraviolet spectrum upwards by the same factor for all wavelengths.
-The correct approach would be to take into account the wavelength
-dependence of the extinction, which would imply also a wavelengthdependent scaling factor.
++0.99 M,
+6.4.2. RR Tau L∗ = 780.5−351.9
 
-914
++446.7 L, Age = 0.4+0.3
+−0.2 Myr and, after combining the
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+This object is a highly variable HAeBe star also classified as a luminosity and the observed flux, a distance d = 2103−544
++535 pc.
 
-Table 4. Some stellar parameters for HR 26, HR 4757 and HR 5422.
-Star
-HR 26 A
+UXOR-type (Thé et al. 1994; Oudmaijer et al. 2001; Rodgers Note that the age is fairly low to be in agreement with the evolu-
+et al. 2002). The determination of its absolute parameters is very tionary scenario desribed by Malfait et al. (1998). The value of
+difficult because the variability observed does not allow us to dis- the distance implied by this solution seems to be quite large com-
+cern clearly what properties remain unchanged, and hence can be pared with estimates made for this star, which place the object
+attributable to the – non-variable – stellar photosphere, and what at around 800 pc (Finkenzeller & Mundt 1984). As happened
+are due to the presence of circumstellar material passing in front with the low effective temperature case for VV Ser, the solution
+of the star. found for RR Tau could be made compatible with that value of
 
-log g∗
+Figure 10 shows the SED of this system from the ultraviolet the distance if a fraction α = 0.86 of the stellar light were com-
+to the infrared, plotted in the same way as we did for VV Ser pletely blocked by the disk. The classification of RR Tau as a
+in the previous paragraph. Given the high degree of variability UXOR star would favour a moderate-to-high inclination for the
+of this star and the different epochs when the ultraviolet IUE disk, justifying this assumption.
+spectra and the optical photometry were obtained, it is not triv- Looking for a solution with a higher effective temperature,
+ial to compare the sets of observations. A simple way, accurate we have explored the accuracy of the fits between the SED and
+enough for the purpose of this analysis, is to scale the ultravi- the models of a grid with effective temperatures from 11 000
+olet observations to the UBVRI points according to the value to 14 000 K (steps of 1000 K), reddened with colour excesses
+of V in both epochs. The ultraviolet spectra shown in the fig- E(B − V) from 0.50 to 0.90. Unlike what happened in the case
+ure were obtained between JD 2449268.446 and 2449268.622 of VV Ser, we have not found a solution that fits reasonably well
+(mean JD 2449268.534). We have found in the AAVSO archives the observed SED, therefore we have adopted for RR Tau the
+that V = 12.3 on JD 2449268.4 and V = 11.8 on JD 2449269.4, effective temperature, gravity and stellar parameters shown in
+with the brightness increasing with time before and after these Tables 2 and 3. Our results are consistent with those reported
+two dates. An interpolation between the magnitudes on the men- 11 Note that this scaling is grey, in the sense that we have moved the
+tioned dates and JD 2449268.534 gives V = 12.2 for the moment ultraviolet spectrum upwards by the same factor for all wavelengths.
+when the IUE observations were obtained. Since V = 10.92 The correct approach would be to take into account the wavelength
+when the optical photometry was taken, we have shifted the dependence of the extinction, which would imply also a wavelength-
+ultraviolet spectra upwards by 0.512 dex to make both sets of dependent scaling factor.
 
-Age (Myr)
 
-Tracks
 
-11400
+914 B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
 
-4.14 ± 0.04
-
-1,2
-
-10400
-
-4.05 ± 0.06
-
-−30
-130−40
-+47 , 140+64
-+70
-20+13
-−8 , 30−8
-200−30
-+40 , 200 ± 30
-
-40−17 , 90−50
-
-3,4
-
-T eﬀ (K)
-
-HR 26 B
-HR 4757 A
-HR 4757 B
-HR 5422 A
-
-10040
-
-4.12 ± 0.02
-
-11400
-
-4.08 ± 0.05
-
-HR 5422 B
-HR 26 A
-HR 4757 A
-
-10400
-
-4.06 ± 0.05
-
-HR 5422 A
-
-10250
-
-4.08 ± 0.06
-
-240−30
-,
-+60
-
-1,2
-1,2
-
-240−20
-+60
-
-3,4
-
-50−20 , 100−50
-
-3,4
-
-175−23
-+14
-
-5
-
-+0.4
-1.8−0.2
-260−24
-+14
-+0.5
-2.5−0.2
-267−39
-+23
-+0.1
-2.1−0.4
-
-6
-5
-6
-5
-6
-
-Notes to Table 4: the results shown in the upper part of the table are
-from Gerbaldi et al. (2001), those in the lower part are derived in this
-work. The tracks used for computing the ages are: 1 Schaller et al.
-(1993), 2 Girardi et al. (2000), 3 D’Antona & Mazzitelli (1998), 4 Palla
-& Stahler (1999), 5 Y2 post-MS, 6 Y2 PMS.
-
-by Grinin et al. (2001; T eﬀ = 9750 K, log g∗ = 3.5, solar
-metalicity) and Rodgers et al. (2002; 9000 ≤ T eﬀ ≤ 10 000,
-3.0 ≤ log g∗ ≤ 3.5).
-6.4.3. HR 26 A, HR 4757 A and HR 5422 A
-
-These three stars were included in the sample as hot companions of post-T Tauri stars, extracted from the Lindroos catalogue
-(Lindroos 1985). Gerbaldi et al. (2001) carried out a systematic study of a sample binary systems with post-T Tauri secondaries. Both components, A and B, of HR 26 (HD 560), HR 4757
-(HD 108767) and HR 5422 (HD 127304) were analysed in detail
-in that work and eﬀective temperatures, gravities, luminosities,
-masses and ages were computed. The eﬀective temperatures and
-gravities were obtained by those authors from calibrations using both ubvyβ and Geneva photometry; the luminosities, masses
-and ages were estimated in a diﬀerent way from that followed in
-this paper: using the Hipparcos parallax and the V magnitude of
-each star, they computed Mbol and then L∗ /L , placing the star
-in a log L∗ /L –log T eﬀ HR diagram and from its position, the
-remaining parameters were derived.
-Table 4 shows a comparison of the results from Gerbaldi
-et al.’s work and ours. The results shown in the upper part are
-extracted from Tables 1 (eﬀective temperatures and gravities),
-7 and 9 (ages of the early and late-type stars, respectively) of
-Gerbaldi et al. (2001); those in the lower part are from Tables 2
-and 3 of this work. For the late-type stars we list the ages found
-by Gerbaldi et al. (2001) in order to have all data needed for the
-discussion of the results.
-One should not be confused with the terminology “hot companion of a post-T Tauri star” attributed to these stars in the sense
-of assuming as a real fact that they are physically linked to the
-late-type companion. Gerbaldi et al. (2001) came to the conclusion that for HR 26, the ages of the components were compatible
-with a physical association between them due to the overlap of
-the error bars of the ages. The lack of that overlap lead these authors to conclude that the components of HR 4757 and HR 5422
-
-are not linked (see Table 4). Note, however, that the result on
+Table 4. Some stellar parameters for HR 26, HR 4757 and HR 5422. are not linked (see Table 4). Note, however, that the result on
 HR 26 hinges on a large error in the determination of the age
-of the late-type star, therefore, in our opinion, that claim is very
+
+Star Teff (K) log g∗ Age (Myr) Tracks of the late-type star, therefore, in our opinion, that claim is very
 uncertain.
-Strictly speaking, with only the data corresponding to the effective temperature and gravity (or luminosity), it is impossible
-to say whether these three stars are in a PMS or a post-MS evolutionary stage. When the corresponding points (log T eﬀ , log g∗ )
-– or (log T eﬀ , log L∗ /L ), if the V magnitudes, bolometric corrections and Hipparcos distances are used – are placed in the HR
-diagram, they lie above the main sequence. In Fig. 11 we can see
+
+HR 26 A 11400 4.14 ± 0.04 130−40
++47, 140−30
+
++64 1,2 Strictly speaking, with only the data corresponding to the ef-
+HR 26 B 20+13
+
+−8 , 30+70
+−8 1,2 fective temperature and gravity (or luminosity), it is impossible
+
+HR 4757 A 10400 4.05 ± 0.06 200−30
++40, 200 ± 30 1,2 to say whether these three stars are in a PMS or a post-MS evo-
+
+lutionary stage. When the corresponding points (log Teff, log g∗)
+HR 4757 B 40−17, 90−50 3,4 – or (log Teff, log L∗/L), if the V magnitudes, bolometric cor-
+HR 5422 A 10040 4.12 ± 0.02 240−30
+
++60, 240−20
++60 3,4 rections and Hipparcos distances are used – are placed in the HR
+
+HR 5422 B 50−20, 100 diagram, they lie above the main sequence. In Fig. 11 we can see
+−50 3,4
+
 two HR diagrams, on the left we have plotted our results on the
-Y2 tracks and isochrones for PMS stars and on the right, on the
-Y2 set for the post-MS. In Tables 3 and 4 we give the results derived for both cases. The PMS ages are low, less than 3 Myr in all
-cases, whereas the post-MS ages are in the range 150–300 Myr,
-consistent with the results by Gerbaldi et al., although slightly
-larger.
+HR 26 A 11400 4.08 ± 0.05 175−23
+
++14 5 Y2 tracks and isochrones for PMS stars and on the right, on the
+Y2
+
+1.8+0.4
+− set for the post-MS. In Tables 3 and 4 we give the results de-
+
+0.2 6
+rived for both cases. The PMS ages are low, less than 3 Myr in all
+
+HR 4757 A 10400 4.06 ± 0.05 260−24
++14 5 cases, whereas the post-MS ages are in the range 150–300 Myr,
+
+2.5+0.5
+−0.2 6 consistent with the results by Gerbaldi et al., although slightly
+
+HR 5422 A 10250 4.08 ± 0.06 267−39 larger.
++23 5
+
 The SEDs do not show any remarkable infrared excess:
-HR 26 A and HR 5422 A do not have IRAS detections, and
-HR 4757 A has IRAS fluxes at 12 and 25 μm lying slightly
-above the photospheric continuum and only upper limits at 60
-and 100 μm. HR 26 A has a detection at 1.3 mm above the photospheric continuum (Altenhoﬀ et al. 1994). However, the absence of an infrared excesses cannot, in principle, rule out the
+2.1+0.1
+−0.4 6 HR 26 A and HR 5422 A do not have IRAS detections, and
+
+Notes to Table 4: the results shown in the upper part of the table are HR 4757 A has IRAS fluxes at 12 and 25 μm lying slightly
+from Gerbaldi et al. (2001), those in the lower part are derived in this above the photospheric continuum and only upper limits at 60
+work. The tracks used for computing the ages are: 1 Schaller et al. and 100 μm. HR 26 A has a detection at 1.3 mm above the pho-
+(1993), 2 Girardi et al. (2000), 3 D’Antona & Mazzitelli (1998), 4 Palla tospheric continuum (Altenhoff et al. 1994). However, the ab-
+& Stahler (1999), 5 Y2 post-MS, 6 Y2 PMS. sence of an infrared excesses cannot, in principle, rule out the
+
 results extracted from PMS tracks, since it is not guaranteed that
-all A-type PMS stars in the age range 1–10 Myr have large infrared excesses indicating the presence of a circumstellar disk.
-None of the stars show Hα in emission.
-Pallavicini et al. (1992) carried out optical spectroscopy of
+all A-type PMS stars in the age range 1–10 Myr have large in-
+
+by Grinin et al. (2001; Teff = 9750 K, log g∗ = 3.5, solar frared excesses indicating the presence of a circumstellar disk.
+metalicity) and Rodgers et al. (2002; 9000 ≤ Teff ≤ 10 000, None of the stars show Hα in emission.
+3.0 ≤ log g∗ ≤ 3.5). Pallavicini et al. (1992) carried out optical spectroscopy of
+
 post-T Tauri star candidates. HR 26 B (G5 Ve) and HR 4757 B
-(K2 Ve) show strong Ca ii emissions and Li absorptions, which
+6.4.3. HR 26 A, HR 4757 A and HR 5422 A (K2 Ve) show strong Ca ii emissions and Li absorptions, which
+
 are indications of youth, whereas HR 5422 B (K1 V) does not
-have Ca ii emission and the Li absorption is weak, which implies that this object must be older than the other two stars. The
-ages derived by Gerbaldi et al. for the “B” components, listed in
-Table 4, are consistent with those observations, but in all cases
-they are larger than (under the assumption that the “A” components are PMS objects) or smaller (assuming that the “A” components are post-MS stars), by very significant diﬀerences, the ages
-of the corresponding early-type companions. Therefore, we can
-conclude that in none of the three cases are the pairs physically
-linked.
-6.4.4. 49 Cet and other stars without Hα emission
+These three stars were included in the sample as hot compan- have Ca ii emission and the Li absorption is weak, which im-
+ions of post-T Tauri stars, extracted from the Lindroos catalogue plies that this object must be older than the other two stars. The
+(Lindroos 1985). Gerbaldi et al. (2001) carried out a system- ages derived by Gerbaldi et al. for the “B” components, listed in
+atic study of a sample binary systems with post-T Tauri secon- Table 4, are consistent with those observations, but in all cases
+daries. Both components, A and B, of HR 26 (HD 560), HR 4757 they are larger than (under the assumption that the “A” compo-
+(HD 108767) and HR 5422 (HD 127304) were analysed in detail nents are PMS objects) or smaller (assuming that the “A” compo-
+in that work and effective temperatures, gravities, luminosities, nents are post-MS stars), by very significant differences, the ages
+masses and ages were computed. The effective temperatures and of the corresponding early-type companions. Therefore, we can
+gravities were obtained by those authors from calibrations us- conclude that in none of the three cases are the pairs physically
+ing both ubvyβ and Geneva photometry; the luminosities, masses linked.
+and ages were estimated in a different way from that followed in
+this paper: using the Hipparcos parallax and the V magnitude of
+each star, they computed M 6.4.4. 49 Cet and other stars without Hα emission
 
-In Table 1 we indicate what stars show the Hα line in emission.
-It is well known that stars without disks with eﬀective temperatures in the range of those considered in this work show the Hα
-line – and all the lines of the Balmer series – in absorption. The
-presence of emission in PMS stars with protoplanetary disks is
-an indication of winds (Finkenzeller & Mundt 1984), accretion
-(e.g. Muzerolle et al. 2005), or a combination of both (Kurosawa
-et al. 2006)12 . Since the typical lifetime of protoplanetary disks
-is a few million years (Alexander 2008), these phenomena are
-an indication of youth, and therefore the status of PMS assumed
-a priori for all the stars in our sample with Hα emission is coherent.
-However, the fact that a star does not show Hα in emission
-does not imply, in principle, that the object has abandonned the
-PMS phase. In our sample there are stars with no emission but
-12
+bol and then L∗/L, placing the star
+in a log L∗/L–log Teff HR diagram and from its position, the In Table 1 we indicate what stars show the Hα line in emission.
+remaining parameters were derived. It is well known that stars without disks with effective tempera-
 
-If the star is of a spectral type later than F, the Hα emission also will
-have a chromospheric contribution.
+Table 4 shows a comparison of the results from Gerbaldi tures in the range of those considered in this work show the Hα
+et al.’s work and ours. The results shown in the upper part are line – and all the lines of the Balmer series – in absorption. The
+extracted from Tables 1 (effective temperatures and gravities), presence of emission in PMS stars with protoplanetary disks is
+7 and 9 (ages of the early and late-type stars, respectively) of an indication of winds (Finkenzeller & Mundt 1984), accretion
+Gerbaldi et al. (2001); those in the lower part are from Tables 2 (e.g. Muzerolle et al. 2005), or a combination of both (Kurosawa
+and 3 of this work. For the late-type stars we list the ages found et al. 2006)12. Since the typical lifetime of protoplanetary disks
+by Gerbaldi et al. (2001) in order to have all data needed for the is a few million years (Alexander 2008), these phenomena are
+discussion of the results. an indication of youth, and therefore the status of PMS assumed
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+One should not be confused with the terminology “hot com- a priori for all the stars in our sample with Hα emission is coher-
+panion of a post-T Tauri star” attributed to these stars in the sense ent.
+of assuming as a real fact that they are physically linked to the However, the fact that a star does not show Hα in emission
+late-type companion. Gerbaldi et al. (2001) came to the conclu- does not imply, in principle, that the object has abandonned the
+sion that for HR 26, the ages of the components were compatible PMS phase. In our sample there are stars with no emission but
+with a physical association between them due to the overlap of
+the error bars of the ages. The lack of that overlap lead these au- 12 If the star is of a spectral type later than F, the Hα emission also will
+thors to conclude that the components of HR 4757 and HR 5422 have a chromospheric contribution.
 
-915
 
-Fig. 11. Two HR diagrams log g∗ − log T eﬀ where the positions of the stars HR 26 A, HR 4757 A, HR 5422 A and 49 Cet have been plotted. The
-error bars in log T eﬀ correspond to uncertainties of ±250 K. The diagrams show the stars plotted on PMS (left) and post-MS (right) tracks (solid
+
+B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars 915
+
+Fig. 11. Two HR diagrams log g∗ − log Teff where the positions of the stars HR 26 A, HR 4757 A, HR 5422 A and 49 Cet have been plotted. The
+error bars in log Teff correspond to uncertainties of ±250 K. The diagrams show the stars plotted on PMS (left) and post-MS (right) tracks (solid
 lines) and isochrones (dashed lines) for solar metallicity from Yi et al. (2001).
 
-showing remarkable infrared excesses, indicative of the presence
+showing remarkable infrared excesses, indicative of the presence 7. Final remarks
 of a disk.
-The case of 49 Cet is especially interesting. The peculiarity
-of this object is that its disk has retained a substantial amount of
-molecular gas, which is a typical feature of protoplanetary disks
-(i.e. ages less than ∼10 Myr) but shows dust properties similar
-to those of debris disks (Hughes et al. 2008). The spectrum, as
+
+Effective temperatures, gravities, metallicities, masses, lumi-
+The case of 49 Cet is especially interesting. The peculiarity nosities, ages and distances (or upper limits) have been obtained
+
+of this object is that its disk has retained a substantial amount of for a sample of 30 early-type objects, more precisely 27 HAeBe,
+molecular gas, which is a typical feature of protoplanetary disks Vega-type and Ash stars, and three hot – suspected and finally
+(i.e. ages less than ∼10 Myr) but shows dust properties similar ruled out – companions of post-T Tauri stars. The results ob-
+to those of debris disks (Hughes et al. 2008). The spectrum, as tained are described in detail in Sect. 5 and discussed in Sect. 6.
 can be seen in Fig. 5, is purely photospheric, and does not show
-any signature of circumstellar activity.
-In Table 3 we give the stellar parameters for this object using both PMS and post-MS tracks and isochrones. Figure 11
-shows the position of the star in two HR diagrams; on the left,
-the Y2 PMS tracks and isochrones have been used, on the right,
-the post-MS set has been plotted. Thi et al. (2001) assigned an
-age of 7.8 Myr to 49 Cet using PMS tracks, which is in good
-agreement with our PMS determination. Our estimations of the
-eﬀective temperature and gravity place the star almost on the
-main sequence, therefore its evolutionary status can be that of a
-star either on the PMS phase, entering the MS, or just evolving
-out of it. Actually, the uncertainties in the gravity are such that
-they allow the star to be exactly on the main sequence.
-In the region of the HR diagram where 49 Cet lies, it is
-particularly diﬃcult to carry out an estimation of ages: the
-isochrones are very close to each other and therefore a small
-change in gravity implies a large change in age. In the case of
-this star, the range of ages covered assuming that the star is in
-a PMS phase or in a post-MS stage is 8.9–61 Myr, hence any
-age in between these two determinations could be a reasonable
-result. Hughes et al. (2008) suggest that the disk might be in an
-unusual transitional phase and our results are in agreement with
-this hypothesis.
-As can be seen in Table 1, in addition to HR 26 A, HR 4757
-A and HR 5422 A, already studied in the previous subsection,
-there are other stars without Hα emission. Those objects have
-been classified as A-shell or Vega-like stars, implying that the
-corresponding infrared excesses are not very large. However,
-these stars deserve further and more detailed study since the ages
-derived from PMS tracks (see Table 3) are in all cases less than
-6 Myr and some objects, e.g. HR 10 and λ Boo show a high
-degree of circumstellar activity.
+any signature of circumstellar activity. We stress the difficulty of finding the correct stellar param-
 
-7. Final remarks
-Eﬀective temperatures, gravities, metallicities, masses, luminosities, ages and distances (or upper limits) have been obtained
-for a sample of 30 early-type objects, more precisely 27 HAeBe,
-Vega-type and Ash stars, and three hot – suspected and finally
-ruled out – companions of post-T Tauri stars. The results obtained are described in detail in Sect. 5 and discussed in Sect. 6.
-We stress the diﬃculty of finding the correct stellar parameters for these kinds of objects. As we have seen in the cases
-of VV Ser and RR Tau, shown in Sect. 6.4, the spectral energy
-distributions are diﬃcult to interpret and the assumption that
-the ultraviolet, optical and near infrared parts of the SED originate entirely in the photosphere must be assessed in each case.
-Simultaneity of the observations in all wavelength ranges is crucial to build a consistent SED; in this work we have used ultraviolet data that were obtained long before the optical and near
-infrared data; this must be always be present in the analysis of
-the SED. Also, the wings of the Balmer lines used to compute
-the gravity are supposed to be purely photospheric, without any
-external contamination. Note that these hypotheses, underlying
-the whole procedure, are the starting points to determine the remaining set of stellar parameters. The extinction caused by the
-environment and the variability of the objects can also mask the
-‘true photosphere’, if that concept is applicable to these kinds of
-stars.
-On the other hand, the uncertainties in the determination of
-temperatures and gravities place a limit on the accuracy of the
-ages estimated using isochrones. As it can be seen in Figs. 6
-and 11, depending on the region of the HR diagram where a
-given star lies, the shape and position of the isochrones provide
-in some cases a wide range of ages. In particular, when the star
-lies very near the main sequence, as it happens to 49 Cet, even
-the determination of the evolutionary status as a PMS or postMS object can be a problem.
-In view of these considerations we suggest to take the ages
-found in this paper – and in general, all the determinations of
-ages at this evolutionary stage using isochrones – with caution,
-assessing each particular case in a critical way and complementing their values with those of an observable quantity, such as
-FIR /F∗ , i.e. the ratio between the excess flux from the disk and
+eters for these kinds of objects. As we have seen in the cases
+In Table 3 we give the stellar parameters for this object us- of VV Ser and RR Tau, shown in Sect. 6.4, the spectral energy
 
-916
+ing both PMS and post-MS tracks and isochrones. Figure 11 distributions are difficult to interpret and the assumption that
+shows the position of the star in two HR diagrams; on the left, the ultraviolet, optical and near infrared parts of the SED origi-
+the Y2 PMS tracks and isochrones have been used, on the right, nate entirely in the photosphere must be assessed in each case.
+the post-MS set has been plotted. Thi et al. (2001) assigned an Simultaneity of the observations in all wavelength ranges is cru-
+age of 7.8 Myr to 49 Cet using PMS tracks, which is in good cial to build a consistent SED; in this work we have used ultra-
+agreement with our PMS determination. Our estimations of the violet data that were obtained long before the optical and near
+effective temperature and gravity place the star almost on the infrared data; this must be always be present in the analysis of
+main sequence, therefore its evolutionary status can be that of a the SED. Also, the wings of the Balmer lines used to compute
+star either on the PMS phase, entering the MS, or just evolving the gravity are supposed to be purely photospheric, without any
+out of it. Actually, the uncertainties in the gravity are such that external contamination. Note that these hypotheses, underlying
+they allow the star to be exactly on the main sequence. the whole procedure, are the starting points to determine the re-
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+In the region of the HR diagram where 49 Cet lies, it is maining set of stellar parameters. The extinction caused by the
+particularly difficult to carry out an estimation of ages: the environment and the variability of the objects can also mask the
+isochrones are very close to each other and therefore a small ‘true photosphere’, if that concept is applicable to these kinds of
+change in gravity implies a large change in age. In the case of stars.
+this star, the range of ages covered assuming that the star is in On the other hand, the uncertainties in the determination of
+a PMS phase or in a post-MS stage is 8.9–61 Myr, hence any temperatures and gravities place a limit on the accuracy of the
+age in between these two determinations could be a reasonable ages estimated using isochrones. As it can be seen in Figs. 6
+result. Hughes et al. (2008) suggest that the disk might be in an and 11, depending on the region of the HR diagram where a
+unusual transitional phase and our results are in agreement with given star lies, the shape and position of the isochrones provide
+this hypothesis. in some cases a wide range of ages. In particular, when the star
 
-the photospheric flux, which can be taken as a proxy for the age
+As can be seen in Table 1, in addition to HR 26 A, HR 4757 lies very near the main sequence, as it happens to 49 Cet, even
+A and HR 5422 A, already studied in the previous subsection, the determination of the evolutionary status as a PMS or post-
+there are other stars without Hα emission. Those objects have MS object can be a problem.
+been classified as A-shell or Vega-like stars, implying that the In view of these considerations we suggest to take the ages
+corresponding infrared excesses are not very large. However, found in this paper – and in general, all the determinations of
+these stars deserve further and more detailed study since the ages ages at this evolutionary stage using isochrones – with caution,
+derived from PMS tracks (see Table 3) are in all cases less than assessing each particular case in a critical way and complement-
+6 Myr and some objects, e.g. HR 10 and λ Boo show a high ing their values with those of an observable quantity, such as
+degree of circumstellar activity. FIR/F∗, i.e. the ratio between the excess flux from the disk and
+
+
+
+916 B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+
+the photospheric flux, which can be taken as a proxy for the age Table 5. Mean abundances for the sample of Acke & Waelkens (2004).
 of the system.
-We would also like to remark that the method proposed
-to obtain the stellar parameters is distance-independent, in the
-sense that it is based on the determination of the eﬀective temperature and gravity, which are used, via a transformation from
-a log g∗ − log T eﬀ HR diagram into a log L∗ /L − log T eﬀ HR
-diagram, to compute the remaining parameters. The method has
-proven to be reliable, given the agreement between the distances
-found in this work and those available from Hipparcos measurements (see Sect. 6.3 and Fig. 7). For those stars with unknown
-distances, our determinations are upper limits to the real values.
-The tasks carried out in this paper, resulting in the characterization of the stars, are necessary steps to study and model
-their circumstellar disks. Work is already in progress to show a
-global picture of the behaviour of the disks of these stars and
-their interaction, via accretion processes, with the star.
+
+We would also like to remark that the method proposed Star Metals [Fe/H]
+to obtain the stellar parameters is distance-independent, in the HD 4881 −0.78 ± 0.05 −0.64 ± 0.09
+sense that it is based on the determination of the effective tem- HD 6028 −0.18 ± 0.06 −0.13 ± 0.01
+perature and gravity, which are used, via a transformation from HD 17081 −0.09 ± 0.13 −0.26 ± 0.19
+a log g∗ − log Teff HR diagram into a log L∗/L − log Teff HR HD 17206 −0.07 ± 0.05 −0.09 ± 0.11
+diagram, to compute the remaining parameters. The method has HD 18256 +0.06 ± 0.03 +0.06 ± 0.11
+proven to be reliable, given the agreement between the distances HD 20010 −0.17 ± 0.05 −0.16 ± 0.12
+found in this work and those available from Hipparcos measure- HD 28978 0.00 ± 0.08 +0.18 ± 0.11
+ments (see Sect. 6.3 and Fig. 7). For those stars with unknown HD 31293 −0.35 ± 0.03 −1.04 ± 0.12
+distances, our determinations are upper limits to the real values. HD 31648 +0.33 ± 0.08 +0.07 ± 0.10
+
+The tasks carried out in this paper, resulting in the charac- HD 33564 +0.14 ± 0.03 −0.38 ± 0.13
+terization of the stars, are necessary steps to study and model HD 36112 −0.02 ± 0.07 −0.14 ± 0.08
+their circumstellar disks. Work is already in progress to show a HD 95418 +0.07 ± 0.04 +0.23 ± 0.06
+global picture of the behaviour of the disks of these stars and HD 97048 −0.75 ± 0.06 −
+their interaction, via accretion processes, with the star. HD 97633 +0.08 ± 0.08 +0.01 ± 0.08
+
+HD 100453 +0.03 ± 0.05 −0.09 ± 0.13
 Acknowledgements. This work has been supported in part by a grant attached
-to the project AYA2005–00954, funded by the Spanish Ministry of Science and
-Education.
-The authors are grateful to Bram Acke for sending us some high resolution spectra of HD 31648, Piercarlo Bonifacio for his help with the use of SYNTHE,
-Robert Kurucz for some clarifications on his model atmospheres and Sukyoung
+to the project AYA2005–00954, funded by the Spanish Ministry of Science and HD 100546 −1.05 ± 0.08 −1.30 ± 0.13
+Education. HD 102647 −0.19 ± 0.08 −0.21 ± 0.09
+The authors are grateful to Bram Acke for sending us some high resolution spec- HD 104237 +0.06 ± 0.05 +0.09 ± 0.12
+tra of HD 31648, Piercarlo Bonifacio for his help with the use of SYNTHE, HD 135344 +0.01 ± 0.07 −0.08 ± 0.10
+Robert Kurucz for some clarifications on his model atmospheres and Sukyoung HD 139614 −0.32 ± 0.04 −0.27 ± 0.11
 Yi for kindly providing unpublished smoothed evolutionary tracks and for advice
-on their use. We would also like to thank the staﬀ at the Calar Alto and Roque
-de los Muchachos observatories for their support during the observing runs.
-We acknowledge with thanks the variable star observations from the AAVSO
-International Database contributed by observers worldwide and used in this research.
-We also thank Jesús Hernández, the referee, for the careful reading of the original
+on their use. We would also like to thank the staff at the Calar Alto and Roque HD 190073 +0.02 ± 0.05 −0.04 ± 0.10
+de los Muchachos observatories for their support during the observing runs. HD 244604 − −0.25
+We acknowledge with thanks the variable star observations from the AAVSO HD 250550 −0.40 ± 0.06 −0.88 ± 0.12
+International Database contributed by observers worldwide and used in this re-
+search.
+We also thank Jesús Hernández, the referee, for the careful reading of the original The mean me∑tallicity can be c∑omputed as:
 manuscript and many comments and suggestions.
 
-Table 5. Mean abundances for the sample of Acke & Waelkens (2004).
-Star
-HD 4881
-HD 6028
-HD 17081
-HD 17206
-HD 18256
-HD 20010
-HD 28978
-HD 31293
-HD 31648
-HD 33564
-HD 36112
-HD 95418
-HD 97048
-HD 97633
-HD 100453
-HD 100546
-HD 102647
-HD 104237
-HD 135344
-HD 139614
-HD 190073
-HD 244604
-HD 250550
+[M/H] = log Bi 10xi − log Bi (4)
+Appendix A i i
 
-Appendix A
+In this Appendix we treat the problem of how to compute a where the sums extended over all i metallic elements. Since only
+meaningful “mean metal abundance” from measurements of in- a few metallicities are measurable for each star, the sum will be
+dividual elemental abundances. Let us consider the case of a set restricted to those atoms, assuming that the remaining unknown
+of elemental abundances, some of which have been obtained us- abundances will not significantly alter the result.
+ing lines of two different ionization stages. The error in the determination of the mean abundance can be
 
-xi = [Ai /H] =
+Let xi( j) be the elemental abundance of the element i ob- treated as foll√ows: since [M/H] = f (x1, . . . , xN) then
+tained using absorption lines of its j-th ionization stage, i.e. ∑( )
+xi( j) = [Ai( j)/H] and let Δxi( j) be the corresponding error. ∂ f 2
 
-xi (I)/Δ xi (I) + xi (II)/Δ xi (II)
-1/Δ2 xi (I) + 1/Δ2 xi (II)
-2
+σ([M/H]) = Δx
+∂x i (5)
 
-2
+In the particular case when an element has different measure-
+i i
 
-(1)
+ments of the abundances using lines of two ionization stages,
+namely I and II, we obtain the abundance of that element by av- where
+eraging the individual values weighted by a factor equal to the
+inverse of the square of their errors: ∂ f ∑B xi
 
-and
-Δ2 xi = σ2 =
+i 10
+=
 
-1/Δ2 x
+∂xi j B j 10x (6)
+j
 
-1
-·
-2
-i (I) + 1/Δ xi (II)
-
-(2)
-
-In this way, if the measurement from one ionization state is much
-more precise than the other, the average value and its error will
-approach the best ones. However, if both measurements have
-√
-equal precision, the average error will be reduced by a factor 2.
-Once we have all the elemental abundances and their errors,
-i.e. the pairs xi , Δxi , we can proceed with the calculation of the
-mean metal abundance:
-Let Bi be
-
-
-NAi
-Bi =
-·
-(3)
-NH 
-
-[Fe/H]
-−0.64 ± 0.09
-−0.13 ± 0.01
-−0.26 ± 0.19
-−0.09 ± 0.11
-+0.06 ± 0.11
-−0.16 ± 0.12
-+0.18 ± 0.11
-−1.04 ± 0.12
-+0.07 ± 0.10
-−0.38 ± 0.13
-−0.14 ± 0.08
-+0.23 ± 0.06
-−
-+0.01 ± 0.08
-−0.09 ± 0.13
-−1.30 ± 0.13
-−0.21 ± 0.09
-+0.09 ± 0.12
-−0.08 ± 0.10
-−0.27 ± 0.11
-−0.04 ± 0.10
-−0.25
-−0.88 ± 0.12
-
-The mean metallicity can be computed as:
-
-
-[M/H] = log
-Bi 10 xi − log
-Bi
-i
-
-In this Appendix we treat the problem of how to compute a
-meaningful “mean metal abundance” from measurements of individual elemental abundances. Let us consider the case of a set
-of elemental abundances, some of which have been obtained using lines of two diﬀerent ionization stages.
-Let xi ( j) be the elemental abundance of the element i obtained using absorption lines of its j-th ionization stage, i.e.
-xi ( j) = [Ai ( j)/H] and let Δxi ( j) be the corresponding error.
-In the particular case when an element has diﬀerent measurements of the abundances using lines of two ionization stages,
-namely I and II, we obtain the abundance of that element by averaging the individual values weighted by a factor equal to the
-inverse of the square of their errors:
-
-Metals
-−0.78 ± 0.05
-−0.18 ± 0.06
-−0.09 ± 0.13
-−0.07 ± 0.05
-+0.06 ± 0.03
-−0.17 ± 0.05
-0.00 ± 0.08
-−0.35 ± 0.03
-+0.33 ± 0.08
-+0.14 ± 0.03
-−0.02 ± 0.07
-+0.07 ± 0.04
-−0.75 ± 0.06
-+0.08 ± 0.08
-+0.03 ± 0.05
-−1.05 ± 0.08
-−0.19 ± 0.08
-+0.06 ± 0.05
-+0.01 ± 0.07
-−0.32 ± 0.04
-+0.02 ± 0.05
-−
-−0.40 ± 0.06
-
-(4)
-
-i
-
-where the sums extended over all i metallic elements. Since only
-a few metallicities are measurable for each star, the sum will be
-restricted to those atoms, assuming that the remaining unknown
-abundances will not significantly alter the result.
-The error in the determination of the mean abundance can be
-treated as follows: since [M/H] = f (x1 , . . . , xN ) then
-
- 
-2
- ∂f
-σ([M/H]) =
-Δxi
-(5)
-∂xi
-i
-where
-∂f
-Bi 10 xi
-=
-xj
-∂xi
-j B j 10
-
-(6)
+xi(I)/Δ2xi(I) + xi(II)/Δ2xi(II)xi = [Ai/H] = (1)
+1/Δ2xi(I) + 1/Δ2xi(II)
 
 according to Eq. (4).
-Acke & Waelkens (2004) provide the values of [Ai /H] and
-use the solar abundances by Anders & Grevesse (1989), so in
-principle, it is not diﬃcult to compute an average abundance to
-be compared with ours. The problem, however, is a bit more
-subtle and a direct comparison is not as trivial as it may appear.
-Acke & Waelkens (2004) divide the results in three tables: their
-Table 2 contains the C, N, O and S abundances; Table 3 contains
-the abundances of “metals”, where by “metals” they mean Mg,
-Si, Ca, Ti, Fe and Sr, and Table 4 contains the abundances of
-other elements, namely Na, Al, Sc, V, Cr, Mn, Ni, Zn, Y, Zr
-and Ba.
-Instead of computing the mean metallicity using all the elemental abundances, the criterion we have chosen is to include
-only abundances of the “metals”. These averages, and their uncertainties, are shown in the second column of Table 5. The reason for this is that, since the atomic fractions of C, N, O and S
+Acke & Waelkens (2004) provide the values of [Ai/H] and
 
-B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars
+and use the solar abundances by Anders & Grevesse (1989), so in
+principle, it is not difficult to compute an average abundance to
 
-are much larger than those of the remaining elements, these four
-elements would dominate the whole mean value. As the optical
-spectrum of early-type stars is dominated by lines of “metals”,
-the abundances we have computed for the stars in our sample
-are, in fact, related to to those species and not to the lighter elements, namely, C, N, O and S.
-For comparison we give in the third column of Table 5 the Fe
-abundances. Note that they can be quite diﬀerent from the mean
-abundances obtained from the metals. This comes from the fact
-that the elemental abundance ratios in these stars diﬀer in general
-from the solar ones, so the abundances of other “metals”, mainly
-Mg and Si, have a strong weight on the mean abundance.
-References
-Acke, B., & Waelkens, C. 2004, A&A, 427, 1009
-Adelman, S. J., Pintado, O. I., Nieva, F., et al. 2002, A&A, 392, 1031
-Alexander, R. 2008, New Astron. Rev., 52, 60
-Altenhoﬀ, W. J., Thum, C., & Wendker, H. J. 1994, A&A, 281, 161
-Anders, E., & Grevesse, N. 1989, Geochim and Cosmochim. Acta, 53, 197
-Beckwith, S. V. W. 1996, Nature, 383, 139
-Blondel, P. F. C., & Tjin A Djie, H. R. E. 2006, A&A, 456, 1045
-Cardelli, J. A., Clayton, G. C., & Mathis, J. S. 1989, ApJ, 345, 245
-Castelli, F., & Kurucz, R. L. 2003, in Modelling of Stellar Atmospheres, ed. N.
-Piskunov, W. W. Weiss, & D. F. Gray, ASP IAU S-210, poster A20
-Cieza, L. A. 2008, in New Horizons in Astronomy, ed. A. Frebel, J. R. Maund,
-J. Shen, & M. H. Siegel, ASP Conf. Ser., 393, 35
-D’Antona, F., & Mazzitelli, I. 1994, ApJS, 90, 467, updated in 1998 on the
-personal web page by Francesca D’Antona: http://www.mporzio.astro.
-it/people.html
-Dunkin, S. K., Barlow, M. J., & Ryan, S. G. 1997a, MNRAS, 286, 604
-Dunkin, S. K., Barlow, M. J., & Ryan, S. G. 1997b, MNRAS, 290, 165
-Eiroa, C., Mora, A., Palacios, J., et al. (EXPORT) 2000, in Disks, Planetesimals
-and Planets, ed. F. Garzón, C. Eiroa, D. de Winter, & T. Mahoney, ASP Conf.
-Ser., 219, 3
-Eiroa, C., Garzón, F., Alberdi, A., et al. (EXPORT) 2001, A&A, 365, 110
-Eiroa, C., Oudmaijer, R. D., Davies, J. K., et al. (EXPORT) 2002, A&A, 384,
-1038
-Eiroa, C., Djupvik, A. A., & Casali, M. M. 2008, in Handbook of Star Forming
-Regions, ASP Conf. Ser., ed. B. Reipurth, 2, 693
-Finkenzeller, U., & Mundt, R. 1984, A&AS, 55, 109
-Gerbaldi, M., Faraggiana, R., & Balin, N. 2001, A&A, 379, 162
-Girardi, L., Bressan, A., Bertelli, G., & Chiosi, C. 2000, A&AS, 141, 371
-Grinin, V. P. 1988, Soviet Astron. Lett., 14, 27
-Grinin, V. P., Kiselev, N. N., Minikulov, N. K., et al. 1991, Ap&SS, 186, 283
-Grinin, V. P., Kozlova, O. V., Natta, A., et al. 2001, A&A, 379, 482
-Guimarães, M. M., Alencar, S. H. P., Corradi, W. J. B., & Vieira, S. L. A. 2006,
-A&A, 457, 581
+Δ2 1
+xi = σ
 
-917
+2 = · (2)
+1/Δ2 be compared with ours. The problem, however, is a bit more
 
-Haisch, K. E., Jr, Lada, E. A., & Lada, Ch.J. 2001, ApJ, 553, L153
-Herbst, W., & Shevchenko, V. S. 1999, AJ, 118, 1043
-Hernández, J., Calvet, N., Briceño, C., et al. 2004, AJ, 127, 1682
+xi(I) + 1/Δ2xi(II) subtle and a direct comparison is not as trivial as it may appear.
+In this way, if the measurement from one ionization state is much Acke & Waelkens (2004) divide the results in three tables: their
+more precise than the other, the average value and its error will Table 2 contains the C, N, O and S abundances; Table 3 contains
+approach the best ones. However, if both measurements h√ave the abundances of “metals”, where by “metals” they mean Mg,
+equal precision, the average error will be reduced by a factor 2. Si, Ca, Ti, Fe and Sr, and Table 4 contains the abundances of
+
+Once we have all the elemental abundances and their errors, other elements, namely Na, Al, Sc, V, Cr, Mn, Ni, Zn, Y, Zr
+i.e. the pairs xi, Δxi, we can proceed with the calculation of the and Ba.
+mean metal abundance: Instead of computing the mean metallicity using all the el-
+
+L(et Bi )be emental abundances, the criterion we have chosen is to include
+only abundances of the “metals”. These averages, and their un-
+
+NA certainties, are shown in the second column of Table 5. The rea-
+B i
+
+i = · (3)
+NH  son for this is that, since the atomic fractions of C, N, O and S
+
+
+
+B. Montesinos et al.: Parameters of Herbig Ae/Be and Vega-type stars 917
+
+are much larger than those of the remaining elements, these four Haisch, K. E., Jr, Lada, E. A., & Lada, Ch.J. 2001, ApJ, 553, L153
+elements would dominate the whole mean value. As the optical Herbst, W., & Shevchenko, V. S. 1999, AJ, 118, 1043
+spectrum of early-type stars is dominated by lines of “metals”, Hernández, J., Calvet, N., Briceño, C., et al. 2004, AJ, 127, 1682
+
 Hernández, J., Calvet, N., Hartmann, L., et al. 2005, AJ, 129, 856
-Hernández, J., Hartmann, L., Calvet, N., et al. 2008, ApJ, 686, 1195
-Hillenbrand, L. A. 2005 [arXiv:astro-ph/0511083v1]
-Hillenbrand, L. A., Strom, S. E., Calvet, N., et al. 1998, AJ, 116, 1816
-Hughes, A. M., Wilner, D. J., Kamp, I., & Hogerheijde, M. R. 2008, ApJ, 681,
-626
+the abundances we have computed for the stars in our sample Hernández, J., Hartmann, L., Calvet, N., et al. 2008, ApJ, 686, 1195
+are, in fact, related to to those species and not to the lighter ele- Hillenbrand, L. A. 2005 [arXiv:astro-ph/0511083v1]
+ments, namely, C, N, O and S. Hillenbrand, L. A., Strom, S. E., Calvet, N., et al. 1998, AJ, 116, 1816
+
+For comparison we give in the third column of Table 5 the Fe Hughes, A. M., Wilner, D. J., Kamp, I., & Hogerheijde, M. R. 2008, ApJ, 681,
+
+abundances. Note that they can be quite different from the mean 626
 Kenyon, S., & Hartmann, L. W. 1995, ApJS, 101, 117
-Kondo, Y. 1989, Exploring the Universe with the IUE Satellite, Astrophysics and
-Space Science Library, 129 (Dordrecht: Kluwer Academic Publishers)
-Kovalchuk, G. U., & Pugach, A. F. 1997, A&A, 325, 1077
-Kurosawa, R., Harries, T. J., & Symington, N. H. 2006, MNRAS, 370, 580
+
+abundances obtained from the metals. This comes from the fact Kondo, Y. 1989, Exploring the Universe with the IUE Satellite, Astrophysics and
+that the elemental abundance ratios in these stars differ in general Space Science Library, 129 (Dordrecht: Kluwer Academic Publishers)
+from the solar ones, so the abundances of other “metals”, mainly Kovalchuk, G. U., & Pugach, A. F. 1997, A&A, 325, 1077
+Mg and Si, have a strong weight on the mean abundance. Kurosawa, R., Harries, T. J., & Symington, N. H. 2006, MNRAS, 370, 580
+
 Kurucz, R. L. 1993, ATLAS9 Stellar Atmosphere Programs and 2 km s−1 grid.
 CD-ROM No. 13 (Cambridge, Massachusetts: Smithsonian Astrophysical
 Observatory)
-Lindroos, K. P. 1985, A&AS, 60, 183
-Manoj, P., Bhatt, H. C., Maheswar, G., & Muneer, S. 2006, ApJ, 653, 657
-Mayor, M., & Queloz, D. 1995, Nature, 378, 355
-Merín, B. 2004, Ph.D. Thesis, Universidad Autónoma, Madrid, Spain, http://
-www.laeff.inta.es/EXPORT/thesis/bmerin_thesis.pdf
-Merín, B., Montesinos, B., Eiroa, C., et al. (EXPORT) 2004, A&A, 419, 225
-Mora, A., 2004, Ph.D. Thesis, Universidad Autónoma, Madrid, Spain,
-http://www.laeff.inta.es/EXPORT/thesis/amora_thesis.pdf or
-[arXiv:astro-ph/0411205]
-Mora, A., Merín, B., Solano, E., et al. (EXPORT) 2001, A&A, 378, 116
-Mora, A., Eiroa, C., Natta, A., et al. (EXPORT) 2004, A&A, 419, 225
-Muzerolle, J., Luhman, K.L., Briceño, C., et al. 2005, ApJ, 625, 906
-Oudmaijer, R. D., Palacios, J., Eiroa, C., et al. (EXPORT) 2001, A&A, 379, 564
-Palla, F., & Stahler, S.W. 1999, ApJ, 525, 772
-Paunzen, E., Schnell, A., & Maitzen, H. M. 2006, A&A, 458, 293
-Pontoppidan, K. M., Dullemond, C. P., Blake, G. A., et al. 2007a, ApJ, 656, 980
-Pontoppidan, K. M., Dullemond, C. P., Blake, G. A., et al. 2007b, ApJ, 656, 991
-Ripepi, V., Bernabei, S., Marconi, M., et al. 2007, A&A, 462, 1023
-Rodgers, B. 2003, in Galactic Star Formation Across the Stellar Mass Spectrum,
-ed. J. M. De Buizer, & N. S. van der Bliek, ASP Conf. Ser., 287, 180
-Sbordone, L., Bonifacio, P., Castelli, F., & Kurucz, R. L. 2004, MemSAIS, 5, 93
-Schaller, G., Schaerer, D., Meynet, G., & Maeder, A. 1992, A&AS, 96, 269
-Sicilia-Aguilar, A., Hartmann, L. W., Hernández, J., et al. 2005, AJ, 130, 188
-Siess, L., Dufour, E., & Forestini, M. 2000, A&A, 358, 593
-Straižys, V., Černis, K., & Bartašiūtė, S. 2003, A&A, 405, 585
-Thé, P. S., de Winter, D., & Pérez, M. R. 1994, A&AS, 104, 315
-Thi, W. F., Van Dishoeck, E. F., Blake, G. A., et al. 2001, ApJ, 561, 1074
-van Leeuwen, F. 2007, A&A, 474, 653
-Venn, K. A., & Lambert, D. L. 1990, ApJ, 363, 234
-Wamsteker, W., & González-Riestra, R. 1998, Ultraviolet Astrophysics beyond
-the IUE Final Archive, ESA SP-413
-Wyatt, M. C., Clarke, C. J., & Greaves, J. S. 2007, MNRAS, 380, 1737
-Yi, S., Demarque, P., Kim, Y.-Ch., et al. 2001, ApJS, 136, 417
 
-
+References Lindroos, K. P. 1985, A&AS, 60, 183
+Manoj, P., Bhatt, H. C., Maheswar, G., & Muneer, S. 2006, ApJ, 653, 657
+
+Acke, B., & Waelkens, C. 2004, A&A, 427, 1009 Mayor, M., & Queloz, D. 1995, Nature, 378, 355
+Adelman, S. J., Pintado, O. I., Nieva, F., et al. 2002, A&A, 392, 1031
+Alexander, R. 2008, New Astron. Rev., 52, 60 Merín, B. 2004, Ph.D. Thesis, Universidad Autónoma, Madrid, Spain, http://
+
+www.laeff.inta.es/EXPORT/thesis/bmerin_thesis.pdf
+Altenhoff, W. J., Thum, C., & Wendker, H. J. 1994, A&A, 281, 161 Merín, B., Montesinos, B., Eiroa, C., et al. (EXPORT) 2004, A&A, 419, 225
+Anders, E., & Grevesse, N. 1989, Geochim and Cosmochim. Acta, 53, 197
+Beckwith, S. V. W. 1996, Nature, 383, 139 Mora, A., 2004, Ph.D. Thesis, Universidad Autónoma, Madrid, Spain,
+
+Blondel, P. F. C., & Tjin A Djie, H. R. E. 2006, A&A, 456, 1045 http://www.laeff.inta.es/EXPORT/thesis/amora_thesis.pdf or
+[arXiv:astro-ph/0411205]
+
+Cardelli, J. A., Clayton, G. C., & Mathis, J. S. 1989, ApJ, 345, 245 Mora, A., Merín, B., Solano, E., et al. (EXPORT) 2001, A&A, 378, 116
+Castelli, F., & Kurucz, R. L. 2003, in Modelling of Stellar Atmospheres, ed. N.
+
+Piskunov, W. W. Weiss, & D. F. Gray, ASP IAU S-210, poster A20 Mora, A., Eiroa, C., Natta, A., et al. (EXPORT) 2004, A&A, 419, 225
+Muzerolle, J., Luhman, K.L., Briceño, C., et al. 2005, ApJ, 625, 906
+
+Cieza, L. A. 2008, in New Horizons in Astronomy, ed. A. Frebel, J. R. Maund, Oudmaijer, R. D., Palacios, J., Eiroa, C., et al. (EXPORT) 2001, A&A, 379, 564
+J. Shen, & M. H. Siegel, ASP Conf. Ser., 393, 35 Palla, F., & Stahler, S.W. 1999, ApJ, 525, 772
+
+D’Antona, F., & Mazzitelli, I. 1994, ApJS, 90, 467, updated in 1998 on the
+personal web page by Francesca D’Antona: Paunzen, E., Schnell, A., & Maitzen, H. M. 2006, A&A, 458, 293
+
+http://www.mporzio.astro. Pontoppidan, K. M., Dullemond, C. P., Blake, G. A., et al. 2007a, ApJ, 656, 980
+it/people.html Pontoppidan, K. M., Dullemond, C. P., Blake, G. A., et al. 2007b, ApJ, 656, 991
+
+Dunkin, S. K., Barlow, M. J., & Ryan, S. G. 1997a, MNRAS, 286, 604
+Dunkin, S. K., Barlow, M. J., & Ryan, S. G. 1997b, MNRAS, 290, 165 Ripepi, V., Bernabei, S., Marconi, M., et al. 2007, A&A, 462, 1023
+
+Rodgers, B. 2003, in Galactic Star Formation Across the Stellar Mass Spectrum,
+Eiroa, C., Mora, A., Palacios, J., et al. (EXPORT) 2000, in Disks, Planetesimals ed. J. M. De Buizer, & N. S. van der Bliek, ASP Conf. Ser., 287, 180
+
+and Planets, ed. F. Garzón, C. Eiroa, D. de Winter, & T. Mahoney, ASP Conf. Sbordone, L., Bonifacio, P., Castelli, F., & Kurucz, R. L. 2004, MemSAIS, 5, 93
+Ser., 219, 3
+
+Eiroa, C., Garzón, F., Alberdi, A., et al. (EXPORT) 2001, A&A, 365, 110 Schaller, G., Schaerer, D., Meynet, G., & Maeder, A. 1992, A&AS, 96, 269
+Sicilia-Aguilar, A., Hartmann, L. W., Hernández, J., et al. 2005, AJ, 130, 188
+
+Eiroa, C., Oudmaijer, R. D., Davies, J. K., et al. (EXPORT) 2002, A&A, 384, Siess, L., Dufour, E., & Forestini, M. 2000, A&A, 358, 593
+1038
+
+Eiroa, C., Djupvik, A. A., & Casali, M. M. 2008, in Handbook of Star Forming Straižys, V., Černis, K., & Bartašiūtė, S. 2003, A&A, 405, 585
+Thé, P. S., de Winter, D., & Pérez, M. R. 1994, A&AS, 104, 315
+
+Regions, ASP Conf. Ser., ed. B. Reipurth, 2, 693 Thi, W. F., Van Dishoeck, E. F., Blake, G. A., et al. 2001, ApJ, 561, 1074
+Finkenzeller, U., & Mundt, R. 1984, A&AS, 55, 109 van Leeuwen, F. 2007, A&A, 474, 653
+Gerbaldi, M., Faraggiana, R., & Balin, N. 2001, A&A, 379, 162
+Girardi, L., Bressan, A., Bertelli, G., & Chiosi, C. 2000, A&AS, 141, 371 Venn, K. A., & Lambert, D. L. 1990, ApJ, 363, 234
+
+Wamsteker, W., & González-Riestra, R. 1998, Ultraviolet Astrophysics beyond
+Grinin, V. P. 1988, Soviet Astron. Lett., 14, 27 the IUE Final Archive, ESA SP-413
+Grinin, V. P., Kiselev, N. N., Minikulov, N. K., et al. 1991, Ap&SS, 186, 283
+Grinin, V. P., Kozlova, O. V., Natta, A., et al. 2001, A&A, 379, 482 Wyatt, M. C., Clarke, C. J., & Greaves, J. S. 2007, MNRAS, 380, 1737
+
+Guimarães, M. M., Alencar, S. H. P., Corradi, W. J. B., & Vieira, S. L. A. 2006, Yi, S., Demarque, P., Kim, Y.-Ch., et al. 2001, ApJS, 136, 417
+
+A&A, 457, 581

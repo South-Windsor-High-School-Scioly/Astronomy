@@ -52,7 +52,7 @@ function draw(list){
       if(thumbnail==true){
         document.getElementsByClassName("jawn")[0].innerHTML='<script src="index.js"></script><div class="jha" style="width:20%"></div><div class="bala" style="width:20%;"></div><div class="uppara" style="width:20%;"></div><div class="sujan" style="width:20%;"></div><div class="mawla" style="width:20%;"></div>    ';
       for(let i=0;i<list.length;i++){
-        const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
+        const path = "All Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
       // console.log(path);
       // document.getElementsByClassName("jha")[0].innerHTML+= '<a href="javascript:switchPage(\'' + path+'\')"> <embed style="padding-top:40px; width: 250px; min-height:220px" src="' + path+'">' +'<div>'+path.substring(12,path.length-4)+'</div> </a>';
 
@@ -71,7 +71,7 @@ function draw(list){
       else{
         document.getElementsByClassName("jawn")[0].innerHTML='<script src="index.js"></script><div class="jha" style="width:50%"></div>  <div class="bala" style="width:50%"></div>  ';
         for(let i=0;i<list.length;i++){
-          const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";    
+          const path = "All Sources/"+list[i].substring(0,list[i].length-4)+".pdf";    
           if(i%2==1)
             document.getElementsByClassName("jha")[0].innerHTML+= '<a style="line-height:3.4rem;font-size:1.7rem; text-decoration:underline" href="javascript:switchPage(\'' + path+'\')">' +'<div>'+path.substring(12,path.length)+'</div> </a>';
           else if (i%2==0)
@@ -135,6 +135,10 @@ function inputsToFileArr(){
     //console.log(fileNames[i]);
 //console.log("Array: Success");
 }
+if(document.title=="Sources Drive" || document.title=="Deep Space Objects" || document.title=="Math"){
+      regenPage("skip", fileNames);
+}
+
 }
 
 function regenPage(term, aList){
@@ -147,6 +151,8 @@ function regenPage(term, aList){
       }
     }
     //console.log(newList);
+    if(term=="skip")
+        newList = aList;
     dropbox(newList);
   }
 
@@ -162,7 +168,8 @@ function search(ele) {
       if(document.title=="Power Search"){
         window.location.replace("pages.html");
       }
-      else if (document.title=="Sources Drive" || document.title=="Input Sources"){
+      
+      else if (document.title=="Sources Drive" || document.title=="Input Sources" || document.title=="Deep Space Objects"  || document.title=="Math"){
         window.location.replace("index.html");
       }
     }
@@ -174,8 +181,8 @@ function search(ele) {
           query = query.substr(1);
         }
 
-         if(document.title=="Sources Drive"){
-          regenPage(query, defaultlist);
+         if(document.title=="Sources Drive"||document.title=="Deep Space Objects" || document.title=="Math"){
+          regenPage(query, fileNames);
         }
         else if (document.title=="Power Search"){
             var ind=0;
@@ -211,7 +218,7 @@ function dropbox(list){
   if(thumbnail){
     document.getElementsByClassName("jawn")[0].innerHTML=' <div class="red" style="width:20%"></div><div class="blue" style="width:20%;"></div><div class="green" style="width:20%;"></div><div class="yellow" style="width:20%;"></div><div class="purple" style="width:20%;"></div>';
   for(let i=0;i<list.length;i++){
-    var path = 'PDF Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
+    var path = 'All Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
    // console.log(path);
    // console.log(path);
    //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
@@ -230,7 +237,7 @@ function dropbox(list){
       else {
         document.getElementsByClassName("jawn")[0].innerHTML=' <div class="red" style="width:50%"></div><div class="blue" style="width:50%;">';
         for(let i=0;i<list.length;i++){
-          var path = 'PDF Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
+          var path = 'All Sources/'+list[i].substring(0,list[i].length-4)+'.pdf';
          // console.log(path);
          // console.log(path);
          //document.getElementsByClassName("jawn")[0].innerHTML+= "<a target='_blank' href=\'" + path+"\'> <embed style='padding-top:40px; width: 25%; min-height:100px' src=\'" + path+"\'>" + "" +"<div>"+path+"</div> </a>";
@@ -269,7 +276,7 @@ function webCache(){
   });
 
   for(let i=0;i<list.length;i++){
-    const path = "PDF Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
+    const path = "All Sources/"+list[i].substring(0,list[i].length-4)+".pdf";
   caches.open("my-cache").then((cache) => {
     cache
       .add(path)
