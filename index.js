@@ -135,6 +135,10 @@ function inputsToFileArr(){
     //console.log(fileNames[i]);
 //console.log("Array: Success");
 }
+if(document.title=="Power Search"){
+      regenPage("skip", fileNames);
+}
+
 }
 
 function regenPage(term, aList){
@@ -147,6 +151,8 @@ function regenPage(term, aList){
       }
     }
     //console.log(newList);
+    if(term=="skip")
+        newList = aList;
     dropbox(newList);
   }
 
@@ -175,7 +181,7 @@ function search(ele) {
         }
 
          if(document.title=="Sources Drive"){
-          regenPage(query, defaultlist);
+          regenPage(query, fileNames);
         }
         else if (document.title=="Power Search"){
             var ind=0;
