@@ -135,7 +135,7 @@ function inputsToFileArr(){
     //console.log(fileNames[i]);
 //console.log("Array: Success");
 }
-if(document.title=="Power Search"){
+if(document.title=="Sources Drive" || document.title=="Deep Space Objects"){
       regenPage("skip", fileNames);
 }
 
@@ -168,7 +168,8 @@ function search(ele) {
       if(document.title=="Power Search"){
         window.location.replace("pages.html");
       }
-      else if (document.title=="Sources Drive" || document.title=="Input Sources"){
+      
+      else if (document.title=="Sources Drive" || document.title=="Input Sources" || document.title=="Deep Space Objects"){
         window.location.replace("index.html");
       }
     }
@@ -180,7 +181,7 @@ function search(ele) {
           query = query.substr(1);
         }
 
-         if(document.title=="Sources Drive"){
+         if(document.title=="Sources Drive"||document.title=="Deep Space Objects"){
           regenPage(query, fileNames);
         }
         else if (document.title=="Power Search"){
